@@ -63,3 +63,7 @@ Code not provided yet.
 Extracted from the dumps in `ftp://ftp.ripe.net/ripe/dbase/` and `ftp://ftp.ripe.net/radb/dbase/`.
 
 Code not provided yet.
+
+# License
+
+See https://github.com/ndt-project/ndt/
