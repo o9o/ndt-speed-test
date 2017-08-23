@@ -42,6 +42,15 @@ This will:
 2. Deploy the `public` directory to Firebase. If you do not want to use Firebase, you can host the `public`
    directory on any other static HTTP server. In that case the `firebase deploy` step should be removed from the bash script.
 
+## Testing
+
+```
+cd public
+python -m SimpleHTTPServer 8080 .
+```
+
+Then open http://127.0.0.1:8080 in your web browser.
+
 # Data
 
 ## MLab server list
