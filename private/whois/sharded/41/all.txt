@@ -1,0 +1,1188 @@
+41.0.0.0 41.0.255.255 AS36994 RADB Vodacom Business SA Vodacom SA ZA
+41.1.0.0 41.19.255.255 AS29975 RADB Proxy-registered route object
+41.20.0.0 41.20.15.255 AS36994 RADB This route object is for a Vodacom Business customer route which is being exported under this origin AS. This route object was created because no existing route object with the same origin was found, and since some Vodacom Business peers filter based on these objects this route may be rejected if this object is not created
+41.20.16.0 41.21.127.255 AS29975 RADB Proxy-registered route object
+41.21.128.0 41.21.255.255 AS36994 RADB Vodacom Business Vodacom South Africa ZA
+41.22.0.0 41.28.175.255 AS29975 RADB Proxy-registered route object
+41.28.176.0 41.28.183.255 AS24672 RADB Callsat Telecom Ltd.
+41.28.184.0 41.31.255.255 AS29975 RADB Proxy-registered route object
+41.32.0.0 41.37.11.255 AS8452 RIPE Telecom-Egypt-Data
+41.37.12.0 41.37.12.255 AS37004 RADB Proxy-registered route object
+41.37.13.0 41.47.255.255 AS8452 RIPE Telecom-Egypt-Data
+41.48.0.0 41.55.255.255 AS37168 RIPE Cell-C  Pty  Ltd
+41.56.0.0 41.56.255.255 AS33762 RADB Proxy-registered route object
+41.57.0.0 41.57.63.255 AS22750 RIPE Screamer1
+41.57.64.0 41.57.79.255 AS30844 NTTCOM Proxy-registered route object
+41.57.80.0 41.57.82.255 AS37410 RADB MTN Business
+41.57.83.0 41.57.83.255 AS37376 RADB MTN Congo
+41.57.84.0 41.57.88.255 AS37410 RADB MTN Business
+41.57.89.0 41.57.90.255 AS16637 RADB MTN Liberia
+41.57.96.0 41.57.111.255 AS36866 SAVVIS JTL via EMIX
+41.57.120.0 41.57.123.255 AS37472 RADB NIGCOMSAT
+41.57.124.0 41.57.127.255 AS37442 RIPE ZARNet Pvt Ltd
+41.57.128.0 41.57.191.255 AS22750 RIPE Screamer5
+41.57.192.0 41.57.255.255 AS37103 RADB Busy Internet
+41.58.0.0 41.58.255.255 AS36923 RIPE SWIFT NETWORKS LIMITED
+41.59.0.0 41.59.255.255 AS33765 RIPE TTCL-IP BLOCK-5
+41.60.0.0 41.60.23.255 AS37146 RADB Proxy-registered route object
+41.60.24.0 41.60.27.255 AS30844 RIPE Liquid DRC
+41.60.28.0 41.60.255.255 AS37146 RADB Proxy-registered route object
+41.61.0.0 41.61.255.255 AS36943 RIPE Web Africa Route Object
+41.62.0.0 41.62.63.255 AS204223 RIPE LLC Tehnokom
+41.63.0.0 41.63.63.255 AS2018 RIPE ZAMREN ROUTE MAINTAINED BY TENET
+41.63.64.0 41.63.127.255 AS7020 RADB Limelight Networks - South African CDN POP 1
+41.63.128.0 41.63.145.255 AS37037 RIPE Orange Madagascar 41.63.128.0/24
+41.63.146.0 41.63.146.255 AS22822 REACH REACH  Customer Route 
+41.63.147.0 41.63.159.255 AS37037 RIPE Orange Madagascar  41.63.147.0/24
+41.63.160.0 41.63.191.255 AS36907 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS36907  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.63.192.0 41.63.255.255 AS37009 RADB MTC Netman customer IP Pool
+41.64.0.0 41.64.0.255 AS36992 RIPE Etisalat-Misr ADSL Subscribers
+41.64.1.0 41.64.1.255 AS15475 RIPE misp test
+41.64.2.0 41.65.255.255 AS36992 RIPE Etisalat-Misr ADSL Subscribers
+41.66.0.0 41.66.63.255 AS29571 RIPE ISP Côte d'Ivoire CI
+41.66.64.0 41.66.111.255 AS22750 RIPE BCSnet25
+41.66.112.0 41.66.127.255 AS37310 RIPE BWIRED-COJ
+41.66.128.0 41.66.191.255 AS37179 RIPE Africa Independent Network Exchange Ltd.
+41.66.192.0 41.66.255.255 AS29614 RIPE Vodafone Ghana IP Service Customers
+41.67.0.0 41.67.63.255 AS37197 SAVVIS CANAR via EMIX
+41.67.64.0 41.67.127.255 AS24863 RIPE NET@NET
+41.67.128.0 41.67.175.255 AS30998 RADB Netcom Africa Ltd
+41.67.176.0 41.67.177.255 AS198394 RIPE Yahclick-Nigeria-NetCom-Athens
+41.67.178.0 41.67.182.255 AS198504 RIPE Yahclick-Nigeria-NetCom-Lux
+41.67.183.0 41.67.183.255 AS16284 RADB Proxy-registered route object
+41.67.184.0 41.67.191.255 AS36887 RIPE Route Object Netcom VSAT
+41.67.192.0 41.67.255.255 AS15964 RIPE IGNU Cameroun
+41.68.0.0 41.69.255.255 AS24835 RIPE Vodafone Data Routes
+41.70.4.0 41.70.11.255 AS12491 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS12491  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.70.12.0 41.70.15.255 AS37098 RADB Proxy-registered route object
+41.70.16.0 41.70.31.255 AS12491 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS12491  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.70.32.0 41.70.39.255 AS36969 RIPE MALAWI TELECOMMUNICATIONS LIMITED
+41.70.40.0 41.70.47.255 AS12491 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS12491  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.70.64.0 41.70.71.255 AS37098 RIPE Kamuzu College of Nursing University of Malawi
+41.70.128.0 41.70.255.255 AS37081 RIPE Movicel Telecomunicacoes S.A
+41.71.0.0 41.71.127.255 AS37053 RIPE RSAWEB Internet Services
+41.71.128.0 41.71.135.255 AS37127 RADB MTN Nigeria
+41.71.136.0 41.71.136.255 AS37123 RADB MTN NIGERIA
+41.71.137.0 41.71.213.255 AS37127 RIPE Abuja PDSN 1
+41.71.214.0 41.71.217.255 AS37123 RADB MTN NIGERIA
+41.71.218.0 41.71.255.255 AS37127 RIPE VISAFONE ROUTE
+41.72.0.0 41.72.51.255 AS17400 RIPE MSTELCOM
+41.72.52.0 41.72.53.255 AS198381 RIPE Yahclick-Angola-NetOne-Madrid
+41.72.54.0 41.72.55.255 AS198394 RIPE Yahclick-Angola-NetOne-Athens
+41.72.56.0 41.72.57.255 AS17400 RIPE MSTELCOM
+41.72.58.0 41.72.58.255 AS198381 RIPE Yahclick-Angola-NetOne-Madrid
+41.72.59.0 41.72.59.255 AS198394 RIPE Yahclick-Nigeria-NetOne-Athens
+41.72.60.0 41.72.63.255 AS17400 RIPE MSTELCOM
+41.72.64.0 41.72.95.255 AS200002 RIPE KANDI LTD
+41.72.96.0 41.72.119.255 AS37154 RIPE Zamtel Route Object
+41.72.120.0 41.72.127.255 AS14988 RIPE Zamtel
+41.72.128.0 41.72.135.255 AS16637 RADB Hetzner c/o MTN Business
+41.72.136.0 41.72.136.255 AS37153 RIPE HETZNER-JHB-BLK
+41.72.137.0 41.72.159.255 AS16637 RADB Hetzner c/o MTN Business
+41.72.160.0 41.72.175.255 AS33771 SAVVIS SAFARICOM via EMIX
+41.72.176.0 41.72.191.255 AS17175 RIPE AFSAT-KE-20091202
+41.72.192.0 41.72.223.255 AS33770 RADB Proxy-registered route object
+41.72.224.0 41.72.225.255 AS37169 RADB Proxy-registered route object
+41.72.226.0 41.72.255.255 AS12491 RADB Proxy-registered route object
+41.73.0.0 41.73.0.255 AS37004 RIPE Suburban FibreCo 37004
+41.73.1.0 41.73.23.255 AS44356 RADB epsilontel via EMIX
+41.73.32.0 41.73.51.255 AS37105 RIPE NEO-CDN
+41.73.52.0 41.73.53.255 AS37515 RIPE iConnect SA  Pty  Ltd
+41.73.54.0 41.73.63.255 AS37105 NTTCOM Proxy-registered route object
+41.73.64.0 41.73.95.255 AS37149 RIPE SIXTNETWORK2
+41.73.128.0 41.73.159.255 AS30988 RIPE Route for Internet Solutions
+41.73.160.0 41.73.191.255 AS36965 RADB WIA - The Network 2nd Floor, Baclays House, P.O Box 5117, Dar es Salaam, Tanzania.
+41.73.192.0 41.73.223.255 AS36930 RADB Zantel via EMIX
+41.73.224.0 41.73.255.255 AS16284 RIPE Gateway Business Nigeria
+41.74.0.0 41.74.7.255 AS37004 RADB Surburban Telecom NG c/o Internet Solutions  Pty  Ltd
+41.74.8.0 41.74.11.255 AS28683 RADB Proxy-registered route object
+41.74.12.0 41.74.15.255 AS37004 RADB Surburban Telecom NG c/o Internet Solutions  Pty  Ltd
+41.74.16.0 41.74.31.255 AS37037 RIPE Orange Madagascar 41.74.16.0/24
+41.74.40.0 41.74.44.255 AS12491 RADB Proxy-registered route object
+41.74.48.0 41.74.63.255 AS36963 RIPE ORANGE BOTSWANA
+41.74.64.0 41.74.79.255 AS37284 RIPE Aljeel Aljadeed for Technology
+41.74.80.0 41.74.95.255 AS37263 RIPE University of Education, Winneba
+41.74.96.0 41.74.103.255 AS204223 RIPE LLC Tehnokom
+41.74.104.0 41.74.111.255 AS37202 RIPE AfricaINX Created Route Object
+41.74.112.0 41.74.127.255 AS36909 RIPE Habari Node Ltd
+41.74.128.0 41.74.143.255 AS8657 RIPE CVMultimedia  announced by CPRMNET 
+41.74.144.0 41.74.159.255 AS2018 ALTDB Registered for Management by TENET
+41.74.160.0 41.74.162.255 AS37619 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37619  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.74.163.0 41.74.163.255 AS37228 RIPE Wibro_block
+41.74.164.0 41.74.175.255 AS37619 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37619  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.74.176.0 41.74.191.255 AS37053 RIPE RSAWEB Internet Services
+41.74.192.0 41.74.207.255 AS37235 RIPE Mimecast SA IPR1
+41.74.208.0 41.74.218.255 AS37037 RIPE Orange Madagascar  41.74.208.0/24
+41.74.219.0 41.74.219.255 AS22822 REACH REACH  Customer Route 
+41.74.220.0 41.74.223.255 AS37037 RIPE Orange Madagascar  41.74.220.0/24
+41.74.224.0 41.74.239.255 AS36994 RADB Proxy-registered route object
+41.75.0.0 41.75.15.255 AS33781 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS33781  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.75.16.0 41.75.31.255 AS37268 RIPE MPSL-NL-NIGERIA
+41.75.32.0 41.75.39.255 AS33770 RADB Proxy-registered route object
+41.75.40.0 41.75.47.255 AS37367 RIPE Callkey Networks
+41.75.48.0 41.75.54.255 AS12491 RADB Proxy-registered route object
+41.75.55.0 41.75.55.255 AS29614 RADB Proxy-registered route object
+41.75.56.0 41.75.63.255 AS33786 RIPE KNET
+41.75.64.0 41.75.79.255 AS37281 RIPE Yattoo64
+41.75.80.0 41.75.95.255 AS37282 RIPE Mainone Cable prefix
+41.75.96.0 41.75.111.255 AS37276 RADB Smart Village
+41.75.112.0 41.75.127.255 AS37187 RIPE Skyband Corporation Limited
+41.75.128.0 41.75.143.255 AS36968 NTTCOM Proxy-registered route object
+41.75.144.0 41.75.159.255 AS37165 SAVVIS JTL via EMIX
+41.75.160.0 41.75.175.255 AS37113 RADB auto-generated route object for 41.75.160.0/24
+41.75.176.0 41.75.191.255 AS37273 SAVVIS BCS via EMIX
+41.75.192.0 41.75.207.255 AS16284 RADB Proxy-registered route object
+41.75.208.0 41.75.223.255 AS37133 RIPE Route to Airtel Tanzania
+41.75.224.0 41.75.239.255 AS36994 RADB Proxy-registered route object
+41.75.240.0 41.75.243.255 AS34947 RIPE CopperNET Solutions
+41.76.0.0 41.76.7.255 AS42235 RADB IDC c/o Internet Solutions  Pty  Ltd
+41.76.8.0 41.76.15.255 AS37503 RIPE Unique Solutions Ltd - First Subnet
+41.76.16.0 41.76.23.255 AS37057 RIPE Vodacom Lesotho  Pty  Ltd
+41.76.24.0 41.76.24.255 AS12491 RADB Proxy-registered route object
+41.76.25.0 41.76.31.255 AS37162 RIPE GCNet Ghana
+41.76.32.0 41.76.33.255 AS3741 RADB Proxy-registered client object for AS-IS.
+41.76.34.0 41.76.38.255 AS37333 RIPE Comtel c/o RSAWEB Internet Services
+41.76.39.0 41.76.39.255 AS6421 RADB Proxy route object registered by AS2764
+41.76.40.0 41.76.47.255 AS30999 RIPE EMTEL is Mobile and Internet Service Provider in Mauritius
+41.76.56.0 41.76.63.255 AS30844 RIPE Proxy registered route object
+41.76.64.0 41.76.64.255 AS37194 RIPE VOIXNETWORKS
+41.76.65.0 41.76.66.255 AS37248 RIPE VOIXNETWORKS
+41.76.67.0 41.76.71.255 AS37194 RIPE VOIXNETWORKS
+41.76.80.0 41.76.82.255 AS37209 RIPE Hyperia LOS
+41.76.83.0 41.76.84.255 AS25320 RIPE HYPERIA-SE-KU1
+41.76.85.0 41.76.85.255 AS16637 RADB MTN Business
+41.76.86.0 41.76.86.255 AS37209 RIPE HYP-Kano
+41.76.87.0 41.76.87.255 AS29465 RADB MTN Nigeria
+41.76.88.0 41.76.95.255 AS37213 RIPE Spicenet Server Block
+41.76.96.0 41.76.103.255 AS37334 RIPE Arc Telecoms
+41.76.104.0 41.76.111.255 AS11845 RADB Diamatrix hosted at Vox Telecom 1 Scott Street, Rutherford Estate, Block B Waverley, Johannesburg, RSA 2090
+41.76.112.0 41.76.119.255 AS37172 RADB Mitsol c/o Internet Solutions  Pty  Ltd
+41.76.120.0 41.76.127.255 AS50758 RIPE WIFLY-GABON
+41.76.128.0 41.76.135.255 AS29606 RIPE Borwood via AS29606
+41.76.136.0 41.76.140.255 AS16422 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+41.76.141.0 41.76.143.255 AS50758 RIPE WIFLY-CONGO
+41.76.144.0 41.76.151.255 AS37223 RIPE Vodacom Mozambique Headoffice
+41.76.152.0 41.76.159.255 AS37230 RADB Proxy-registered route object
+41.76.160.0 41.76.167.255 AS33771 SAVVIS SAFARICOM via EMIX
+41.76.168.0 41.76.168.255 AS12455 SAVVIS TKL via EMIX
+41.76.169.0 41.76.170.255 AS37219 RIPE Kenya E-Government
+41.76.171.0 41.76.171.255 AS65415 SAVVIS JTL via EMIX
+41.76.172.0 41.76.175.255 AS12455 SAVVIS TKL via EMIX
+41.76.176.0 41.76.183.255 AS37225 RIPE Netwide IP Range
+41.76.184.0 41.76.191.255 AS17175 RIPE AFSAT-ACL-20100701
+41.76.192.0 41.76.199.255 AS44356 RADB epsilontel via EMIX
+41.76.200.0 41.76.207.255 AS37239 RADB ICTGlobe Management  Pty  Ltd
+41.76.208.0 41.76.215.255 AS3741 RADB Afrihost-Brevis Computer Services  SA  Pty  Ltd c/o Internet Solutions  Pty  Ltd
+41.76.216.0 41.76.223.255 AS37254 NTTCOM Proxy-registered route object
+41.76.224.0 41.76.231.255 AS327693 RADB Proxy-registered route object
+41.76.232.0 41.76.233.255 AS37123 RIPE Appcore Technology Zimbabwe
+41.76.234.0 41.76.239.255 AS203496 RIPE LLC AB-Telecom
+41.76.240.0 41.76.247.255 AS14988 RADB Botswana Telecommunications Corporation
+41.76.254.0 41.76.254.255 AS37286 RIPE route object for Nigeria ICT Forum on ripe
+41.77.0.0 41.77.7.255 AS37287 RIPE Airtel Zambia
+41.77.8.0 41.77.8.255 AS36969 RIPE Globe Internet Malawi
+41.77.9.0 41.77.9.255 AS37098 RIPE Globe Internet Ltd. Malawi Assigned to Reserve Bank of Malawi
+41.77.10.0 41.77.10.255 AS36969 RIPE Globe Internet Malawi
+41.77.11.0 41.77.11.255 AS12491 RADB Proxy-registered route object
+41.77.12.0 41.77.15.255 AS37098 RIPE Globe Internet Ltd. Malawi Blantyre Network
+41.77.16.0 41.77.23.255 AS36926 SAVVIS KTL via EMIX
+41.77.24.0 41.77.31.255 AS37673 RIPE Telemasters 1
+41.77.40.0 41.77.47.255 AS37345 RADB Medallion IP Address
+41.77.48.0 41.77.55.255 AS37670 RADB Proxy-registered route object
+41.77.56.0 41.77.63.255 AS36985 RADB Global Micro customer of Vox Telecom 1 Scott Street, Rutherford Estate, Block B1, Waverley, Johannesburg, RSA, 2090
+41.77.64.0 41.77.71.255 AS37320 RIPE NLA IPv4 Network IPv4 Route Object
+41.77.72.0 41.77.79.255 AS33771 SAVVIS SAFARICOM via EMIX
+41.77.80.0 41.77.87.255 AS15964 RIPE INFOGENIE
+41.77.88.0 41.77.95.255 AS36963 RADB Proxy-registered route object
+41.77.96.0 41.77.99.255 AS37105 RIPE iConnectSA
+41.77.100.0 41.77.103.255 AS37515 RIPE iConnect SA  Pty  Ltd
+41.77.111.0 41.77.111.255 AS3741 RADB DIDATA-v4 c/o Internet Solutions  Pty  Ltd
+41.77.112.0 41.77.119.255 AS36666 RADB Genious Communications
+41.77.120.0 41.77.127.255 AS50758 RIPE WIFLY-GABON
+41.77.134.0 41.77.135.255 AS37110 RIPE Moztel
+41.77.136.0 41.77.143.255 AS33785 RIPE CityNet Host Dedicated Servers
+41.77.144.0 41.77.151.255 AS30844 ripe CECLiquid Address Space
+41.77.152.0 41.77.157.255 AS32653 RIPE eNetworks  PTY  Ltd
+41.77.158.0 41.77.159.255 AS37394 RADB ENetworks c/o Internet Solutions  Pty  Ltd
+41.77.160.0 41.77.167.255 AS37397 RIPE Augere Rwanda Address Space
+41.77.168.0 41.77.175.255 AS37398 RIPE Juniper Solutions Limited
+41.77.176.0 41.77.183.255 AS36879 RIPE SLC Network
+41.77.184.0 41.77.191.255 AS12491 RADB Proxy-registered route object
+41.77.192.0 41.77.199.255 AS37213 RIPE Spicenet Wimax Network -1
+41.77.208.0 41.77.209.255 AS37475 RADB Proxy route object for YooMee Cameroon
+41.77.210.0 41.77.211.255 AS16637 RADB MTN Cameroon
+41.77.212.0 41.77.213.255 AS37475 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37475  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+41.77.214.0 41.77.214.255 AS16637 RADB MTN Business
+41.77.215.0 41.77.215.255 AS36974 RADB MTN Business
+41.77.216.0 41.77.219.255 AS33770 RADB Proxy-registered route object
+41.77.220.0 41.77.221.255 AS37483 RADB Proxy-registered route object
+41.77.222.0 41.77.222.255 AS37273 SAVVIS BCS via EMIX
+41.77.223.0 41.77.223.255 AS37483 RIPE OCDKINSHASA02
+41.77.224.0 41.77.231.255 AS37149 RIPE Sixtelecoms
+41.77.232.0 41.77.235.255 AS37510 NTTCOM Proxy-registered route object
+41.77.236.0 41.77.239.255 AS327688 RADB Screamer Internet
+41.77.240.0 41.77.243.255 AS37135 RIPE Tropicalweb-Network
+41.77.244.0 41.77.247.255 AS10575 RIPE rev
+41.77.248.0 41.77.255.255 AS203496 RIPE LLC AB-Telecom
+41.78.0.0 41.78.3.255 AS37142 RIPE Zanzibar Datacom
+41.78.4.0 41.78.7.255 AS37353 RADB Proxy-registered route object
+41.78.8.0 41.78.11.255 AS37404 RIPE route object for UI on ripe
+41.78.16.0 41.78.17.255 AS17400 RIPE MSTELCOM
+41.78.18.0 41.78.19.255 AS37119 RADB Unitel SA Backbone
+41.78.20.0 41.78.23.255 AS37191 RIPE RAYA-HOLDING-DATA-CENTER
+41.78.24.0 41.78.27.255 AS37273 SAVVIS BCS via EMIX
+41.78.28.0 41.78.31.255 AS37159 NTTCOM Proxy-registered route object
+41.78.32.0 41.78.35.255 AS22750 RADB BCSconnect Block 41.78.32.0/22
+41.78.36.0 41.78.39.255 AS37157 NTTCOM Proxy-registered route object
+41.78.40.0 41.78.43.255 AS37161 RADB Proxy-registered route object
+41.78.48.0 41.78.55.255 AS37163 RIPE IPSystem SA
+41.78.58.0 41.78.58.255 AS37440 RIPE Airtel Malawi Prefix 4
+41.78.59.0 41.78.59.255 AS37133 RIPE Route to Airtel Tanzania
+41.78.60.0 41.78.63.255 AS6762 RIPE SEA-BONE
+41.78.64.0 41.78.64.255 AS36930 SAVVIS ZANTEL via EMIX
+41.78.72.0 41.78.72.255 AS8513 RIPE SKYVISION
+41.78.73.0 41.78.73.255 AS5377 RIPE SOMN-SITE01 SOMNET
+41.78.74.0 41.78.75.255 AS37371 RIPE HORMUUD TELECOM NET
+41.78.76.0 41.78.79.255 AS37184 RIPE PowerTel
+41.78.80.0 41.78.83.255 AS37018 RIPE Galaxy Backbone
+41.78.84.0 41.78.87.255 AS37208 RIPE Afcom  SL  Limited
+41.78.88.0 41.78.91.255 AS37192 RIPE ECNX Nigeria
+41.78.92.0 41.78.95.255 AS14988 RADB LENONG COMMUNICATIONS
+41.78.100.0 41.78.103.255 AS37200 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37200  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.78.104.0 41.78.105.255 AS12491 RADB Proxy-registered route object
+41.78.106.0 41.78.106.255 AS37260 RIPE Will be used for Byblos Bank DRC purposes
+41.78.108.0 41.78.110.255 AS33788 SAVVIS CANAR via EMIX
+41.78.111.0 41.78.111.255 AS37211 SAVVIS CANAR via EMIX
+41.78.112.0 41.78.115.255 AS12491 RADB Proxy-registered route object
+41.78.116.0 41.78.116.255 AS37205 RIPE Atlantique Telecom Niger
+41.78.117.0 41.78.118.255 AS12491 RADB Proxy-registered route object
+41.78.119.0 41.78.119.255 AS37205 RADB Proxy-registered route object
+41.78.124.0 41.78.127.255 AS37232 RIPE Original /22 Broken down to four /24s
+41.78.132.0 41.78.135.255 AS37220 RADB Piggspeak c/o Internet Solutions  Pty  Ltd
+41.78.136.0 41.78.138.255 AS37229 RADB MOOV TOGO
+41.78.139.0 41.78.139.255 AS30982 RIPE Block IP Atlantique télécom
+41.78.140.0 41.78.143.255 AS37275 RADB Proxy-registered route object
+41.78.144.0 41.78.147.255 AS37613 RADB DTG
+41.78.156.0 41.78.159.255 AS16637 RADB MTN Business
+41.78.160.0 41.78.163.255 AS12455 SAVVIS TKL via EMIX
+41.78.164.0 41.78.167.255 AS37259 RIPE Kawuleza
+41.78.168.0 41.78.171.255 AS36909 RIPE HABARI NODE LTD
+41.78.172.0 41.78.172.255 AS36920 RIPE KKON TECHNOLOGIES LTD
+41.78.173.0 41.78.173.255 AS16637 RADB MTN Business
+41.78.174.0 41.78.175.255 AS36920 RIPE KKON TECHNOLOGIES LTD
+41.78.176.0 41.78.179.255 AS33770 RADB Proxy-registered route object
+41.78.180.0 41.78.181.255 AS37265 RIPE GVSC/Neural Communications
+41.78.183.0 41.78.183.255 AS37265 RIPE AfricaINX Created Route Object
+41.78.184.0 41.78.187.255 AS5713 NTTCOM Proxy-registered route object
+41.78.188.0 41.78.191.255 AS37271 RADB Workonline Communications  Pty  Ltd
+41.78.192.0 41.78.195.255 AS37453 RIPE Vodacom Goma ISP
+41.78.200.0 41.78.203.255 AS37276 RADB VO Connect  Pty  Ltd
+41.78.204.0 41.78.204.255 AS16637 RADB MTN Cameroon
+41.78.205.0 41.78.207.255 AS37475 RADB Proxy route object for YooMee Cameroon
+41.78.208.0 41.78.211.255 AS37308 RIPE steam_network_coollink
+41.78.216.0 41.78.219.255 AS37187 RIPE Access Communications Limited
+41.78.220.0 41.78.223.255 AS29606 RIPE Borwood via AS29606
+41.78.224.0 41.78.227.255 AS16637 RADB MTN Business
+41.78.228.0 41.78.231.255 AS29606 RIPE Trident via Borwood
+41.78.232.0 41.78.235.255 AS6421 RADB Proxy route object registered by AS2764
+41.78.236.0 41.78.239.255 AS37290 RIPE Aquiva Wireless
+41.78.240.0 41.78.243.255 AS12491 RADB Proxy-registered route object
+41.78.244.0 41.78.247.255 AS5713 NTTCOM Proxy-registered route object
+41.78.248.0 41.78.248.255 AS12491 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS12491  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.78.249.0 41.78.249.255 AS37294 RIPE TNM Malawi
+41.78.250.0 41.78.251.255 AS12491 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS12491  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.78.252.0 41.78.255.255 AS37296 RIPE AFCOMSAT-AS
+41.79.0.0 41.79.3.255 AS37321 RIPE BlueSat Access Pvt
+41.79.4.0 41.79.7.255 AS37209 RIPE Hyperia-LOS
+41.79.8.0 41.79.11.255 AS37305 RIPE FON-NET
+41.79.12.0 41.79.15.255 AS37306 RIPE Aptics, 162 Samora Machel Ave, Harare, Zimbabwe
+41.79.16.0 41.79.19.255 AS29606 RIPE Borwood WSI via AS29606
+41.79.20.0 41.79.23.255 AS37314 RIPE Syrex  Pty  Ltd - South Africa
+41.79.24.0 41.79.27.255 AS37406 RIPE RCS WiMAX Juba
+41.79.28.0 41.79.31.255 AS30844 RIPE Proxy registered route object
+41.79.32.0 41.79.35.255 AS327760 RADB ELECTRO METIC ENTERPRISES PTY LTD
+41.79.36.0 41.79.39.255 AS37053 RIPE RSAWEB Internet Services
+41.79.44.0 41.79.47.255 AS37336 RIPE leo route object 41.79.44.0/24
+41.79.48.0 41.79.51.255 AS37337 RIPE HITS_EG_IPV4_RANGE
+41.79.56.0 41.79.56.255 AS37238 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37238  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.79.57.0 41.79.59.255 AS327770 RIPE Telecelzim Route
+41.79.60.0 41.79.63.255 AS37343 RIPE TELECOM SEYCHELLES
+41.79.64.0 41.79.67.255 AS37347 RIPE NGCOM
+41.79.68.0 41.79.71.255 AS37349 RIPE Aptus Solutions
+41.79.76.0 41.79.79.255 AS11845 RADB Cloud Africa hosted at Vox Telecom 1 Scott Street, Rutherford Estate, Block B, Waverley, Johannesburg, RSA, 2090
+41.79.80.0 41.79.83.255 AS37358 RIPE BitCo - GAU
+41.79.84.0 41.79.87.255 AS37361 RADB This route object is for a PCCW Global customer route which is being exported under this origin AS37361. This route object was created because no existing route object with the same origin was found, and since some BtN peers filter based on these objects this route may be rejected if this object is not created. Please contact peering@pccwglobal.com if you have any questions regarding this object.
+41.79.88.0 41.79.91.255 AS36969 RIPE Malswitch ISP
+41.79.92.0 41.79.95.255 AS37363 RADB Faircape Communications
+41.79.96.0 41.79.99.255 AS37373 RADB Proxy-registered route object
+41.79.100.0 41.79.103.255 AS37372 RIPE Powercomputers Telecommunication Ltd IP's
+41.79.104.0 41.79.107.255 AS37368 RIPE Bluedust Created Route Object
+41.79.108.0 41.79.111.255 AS37105 NTTCOM Proxy-registered route object
+41.79.112.0 41.79.115.255 AS37375 RIPE CommIT/Miway Block
+41.79.116.0 41.79.119.255 AS37377 RADB Proxy-registered route object
+41.79.120.0 41.79.123.255 AS37273 SAVVIS BCS via EMIX
+41.79.124.0 41.79.127.255 AS8657 RIPE CVMultimedia  announced by CPRMNET 
+41.79.128.0 41.79.131.255 AS37475 RADB Proxy route object for YooMee Cameroon
+41.79.132.0 41.79.135.255 AS30844 RIPE Proxy registered route object
+41.79.136.0 41.79.139.255 AS37395 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37395  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.79.140.0 41.79.143.255 AS37396 SAVVIS JTL via EMIX
+41.79.144.0 41.79.147.255 AS37400 RADB Proxy-registered route object
+41.79.148.0 41.79.151.255 AS37403 NTTCOM Proxy-registered route object
+41.79.152.0 41.79.152.255 AS37148 RIPE LEVANT PRO LTD   GLOBACOM_ISP
+41.79.153.0 41.79.155.255 AS37407 RIPE levant afrinic ip
+41.79.156.0 41.79.159.255 AS37053 RIPE RSAWEB Internet Services
+41.79.164.0 41.79.167.255 AS37259 RIPE Broadband Wireless PTY LTD
+41.79.168.0 41.79.171.255 AS37156 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37156  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+41.79.172.0 41.79.172.255 AS37411 NTTCOM Proxy-registered route object
+41.79.173.0 41.79.173.255 AS29606 RIPE Borwood via AS29606
+41.79.174.0 41.79.174.255 AS37411 RIPE First in Business Solutions
+41.79.175.0 41.79.175.255 AS45671 NTTCOM EXETEL-AUS-376
+41.79.176.0 41.79.179.255 AS29465 RADB MTN Nigeria
+41.79.180.0 41.79.183.255 AS10474 RADB The Packet HUB
+41.79.184.0 41.79.187.255 AS37576 RIPE Zee Communications Ltd
+41.79.188.0 41.79.191.255 AS37184 RIPE PowerTel
+41.79.192.0 41.79.195.255 AS37417 RIPE SONIC_WIRELESS_CT1/4
+41.79.196.0 41.79.199.255 AS37425 RIPE SOMCABLE PI
+41.79.200.0 41.79.203.255 AS37427 RIPE Cellcom-NET-200
+41.79.206.0 41.79.207.255 AS198504 RIPE Yahclick-Nigeria-Hyperia-Lux
+41.79.208.0 41.79.211.255 AS37437 RIPE CI Capital Egypt
+41.79.212.0 41.79.215.255 AS37422 RADB FirstNet
+41.79.216.0 41.79.219.255 AS16637 RADB MTN Business
+41.79.220.0 41.79.223.255 AS327794 RADB Proxy-registered route object
+41.79.224.0 41.79.227.255 AS37545 SAVVIS JTL via EMIX
+41.79.228.0 41.79.231.255 AS37165 SAVVIS Safaricom via EMIX
+41.79.232.0 41.79.235.255 AS37677 RIPE SCPT NETWORK
+41.79.236.0 41.79.239.255 AS37141 RIPE ETI SA
+41.79.240.0 41.79.243.255 AS3741 RADB REFLEX c/o Internet Solutions  Pty  Ltd
+41.79.244.0 41.79.250.255 AS31713 RIPE Gatewaycomms Mozambique
+41.79.251.0 41.79.251.255 AS37138 RIPE Vodacom Capetown ZA
+41.79.252.0 41.79.255.255 AS37273 SAVVIS BCS via EMIX
+41.80.0.0 41.81.255.255 AS33771 SAVVIS Safaricom via EMIX
+41.84.0.0 41.84.63.255 AS29606 RIPE AfricaINX / CYBERSMART Routes
+41.84.64.0 41.84.127.255 AS36874 RIPE AfricaINX Created Route Object
+41.84.128.0 41.84.159.255 AS33770 RIPE Kenya Data Networks
+41.84.160.0 41.84.191.255 AS327697 RIPE NIXP-GUAP-PA
+41.84.192.0 41.84.197.255 AS37273 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37273  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.84.198.0 41.84.198.255 AS22822 REACH REACH  Customer Route 
+41.84.199.0 41.84.223.255 AS37273 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37273  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.84.224.0 41.84.255.255 AS19711 NTTCOM Proxy-registered route object
+41.85.0.0 41.85.3.255 AS22355 RIPE Frogfoot Networks
+41.85.4.0 41.85.5.255 AS327804 RIPE Trusc-FF-PR1
+41.85.6.0 41.85.127.255 AS22355 RIPE Frogfoot Networks
+41.85.128.0 41.85.159.255 AS30844 RIPE Proxy registered route object
+41.85.160.0 41.85.161.255 AS28683 RADB Proxy-registered route object
+41.85.162.0 41.85.191.255 AS37004 RADB Surburban Telecom NG c/o Internet Solutions  Pty  Ltd
+41.85.192.0 41.85.223.255 AS37183 RIPE Dandemutande
+41.85.224.0 41.85.255.255 AS37225 RIPE Netwide ADSL Dynamic IP Range
+41.86.0.0 41.86.31.255 AS37203 RIPE LIBTELCO
+41.86.32.0 41.86.63.255 AS36958 SAVVIS DU via EMIX
+41.86.64.0 41.86.95.255 AS36874 ALTDB Kingsley routes via Cybersmart
+41.86.96.0 41.86.127.255 AS10474 RADB MWeb South Africa
+41.86.128.0 41.86.159.255 AS35074 RIPE Route object
+41.86.160.0 41.86.191.255 AS22354 RIPE Second IPv4 block for University of Dar es Salaam
+41.86.192.0 41.86.223.255 AS26106 RIPE AfricaINX Created Route Object
+41.86.224.0 41.86.234.255 AS37090 RADB Proxy-registered route object
+41.87.0.0 41.87.31.255 AS36969 RIPE MALAWI TELECOMMUNICATIONS LIMITED
+41.87.64.0 41.87.87.255 AS37248 RIPE Provider Local Registry Route for Phase3 Telecom Ltd Medallion POP Lagos VI
+41.87.88.0 41.87.95.255 AS33775 RIPE Provider Local Registry Assigned to PHASE3 Telecom Node, Abuja NOC
+41.87.96.0 41.87.127.255 AS37100 RIPE SEACOM Limited Networks - 41.87.96.0/19 In case of abuse, please contact abuse@seacom.mu
+41.87.128.0 41.87.159.255 AS36925 RIPE Meditelcom LIR and ISP
+41.87.160.0 41.87.191.255 AS14988 RADB Botswana Telecommunications Corporation
+41.87.192.0 41.87.223.255 AS37315 RIPE CipherWave
+41.87.224.0 41.87.255.255 AS30844 RIPE Proxy registered route object
+41.88.0.0 41.88.255.255 AS15804 RIPE Wayout Internet Solutions
+41.89.0.0 41.89.255.255 AS36914 ALTDB Registered on behalf of KENET
+41.90.0.0 41.90.255.255 AS33771 SAVVIS Safaricom via EMIX
+41.91.0.0 41.91.255.255 AS37069 RIPE Mobinil IP address
+41.92.0.0 41.92.127.255 AS36925 RIPE Meditelcom LIR and ISP
+41.92.128.0 41.92.248.255 AS37034 RIPE Ringo
+41.92.249.0 41.92.249.255 AS15964 RADB Proxy-registered route object
+41.92.250.0 41.92.255.255 AS37034 RIPE Ringo
+41.93.0.0 41.93.36.255 AS37182 ALTDB Registered for maintenance on behalf of TERNET
+41.93.37.0 41.93.37.255 AS37133 RIPE Route to Airtel Tanzania
+41.93.38.0 41.93.127.255 AS37182 ALTDB Registered for maintenance on behalf of TERNET
+41.93.128.0 41.93.143.255 AS37216 RADB DTG
+41.93.144.0 41.93.255.255 AS37613 RADB DTG
+41.94.0.0 41.94.255.255 AS327700 RIPE MoRENET maintained by TENET
+41.95.0.0 41.95.255.255 AS36998 RADB Zain via EMIX
+41.96.0.0 41.111.255.255 AS36947 NTTCOM Jaguar Network on behalf of Djaweb.
+41.112.0.0 41.127.255.255 AS16637 RADB MTN Business
+41.128.0.0 41.131.255.255 AS24863 RIPE LINKdotNET
+41.132.0.0 41.135.255.255 AS10474 ALTDB Registered for Mweb Emergency Backup
+41.136.0.0 41.136.255.255 AS23889 RIPE MauritiusTelecom
+41.137.107.0 41.137.107.255 AS32787 RADB Prolexic Technologies, Inc.
+41.138.0.0 41.138.29.255 AS37273 SAVVIS BCS via EMIX
+41.138.30.0 41.138.31.255 AS37115 RIPE BROADBAND COMPANY
+41.138.32.0 41.138.63.255 AS37385 RIPE Sonitel/AS37385 sous-bloc DSL
+41.138.64.0 41.138.71.255 AS37333 RIPE Comtel c/o RSAWEB Internet Services
+41.138.72.0 41.138.79.255 AS36963 RIPE ORANGE BOTSWANA
+41.138.80.0 41.138.87.255 AS37124 SAVVIS JTL via EMIX
+41.138.88.0 41.138.89.255 AS37136 RADB Proxy-registered route object
+41.138.90.0 41.138.90.255 AS28683 RADB Proxy-registered route object
+41.138.91.0 41.138.91.255 AS37136 RADB Proxy-registered route object
+41.138.92.0 41.138.95.255 AS31810 SAVVIS SEACOM African Online  via EMIX
+41.138.128.0 41.138.159.255 AS8657 RIPE Chinguitel SA  announced by CPRMNET 
+41.138.160.0 41.138.173.255 AS37127 RIPE Visafone Lagos Edge
+41.138.174.0 41.138.175.255 AS37123 RADB MTN NIGERIA
+41.138.176.0 41.138.191.255 AS37127 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37127  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+41.138.192.0 41.138.207.255 AS37120 RIPE Selcom Broadband Limited Tanzania LIR from AfriNIC REGION
+41.138.208.0 41.138.211.255 AS37122 RADB Smile Communications Uganda
+41.138.212.0 41.138.215.255 AS33771 SAVVIS SAFARICOM via EMIX
+41.138.216.0 41.138.222.255 AS37122 RADB Smile Communications Uganda
+41.138.223.0 41.138.223.127 AS327692 RADB ZANTEL via EMIX
+41.138.223.128 41.138.223.255 AS37607 RADB SMILE TANZANIA
+41.138.224.0 41.138.239.255 AS30619 RADB Proxy-registered route object
+41.138.240.0 41.138.245.255 AS12684 RIPE Intersat Limited
+41.138.246.0 41.138.251.255 AS5432 RIPE intersat africa via Belgium Satellite Services
+41.138.252.0 41.138.255.255 AS12684 RIPE get2net-luxembourg
+41.139.0.0 41.139.63.255 AS35091 RIPE TELEDATAICT,GHANA
+41.139.64.0 41.139.127.255 AS37134 RIPE Mobitel Nigeria Limited
+41.139.128.0 41.139.147.255 AS37061 SAVVIS Safaricom via EMIX
+41.139.148.0 41.139.255.255 AS33771 SAVVIS sfc via EMIX
+41.144.0.0 41.149.255.255 AS5713 NTTCOM Proxy-registered route object
+41.150.0.0 41.150.63.255 AS16058 RADB Proxy-registered route object
+41.150.64.0 41.150.95.255 AS37251 NTTCOM Proxy-registered route object
+41.150.96.0 41.150.103.255 AS16058 RADB Proxy-registered route object
+41.150.104.0 41.150.107.255 AS37251 NTTCOM Proxy-registered route object
+41.150.108.0 41.150.123.255 AS16058 RADB Proxy-registered route object
+41.150.124.0 41.150.127.255 AS37251 NTTCOM Proxy-registered route object
+41.150.128.0 41.150.176.255 AS16058 RADB Proxy-registered route object
+41.150.177.0 41.150.178.255 AS37251 NTTCOM Proxy-registered route object
+41.150.179.0 41.151.63.255 AS16058 RADB Proxy-registered route object
+41.151.64.0 41.151.127.255 AS37251 NTTCOM Proxy-registered route object
+41.151.128.0 41.151.231.255 AS16058 RADB Proxy-registered route object
+41.151.232.0 41.151.239.255 AS37251 NTTCOM Proxy-registered route object
+41.151.240.0 41.151.255.255 AS16058 RADB Proxy-registered route object
+41.152.0.0 41.153.255.255 AS36992 SAVVIS EtisalatMisr via EMIX
+41.154.0.0 41.154.255.255 AS36937 RADB SMMT Online P O Box 2196 Morningside Johannesburg
+41.155.0.0 41.155.127.255 AS33776 RIPE Route for Starcomms
+41.155.128.0 41.155.255.255 AS37069 RIPE Mobinil IP address
+41.156.0.0 41.157.12.255 AS37168 RIPE Cell-C  Pty  Ltd
+41.157.13.0 41.157.13.255 AS16637 RADB MTN Business
+41.157.14.0 41.157.255.255 AS37168 RIPE Cell-C  Pty  Ltd
+41.158.0.0 41.159.255.255 AS16058 RADB Proxy-registered route object
+41.160.0.0 41.163.255.255 AS6421 RADB Proxy route object registered by AS2764
+41.164.0.0 41.167.255.255 AS36937 RADB NEOTEL PTY LTD
+41.168.0.0 41.168.255.255 AS6421 RADB Proxy route object registered by AS2764
+41.169.0.0 41.169.22.255 AS36937 RADB NEOTEL PTY LTD
+41.169.23.0 41.169.23.255 AS6421 RADB Proxy route object registered by AS2764
+41.169.24.0 41.173.255.255 AS36937 RADB NEOTEL PTY LTD
+41.174.0.0 41.174.127.255 AS6421 RADB Proxy route object registered by AS2764
+41.174.128.0 41.175.255.255 AS36937 RADB NEOTEL PTY LTD
+41.176.0.0 41.176.255.255 AS36992 RIPE Etisalat-Misr ADSL Subscribers
+41.177.0.0 41.177.127.255 AS36874 RIPE CyberSmart Routes 2
+41.177.128.0 41.177.255.255 AS29606 RIPE Borwood via AS29606
+41.178.0.0 41.178.255.255 AS24863 RIPE LINKdotNET
+41.179.0.0 41.179.2.255 AS31065 RIPE Egypt Elections_1
+41.179.4.0 41.179.31.255 AS31065 RIPE EEDC Conference_1
+41.179.244.0 41.179.247.255 AS31065 RIPE MCIT_Network
+41.179.251.0 41.179.251.255 AS31065 RIPE ITIDA ROOTCA
+41.179.253.0 41.179.255.255 AS31065 RIPE Ministry of Administrative Development LAN-3
+41.180.0.0 41.180.255.255 AS36916 RIPE Xdsl network
+41.181.0.0 41.181.255.255 AS16637 RADB MTN Business
+41.182.0.0 41.182.255.255 AS20459 RIPE Telecom Namibia 9,Luderitz Street Windhoek Namibia
+41.183.0.0 41.183.0.255 AS198949 RADB CFT Block1 via SecurityDam
+41.183.1.0 41.183.31.255 AS3741 RADB FNBSA-AS c/o Internet Solutions  Pty  Ltd  South Africa 
+41.183.32.0 41.183.139.255 AS37028 RADB FNB Connect ISP, 7th Floor 3 First Place, Cnr Simmonds & Jeppe Streets, Bankcity, Johannesburg, South Africa
+41.183.140.0 41.183.141.255 AS3741 RADB FNBSA-AS c/o Internet Solutions  Pty  Ltd  South Africa 
+41.183.142.0 41.183.145.255 AS37028 RADB FNB Connect ISP, 7th Floor 3 First Place, Cnr Simmonds & Jeppe Streets, Bankcity, Johannesburg, South Africa
+41.183.146.0 41.183.147.255 AS3741 RADB FNBSA-AS c/o Internet Solutions  Pty  Ltd  South Africa 
+41.183.148.0 41.183.149.255 AS37028 RADB FNB Connect ISP, 7th Floor 3 First Place, Cnr Simmonds & Jeppe Streets, Bankcity, Johannesburg, South Africa
+41.183.150.0 41.183.255.255 AS3741 RADB FNBSA-AS c/o Internet Solutions  Pty  Ltd  South Africa 
+41.184.0.0 41.184.225.255 AS29091 RADB Proxy-registered route object
+41.184.226.0 41.184.226.255 AS200141 RADB AG
+41.184.227.0 41.184.227.255 AS29091 RADB Proxy-registered route object
+41.184.228.0 41.184.228.255 AS200141 RADB AG
+41.184.229.0 41.184.230.255 AS29091 RADB Proxy-registered route object
+41.184.231.0 41.184.231.255 AS200141 RADB AG
+41.184.232.0 41.184.232.255 AS29091 RADB Proxy-registered route object
+41.184.233.0 41.184.233.255 AS200141 RADB AG
+41.184.234.0 41.184.236.255 AS29091 RADB Proxy-registered route object
+41.184.237.0 41.184.237.255 AS200141 RADB AG
+41.184.238.0 41.184.238.255 AS29091 RADB Proxy-registered route object
+41.184.239.0 41.184.239.255 AS200141 RADB AG
+41.184.240.0 41.184.242.255 AS29091 RADB Proxy-registered route object
+41.184.243.0 41.184.243.255 AS200141 RADB AG
+41.184.244.0 41.184.247.255 AS29091 RADB Proxy-registered route object
+41.184.248.0 41.184.248.255 AS200141 RADB AG
+41.184.249.0 41.184.252.255 AS29091 RADB Proxy-registered route object
+41.184.253.0 41.184.254.255 AS200141 RADB AG
+41.184.255.0 41.184.255.255 AS29091 RADB Proxy-registered route object
+41.185.0.0 41.185.255.255 AS36943 RIPE Web Africa Route Object
+41.186.0.0 41.186.2.255 AS36890 SAVVIS JTL via EMIX
+41.186.3.0 41.186.4.255 AS16637 RADB MTN Business
+41.186.5.0 41.186.11.255 AS36890 SAVVIS JTL via EMIX
+41.186.12.0 41.186.15.255 AS20294 SAVVIS MTN Uganda  via EMIX
+41.186.16.0 41.186.31.255 AS36890 SAVVIS JTL via EMIX
+41.186.32.0 41.186.32.255 AS16637 RADB MTN Business
+41.186.33.0 41.186.48.255 AS36890 SAVVIS JTL via EMIX
+41.186.49.0 41.186.49.255 AS16637 RADB MTN Business
+41.186.50.0 41.186.56.255 AS36890 SAVVIS JTL via EMIX
+41.186.57.0 41.186.57.255 AS16637 RADB MTN Business
+41.186.58.0 41.186.58.255 AS36890 SAVVIS JTL via EMIX
+41.186.59.0 41.186.59.255 AS16637 RADB MTN Business
+41.186.60.0 41.186.60.255 AS36890 SAVVIS JTL via EMIX
+41.186.61.0 41.186.61.255 AS16637 RADB MTN Business
+41.186.62.0 41.186.99.255 AS36890 SAVVIS JTL via EMIX
+41.186.100.0 41.186.103.255 AS16637 RADB MTN Business
+41.186.104.0 41.186.151.255 AS36890 SAVVIS JTL via EMIX
+41.186.152.0 41.186.152.255 AS16637 RADB MTN Business
+41.186.153.0 41.186.255.255 AS36890 SAVVIS JTL via EMIX
+41.187.0.0 41.187.255.255 AS20928 RIPE NOOR Route Object 2
+41.188.0.0 41.188.63.255 AS37054 RIPE DTS 41.188.0.0/24
+41.188.128.0 41.188.158.255 AS37084 RADB SimbaNET Tanzania SubNET
+41.188.159.0 41.188.159.255 AS3225 RADB DIC via EMIX
+41.188.160.0 41.188.191.255 AS37084 RADB SimbaNET Tanzania SubNET
+41.188.192.0 41.188.255.255 AS2018 RIPE MAINTAINED BY TENET
+41.189.0.0 41.189.31.255 AS36923 RIPE Swift Networks - Nigeria
+41.189.32.0 41.189.63.255 AS29571 RIPE ISP Côte d'Ivoire CI
+41.189.64.0 41.189.91.255 AS36875 RIPE Ensync Business Solutions  Pty  Ltd.
+41.189.92.0 41.189.92.255 AS37179 RIPE Ensync Business Solutions  Pty  Ltd
+41.189.93.0 41.189.95.255 AS36875 RIPE Ensync Business Solutions  Pty  Ltd.
+41.189.126.0 41.189.126.255 AS16422 LEVEL3 SES Customer Prefix
+41.189.127.0 41.189.128.255 AS16637 RADB MTN Business
+41.189.160.0 41.189.180.255 AS16637 RADB MTN Business
+41.189.181.0 41.189.181.255 AS30986 RADB MTN SA
+41.189.182.0 41.189.191.255 AS16637 RADB MTN Business
+41.189.192.0 41.189.199.255 AS45572 SAVVIS MOBILY route via EMIX
+41.189.200.0 41.189.203.255 AS37102 SAVVIS BATELCO via EMIX
+41.189.204.0 41.189.207.255 AS45572 SAVVIS MOBILY route via EMIX
+41.189.208.0 41.189.223.255 AS37102 RADB BGP Proxy Advertisement for Cielux
+41.189.224.0 41.189.255.255 AS30990 SAVVIS DJIBOUTI TELECOM via EMIX
+41.190.0.0 41.190.0.255 AS37076 RIPE Etisalat Nigeria
+41.190.1.0 41.190.8.255 AS44356 RADB epsilontel via EMIX
+41.190.9.0 41.190.9.255 AS37076 RIPE Etisalat Nigeria
+41.190.10.0 41.190.14.255 AS44356 RADB epsilontel via EMIX
+41.190.15.0 41.190.15.255 AS37076 RIPE Etisalat Nigeria
+41.190.16.0 41.190.31.255 AS44356 RADB epsilontel via EMIX
+41.190.32.0 41.190.57.255 AS31856 RIPE yo-route-41-1
+41.190.58.0 41.190.59.255 AS37189 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37189  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.190.60.0 41.190.61.255 AS31856 RIPE yo-route-1-19-1-23
+41.190.62.0 41.190.63.255 AS37024 RIPE yo-route-1-19-2-23
+41.190.65.0 41.190.66.255 AS37039 LEVEL3 SES Customer Prefix
+41.190.68.0 41.190.69.255 AS16637 RADB MTN Business
+41.190.70.0 41.190.71.255 AS37032 RIPE Block for ALINK GHANA
+41.190.72.0 41.190.75.255 AS37033 RIPE ALINK TELECOM CONGO NETWORK
+41.190.76.0 41.190.79.255 AS37516 SAVVIS SAFARICOM via EMIX
+41.190.80.0 41.190.83.255 AS37453 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37453  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.190.84.0 41.190.87.255 AS37026 RIPE Salt Essential IT Pty  Ltd 
+41.190.88.0 41.190.89.255 AS37140 RIPE Zain Ghana prefix
+41.190.90.0 41.190.90.191 AS37103 RADB Airtel Ghana
+41.190.90.192 41.190.90.223 AS37613 RADB Airtel
+41.190.90.224 41.190.90.255 AS37103 RADB Airtel Ghana
+41.190.91.0 41.190.91.255 AS37613 RADB Airtel
+41.190.92.0 41.190.95.255 AS37187 RIPE Skyband Corporation Ltd
+41.190.96.0 41.190.127.255 AS36999 RADB mweb namibia c/o Internet Solutions  Pty  Ltd  South Africa 
+41.190.128.0 41.190.159.255 AS12455 SAVVIS Kenya_Telecom via EMIX
+41.190.160.0 41.190.191.255 AS37047 RADB Proxy-registered route object
+41.190.192.0 41.190.223.255 AS33771 SAVVIS SAFARICOM via EMIX
+41.190.224.0 41.190.227.255 AS37034 RIPE Ringo
+41.190.228.0 41.190.228.255 AS12491 RADB Proxy-registered route object
+41.190.229.0 41.190.229.255 AS37385 RIPE Alink route with Sonitel
+41.190.232.0 41.190.232.255 AS37638 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37638  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.190.233.0 41.190.233.255 AS17175 RIPE ORION SES UK
+41.190.234.0 41.190.234.255 AS37483 RADB Proxy-registered route object
+41.190.235.0 41.190.235.255 AS16422 LEVEL3 SES Customer Prefix
+41.190.236.0 41.190.239.255 AS37037 RIPE Orange Madagascar  41.190.236.0/24
+41.190.240.0 41.190.243.255 AS203405 RIPE 
+41.190.244.0 41.190.247.255 AS36963 RIPE Orange Botswa
+41.190.248.0 41.190.251.255 AS37069 RIPE Mobinil IP address
+41.190.252.0 41.190.255.255 AS37061 SAVVIS Safaricom via EMIX
+41.191.0.0 41.191.3.255 AS30993 RIPE Egypt Centers Routes
+41.191.6.0 41.191.6.255 AS30993 RIPE Egypt Centers Routes
+41.191.7.0 41.191.7.255 AS37094 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37094  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.191.8.0 41.191.8.255 AS30993 RIPE Egypt Centers Routes
+41.191.10.0 41.191.52.255 AS30993 RIPE Egypt Centers Routes
+41.191.55.0 41.191.55.255 AS30993 RIPE Egypt Centers Routes dataexpress
+41.191.57.0 41.191.63.255 AS30993 RIPE Egypt Centers Routes discovary
+41.191.64.0 41.191.67.255 AS37604 RADB ZebraNet IP Prefix
+41.191.68.0 41.191.71.255 AS16637 RADB MTN Business
+41.191.72.0 41.191.75.255 AS30619 RADB Proxy-registered route object
+41.191.76.0 41.191.79.255 AS33771 SAVVIS SAFARICOM via EMIX
+41.191.80.0 41.191.83.255 AS37066 RIPE Ministry of Foreign Affairs
+41.191.84.0 41.191.87.255 AS37004 RADB Surburban Telecom NG c/o Internet Solutions  Pty  Ltd
+41.191.88.0 41.191.91.255 AS37116 NTTCOM Proxy-registered route object
+41.191.92.0 41.191.95.255 AS37245 SAVVIS ZANTEL via EMIX
+41.191.96.0 41.191.99.255 AS37087 RIPE STLGHANA
+41.191.100.0 41.191.103.255 AS37089 RADB Proxy-registered route object
+41.191.104.0 41.191.107.255 AS37094 RADB Cellcom Telecommunication
+41.191.108.0 41.191.111.255 AS44356 RADB epsilontel via EMIX
+41.191.116.0 41.191.118.255 AS33132 SAVVIS PNAP-MIA
+41.191.119.0 41.191.119.255 AS37185 RADB iSAT Zambia
+41.191.120.0 41.191.123.255 AS36958 SAVVIS DU via EMIX
+41.191.124.0 41.191.127.255 AS3741 RADB mxit lifestyle c/o Internet Solutions  Pty  Ltd  South Africa 
+41.191.192.0 41.191.199.255 AS37052 RIPE United Nations Office at Nairobi
+41.191.200.0 41.191.207.255 AS37057 RIPE Vodacom Lesotho  Pty  Ltd
+41.191.208.0 41.191.209.255 AS16637 RADB MTN Business
+41.191.210.0 41.191.211.255 AS37681 RIPE SUMAIL-SECOND
+41.191.212.0 41.191.214.255 AS37674 RIPE routed via Millenium
+41.191.215.0 41.191.215.255 AS60781 RADB Routed via LeaseWeb NL
+41.191.216.0 41.191.219.255 AS37678 RIPE BOTSWANA FIBRE NETWORKS, BOFINET
+41.191.220.0 41.191.223.255 AS37141 RIPE ETI SA
+41.191.224.0 41.191.231.255 AS33770 RIPE Kenya Data Networks Ltd
+41.191.232.0 41.191.238.255 AS37123 RIPE Telecontract ZW Harare
+41.191.239.0 41.191.239.255 AS16422 LEVEL3 SES Americom Prefix
+41.191.240.0 41.191.246.255 AS37613 RADB Busy Internet
+41.191.247.0 41.191.247.255 AS37103 RIPE BusyInternet-Route
+41.191.248.0 41.191.251.255 AS37164 RIPE Zain Sierra Leone
+41.191.252.0 41.191.255.255 AS36879 RIPE SLC Network
+41.192.0.0 41.192.31.255 AS29975 RADB Proxy-registered route object
+41.192.64.0 41.192.95.255 AS29975 LEVEL3 Proxy-registered route object
+41.192.128.0 41.192.159.255 AS29975 LEVEL3 Proxy-registered route object
+41.192.192.0 41.192.223.255 AS29975 RADB Proxy-registered route object
+41.192.248.0 41.192.255.255 AS29975 RADB Proxy-registered route object
+41.193.0.0 41.193.162.255 AS11845 ARIN DataPro  http://www.datapro.co.za/ 
+41.193.163.0 41.193.163.255 AS20940 RADB Akamai Teraco JHB
+41.193.164.0 41.193.239.255 AS11845 ARIN DataPro  http://www.datapro.co.za/ 
+41.193.240.0 41.193.255.255 AS198504 RIPE Yahclick-Nigeria-VOX-Lux
+41.194.0.0 41.194.0.255 AS36958 LEVEL3 Proxy-registered route object
+41.194.1.0 41.194.1.255 AS22351 LEVEL3 Proxy-registered route object
+41.194.2.0 41.194.3.255 AS36958 LEVEL3 Proxy-registered route object
+41.194.4.0 41.194.31.255 AS22351 LEVEL3 Proxy-registered route object
+41.194.32.0 41.194.34.255 AS36939 RIPE Intelsat Transit Customer AS36939 Authorized by Comores Telecom
+41.194.35.0 41.194.59.255 AS22351 LEVEL3 Proxy-registered route object
+41.194.60.0 41.194.61.255 AS12491 RADB Proxy-registered route object
+41.194.62.0 41.194.62.255 AS22351 LEVEL3 Proxy-registered route object
+41.194.63.0 41.194.63.255 AS37453 RADB Proxy-registered route object
+41.194.64.0 41.194.255.255 AS22351 LEVEL3 Proxy-registered route object
+41.195.0.0 41.195.255.255 AS16637 RADB MTN Business
+41.196.0.0 41.196.255.255 AS24863 RIPE LINKdotNET
+41.197.0.0 41.197.255.255 AS37619 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37619  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.198.0.0 41.198.1.255 AS18922 RADB IWAY AFRICA
+41.198.2.0 41.198.9.255 AS36871 RIPE iWayAfrica - MPLS prefix 41.198.2.0/24
+41.198.10.0 41.198.10.255 AS5713 NTTCOM Proxy-registered route object
+41.198.11.0 41.198.15.255 AS36871 RIPE IwayAfrica
+41.198.16.0 41.198.17.255 AS20459 RIPE AFOL-NAM-DSL-via-TN
+41.198.18.0 41.198.47.255 AS16637 RADB MTN Business
+41.198.48.0 41.198.49.255 AS36871 RIPE IwayAfrica
+41.198.50.0 41.198.51.255 AS16637 RADB MTN Business
+41.198.52.0 41.198.55.255 AS36871 RIPE IwayAfrica
+41.198.56.0 41.198.59.255 AS16637 RADB MTN Business
+41.198.60.0 41.198.61.255 AS36871 RIPE IwayAfrica
+41.198.62.0 41.198.62.255 AS16422 LEVEL3 SES Americom Customer Prefix
+41.198.63.0 41.198.63.255 AS37184 RIPE PTEL-MWEB
+41.198.64.0 41.198.79.255 AS16637 RADB MTN NAMIBIA
+41.198.80.0 41.198.95.255 AS37238 RIPE IWAYAFRICA-Sub-blk-3H-ZW
+41.198.96.0 41.198.119.255 AS36871 RIPE IwayAfrica
+41.198.120.0 41.198.122.255 AS39356 RIPE Avanti Service - IwayAfrica-vsat101
+41.198.123.0 41.198.124.255 AS36871 RIPE IwayAfrica-Netblock-2
+41.198.125.0 41.198.126.255 AS12684 RIPE iWayAfrica -- AfricaOnline-Namibia via SES
+41.198.127.0 41.198.127.255 AS39356 RIPE Avanti Service - IwayAfrica-vsat101
+41.198.128.0 41.198.199.255 AS36871 RIPE IWAYAFRICA - 41.198.0.0 - 41.198.255.255 - 2nd-HALF
+41.198.200.0 41.198.201.255 AS16284 RIPE Gateway_nigeria
+41.198.202.0 41.198.203.255 AS37379 RIPE iWayAfrica-Nigeria
+41.198.204.0 41.198.207.255 AS36871 RIPE IWAYAFRICA - 41.198.0.0 - 41.198.255.255 - 2nd-HALF
+41.198.208.0 41.198.223.255 AS16422 ARIN SES-Newskies Customer Prefix
+41.198.224.0 41.198.255.255 AS36871 RIPE IwayAfrica Prefix 41-198-224 -to- 41-198-255
+41.199.0.0 41.199.255.255 AS36992 RIPE Etisalat-Misr ADSL Subscribers
+41.200.0.0 41.201.255.255 AS36947 NTTCOM Jaguar Network on behalf of Djaweb.
+41.202.0.0 41.202.31.255 AS36961 RIPE BBH Dedicated block
+41.202.32.0 41.202.63.255 AS25818 NTTCOM CMC Network
+41.202.64.0 41.202.95.255 AS29571 RIPE ISP COTE D IVOIRE CI
+41.202.96.0 41.202.127.255 AS16637 RADB MTN Business
+41.202.128.0 41.202.159.255 AS36973 RADB ISP COTE D'IVOIRE
+41.202.160.0 41.202.191.255 AS33788 SAVVIS CANAR via EMIX
+41.202.192.0 41.202.223.255 AS36912 RIPE Orange Cameroun Internet IP Pool
+41.202.224.0 41.202.239.255 AS36991 SAVVIS KTL via EMIX
+41.202.240.0 41.202.255.255 AS12455 SAVVIS Kenya_Telecom via EMIX
+41.203.0.0 41.203.31.255 AS16637 RADB Hetzner c/o MTN Business
+41.203.64.0 41.203.78.255 AS37148 RIPE Globacom
+41.203.79.0 41.203.79.255 AS37004 RADB Surburban Telecom NG c/o Internet Solutions  Pty  Ltd
+41.203.80.0 41.203.95.255 AS37148 RIPE Globacom
+41.203.96.0 41.203.96.255 AS37001 RIPE GTB Network Number
+41.203.107.0 41.203.107.255 AS16422 ARIN SES-Newskies Customer Prefix
+41.203.108.0 41.203.109.255 AS37023 RADB MTN Business
+41.203.110.0 41.203.111.255 AS37025 RADB Bank PHB Nigeria
+41.203.112.0 41.203.112.255 AS37001 RIPE GTB2 Network number
+41.203.113.0 41.203.114.255 AS37056 RIPE Network Number For Zenith Bank
+41.203.115.0 41.203.116.255 AS37104 RIPE STANBIC IBTC BANK PLC
+41.203.117.0 41.203.117.255 AS36970 RIPE Interswitch Block
+41.203.118.0 41.203.119.255 AS37269 RIPE ICSL
+41.203.120.0 41.203.127.255 AS200002 RIPE KANDI LTD
+41.203.160.0 41.203.175.255 AS29918 NTTCOM Proxy-registered route object
+41.203.176.0 41.203.191.255 AS33567 NTTCOM Proxy-registered route object
+41.203.192.0 41.203.207.255 AS36864 RIPE Afribone Mali SA
+41.203.208.0 41.203.223.255 AS37061 SAVVIS Safaricom via EMIX
+41.203.240.0 41.203.255.255 AS36902 RIPE Intelvision Ltd Seychelles
+41.204.0.0 41.204.9.255 AS32398 RIPE RealImageInternet_AS route
+41.204.10.0 41.204.30.255 AS3741 RADB Swaziland Telecom c/o Internet Solutions  Pty  Ltd  South Africa 
+41.204.31.0 41.204.31.255 AS32398 RIPE RealImageInternet_AS route
+41.204.32.0 41.204.63.255 AS29614 RIPE VODAFONE-GHANA GPRS-2
+41.204.64.0 41.204.95.255 AS15964 RADB Proxy-registered route object
+41.204.96.0 41.204.127.255 AS21042 NTTCOM Jaguar Network on behalf of Gulfsat.
+41.204.128.0 41.204.159.255 AS36930 SAVVIS ZANTEL via EMIX
+41.204.160.0 41.204.189.255 AS36914 RIPE Kenya Education Network
+41.204.190.0 41.204.191.255 AS36866 SAVVIS SAFARICOM via EMIX
+41.204.192.0 41.204.206.255 AS16637 RADB Hetzner c/o MTN Business
+41.204.207.0 41.204.207.255 AS29606 RIPE Borwood via AS29606
+41.204.208.0 41.204.223.255 AS16637 RADB Hetzner c/o MTN Business
+41.204.224.0 41.204.255.255 AS36911 RIPE Route Object for Direct On PC Ltd
+41.205.0.0 41.205.31.255 AS16637 RIPE MTN NS CAMEROON
+41.205.32.0 41.205.63.255 AS36907 RIPE TCAL-20060927 via AS36907 Rua Comandante Che Guevara, No 89 TVCABO ANGOLA, LDA
+41.205.64.0 41.205.65.255 AS36905 RIPE Route Object  for Creolink Communications
+41.205.66.0 41.205.67.255 AS15964 RADB Proxy-registered route object
+41.205.68.0 41.205.79.255 AS36905 RIPE Route Object  for Creolink Communications
+41.205.80.0 41.205.81.255 AS15964 RADB Proxy-registered route object
+41.205.82.0 41.205.95.255 AS36905 RIPE Route Object  for Creolink Communications
+41.205.96.0 41.205.121.255 AS30993 RIPE Egypt Centers Routes
+41.205.122.0 41.205.124.255 AS24863 LEVEL3 Proxy-registered route object
+41.205.125.0 41.205.127.255 AS30993 RIPE Egypt Centers Routes
+41.205.128.0 41.205.159.255 AS20459 RIPE Telecom Namibia 9,Luderitz Street Windhoek Namibia
+41.205.160.0 41.205.191.255 AS33776 RIPE Starcomms Dialpool1 Lagos Nigeria
+41.205.192.0 41.205.223.255 AS36925 LEVEL3 Proxy-registered route object
+41.205.224.0 41.205.227.255 AS36928 RIPE SierraTel
+41.205.229.0 41.205.243.255 AS36928 RIPE SierraTel
+41.205.254.0 41.205.255.255 AS36928 RIPE Sierratel VSAT Pool
+41.206.0.0 41.206.23.255 AS16637 RADB MTN Business
+41.206.24.0 41.206.27.255 AS29465 RIPE route for MTN Nigeria
+41.206.28.0 41.206.31.255 AS16637 RADB MTN Business
+41.206.32.0 41.206.63.255 AS15808 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS15808  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.206.64.0 41.206.71.255 AS16637 RADB MTN Business
+41.206.72.0 41.206.81.255 AS36974 RADB MTN COTE D'IVOIRE
+41.206.82.0 41.206.95.255 AS16637 RADB MTN Business
+41.206.96.0 41.206.127.255 AS37224 SAVVIS JTL via EMIX
+41.206.128.0 41.206.159.255 AS36935 RIPE Vodafone Egypt
+41.206.192.0 41.206.223.255 AS22355 RADB FrogFoot customer of Vox Telecom
+41.207.0.0 41.207.31.255 AS29571 RIPE ISP Cote d'Ivoire CI
+41.207.32.0 41.207.34.255 AS37054 RIPE DTS 41.207.32.0/24
+41.207.35.0 41.207.35.255 AS5400 RIPE Telecom Malagasy
+41.207.36.0 41.207.63.255 AS37054 RIPE DTS 41.207.36.0/24
+41.207.64.0 41.207.64.255 AS33771 SAVVIS SAFARICOM via EMIX
+41.207.65.0 41.207.87.255 AS36915 SAVVIS JTL via EMIX
+41.207.88.0 41.207.88.255 AS33771 SAVVIS SAFARICOM via EMIX
+41.207.89.0 41.207.95.255 AS36915 SAVVIS JTL via EMIX
+41.207.96.0 41.207.96.255 AS37406 RIPE RCS WiMAX Juba
+41.207.97.0 41.207.97.255 AS5432 RIPE intersatafrica via Belgium Satellite Services
+41.207.98.0 41.207.98.255 AS37019 SAVVIS BATELCO via EMIX
+41.207.99.0 41.207.99.255 AS5432 RIPE USAN-Burundi via Belgium Satellite Services
+41.207.100.0 41.207.100.255 AS39356 RIPE Intersat Broadband Services Ltd
+41.207.101.0 41.207.101.255 AS24399 RADB Proxy-registered route object
+41.207.102.0 41.207.102.255 AS37019 SAVVIS BATELCO via EMIX
+41.207.103.0 41.207.103.255 AS38176 RADB Asia Broadcast Satellite  HK  Ltd. Proxy Advertisement
+41.207.104.0 41.207.104.255 AS16422 ARIN SES-Newskies Customer Prefix
+41.207.105.0 41.207.105.255 AS38176 RADB BGP Proxy Advertisement for Intersat Africa
+41.207.106.0 41.207.106.255 AS37019 RADB Proxy-registered route object
+41.207.107.0 41.207.107.255 AS29259 RIPE Intersatafrica
+41.207.108.0 41.207.108.255 AS16422 ARIN SES-Newskies Customer Prefix
+41.207.109.0 41.207.110.255 AS39356 RIPE Intersat Broadband Services Ltd
+41.207.111.0 41.207.111.255 AS37019 RIPE INTERSAT AFRICA LTD. ISAT 
+41.207.112.0 41.207.113.255 AS39356 RIPE Addressing for Avanti Service  Intersat 
+41.207.114.0 41.207.114.255 AS16422 ARIN SES-Newskies Customer Prefix
+41.207.115.0 41.207.115.255 AS39356 RIPE Addressing for Avanti Service  Intersat 
+41.207.116.0 41.207.116.255 AS37019 SAVVIS JTL Via Emix via EMIX
+41.207.117.0 41.207.117.255 AS5432 RIPE gelati via Belgium Satellite Services
+41.207.118.0 41.207.118.255 AS29259 RIPE intersatafrica
+41.207.119.0 41.207.119.255 AS23649 REACH REACH  Customer Route 
+41.207.120.0 41.207.120.255 AS11908 LEVEL3 SES Americom Customer Prefix
+41.207.121.0 41.207.122.255 AS5432 RIPE INTERSAT-HERITAGE-JUBA via Belgium Satellite Services
+41.207.123.0 41.207.123.255 AS16422 ARIN SES-Newskies Customer Prefix
+41.207.124.0 41.207.124.255 AS37019 SAVVIS JTL Via Emix via EMIX
+41.207.125.0 41.207.125.255 AS29835 LEVEL3 Proxy-registered route object
+41.207.126.0 41.207.126.255 AS23649 REACH REACH  Customer Route 
+41.207.127.0 41.207.127.255 AS45572 SAVVIS BATELCO via EMIX
+41.207.128.0 41.207.159.255 AS36868 RIPE ADBN
+41.207.160.0 41.207.191.255 AS24691 RADB TOGO Telecom
+41.207.192.0 41.207.223.255 AS29571 RIPE ISP Côte d'Ivoire CI
+41.207.224.0 41.207.227.255 AS26228 NTTCOM ServePath ARIN allocation
+41.207.228.0 41.207.231.255 AS37533 RIPE Route Object for TSOLNET-LDA
+41.207.232.0 41.207.235.255 AS37100 RIPE Pamoja
+41.207.236.0 41.207.239.255 AS36898 RIPE Currant Technologies
+41.207.240.0 41.207.247.255 AS37349 RIPE Aptus Solutions
+41.207.248.0 41.207.251.255 AS37540 RIPE WINROK-SUBNET
+41.207.252.0 41.207.255.255 AS37282 RIPE MainOne Ghana IP address Block
+41.208.0.0 41.208.63.255 AS16637 RADB MTN Business  Events Based Billing 
+41.208.64.0 41.208.127.255 AS21003 RIPE LTT Network
+41.208.192.0 41.208.223.255 AS33762 RADB Proxy-registered route object
+41.208.224.0 41.208.231.255 AS22351 LEVEL3 Proxy-registered route object
+41.208.232.0 41.208.255.255 AS33762 RIPE Wireless Business Solutions  Pty  Ltd iBurst Johannesburg South Africa
+41.209.0.0 41.209.63.255 AS9129 SAVVIS JTL via EMIX
+41.209.64.0 41.209.127.255 AS15706 Ripe Sudan Telecom. Co. Ltd
+41.209.128.0 41.209.139.255 AS203872 RIPE LLC Com-Tat
+41.209.140.0 41.209.163.255 AS33783 LEVEL3 Proxy-registered route object
+41.209.164.0 41.209.191.255 AS203872 RIPE LLC Com-Tat
+41.209.192.0 41.209.255.255 AS20484 RIPE Yalla Online Route
+41.210.0.0 41.210.63.255 AS29614 RIPE ADSL-Sub-Pool
+41.210.64.0 41.210.127.255 AS36989 RIPE 41.210.64.0/24  Route Object
+41.210.128.0 41.210.155.255 AS20294 SAVVIS MTN Uganda  via EMIX
+41.210.156.0 41.210.156.255 AS37273 SAVVIS BCS via EMIX
+41.210.157.0 41.210.183.255 AS20294 SAVVIS MTN Uganda  via EMIX
+41.210.184.0 41.210.184.255 AS16637 RADB MTN Business
+41.210.185.0 41.210.190.255 AS20294 SAVVIS MTN Uganda  via EMIX
+41.210.191.0 41.210.191.255 AS16637 RADB MTN Uganda
+41.210.192.0 41.210.255.255 AS37081 RIPE Movicel Telecomunicacoes S.A
+41.211.0.0 41.211.31.255 AS35091 RIPE TELEDATAICT,GHANA
+41.211.32.0 41.211.63.255 AS16637 RADB MTN Swaziland
+41.211.64.0 41.211.95.255 AS36868 RIPE ADBN
+41.211.96.0 41.211.127.255 AS36955 RIPE Matrix Network
+41.211.128.0 41.211.191.255 AS16058 RADB Proxy-registered route object
+41.211.192.0 41.211.207.255 AS36887 RIPE DOPC
+41.212.0.0 41.212.127.255 AS15399 SAVVIS WANANCHI via EMIX
+41.213.0.0 41.213.79.255 AS33762 RADB Proxy-registered route object
+41.213.80.0 41.213.80.255 AS36999 RIPE Leo Namibian cellular communications autonomous system
+41.213.81.0 41.213.127.255 AS33762 RADB Proxy-registered route object
+41.213.128.0 41.213.255.255 AS37002 RIPE Reunicable
+41.214.128.0 41.214.255.255 AS36925 RIPE Meditelcom LIR and ISP
+41.215.0.0 41.215.127.255 AS15808 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS15808  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.215.128.0 41.215.143.255 AS36866 SAVVIS JTL via EMIX
+41.215.144.0 41.215.159.255 AS19711 RADB Proxy-registered route object
+41.215.160.0 41.215.175.255 AS37030 RIPE tiGO Netblock
+41.215.176.0 41.215.191.255 AS36959 RADB Proxy-registered route object
+41.215.192.0 41.215.203.255 AS3741 RADB Sayari Communications Ltd c/o Internet Solutions  Pty  Ltd  South Africa 
+41.215.204.0 41.215.204.255 AS16422 LEVEL3 SES WORLDSKIES Customer Prefix
+41.215.205.0 41.215.207.255 AS3741 RADB Sayari Communications Ltd c/o Internet Solutions  Pty  Ltd  South Africa 
+41.215.208.0 41.215.223.255 AS8657 RIPE CV Multimedia SA - 20081002  announced by CPRMNET 
+41.215.224.0 41.215.224.255 AS33771 SAVVIS Safaricom via EMIX
+41.215.225.0 41.215.226.255 AS37071 SAVVIS Safaricom via EMIX
+41.215.227.0 41.215.227.255 AS33771 SAVVIS Safaricom via EMIX
+41.215.228.0 41.215.231.255 AS15808 RIPE Econet Wireless Kenya
+41.215.232.0 41.215.239.255 AS37053 RIPE RSAWEB Internet Services
+41.215.240.0 41.215.243.255 AS33785 RIPE CityNet Host
+41.215.244.0 41.215.244.255 AS36920 RADB Proxy-registered route object
+41.215.245.0 41.215.245.255 AS16637 RADB MTN Business
+41.215.246.0 41.215.246.255 AS36920 RIPE KKON TECHNOLOGIES LTD
+41.215.247.0 41.215.247.255 AS16637 RADB MTN Business
+41.215.248.0 41.215.251.255 AS37006 SAVVIS JTL via EMIX
+41.215.252.0 41.215.253.255 AS41042 RIPE VODACOM
+41.215.254.0 41.215.255.255 AS37453 RADB Proxy-registered route object
+41.216.0.0 41.216.31.255 AS37214 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37214  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.216.32.0 41.216.46.255 AS37004 RADB Surburban Telecom NG c/o Internet Solutions  Pty  Ltd
+41.216.47.0 41.216.47.255 AS28683 RADB Proxy-registered route object
+41.216.48.0 41.216.61.255 AS37004 RADB Surburban Telecom NG c/o Internet Solutions  Pty  Ltd
+41.216.62.0 41.216.62.255 AS28683 RADB Proxy-registered route object
+41.216.63.0 41.216.63.255 AS37004 RADB Surburban Telecom NG c/o Internet Solutions  Pty  Ltd
+41.216.64.0 41.216.67.255 AS28698 RADB Proxy-registered route object
+41.216.68.0 41.216.69.255 AS16637 RADB MTN Business
+41.216.70.0 41.216.70.255 AS28698 RADB Proxy-registered route object
+41.216.71.0 41.216.95.255 AS16637 RADB MTN Business
+41.216.96.0 41.216.127.255 AS21174 SAVVIS JTL via EMIX
+41.216.128.0 41.216.143.255 AS18931 RADB SAIINTERNET1 c/o Internet Solutions  Pty  Ltd  South Africa 
+41.216.144.0 41.216.159.255 AS37073 RIPE Connecteo-BF-sub4
+41.216.160.0 41.216.175.255 AS37088 RIPE VDT Network
+41.216.176.0 41.216.191.255 AS204223 RIPE 
+41.216.192.0 41.216.199.255 AS37105 NTTCOM Proxy-registered route object
+41.216.200.0 41.216.201.255 AS37597 NTTCOM Proxy-registered route object
+41.216.202.0 41.216.207.255 AS37105 RIPE Neology ISP Block - 12
+41.216.208.0 41.216.215.255 AS14988 RADB Botswana Telecommunications Corporation
+41.216.216.0 41.216.223.255 AS37101 SAVVIS ZANTEL via EMIX
+41.216.224.0 41.216.227.255 AS36941 RIPE MTDS ISP
+41.216.228.0 41.216.229.255 AS37098 RIPE Globe Internet Ltd - Lilongwe Network
+41.216.230.0 41.216.230.255 AS12491 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS12491  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.216.231.0 41.216.231.255 AS36969 RADB Proxy-registered route object
+41.216.232.0 41.216.233.255 AS16284 RIPE Witel - done on bho by Gateway
+41.216.234.0 41.216.235.255 AS36994 RADB VBA Cameroon Range
+41.216.236.0 41.216.239.255 AS33763 RIPE DNS Angola
+41.216.240.0 41.216.247.255 AS204223 RIPE LLC Tehnokom
+41.217.0.0 41.217.0.255 AS37340 RADB MTN.NET
+41.217.2.0 41.217.2.255 AS37340 RADB MTN.NET
+41.217.4.0 41.217.4.255 AS37340 RADB MTN.NET
+41.217.6.0 41.217.6.255 AS37340 RADB MTN.NET
+41.217.8.0 41.217.8.255 AS37340 RADB MTN.NET
+41.217.10.0 41.217.10.255 AS37340 RADB MTN.NET
+41.217.12.0 41.217.12.255 AS37340 RADB MTN.NET
+41.217.14.0 41.217.14.255 AS37340 RADB MTN.NET
+41.217.16.0 41.217.16.255 AS37340 RADB MTN.NET
+41.217.18.0 41.217.18.255 AS37340 RADB MTN.NET
+41.217.20.0 41.217.20.255 AS37340 RADB MTN.NET
+41.217.22.0 41.217.22.255 AS37340 RADB MTN.NET
+41.217.24.0 41.217.24.255 AS37340 RADB MTN.NET
+41.217.26.0 41.217.26.255 AS37340 RADB MTN.NET
+41.217.28.0 41.217.28.255 AS37340 RADB MTN.NET
+41.217.30.0 41.217.30.255 AS37340 RADB MTN.NET
+41.217.64.0 41.217.111.255 AS16422 ARIN SES-Newskies Customer Prefix
+41.217.112.0 41.217.127.255 AS37340 RADB Proxy-registered route object
+41.217.128.0 41.217.159.255 AS37034 RIPE Ringo
+41.217.160.0 41.217.191.255 AS24863 RIPE NET@NET
+41.217.192.0 41.217.193.255 AS36994 RADB Proxy-registered route object
+41.217.194.0 41.217.195.255 AS6421 RADB Proxy route object registered by AS2764
+41.217.196.0 41.217.199.255 AS37111 RADB Proxy-registered route object
+41.217.200.0 41.217.203.255 AS36908 RIPE Vodacom Tanzania
+41.217.204.0 41.217.207.255 AS44356 RADB epsilontel via EMIX
+41.217.208.0 41.217.211.255 AS37158 RIPE Comzatel Mozambique
+41.217.212.0 41.217.215.255 AS37100 RIPE SEACOM Limited Networks - 41.217.212.0/22 In case of abuse, please contact abuse@seacom.mu
+41.217.216.0 41.217.219.255 AS37187 RIPE Skyband Corporation Ltd
+41.217.220.0 41.217.223.255 AS37109 SAVVIS SAFARICOM via EMIX
+41.217.224.0 41.217.231.255 AS37031 RIPE Misr Information Services and Trading
+41.217.232.0 41.217.239.255 AS33771 SAVVIS SAFARICOM via EMIX
+41.217.240.0 41.217.247.255 AS16637 RADB Broadband Innovations c/o MTN Business
+41.217.248.0 41.217.255.255 AS37151 RIPE Bringcom Zambia Ltd
+41.218.0.0 41.218.63.255 AS15706 Ripe Sudan Telecom. Co. Ltd
+41.218.64.0 41.218.127.255 AS33763 RIPE Internet Technologies Namibia Networks
+41.218.128.0 41.218.191.255 AS25576 RIPE AFMIC Route
+41.218.192.0 41.218.255.255 AS29614 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS29614  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.219.0.0 41.219.26.255 AS37196 RADB EXPRESSO SENEGAL
+41.219.27.0 41.219.27.255 AS44356 RADB epsilontel via EMIX
+41.219.28.0 41.219.60.255 AS37196 RADB EXPRESSO SENEGAL
+41.219.61.0 41.219.61.255 AS44356 RADB epsilontel via EMIX
+41.219.62.0 41.219.63.255 AS37196 RADB EXPRESSO SENEGAL
+41.219.64.0 41.219.127.255 AS37009 RADB MTC Netman customer IP pool
+41.219.128.0 41.219.191.255 AS30998 RADB Proxy-registered route object
+41.219.192.0 41.219.255.255 AS33776 RIPE Starcomms Ltd. RESERVED Nigeria
+41.220.0.0 41.220.15.255 AS33771 SAVVIS SAFARICOM via EMIX
+41.220.16.0 41.220.31.255 AS37204 RADB Proxy-registered route object
+41.220.32.0 41.220.47.255 AS25139 RIPE TVCabo Mozambique Dynamic Clients Maputo Mozambique
+41.220.48.0 41.220.79.255 AS16637 RADB MTN Business
+41.220.80.0 41.220.81.255 AS36899 RIPE MULTINET-AFR1
+41.220.82.0 41.220.93.255 AS37506 RADB Zinox Telecommunications Limited
+41.220.94.0 41.220.95.255 AS37040 RIPE DAC_AF_MZQ-NET
+41.220.96.0 41.220.111.255 AS36902 RIPE Intelvision Ltd Seychelles
+41.220.112.0 41.220.127.255 AS15808 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS15808  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.220.128.0 41.220.143.255 AS36909 RIPE Habari Node Ltd
+41.220.144.0 41.220.159.255 AS36918 RIPE Orascom Telecom Algeria
+41.220.160.0 41.220.161.255 AS30619 RIPE TDM Afrinic prefix
+41.220.162.0 41.220.163.255 AS37273 SAVVIS BCS via EMIX
+41.220.164.0 41.220.175.255 AS30619 RIPE TDM Afrinic prefix
+41.220.176.0 41.220.191.255 AS31810 RADB Proxy-registered route object
+41.220.192.0 41.220.199.255 AS36945 RADB Proxy-registered route object
+41.220.200.0 41.220.207.255 AS30619 RADB Proxy-registered route object
+41.220.208.0 41.220.215.255 AS33771 SAVVIS SAFARICOM via EMIX
+41.220.216.0 41.220.216.255 AS37273 SAVVIS BCS via EMIX
+41.220.217.0 41.220.223.255 AS29032 RIPE DATANET LLC
+41.220.224.0 41.220.224.255 AS16422 ARIN SES-Newskies Customer Prefix
+41.220.225.0 41.220.226.255 AS33770 RADB Proxy-registered route object
+41.220.227.0 41.220.227.255 AS37019 RADB Proxy-registered route object
+41.220.228.0 41.220.230.255 AS33770 RADB Proxy-registered route object
+41.220.231.0 41.220.234.255 AS37019 RADB Proxy-registered route object
+41.220.235.0 41.220.236.255 AS33770 RIPE KENYA DATA NETWORKS
+41.220.237.0 41.220.239.255 AS37019 RADB Proxy-registered route object
+41.220.240.0 41.220.255.255 AS36942 RADB Proxy-registered route object
+41.221.0.0 41.221.15.255 AS36968 NTTCOM Proxy-registered route object
+41.221.16.0 41.221.31.255 AS36947 NTTCOM Jaguar Network on behalf of Djaweb.
+41.221.32.0 41.221.47.255 AS37084 RADB SimbaNET Tanzania SubNET
+41.221.48.0 41.221.63.255 AS36965 RADB WIA - The Network 2nd Floor, Baclays House, P.O Box 5117, Dar es Salaam, Tanzania.
+41.221.64.0 41.221.79.255 AS36865 RIPE Teledata Afrinic Prefix
+41.221.80.0 41.221.95.255 AS33771 SAVVIS SAFARICOM via EMIX
+41.221.96.0 41.221.111.255 AS36969 RIPE Malawi Telecoms
+41.221.112.0 41.221.112.255 AS203406 RIPE LLC IP-intercom
+41.221.113.0 41.221.114.255 AS33775 RIPE Route for NITEL customer PHASE3
+41.221.115.0 41.221.127.255 AS203406 RIPE LLC IP-intercom
+41.221.128.0 41.221.143.255 AS24863 RIPE NET@NET
+41.221.144.0 41.221.159.255 AS36986 RADB This is a CloudTelecom customer route-object which is being exported under this origin AS36986  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@cloudtele.com if you have any questions regarding this object.
+41.221.160.0 41.221.175.255 AS36923 RIPE Swift Networks Nigeria
+41.221.192.0 41.221.207.255 AS8657 RIPE CVMultimedia  announced by CPRMNET 
+41.221.208.0 41.221.208.255 AS6421 RADB Proxy route object registered by AS2764
+41.221.209.0 41.221.209.255 AS31713 RIPE PCCWG CDN in South Africa
+41.221.210.0 41.221.215.255 AS3491 RADB GWCOMMS-ZA
+41.221.216.0 41.221.216.255 AS6421 RADB Proxy route object registered by AS2764
+41.221.217.0 41.221.223.255 AS3491 RADB GWCOMMS-ZA
+41.221.224.0 41.221.239.255 AS36916 RIPE Xdsl network
+41.221.240.0 41.221.255.255 AS17400 RIPE MSTELCOM
+41.222.0.0 41.222.7.255 AS12455 SAVVIS Kenya_Telecom via EMIX
+41.222.8.0 41.222.11.255 AS36866 LEVEL3 Proxy-registered route object
+41.222.12.0 41.222.13.255 AS22351 LEVEL3 Proxy-registered route object
+41.222.14.0 41.222.15.255 AS36866 RIPE Jamii Telecommunication Limited
+41.222.16.0 41.222.23.255 AS36959 RIPE iConnect Zambia LIR from AfriNIC REGION
+41.222.24.0 41.222.31.255 AS33772 RIPE Prefix WTL preferred
+41.222.32.0 41.222.39.255 AS11845 ARIN DiaMatrix c/o DataPro  Pty  Ltd  South Africa =20
+41.222.40.0 41.222.47.255 AS37106 RIPE Onet Nigeria
+41.222.48.0 41.222.55.255 AS32653 RADB Enetworks c/o Internet Solutions  Pty  Ltd
+41.222.56.0 41.222.63.255 AS37143 RADB Arusha Art Limited
+41.222.64.0 41.222.71.255 AS36923 RIPE SWIFT NETWORKS LIMITED
+41.222.72.0 41.222.78.255 AS36938 RIPE Amsco Telecommunications Nigeria Limited
+41.222.79.0 41.222.79.255 AS30998 RADB Proxy-registered route object
+41.222.80.0 41.222.86.255 AS37174 RIPE Comium SL Subnet-Route
+41.222.87.0 41.222.87.255 AS29548 LEVEL3 Proxy-registered route object
+41.222.88.0 41.222.95.255 AS37126 RIPE Bell Communications Ltd
+41.222.96.0 41.222.103.255 AS37622 RIPE MTML Mauritius MTMLTD-2
+41.222.104.0 41.222.110.255 AS36983 RIPE Osiris SA-JHB 1
+41.222.111.0 41.222.111.255 AS34738 RIPE OTIOMBlock2
+41.222.120.0 41.222.121.255 AS37044 NTTCOM Proxy-registered route object
+41.222.122.0 41.222.122.255 AS16637 RADB MTN Business
+41.222.123.0 41.222.123.255 AS37044 NTTCOM Proxy-registered route object
+41.222.124.0 41.222.127.255 AS37511 RADB Enhanced-Internet
+41.222.128.0 41.222.135.255 AS36992 SAVVIS EtisalatMisr via EMIX
+41.222.136.0 41.222.143.255 AS37049 RIPE SADV
+41.222.144.0 41.222.151.255 AS25163 RIPE 21st Century Technologies Ltd
+41.222.152.0 41.222.159.255 AS37403 RIPE 
+41.222.160.0 41.222.167.255 AS37044 SAVVIS sfc via EMIX
+41.222.168.0 41.222.175.255 AS37031 RIPE Misr Information Services and Trading
+41.222.176.0 41.222.183.255 AS37035 SAVVIS ZANTEL via EMIX
+41.222.184.0 41.222.191.255 AS36913 RIPE 2nd Allocation BDS Head Office
+41.222.192.0 41.222.195.255 AS37090 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37090  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.222.196.0 41.222.199.255 AS37020 RIPE Celtel DRC
+41.222.200.0 41.222.203.255 AS37593 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37593  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.222.204.0 41.222.207.255 AS36958 SAVVIS DU via EMIX
+41.222.208.0 41.222.212.255 AS37018 RIPE Galaxy Backbone
+41.222.216.0 41.222.216.255 AS8513 RIPE Afrinet Kinshasa
+41.222.217.0 41.222.218.255 AS37415 RADB Proxy-registered route object
+41.222.219.0 41.222.219.255 AS12491 RADB Proxy-registered route object
+41.222.220.0 41.222.223.255 AS3741 RADB Amatole Telecoms c/o Internet Solutions  Pty  Ltd  South Africa 
+41.222.224.0 41.222.226.255 AS16637 RADB MacroLan c/o MTN Business
+41.222.227.0 41.222.227.255 AS3741 RADB Macrolan c/o Internet Solutions  Pty  Ltd  South Africa 
+41.222.228.0 41.222.231.255 AS37055 NTTCOM Proxy-registered route object
+41.222.232.0 41.222.235.255 AS37613 RADB ETG Integrated Services Ltd.  Dolphin Telecom 
+41.222.236.0 41.222.237.255 AS37011 RIPE Startel Angola
+41.222.238.0 41.222.238.255 AS25395 RIPE Startel Angola
+41.222.239.0 41.222.239.255 AS37011 RIPE Startel Angola
+41.222.240.0 41.222.243.255 AS34947 RADB Proxy-registered route object
+41.222.244.0 41.222.245.255 AS37619 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37619  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.222.246.0 41.222.247.255 AS37010 RIPE IP block for Rwednet
+41.222.248.0 41.222.255.255 AS36907 RIPE TCAL1-20060313 via AS36907 TVCABO ANGOLA, LDA No 89, Rua Comandante Che Guevara LUANDA - Caixa Postal 6928
+41.223.4.0 41.223.7.255 AS22351 LEVEL3 Proxy-registered route object
+41.223.8.0 41.223.11.255 AS3741 RADB Proxy-registered client object for AS-IS.
+41.223.16.0 41.223.19.255 AS33772 SAVVIS ZANTEL via EMIX
+41.223.20.0 41.223.23.255 AS36935 RIPE Vodafone Egypt
+41.223.24.0 41.223.27.255 AS33132 SAVVIS PNAP-MIA fplfibernet-8
+41.223.28.0 41.223.29.255 AS36905 RIPE Route Object  for Creolink Communications
+41.223.30.0 41.223.31.255 AS28915 RADB Proxy-registered route object
+41.223.32.0 41.223.35.255 AS37053 RIPE RSAWEB Internet Services
+41.223.36.0 41.223.39.255 AS16637 RADB Nashua Mobile c/o MTN Business
+41.223.40.0 41.223.43.255 AS34444 RIPE ACS - Afrinic
+41.223.44.0 41.223.47.255 AS29465 RADB MTN Nigeria
+41.223.48.0 41.223.51.255 AS37665 RIPE MOUNA Group Technology Sa.
+41.223.52.0 41.223.55.255 AS33785 RIPE CityNet Host Dedicated Servers
+41.223.56.0 41.223.59.255 AS12455 SAVVIS Kenya_Telecom via EMIX
+41.223.60.0 41.223.63.255 AS36916 LEVEL3 Proxy-registered route object
+41.223.64.0 41.223.67.255 AS36920 RIPE AS36920
+41.223.68.0 41.223.71.255 AS5713 RADB Proxy-registered route object
+41.223.72.0 41.223.75.255 AS37014 RIPE Mascom Prefix 1
+41.223.76.0 41.223.79.255 AS37622 RIPE MTML Mauritius MTMLTD-1A
+41.223.80.0 41.223.80.255 AS20459 LEVEL3 Proxy-registered route object
+41.223.81.0 41.223.83.255 AS36999 RIPE Leo Namibian cellular communications autonomous system
+41.223.84.0 41.223.85.255 AS12455 SAVVIS Kenya_Telecom via EMIX
+41.223.86.0 41.223.87.255 AS37273 SAVVIS BCS via EMIX
+41.223.88.0 41.223.89.255 AS34444 RIPE Azur-Congo - Equateur Telecom Congo
+41.223.92.0 41.223.95.255 AS36936 RIPE All traffic to Celtel-GA
+41.223.96.0 41.223.96.255 AS29835 LEVEL3 Proxy-registered route object
+41.223.97.0 41.223.99.255 AS5511 RIPE Akamai Technologies
+41.223.100.0 41.223.103.255 AS34444 RIPE ACS Luanda - Angola
+41.223.104.0 41.223.104.255 AS22351 LEVEL3 Proxy-registered route object
+41.223.108.0 41.223.109.255 AS16422 ARIN SES-Newskies Customer Prefix
+41.223.110.0 41.223.110.255 AS45572 SAVVIS MOBILY route via EMIX
+41.223.111.0 41.223.111.255 AS60725 SAVVIS Transworld via EMIX
+41.223.112.0 41.223.115.255 AS16422 LEVEL3 SES Americom Customer Prefix
+41.223.116.0 41.223.119.255 AS16637 RADB MTN Business
+41.223.120.0 41.223.123.255 AS36951 RADB Derivco c/o Internet Solutions  Pty  Ltd
+41.223.124.0 41.223.127.255 AS32017 RIPE Satcom Mozambique
+41.223.128.0 41.223.131.255 AS36957 RADB Proxy-registered route object
+41.223.132.0 41.223.135.255 AS16422 LEVEL3 SES Americom Prefix
+41.223.136.0 41.223.136.255 AS37077 RADB auto-generated route object for 41.223.136.0/24
+41.223.137.0 41.223.139.255 AS16637 RADB MTN Business
+41.223.140.0 41.223.143.255 AS36963 RIPE Botswana Telecommunications Corporation
+41.223.144.0 41.223.144.255 AS37001 RIPE GTB Network Number
+41.223.145.0 41.223.145.255 AS36970 RIPE Interswitch
+41.223.146.0 41.223.146.255 AS36979 RIPE Network number for First Bank Nigeria
+41.223.147.0 41.223.148.255 AS16422 ARIN SES-Newskies Customer Prefix
+41.223.150.0 41.223.151.255 AS36967 SAVVIS JLT via EMIX
+41.223.152.0 41.223.155.255 AS37110 RADB MOZTEL c/o Internet Solutions  Pty  Ltd
+41.223.160.0 41.223.163.255 AS36972 RADB MTN VIA CANAR
+41.223.164.0 41.223.167.255 AS17400 RIPE MSTELCOM
+41.223.172.0 41.223.175.255 AS36985 RADB Proxy-registered route object
+41.223.176.0 41.223.179.255 AS36879 RIPE SLC Wireless Network   DIVONA Subnet 
+41.223.180.0 41.223.183.255 AS37576 RIPE Zee Communications Ltd
+41.223.189.0 41.223.190.255 AS37409 RADB Proxy-registered route object
+41.223.192.0 41.223.192.255 AS37678 RADB GCSat
+41.223.195.0 41.223.195.255 AS37678 RADB GCSAT
+41.223.196.0 41.223.199.255 AS36990 RADB Proxy-registered route object
+41.223.200.0 41.223.203.255 AS36998 SAVVIS CANARTEL via EMIX
+41.223.204.0 41.223.207.255 AS36867 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS36867  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.223.216.0 41.223.219.255 AS36958 SAVVIS DU via EMIX
+41.223.220.0 41.223.223.255 AS23889 RIPE MFD
+41.223.224.0 41.223.225.255 AS37619 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37619  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.223.226.0 41.223.227.255 AS37006 SAVVIS JTL via EMIX
+41.223.228.0 41.223.231.255 AS37013 SAVVIS ZANTEL via EMIX
+41.223.232.0 41.223.235.255 AS37008 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37008  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.223.236.0 41.223.239.255 AS36947 RIPE route a travers djaweb-at
+41.223.240.0 41.223.243.255 AS30995 RIPE CIB Egypt
+41.223.244.0 41.223.245.255 AS32437 NTTCOM Proxy-registered route object
+41.223.246.0 41.223.246.255 AS6421 RADB Proxy route object registered by AS2764
+41.223.247.0 41.223.247.255 AS32437 NTTCOM Proxy-registered route object
+41.223.248.0 41.223.251.255 AS37004 RADB Surburban Telecom NG c/o Internet Solutions  Pty  Ltd
+41.223.252.0 41.223.255.255 AS37055 NTTCOM Proxy-registered route object
+41.224.0.0 41.224.31.255 AS37492 RIPE Orange Tunisie
+41.224.32.0 41.224.32.255 AS2609 RIPE Subroute for Load balancing
+41.224.33.0 41.224.33.255 AS37492 RIPE Orange Tunisie
+41.224.34.0 41.224.34.255 AS2609 RIPE Subroute for Load balancing
+41.224.35.0 41.224.40.255 AS37492 RIPE Orange Tunisie
+41.224.41.0 41.224.41.255 AS2609 RIPE Subroute for Load balancing
+41.224.42.0 41.224.42.255 AS37492 RIPE Orange Tunisie
+41.224.43.0 41.224.43.255 AS2609 RIPE Subroute for Load balancing
+41.224.44.0 41.224.255.255 AS37492 RIPE Orange Tunisie
+41.225.0.0 41.225.11.255 AS2609 RIPE Subroute for Load balancing
+41.225.12.0 41.225.12.255 AS31245 RIPE ATI-FSI
+41.225.13.0 41.227.11.255 AS2609 RIPE Subroute for Load balancing
+41.227.12.0 41.227.12.255 AS31245 RIPE ATI-FSI
+41.227.13.0 41.227.63.255 AS2609 RIPE Subroute for Load balancing
+41.227.64.0 41.227.95.255 AS37693 RIPE OOREDOO-route
+41.227.96.0 41.227.255.255 AS2609 RIPE Subroute for Load balancing
+41.228.0.0 41.228.18.255 AS37693 RIPE OOREDOO-route
+41.228.19.0 41.228.19.255 AS2609 RIPE Subroute for Load balancing
+41.228.20.0 41.228.24.255 AS37693 RIPE OOREDOO-route
+41.228.25.0 41.228.31.255 AS2609 RIPE Subroute for Load balancing
+41.228.32.0 41.228.41.255 AS37693 RIPE OOREDOO-route
+41.228.42.0 41.228.45.255 AS2609 RIPE Subroute for Load balancing
+41.228.46.0 41.228.48.255 AS37693 RIPE OOREDOO-route
+41.228.49.0 41.228.51.255 AS2609 RIPE Subroute for Load balancing
+41.228.52.0 41.228.59.255 AS37693 RIPE OOREDOO-route
+41.228.60.0 41.228.60.255 AS2609 RIPE Subroute for Load balancing
+41.228.61.0 41.228.61.255 AS31245 RIPE ATI-FSI
+41.228.62.0 41.228.63.255 AS2609 RIPE Subroute for Load balancing
+41.228.64.0 41.228.191.255 AS37492 RIPE Orange Tunisie
+41.228.192.0 41.228.223.255 AS37693 RIPE OOREDOO-route
+41.228.224.0 41.228.227.255 AS2609 RIPE Subroute for Load balancing
+41.228.228.0 41.228.255.255 AS37693 RIPE OOREDOO-route
+41.229.0.0 41.229.255.255 AS2609 RIPE Subroute for Load balancing
+41.230.0.0 41.230.207.255 AS37705 RIPE TOPNET-ROUTE
+41.230.208.0 41.230.211.255 AS37693 RIPE OOREDOO-route
+41.230.212.0 41.230.255.255 AS37492 RIPE Orange Tunisie
+41.231.0.0 41.231.2.255 AS2609 RIPE Subroute for Load balancing
+41.231.3.0 41.231.3.255 AS37705 RIPE TOPNET-ROUTE
+41.231.4.0 41.231.4.255 AS2609 RIPE Subroute for Load balancing
+41.231.5.0 41.231.5.255 AS37705 RIPE TOPNET-ROUTE
+41.231.6.0 41.231.6.255 AS37703 RIPE ATLAX-net-03
+41.231.7.0 41.231.7.255 AS37504 RIPE Meninx
+41.231.8.0 41.231.9.255 AS37705 RIPE TOPNET-ROUTE
+41.231.10.0 41.231.15.255 AS2609 RIPE Subroute for Load balancing
+41.231.16.0 41.231.17.255 AS5438 RIPE ATI-CLIENT-ATB
+41.231.18.0 41.231.22.255 AS2609 RIPE Subroute for Load balancing
+41.231.23.0 41.231.23.255 AS37705 RIPE TOPNET-ROUTE
+41.231.24.0 41.231.27.255 AS31245 RIPE ATI-FSI
+41.231.28.0 41.231.29.255 AS2609 RIPE Subroute for Load balancing
+41.231.30.0 41.231.31.255 AS37492 RIPE Orange Tunisie
+41.231.32.0 41.231.44.255 AS2609 RIPE Subroute for Load balancing
+41.231.45.0 41.231.47.255 AS37705 RIPE TOPNET-ROUTE
+41.231.48.0 41.231.55.255 AS2609 RIPE Subroute for Load balancing
+41.231.56.0 41.231.63.255 AS37492 RIPE Orange Tunisie
+41.231.64.0 41.231.83.255 AS2609 RIPE Subroute for Load balancing
+41.231.84.0 41.231.87.255 AS37705 RIPE TOPNET-ROUTE
+41.231.88.0 41.231.94.255 AS2609 RIPE Subroute for Load balancing
+41.231.95.0 41.231.95.255 AS31245 RIPE ATI-FSI
+41.231.96.0 41.231.96.255 AS2609 RIPE Subroute for Load balancing
+41.231.97.0 41.231.97.255 AS37504 RIPE Localhost.tn route @ eodatacenter
+41.231.98.0 41.231.231.255 AS2609 RIPE Subroute for Load balancing
+41.231.232.0 41.231.235.255 AS37693 RIPE OOREDOO-route
+41.231.236.0 41.231.255.255 AS2609 RIPE Subroute for Load balancing
+41.232.0.0 41.239.255.255 AS8452 RIPE Telecom-Egypt-Data-ESP
+41.240.0.0 41.241.255.255 AS36998 RADB Zain via EMIX
+41.242.0.0 41.242.3.255 AS37684 RIPE Angani Limited
+41.242.4.0 41.242.7.255 AS37685 SAVVIS JTL via EMIX
+41.242.8.0 41.242.11.255 AS37602 RIPE UhuruOne Tanzania LIR from AfriNIC REGION
+41.242.12.0 41.242.15.255 AS39356 RIPE Al Ruya Electronic JSC
+41.242.16.0 41.242.31.255 AS37566 RIPE ICONA for IT & Telecom. LTD HQ @ Misurata. LY
+41.242.32.0 41.242.39.255 AS16637 RADB MTN Business
+41.242.40.0 41.242.47.255 AS37403 RIPE 
+41.242.48.0 41.242.55.255 AS16637 RADB MTN Business
+41.242.56.0 41.242.63.255 AS37688 RADB MTN Business
+41.242.80.0 41.242.83.255 AS37358 RIPE WiFi Technologies
+41.242.84.0 41.242.87.255 AS37273 SAVVIS BCS via EMIX
+41.242.88.0 41.242.95.255 AS16637 RADB MTN Business
+41.242.96.0 41.242.111.255 AS37608 RIPE iRENALA
+41.242.112.0 41.242.115.255 AS37613 RADB ETG Integrated Services Ltd.  Dolphin Telecom 
+41.242.116.0 41.242.119.255 AS37614 RIPE STOI-FIRST-BLOCK
+41.242.120.0 41.242.123.255 AS37624 RIPE CVC Route
+41.242.124.0 41.242.127.255 AS49902 RIPE SRR
+41.242.128.0 41.242.129.255 AS327933 RIPE GROUPE-TELECOM-SPRL
+41.242.130.0 41.242.130.255 AS37453 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37453  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.242.131.0 41.242.131.255 AS327933 RIPE GROUPE-TELECOM-SPRL
+41.242.132.0 41.242.132.255 AS37453 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37453  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.242.133.0 41.242.135.255 AS203405 RIPE LLC Telenet-Media
+41.242.136.0 41.242.139.255 AS37623 RIPE Surfline IPv4 Block One
+41.242.140.0 41.242.143.255 AS22690 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS22690  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+41.242.144.0 41.242.151.255 AS37674 RIPE routed via Millenium
+41.242.156.0 41.242.159.255 AS10753 LEVEL3 Libyan International Telecom
+41.242.160.0 41.242.175.255 AS37049 RIPE SA Digital Villages
+41.242.192.0 41.242.255.255 AS37105 RIPE Neology-3
+41.243.0.0 41.243.255.255 AS37020 RIPE Airtel-DRC
+41.244.0.0 41.244.255.255 AS37620 RIPE VIETTEL CAMEROUN SARL
+41.246.0.0 41.247.255.255 AS5713 NTTCOM Proxy-registered route object
+41.248.0.0 41.251.255.255 AS6713 LEVEL3 Proxy-registered route object
+41.252.0.0 41.255.255.255 AS21003 RIPE LTT Network

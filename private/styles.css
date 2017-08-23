@@ -1,0 +1,347 @@
+/* Template based on Material Design Lite, Copyright 2015 Google Inc. */
+
+html, body {
+  font-family: 'Arial', 'Liberation Sans', 'Helvetica', sans-serif;
+  color: rgba(0, 0, 0, .8);
+  width: 100%;
+  height: 100%;
+}
+
+.mdl-button {
+  font-weight: 500;
+}
+
+a,
+a:visited {
+  font-family: 'Roboto';
+  text-decoration: none;
+  font-weight: 500;
+  color: ##00BCD4;
+}
+a:active {
+  color: #faa700
+}
+
+.mdl-layout-title {
+  font-family: 'Roboto';
+}
+
+h1 {
+  font-family: 'Roboto';
+  font-size: 2.2em;
+  font-weight: 400;
+  margin: 1em 0;
+  padding: 0 0 10px;
+  border-bottom: 1px solid #e7e9ed;
+  color: #555;
+}
+
+h2 {
+  font-family: 'Roboto';
+  font-size: 2em;
+  font-weight: 400;
+  margin: 0.5em 0;
+  padding: 0;
+  color: #555;
+}
+
+h3 {
+  font-family: 'Roboto';
+  font-size: 1.7em;
+  font-weight: 400;
+  margin: 0.5em 0;
+  padding: 0;
+  color: #555;
+}
+
+h4 {
+  font-family: 'Roboto';
+  font-size: 1.4em;
+  font-weight: 400;
+  margin: 0.5em 0;
+  padding: 0;
+  color: #555;
+}
+
+h5 {
+  font-family: 'Roboto';
+  font-size: 1.2em;
+  font-weight: 400;
+  margin: 0.5em 0;
+  padding: 0;
+  color: #555;
+}
+
+p {
+  text-align: -justify;
+}
+
+/*********** Left navigation ***********/
+
+.demo-drawer-header {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 16px;
+}
+.demo-drawer-header span {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.demo-navigation {
+  flex-grow: 1;
+}
+.demo-navigation a {
+  font-family: Arial, 'Liberation Sans', 'Helvetica', sans-serif;
+}
+.demo-layout .demo-navigation .mdl-navigation__link {
+  display: flex !important;
+  flex-direction: row;
+  align-items: center;
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 600;
+  font-size: 0.95em;
+}
+.demo-layout .demo-navigation .mdl-navigation__link:hover {
+  background-color: #1976D2;
+}
+.demo-layout .demo-navigation .mdl-navigation__link.on {
+  background-color: #2979FF;
+}
+.demo-navigation .mdl-navigation__link .material-icons {
+  font-size: 24px;
+  color: rgba(255, 255, 255, 0.9);
+  margin-right: 32px;
+}
+
+
+/*********** Tab switching ***********/
+
+.demo-layout > main > div.on {
+  opacity: 1;
+  height: auto;
+}
+
+.demo-layout > main > div {
+  overflow: hidden;
+  opacity: 0;
+  height: 0;
+  -webkit-transition: opacity .3s ease .15s, height 0s;
+  -moz-transition: opacity .3s ease .15s, height 0s;
+  -o-transition: opacity .3s ease .15s, height 0s;
+  -ms-transition: opacity .3s ease .15s, height 0s;
+  transition: opacity .3s ease .15s, height 0s;
+}
+
+.mdl-layout-title {
+  display: none;
+}
+
+.mdl-layout-title.on {
+  display: flex;
+  align-items: center;
+}
+
+.mdl-layout-title i {
+  margin-right: 1em;
+}
+
+/*********** Grid/cell properties ***********/
+
+.mdl-grid {
+  max-width: 1080px;
+}
+
+.mdl-cell {
+  display: flex;
+  flex-direction: column;
+}
+
+.cell-content {
+  padding: 16px 32px;
+  flex: 1;
+}
+
+.cell-buttons {
+  box-sizing: border-box;
+  border-top: 1px solid rgba(0,0,0,.1);
+  width: 100%;
+  padding: 16px 32px;
+}
+
+.cell-link-buttons {
+  box-sizing: border-box;
+  border-top: 1px solid rgba(0,0,0,.1);
+  width: 100%;
+  padding: 8px 16px;
+}
+
+.cell-buttons span.mdl-textfield {
+  padding: 0 16px 0 0;
+}
+
+.cell-buttons span .mdl-textfield__input {
+  display: inline;
+}
+
+.cell-buttons span .mdl-textfield__label {
+  top: 0;
+}
+
+.cell-buttons span .mdl-textfield__label:after {
+  bottom: 0;
+}
+
+.share-button img {
+  height: 36px;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+}
+
+.cell-title {
+  box-sizing: border-box;
+  background: #2196F3;
+  font-weight: 300;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: white;
+  width: 100%;
+  padding: 16px 32px;
+}
+
+.cell-title-large {
+  box-sizing: border-box;
+  background: #2196F3;
+  font-weight: 300;
+  font-family: 'Roboto';
+  font-size: 24px;
+  padding: 64px 32px 16px 32px;
+  color: white;
+  width: 100%;
+}
+
+span.mdl-spinner {
+  vertical-align: middle;
+}
+
+.progress-bar-caption {
+  font-size: 0.95em;
+  padding: 0 40px;
+  white-space: nowrap;
+  text-align: center;
+  position: relative;
+}
+
+.mdl-grid, .mdl-cell {
+  opacity: 1;
+  -webkit-transition: opacity .3s ease .15s, height 0s;
+  -moz-transition: opacity .3s ease .15s, height 0s;
+  -o-transition: opacity .3s ease .15s, height 0s;
+  -ms-transition: opacity .3s ease .15s, height 0s;
+  transition: opacity .3s ease .15s, height 0s;
+}
+
+.off
+{
+  opacity: 0;
+  display: none;
+}
+
+.onn
+{
+  opacity: 1 !important;
+  display: initial !important;
+  height: auto !important;
+}
+
+.mdl-snackbar {
+  font-family: inherit;
+}
+
+table.mymd {
+  border-collapse: collapse;
+}
+
+table.mymd td {
+  position: relative;
+  height: 48px;
+  border-top: 1px solid rgba(0,0,0,.12);
+  border-bottom: 1px solid rgba(0,0,0,.12);
+  padding: 12px 18px;
+  -box-sizing: border-box;
+}
+
+table.mdl-data-table,
+table.mymd {
+  white-space: normal;
+  word-wrap: break-word;
+  color: rgba(0,0,0,.74);
+}
+
+table.mymd tr:hover {
+  background-color: rgba(0,0,0,.04);
+}
+
+table.lefthead tr td:first-child {
+  font-weight: 700;
+  color: rgba(0,0,0,.54);
+  width: 1%;
+  font-family: 'Roboto';
+}
+
+table.mdl-data-table .mdl-radio,
+table.mymd .mdl-radio {
+  font-weight: 400;
+  font-size: 1em;
+  padding-right: 24px;
+}
+
+table.mdl-data-table td:first-of-type,
+table.mdl-data-table th:first-of-type,
+table.mymd td:first-of-type,
+table.mymd th:first-of-type {
+  padding-left: 32px;
+}
+
+table.full {
+  width: 100%;
+}
+
+select {
+  padding: 2px 4px;
+  font-size: 1em;
+  color: #444;
+}
+
+/* Charts */
+
+#ndtUploadPlot {
+  width: 71%;
+}
+.chart-upload-pie {
+  stroke: #00B8D4;
+}
+.chart-upload-all {
+  stroke: #84FFFF;
+}
+.chart-upload text {
+  font-family: sans-serif;
+  fill: #888;
+}
+
+
+#ndtDownloadPlot {
+  width: 71%;
+}
+.chart-download-pie {
+  stroke: #00C853;
+}
+.chart-download-all {
+  stroke: #B9F6CA;
+}
+.chart-download text {
+  font-family: sans-serif;
+  fill: #888;
+}

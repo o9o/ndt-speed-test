@@ -1,0 +1,1811 @@
+8.0.0.0 8.1.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.0.0 8.2.0.255 AS20473 ALTDB auto-generated route object for 8.2.0.0/24
+8.2.1.0 8.2.3.255 AS32473 LEVEL3 Centricvoice Route
+8.2.4.0 8.2.63.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.64.0 8.2.65.255 AS16803 LEVEL3 Proxy-registered route object
+8.2.66.0 8.2.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.96.0 8.2.96.255 AS13909 LEVEL3 Techie Hosting, Inc.
+8.2.97.0 8.2.98.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.99.0 8.2.99.255 AS29891 LEVEL3 route for National Cable
+8.2.100.0 8.2.100.255 AS36184 RADB Madison Tyler LLC
+8.2.101.0 8.2.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.112.0 8.2.112.255 AS13909 ARIN Techie Hosting, Inc.
+8.2.113.0 8.2.113.63 AS3356 LEVEL3 Proxy-registered route object
+8.2.113.64 8.2.113.95 AS10753 LEVEL3 Hudson United Bank Maintainer
+8.2.113.96 8.2.113.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.114.0 8.2.114.255 AS6395 LEVEL3 Proxy-registered route object
+8.2.115.0 8.2.117.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.118.0 8.2.119.255 AS13909 ARIN Techie Hosting, Inc.
+8.2.120.0 8.2.122.255 AS20473 ALTDB auto-generated route object for 8.2.120.0/24
+8.2.123.0 8.2.123.255 AS46766 RADB Archive Systems
+8.2.124.0 8.2.127.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.128.0 8.2.128.255 AS19067 LEVEL3 TeleTech
+8.2.129.0 8.2.143.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.144.0 8.2.144.255 AS36394 LEVEL3 BBBH89478::GRID_4_COMMUNICATIONS-RESELLER
+8.2.145.0 8.2.145.255 AS19067 LEVEL3 TT2570253
+8.2.146.0 8.2.147.255 AS36394 LEVEL3 BBBH89478::GRID_4_COMMUNICATIONS-RESELLER
+8.2.148.0 8.2.175.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.176.0 8.2.176.255 AS10753 LEVEL3 Customer route 2
+8.2.177.0 8.2.183.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.184.0 8.2.185.255 AS23089 RADB Auto Generated Route Object for 8.2.184.0/23 via AS23089
+8.2.186.0 8.2.207.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.208.0 8.2.215.255 AS10753 LEVEL3 8 Class C's for Telcom Supply
+8.2.216.0 8.2.216.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.217.0 8.2.217.255 AS23089 RADB Auto Generated Route Object for 8.2.217.0/24 via AS23089
+8.2.218.0 8.2.219.255 AS3356 LEVEL3 Proxy-registered route object
+8.2.220.0 8.2.223.255 AS23089 RADB Auto Generated Route Object for 8.2.220.0/23 via AS23089
+8.2.224.0 8.2.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.0.0 8.3.1.255 AS30594 LEVEL3 l3-23.plaync.net
+8.3.2.0 8.3.2.255 AS33024 LEVEL3 Level3 assigned addressing
+8.3.3.0 8.3.4.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.5.0 8.3.7.255 AS20473 ALTDB Los Angeles
+8.3.8.0 8.3.11.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.12.0 8.3.12.255 AS14711 LEVEL3 INTERMIX-BGP
+8.3.13.0 8.3.13.255 AS26769 LEVEL3 BANDCON-BGP
+8.3.14.0 8.3.14.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.15.0 8.3.15.255 AS14711 LEVEL3 INTERMIX-BGP
+8.3.16.0 8.3.16.127 AS26769 LEVEL3 BANDCON-BGP
+8.3.16.128 8.3.16.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.17.0 8.3.18.255 AS10753 LEVEL3 /24 for CWIE/LEGALZOOM
+8.3.19.0 8.3.19.255 AS26769 LEVEL3 BANDCON-BGP
+8.3.20.0 8.3.21.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.22.0 8.3.23.255 AS40165 LEVEL3 TeraMESH Networks, LLC. - Level3 NYC1 Block
+8.3.24.0 8.3.25.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.26.0 8.3.27.255 AS26769 LEVEL3 BANDCON-BGP
+8.3.28.0 8.3.29.255 AS20473 ALTDB Los Angeles
+8.3.30.0 8.3.30.255 AS4826 LEVEL3 VOCUS-CUST-AS15133
+8.3.31.0 8.3.31.255 AS22886 NTTCOM Incomm
+8.3.32.0 8.3.32.255 AS7296 LEVEL3 creating route
+8.3.33.0 8.3.33.255 AS14757 LEVEL3 DSW-US-BGP
+8.3.34.0 8.3.35.255 AS17110 RADB Yahoo Corp SoCal block
+8.3.36.0 8.3.36.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.37.0 8.3.37.255 AS21640 LEVEL3 DIVO-LAX 8.3.37.0/24
+8.3.38.0 8.3.39.255 AS16420 RADB Proxy-registered route object
+8.3.40.0 8.3.45.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.46.0 8.3.46.255 AS21640 LEVEL3 DIVO-LAX 8.3.46.0/24
+8.3.47.0 8.3.47.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.48.0 8.3.51.255 AS10753 LEVEL3 8.3.48.0/22 Route for HN Berger
+8.3.52.0 8.3.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.112.0 8.3.127.255 AS7131 RADB IT&E
+8.3.128.0 8.3.129.127 AS3356 LEVEL3 Proxy-registered route object
+8.3.129.128 8.3.129.255 AS26348 LEVEL3 one phone route
+8.3.130.0 8.3.131.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.132.0 8.3.135.255 AS19598 RADB ONTARIO-DATACENTER routes
+8.3.136.0 8.3.159.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.160.0 8.3.160.255 AS36524 ARIN Molina healthcare DC One Golden Shore Long Beach, California 90802 US     =20
+8.3.161.0 8.3.161.255 AS12050 LEVEL3 Creating route for Directv
+8.3.162.0 8.3.162.255 AS17058 ARIN VOICE004
+8.3.163.0 8.3.163.255 AS12050 LEVEL3 DIRECTV
+8.3.164.0 8.3.207.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.208.0 8.3.208.255 AS36431 ALTDB Userplane /24 L3 #1
+8.3.209.0 8.3.209.255 AS26769 LEVEL3 BANDCON-BGP-REVVER
+8.3.210.0 8.3.210.255 AS27524 RADB Level 3  High Speed Internet Allocation
+8.3.211.0 8.3.211.255 AS40415 ALTDB Veoh  Level3 block #1 
+8.3.212.0 8.3.212.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.213.0 8.3.213.255 AS4739 NTTCOM Internode
+8.3.214.0 8.3.215.255 AS23286 ALTDB Hulu
+8.3.216.0 8.3.216.255 AS15170 ALTDB Spark-networks.com /24 L3 #1
+8.3.217.0 8.3.217.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.218.0 8.3.219.255 AS26769 LEVEL3 BANDCON_AS-BGP  by droisman 
+8.3.220.0 8.3.220.255 AS10753 LEVEL3 8.3.220.0/24 Route for DivX
+8.3.221.0 8.3.225.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.226.0 8.3.227.255 AS40679 RADB Integra Telecom Route Object
+8.3.228.0 8.3.231.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.232.0 8.3.235.255 AS23134 LEVEL3 Live Universe Inc
+8.3.236.0 8.3.249.255 AS3356 LEVEL3 Proxy-registered route object
+8.3.250.0 8.3.251.255 AS30097 LEVEL3 NuWave Holdings, Inc. network 1.
+8.3.252.0 8.3.252.255 AS14602 RADB 910 15th St Teliax
+8.3.253.0 8.3.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.4.0.0 8.4.0.255 AS29947 LEVEL3 Router for Connolly
+8.4.1.0 8.4.10.255 AS3356 LEVEL3 Proxy-registered route object
+8.4.11.0 8.4.11.255 AS35873 LEVEL3 8.4.11.0/24 route for Move Networks
+8.4.12.0 8.4.33.255 AS3356 LEVEL3 Proxy-registered route object
+8.4.34.0 8.4.35.255 AS33529 SAVVIS PNAP-SJE modmission-routes
+8.4.36.0 8.4.39.255 AS3356 LEVEL3 Proxy-registered route object
+8.4.40.0 8.4.47.255 AS33529 SAVVIS PNAP-SJE modmission-routes
+8.4.48.0 8.4.59.255 AS13332 ALTDB Silicon Valley Web Hosting PE#1
+8.4.60.0 8.4.63.255 AS10913 SAVVIS PNAP-WDC002 Giglinx-Internap Routes
+8.4.64.0 8.4.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.4.96.0 8.4.111.255 AS10753 LEVEL3 route for neopoint in sdg
+8.4.112.0 8.4.112.255 AS3356 LEVEL3 Proxy-registered route object
+8.4.113.0 8.4.113.255 AS10753 LEVEL3 route for neopoint in sdg
+8.4.114.0 8.4.119.255 AS3356 LEVEL3 Proxy-registered route object
+8.4.120.0 8.4.123.255 AS19557 LEVEL3 Route for CHANGEIP-MNT
+8.4.124.0 8.4.159.255 AS3356 LEVEL3 Proxy-registered route object
+8.4.160.0 8.4.161.255 AS10753 LEVEL3 route for liveops
+8.4.162.0 8.4.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.4.224.0 8.4.224.255 AS13546 LEVEL3 Primary route for hsa1.sjo1
+8.4.225.0 8.4.225.255 AS40548 LEVEL3 route for Infinera
+8.4.226.0 8.4.226.255 AS46186 LEVEL3 GILEAD SCIENCES, INC.
+8.4.227.0 8.4.227.255 AS46953 SAVVIS AXA Rosenberg Global Services
+8.4.228.0 8.4.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.5.0.0 8.5.1.255 AS26415 RADB VeriSign Customer Route
+8.5.2.0 8.5.3.255 AS26769 LEVEL3 BANDCON_AS-BGP  by droisman 
+8.5.4.0 8.5.191.255 AS3356 LEVEL3 Proxy-registered route object
+8.5.192.0 8.5.196.255 AS13989 LEVEL3 Route 5
+8.5.197.0 8.5.230.255 AS3356 LEVEL3 Proxy-registered route object
+8.5.231.0 8.5.231.255 AS21740 LEVEL3 Switch Communications Customer Route
+8.5.232.0 8.5.243.255 AS3356 LEVEL3 Proxy-registered route object
+8.5.244.0 8.5.244.255 AS19397 ALTDB SJC-Equinix
+8.5.245.0 8.5.245.255 AS3356 LEVEL3 Proxy-registered route object
+8.5.246.0 8.5.246.255 AS35873 LEVEL3 8.5.246.0/24 Route for Move Networks
+8.5.247.0 8.5.247.255 AS3356 LEVEL3 Proxy-registered route object
+8.5.248.0 8.5.248.255 AS32308 SAVVIS PNAP-WDC002 8x8inc Route/Prefix
+8.5.249.0 8.5.250.255 AS4826 LEVEL3 VOCUS-CUST-AS15133
+8.5.251.0 8.5.251.255 AS26110 LEVEL3 /24 for Platial
+8.5.252.0 8.6.0.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.1.0 8.6.1.255 AS14276 SAVVIS PNAP-SFO NETLOGIC
+8.6.2.0 8.6.3.255 AS20473 RADB AS20473
+8.6.4.0 8.6.5.255 AS40386 RADB Proxy Registration for AS40386
+8.6.6.0 8.6.6.255 AS14276 SAVVIS PNAP-SFO NETLOGIC
+8.6.7.0 8.6.7.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.8.0 8.6.9.255 AS20473 RADB AS20473
+8.6.10.0 8.6.12.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.13.0 8.6.13.127 AS10753 LEVEL3 /26 for Ebuddy.com
+8.6.13.128 8.6.13.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.14.0 8.6.14.255 AS14236 LEVEL3 San Jose route
+8.6.15.0 8.6.15.255 AS20473 RADB AS20473
+8.6.16.0 8.6.17.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.18.0 8.6.18.255 AS22886 LEVEL3 New route per customer request TT2212589
+8.6.19.0 8.6.19.255 AS13535 LEVEL3 TKT000417967/Prefix Add
+8.6.20.0 8.6.23.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.24.0 8.6.24.255 AS10753 LEVEL3 lightsurf
+8.6.25.0 8.6.47.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.48.0 8.6.55.255 AS36492 RADB Google
+8.6.56.0 8.6.63.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.64.0 8.6.64.255 AS40054 ARIN Avatara LLC 3701 Lindell Blvd. Suite 43 St. Louis, MO 63108 US
+8.6.65.0 8.6.67.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.68.0 8.6.71.255 AS17037 ALTDB AshCom NET-8-6-68-0-1 210 N. Tucker Blvd Ste 350 St. Louis, MO 63101 US
+8.6.72.0 8.6.73.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.74.0 8.6.76.255 AS32475 ALTDB STL1
+8.6.77.0 8.6.77.255 AS20473 ALTDB STL1
+8.6.78.0 8.6.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.80.0 8.6.80.255 AS11734 SAVVIS PNAP-PHI connectria-routes
+8.6.81.0 8.6.81.255 AS11186 LEVEL3 Proxy-registered route object
+8.6.82.0 8.6.88.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.89.0 8.6.89.255 AS11734 SAVVIS PNAP-PHI connectria-routes
+8.6.90.0 8.6.91.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.92.0 8.6.93.255 AS19905 RADB AC-CONNECTRIA
+8.6.94.0 8.6.94.255 AS11186 LEVEL3 Proxy-registered route object
+8.6.95.0 8.6.95.255 AS11734 SAVVIS PNAP-PHI connectria-routes
+8.6.96.0 8.6.96.255 AS15133 LEVEL3 EdgeCast Networks route
+8.6.97.0 8.6.114.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.115.0 8.6.115.255 AS18468 LEVEL3 /24 for Poorman-Douglas
+8.6.116.0 8.6.175.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.176.0 8.6.176.255 AS23468 ALTDB Microsoft Xbox
+8.6.177.0 8.6.192.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.193.0 8.6.193.255 AS20473 ALTDB Tampa
+8.6.194.0 8.6.194.255 AS14133 LEVEL3 Kent Tech route
+8.6.195.0 8.6.219.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.220.0 8.6.223.255 AS30217 ARIN Hostway Allocation
+8.6.224.0 8.6.239.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.240.0 8.6.240.255 AS22549 LEVEL3 Advertised route to L3
+8.6.241.0 8.6.241.255 AS33724 ARIN Biznesshosting, Inc. DBA VOLICO 2700 N. State Rd. 7 Hollywood, FL 33021 US
+8.6.242.0 8.6.243.255 AS3356 LEVEL3 Proxy-registered route object
+8.6.244.0 8.6.245.255 AS22773 LEVEL3 AT CBS TRANSIT
+8.6.246.0 8.7.28.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.29.0 8.7.29.127 AS10753 LEVEL3 route for PNTV
+8.7.29.128 8.7.29.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.30.0 8.7.30.255 AS19452 SAVVIS Oaktree Capital Mgmt
+8.7.31.0 8.7.32.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.33.0 8.7.33.255 AS10753 LEVEL3 firebrand
+8.7.34.0 8.7.48.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.49.0 8.7.49.255 AS33472 SAVVIS PNAP-NYC INTERNAP_THORN_ROUTE
+8.7.50.0 8.7.50.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.51.0 8.7.51.255 AS33472 SAVVIS PNAP-NYC INTERNAP_THORN_ROUTE
+8.7.52.0 8.7.59.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.60.0 8.7.63.255 AS21840 LEVEL3 SAGO-L3-MIA-2
+8.7.64.0 8.7.64.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.65.0 8.7.65.255 AS14066 ARIN Telmetrics Mississauga, Ontario CA
+8.7.66.0 8.7.66.255 AS23409 ARIN FOFCOS
+8.7.67.0 8.7.67.255 AS12050 LEVEL3 route for directv
+8.7.68.0 8.7.71.255 AS15162 RADB Denver VOIP subnet
+8.7.72.0 8.7.80.191 AS3356 LEVEL3 Proxy-registered route object
+8.7.80.192 8.7.80.255 AS10753 LEVEL3 Backend Route for Telefinity
+8.7.81.0 8.7.81.255 AS32482 LEVEL3 CWIE AS32482
+8.7.82.0 8.7.82.255 AS10753 LEVEL3 /24 for Cable Labs
+8.7.83.0 8.7.83.255 AS32808 LEVEL3 Class C Subnet assigned to Utah Broadband LLC from Level3
+8.7.84.0 8.7.85.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.86.0 8.7.87.255 AS32482 LEVEL3 CWIE AS32482
+8.7.88.0 8.7.89.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.90.0 8.7.90.255 AS25741 LEVEL3 SKYBEAM-10
+8.7.91.0 8.7.93.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.94.0 8.7.94.255 AS18570 LEVEL3 customer route
+8.7.95.0 8.7.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.96.0 8.7.99.255 AS22329 LEVEL3 Approved /22 by IPJ for BayMountain
+8.7.100.0 8.7.103.255 AS19271 ARIN PEAK10
+8.7.104.0 8.7.107.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.108.0 8.7.108.255 AS22357 ARIN HEALT011
+8.7.109.0 8.7.143.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.144.0 8.7.159.255 AS15082 LEVEL3 BBBG51800::PRIME INTERNET, LLC
+8.7.160.0 8.7.175.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.176.0 8.7.177.255 AS21840 SAVVIS PNAP-ACS sagonet route
+8.7.178.0 8.7.191.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.192.0 8.7.193.255 AS27005 LEVEL3 PinPoint, Inc
+8.7.194.0 8.7.195.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.196.0 8.7.196.255 AS14567 LEVEL3 4637806
+8.7.197.0 8.7.208.63 AS3356 LEVEL3 Proxy-registered route object
+8.7.208.64 8.7.208.95 AS10753 LEVEL3 Route
+8.7.208.96 8.7.209.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.210.0 8.7.210.255 AS14066 ARIN Telmetrics Mississauga, Ontario CA
+8.7.211.0 8.7.211.255 AS11011 LEVEL3 case 4900233
+8.7.212.0 8.7.215.255 AS27005 LEVEL3 New IP block assigned to this customer
+8.7.216.0 8.7.216.255 AS33459 LEVEL3 Evault route
+8.7.217.0 8.7.217.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.218.0 8.7.218.255 AS10753 LEVEL3 LYRIS route
+8.7.219.0 8.7.222.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.223.0 8.7.223.255 AS10753 LEVEL3 /24 for North American Telecomm
+8.7.224.0 8.7.224.255 AS21640 LEVEL3 DIVO-EWR 8.7.224.0/24
+8.7.225.0 8.7.225.255 AS13909 LEVEL3 Techie Hosting, Inc.
+8.7.226.0 8.7.226.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.227.0 8.7.227.255 AS16641 ARIN Level3 165 Halsey St Newark, NJ 07012 US
+8.7.228.0 8.7.228.255 AS26478 LEVEL3 generated for Novartis
+8.7.229.0 8.7.231.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.232.0 8.7.232.255 AS13909 LEVEL3 Techie Hosting, Inc.
+8.7.233.0 8.7.233.255 AS20473 ALTDB auto-generated route object for 8.7.233.0/24
+8.7.234.0 8.7.243.255 AS3356 LEVEL3 Proxy-registered route object
+8.7.244.0 8.7.244.255 AS16276 RIPE OVH
+8.7.245.0 8.8.1.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.2.0 8.8.2.255 AS44965 LEVEL3 Workaround for 8x8
+8.8.3.0 8.8.3.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.4.0 8.8.4.3 AS15169 RADB Google
+8.8.4.4 8.8.4.4 AS19905 RADB SP_BEEKSFX
+8.8.4.5 8.8.4.255 AS15169 RADB Google
+8.8.5.0 8.8.7.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.8.0 8.8.8.7 AS15169 RADB Google
+8.8.8.8 8.8.8.8 AS19905 RADB SP_BEEKSFX
+8.8.8.9 8.8.8.255 AS15169 RADB Google
+8.8.9.0 8.8.9.255 AS27646 LEVEL3 Level3-Route1
+8.8.10.0 8.8.11.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.12.0 8.8.12.255 AS10753 LEVEL3 LYRIS route
+8.8.13.0 8.8.13.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.14.0 8.8.14.255 AS40538 ALTDB VideoEgg-Level3-block
+8.8.15.0 8.8.30.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.31.0 8.8.31.255 AS20366 RADB LinkedIn/Level3 2029 Stierlin Ct Mountain View, CA 94043
+8.8.32.0 8.8.32.255 AS10753 LEVEL3 customer route
+8.8.33.0 8.8.33.255 AS7029 RADB Windstream  PaeTec 
+8.8.34.0 8.8.36.63 AS3356 LEVEL3 Proxy-registered route object
+8.8.36.64 8.8.36.127 AS15189 LEVEL3 New route per customer request
+8.8.36.128 8.8.37.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.38.0 8.8.38.255 AS18990 SAVVIS PNAP-ACS Airband Comm
+8.8.39.0 8.8.39.255 AS26471 LEVEL3 HANIFEN STIFEL NICOULAUS
+8.8.40.0 8.8.40.255 AS15189 LEVEL3 New route per customer request
+8.8.41.0 8.8.41.255 AS33321 LEVEL3 Skyline
+8.8.42.0 8.8.63.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.64.0 8.8.64.255 AS15133 LEVEL3 Proxy-registered route object
+8.8.65.0 8.8.65.255 AS22886 LEVEL3 New route per customer request TT2212589
+8.8.66.0 8.8.67.255 AS13620 ARIN USA4SALE NETWORKS, INC. 22 SOUTH PINE AVE OCALA, FL 34471 1-352-629-1663
+8.8.68.0 8.8.71.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.72.0 8.8.79.255 AS65001 LEVEL3 IBM Regus HSIP route
+8.8.80.0 8.8.95.255 AS14323 LEVEL3 Syniverse Atlanta ISP
+8.8.96.0 8.8.127.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.128.0 8.8.135.255 AS14135 RADB Level3-Navisite-WSI
+8.8.136.0 8.8.136.255 AS18908 LEVEL3 Adding route
+8.8.137.0 8.8.143.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.144.0 8.8.159.255 AS10425 LEVEL3 TelCove BGP Customer netblock
+8.8.160.0 8.8.175.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.176.0 8.8.176.255 AS25920 LEVEL3 Everynetwork, Inc. main network
+8.8.177.0 8.8.177.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.178.0 8.8.178.255 AS36129 LEVEL3 Maven Networks
+8.8.179.0 8.8.191.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.192.0 8.8.193.255 AS14728 LEVEL3 route for current communications
+8.8.194.0 8.8.194.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.195.0 8.8.195.255 AS15005 LEVEL3 NATIONAL CITY BANK
+8.8.196.0 8.8.203.255 AS14728 LEVEL3 route for current communications
+8.8.204.0 8.8.204.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.205.0 8.8.205.255 AS14236 SAVVIS PNAP-SJE adaranet route
+8.8.206.0 8.8.206.255 AS21707 LEVEL3 Creating Route Object
+8.8.207.0 8.8.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.224.0 8.8.225.255 AS46897 LEVEL3 Added for Springbok
+8.8.226.0 8.8.240.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.241.0 8.8.241.255 AS10753 LEVEL3 /24 for Premiere Conferencing
+8.8.242.0 8.8.244.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.245.0 8.8.245.255 AS11546 LEVEL3 /24 for
+8.8.246.0 8.8.252.255 AS3356 LEVEL3 Proxy-registered route object
+8.8.253.0 8.8.255.255 AS10753 LEVEL3 for premierglobal
+8.9.0.0 8.9.1.255 AS3356 LEVEL3 Proxy-registered route object
+8.9.2.0 8.9.2.255 AS21640 LEVEL3 DIVO-CHI 8.9.2.0/24
+8.9.3.0 8.9.3.255 AS11306 LEVEL3 Nighthawk 8.9.3.0/24 route
+8.9.4.0 8.9.5.255 AS20473 ALTDB auto-generated route object for 8.9.4.0/24
+8.9.6.0 8.9.6.255 AS11306 LEVEL3 8.9.6.0/24 route for Nighthawk
+8.9.7.0 8.9.7.255 AS14276 ARIN Straitshot 330 112th Ave NE # 301 Bellevue, WA 98004 US
+8.9.8.0 8.9.9.255 AS20473 ALTDB auto-generated route object for 8.9.8.0/24
+8.9.10.0 8.9.10.255 AS11306 LEVEL3 8.9.10.0/24 route for Nighthawk
+8.9.11.0 8.9.11.255 AS20473 ALTDB auto-generated route object for 8.9.11.0/24
+8.9.12.0 8.9.13.255 AS14276 ARIN Straitshot 330 112th Ave NE # 301 Bellevue, WA 98004 US
+8.9.14.0 8.9.14.255 AS3356 LEVEL3 Proxy-registered route object
+8.9.15.0 8.9.17.255 AS20473 ALTDB auto-generated route object for 8.9.15.0/24
+8.9.18.0 8.9.19.255 AS3356 LEVEL3 Proxy-registered route object
+8.9.20.0 8.9.21.255 AS14276 ARIN Straitshot 330 112th Ave NE # 301 Bellevue, WA 98004 US
+8.9.22.0 8.9.23.255 AS31883 LEVEL3 8.9.22.0/24 Route for Kanoodle
+8.9.24.0 8.9.27.255 AS25819 LEVEL3 Case2908962
+8.9.28.0 8.9.29.255 AS3356 LEVEL3 Proxy-registered route object
+8.9.30.0 8.9.31.255 AS20473 ALTDB auto-generated route object for 8.9.30.0/24
+8.9.32.0 8.9.35.255 AS29803 LEVEL3 Resilient Networks
+8.9.36.0 8.9.37.255 AS20473 ALTDB auto-generated route object for 8.9.36.0/24
+8.9.38.0 8.9.38.255 AS19067 LEVEL3 VAILSYS-CHI-SIP-SHRD
+8.9.39.0 8.9.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.9.96.0 8.9.97.255 AS32182 LEVEL3 New route per customer request
+8.9.98.0 8.9.191.255 AS3356 LEVEL3 Proxy-registered route object
+8.9.192.0 8.9.223.255 AS32473 LEVEL3 Centricvoice Routes
+8.9.224.0 8.9.225.255 AS3356 LEVEL3 Proxy-registered route object
+8.9.226.0 8.9.227.255 AS23089 RADB Auto Generated Route Object for 8.9.226.0/23 via AS23089
+8.9.228.0 8.9.234.255 AS3356 LEVEL3 Proxy-registered route object
+8.9.235.0 8.9.235.255 AS14236 LEVEL3 Dallas route
+8.9.236.0 8.9.236.255 AS10753 LEVEL3 Premier Conf Route
+8.9.237.0 8.9.237.255 AS13577 ALTDB LiveOps
+8.9.238.0 8.9.238.255 AS3356 LEVEL3 Proxy-registered route object
+8.9.239.0 8.9.239.255 AS10753 LEVEL3 officeware route
+8.9.240.0 8.10.1.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.2.0 8.10.2.255 AS32787 ALTDB Akamai Technologies
+8.10.3.0 8.10.7.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.8.0 8.10.8.255 AS12989 LEVEL3 Highwinds Network Group, Inc.
+8.10.9.0 8.10.9.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.10.0 8.10.10.255 AS20446 ALTDB Highwinds Network Group
+8.10.11.0 8.10.11.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.12.0 8.10.12.255 AS18541 RADB Level3 block SWIP'd to Blue Jeans
+8.10.13.0 8.10.17.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.18.0 8.10.19.255 AS10949 LEVEL3 route update via web
+8.10.20.0 8.10.33.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.34.0 8.10.34.255 AS14236 LEVEL3 Miami route
+8.10.35.0 8.10.47.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.48.0 8.10.48.255 AS22886 LEVEL3 New route per customer request TT2212589
+8.10.49.0 8.10.49.255 AS21840 LEVEL3 SAGONET-MIA-L301
+8.10.50.0 8.10.50.255 AS32760 LEVEL3 Proxy-registered route object
+8.10.51.0 8.10.51.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.52.0 8.10.53.255 AS21840 LEVEL3 SAGONET-MIA-L302
+8.10.54.0 8.10.56.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.57.0 8.10.57.255 AS10753 LEVEL3 /24 for North American Telecomm
+8.10.58.0 8.10.59.255 AS12180 SAVVIS PNAP-MIA strauss
+8.10.60.0 8.10.61.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.62.0 8.10.62.255 AS10753 LEVEL3 /24 for North American Telecomm
+8.10.63.0 8.10.64.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.65.0 8.10.69.255 AS11168 LEVEL3 route for scc-mnt
+8.10.70.0 8.10.70.255 AS7381 LEVEL3 pr0p block 1
+8.10.71.0 8.10.71.255 AS11168 LEVEL3 route for SCC
+8.10.72.0 8.10.75.255 AS29990 ALTDB AppNexus - BC1
+8.10.76.0 8.10.76.255 AS22196 LEVEL3 Bandcon customer route
+8.10.77.0 8.10.79.255 AS26769 LEVEL3 L3-Bandcon-IPs
+8.10.80.0 8.10.80.255 AS46161 LEVEL3 cus route
+8.10.81.0 8.10.113.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.114.0 8.10.117.255 AS21904 LEVEL3 PowerOne, Level3-114.
+8.10.118.0 8.10.118.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.119.0 8.10.119.255 AS25642 ALTDB SPIDER-1
+8.10.120.0 8.10.120.255 AS33182 ALTDB Dimenoc - Florida
+8.10.121.0 8.10.127.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.128.0 8.10.128.255 AS25642 ALTDB SPIDER-2
+8.10.129.0 8.10.131.255 AS10753 LEVEL3 /24 for EDS
+8.10.132.0 8.10.139.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.140.0 8.10.140.255 AS22796 ARIN Cru 100 Lake Hart Dr. Orlando, FL 32832 US
+8.10.141.0 8.10.159.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.160.0 8.10.160.255 AS19181 LEVEL3 CWIE-SS-PHX-BLK
+8.10.161.0 8.10.161.255 AS19437 LEVEL3 TEST-PNAP
+8.10.162.0 8.10.162.255 AS19181 LEVEL3 L3-IP-SPACE-NET-602
+8.10.163.0 8.10.167.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.168.0 8.10.175.255 AS19048 LEVEL3 Creating route
+8.10.176.0 8.10.177.255 AS14818 ALTDB Internet at Cyber Mesa
+8.10.178.0 8.10.179.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.180.0 8.10.183.255 AS19403 LEVEL3 route for TAG
+8.10.184.0 8.10.193.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.194.0 8.10.194.255 AS16641 LEVEL3 ACBB-Bits
+8.10.195.0 8.10.209.63 AS3356 LEVEL3 Proxy-registered route object
+8.10.209.64 8.10.209.95 AS54476 LEVEL3 5450019
+8.10.209.96 8.10.209.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.210.0 8.10.210.255 AS16641 LEVEL3 Level3
+8.10.211.0 8.10.211.255 AS33351 LEVEL3 NGT route
+8.10.212.0 8.10.223.255 AS14323 LEVEL3 Syniverse Philly ISP
+8.10.224.0 8.10.240.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.241.0 8.10.241.255 AS22324 LEVEL3 Proxy-registered route object
+8.10.242.0 8.10.242.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.243.0 8.10.243.127 AS10753 LEVEL3 ALK
+8.10.243.128 8.10.244.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.245.0 8.10.245.255 AS30469 ALTDB Vonage Holdings 23 Main St Holmdel, NJ 07733 USA
+8.10.246.0 8.10.246.255 AS23396 LEVEL3 Nutrisystem
+8.10.247.0 8.10.247.255 AS3356 LEVEL3 Proxy-registered route object
+8.10.248.0 8.10.248.255 AS23396 LEVEL3 TT2436413
+8.10.249.0 8.10.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.11.0.0 8.11.0.255 AS33156 LEVEL3 route for bitxbit
+8.11.1.0 8.11.1.255 AS40442 LEVEL3 Creating route
+8.11.2.0 8.11.2.255 AS2033 PANIX Public Access Networks Corp
+8.11.3.0 8.11.3.255 AS20149 LEVEL3 8.11.3.0/24 Route for NHL
+8.11.4.0 8.11.163.255 AS3356 LEVEL3 Proxy-registered route object
+8.11.164.0 8.11.165.255 AS40165 LEVEL3 TeraMESH Networks, LLC. - Level3 NYC1 Block
+8.11.166.0 8.11.166.255 AS3356 LEVEL3 Proxy-registered route object
+8.11.167.0 8.11.167.255 AS40331 ARIN AutoOne Insurance Agency, Inc. 201 Old Country Road PO Box 9027 Melville, NY 11747 US
+8.11.168.0 8.11.191.255 AS3356 LEVEL3 Proxy-registered route object
+8.11.192.0 8.11.192.255 AS7148 RIPE Graphnet Inc
+8.11.193.0 8.11.248.255 AS3356 LEVEL3 Proxy-registered route object
+8.11.249.0 8.11.249.255 AS11168 LEVEL3 route for scc-mnt
+8.11.250.0 8.11.250.255 AS30434 LEVEL3 route object for Loews
+8.11.251.0 8.11.251.255 AS14236 LEVEL3 New York Route
+8.11.252.0 8.11.255.255 AS11168 LEVEL3 route for scc-mnt
+8.12.0.0 8.12.0.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.1.0 8.12.3.255 AS23089 RADB Auto Generated Route Object for 8.12.1.0/24 via AS23089
+8.12.4.0 8.12.4.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.5.0 8.12.5.255 AS14058 ARIN PointClick Technologies 5301 Departure Raleigh, NC 27616 US
+8.12.6.0 8.12.6.255 AS22561 SAVVIS add route
+8.12.7.0 8.12.7.255 AS53416 RADB RR-RC-Measurement Incorporated-Columbia
+8.12.8.0 8.12.8.255 AS22886 LEVEL3 New route per customer request TT2212589
+8.12.9.0 8.12.15.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.16.0 8.12.23.255 AS20473 ALTDB auto-generated route object for 8.12.16.0/24
+8.12.24.0 8.12.24.15 AS22886 NTTCOM Incomm
+8.12.24.16 8.12.24.255 AS30007 NTTCOM Incomm
+8.12.25.0 8.12.25.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.26.0 8.12.26.255 AS19067 LEVEL3 TT2570253
+8.12.27.0 8.12.27.255 AS53965 ARIN CORRE002
+8.12.28.0 8.12.31.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.32.0 8.12.37.255 AS10753 LEVEL3 Joyent
+8.12.38.0 8.12.39.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.40.0 8.12.47.255 AS10753 LEVEL3 Added per tkt 2258633
+8.12.48.0 8.12.51.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.52.0 8.12.52.255 AS26471 LEVEL3 HANIFEN STIFEL NICOULAUS
+8.12.53.0 8.12.53.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.54.0 8.12.54.255 AS10753 LEVEL3 CRS Route
+8.12.55.0 8.12.56.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.57.0 8.12.57.255 AS10753 LEVEL3 CRS Route
+8.12.58.0 8.12.58.255 AS7381 LEVEL3 tag0 block 1
+8.12.59.0 8.12.59.255 AS15202 LEVEL3 Geller and Company route
+8.12.60.0 8.12.60.255 AS46213 LEVEL3 route for LS Power
+8.12.61.0 8.12.61.255 AS33042 SAVVIS MaPs-8-12-61-0-24
+8.12.62.0 8.12.62.255 AS20262 LEVEL3 Data Innovations Route
+8.12.63.0 8.12.63.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.64.0 8.12.65.255 AS20473 ALTDB auto-generated route object for 8.12.64.0/23
+8.12.66.0 8.12.66.31 AS22886 NTTCOM Incomm
+8.12.66.32 8.12.66.255 AS27513 NTTCOM Incomm
+8.12.67.0 8.12.67.255 AS10753 LEVEL3 Premier Conf Route
+8.12.68.0 8.12.71.255 AS20473 ALTDB auto-generated route object for 8.12.68.0/22
+8.12.72.0 8.12.72.255 AS33127 RADB Prolexic Technologies, Inc.
+8.12.73.0 8.12.75.255 AS13767 SAVVIS /22 DataBank
+8.12.76.0 8.12.76.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.77.0 8.12.77.255 AS46129 LEVEL3 route update via web
+8.12.78.0 8.12.80.255 AS10753 LEVEL3 Case#2533500
+8.12.81.0 8.12.87.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.88.0 8.12.88.255 AS18928 LEVEL3 route for Credit Solutions
+8.12.89.0 8.12.89.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.90.0 8.12.91.255 AS18928 LEVEL3 route for Credit Solutions
+8.12.92.0 8.12.95.255 AS32775 LEVEL3 tt 465952
+8.12.96.0 8.12.97.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.98.0 8.12.98.255 AS30635 LEVEL3 new route  for DYNALINK COMMUNICATIONS, INC.
+8.12.99.0 8.12.99.255 AS55080 LEVEL3 Transbeam/I-2000
+8.12.100.0 8.12.103.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.104.0 8.12.104.255 AS31907 LEVEL3 4908936
+8.12.105.0 8.12.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.112.0 8.12.112.255 AS29152 LEVEL3 L2CT Route
+8.12.113.0 8.12.113.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.114.0 8.12.115.255 AS55080 LEVEL3 Transbeam/I-2000
+8.12.116.0 8.12.121.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.122.0 8.12.122.255 AS19970 RADB CarrierDomain
+8.12.123.0 8.12.127.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.128.0 8.12.129.175 AS11213 LEVEL3 Proxy-registered route object
+8.12.129.176 8.12.129.191 AS560 LEVEL3 AS560
+8.12.129.192 8.12.136.175 AS11213 LEVEL3 Proxy-registered route object
+8.12.136.176 8.12.136.191 AS560 LEVEL3 AS560
+8.12.136.192 8.12.143.255 AS11213 LEVEL3 Proxy-registered route object
+8.12.144.0 8.12.144.255 AS394340 RADB SPE datacenter
+8.12.145.0 8.12.145.255 AS36752 RADB Level3 Space advertised out SP1
+8.12.146.0 8.12.146.255 AS14778 RADB Yahoo! AC4 Block
+8.12.147.0 8.12.151.255 AS36752 RADB Yahoo SP2 Novarra
+8.12.152.0 8.12.152.255 AS27477 RADB IBM Corporation 10 North Martingale Rd Woodfield Preserve Schaumberg, IL 60173-2099 US
+8.12.153.0 8.12.154.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.155.0 8.12.155.255 AS11946 RADB AdCopy  SJC 
+8.12.156.0 8.12.156.255 AS15040 RADB Level 3 IP Block
+8.12.157.0 8.12.159.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.160.0 8.12.161.255 AS40935 LEVEL3 TT2619603
+8.12.162.0 8.12.164.255 AS26481 LEVEL3 route object for Bandcon
+8.12.165.0 8.12.183.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.184.0 8.12.191.255 AS32068 LEVEL3 8.12.184.0/21-MEMNET
+8.12.192.0 8.12.197.127 AS3356 LEVEL3 Proxy-registered route object
+8.12.197.128 8.12.197.255 AS560 LEVEL3 AS560
+8.12.198.0 8.12.214.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.215.0 8.12.215.127 AS560 LEVEL3 AS560
+8.12.215.128 8.12.216.127 AS3356 LEVEL3 Proxy-registered route object
+8.12.216.128 8.12.216.255 AS560 LEVEL3 AS560
+8.12.217.0 8.12.219.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.220.0 8.12.220.255 AS560 LEVEL3 AS560
+8.12.221.0 8.12.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.224.0 8.12.239.255 AS29990 ALTDB AppNexus - L3-1
+8.12.240.0 8.12.244.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.245.0 8.12.245.255 AS14721 RADB Two Rivers Trading
+8.12.246.0 8.12.247.255 AS12025 ARIN i/o
+8.12.248.0 8.12.249.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.250.0 8.12.250.255 AS16641 LEVEL3 ACBB-Bits
+8.12.251.0 8.12.251.255 AS12286 LEVEL3 Route update for PrincetonHCS
+8.12.252.0 8.12.253.255 AS3356 LEVEL3 Proxy-registered route object
+8.12.254.0 8.12.254.255 AS26411 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.12.255.0 8.13.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.0.0 8.14.0.255 AS394562 ARIN Stripe, Inc. infrastructure
+8.14.1.0 8.14.31.255 AS46164 LEVEL3 2885134
+8.14.32.0 8.14.32.255 AS13647 ARIN tqhosting_8.14.32.0
+8.14.33.0 8.14.40.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.41.0 8.14.41.255 AS16674 LEVEL3 8.14.41.0/24 route for Compass
+8.14.42.0 8.14.43.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.44.0 8.14.47.255 AS15162 RADB Charlotte VOIP subnet
+8.14.48.0 8.14.51.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.52.0 8.14.53.255 AS30016 LEVEL3 Proxy-registered route object
+8.14.54.0 8.14.56.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.57.0 8.14.57.255 AS33012 SAVVIS PNAP-MIA venturian-1
+8.14.58.0 8.14.63.255 AS23089 RADB Auto Generated Route Object for 8.14.58.0/24 via AS23089
+8.14.64.0 8.14.66.255 AS11168 LEVEL3 route for scc-mnt
+8.14.67.0 8.14.67.255 AS10753 LEVEL3 creating Object
+8.14.68.0 8.14.71.255 AS11168 LEVEL3 route for scc-mnt
+8.14.72.0 8.14.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.80.0 8.14.80.255 AS12057 LEVEL3 LiveVox, Inc. 450 Sansome Street, 9th Floor, San Francisco, CA 94111 US
+8.14.81.0 8.14.81.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.82.0 8.14.82.255 AS10753 ARIN Manhattan DFW
+8.14.83.0 8.14.83.255 AS21655 ARIN BlogTalkRadio
+8.14.84.0 8.14.87.255 AS33452 ARIN Colocation Partners - Cinquix Customer Route
+8.14.88.0 8.14.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.96.0 8.14.97.255 AS12050 LEVEL3 DIRECTV
+8.14.98.0 8.14.98.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.99.0 8.14.99.255 AS36184 RADB Madison Tyler LLC
+8.14.100.0 8.14.102.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.103.0 8.14.103.255 AS54560 RADB RADIO ONE/ATLANTECH
+8.14.104.0 8.14.104.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.105.0 8.14.105.255 AS8513 RIPE SKYVISION
+8.14.106.0 8.14.112.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.113.0 8.14.113.255 AS26378 LEVEL3 cus route
+8.14.114.0 8.14.114.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.115.0 8.14.115.255 AS6919 SAVVIS PNAP-LAX impact-routes
+8.14.116.0 8.14.116.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.117.0 8.14.117.255 AS34948 LEVEL3 TYPHON US BLOCK #1
+8.14.118.0 8.14.119.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.120.0 8.14.120.255 AS14602 RADB 910 15th St Teliax
+8.14.121.0 8.14.125.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.126.0 8.14.127.255 AS18692 SAVVIS PNAP-NYM neuberger
+8.14.128.0 8.14.129.255 AS14173 SAVVIS PHOTOBUCKET.COM: NET-8-14-128-0-23
+8.14.130.0 8.14.144.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.145.0 8.14.147.255 AS26481 LEVEL3 route object for Bandcon
+8.14.148.0 8.14.157.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.158.0 8.14.159.255 AS23089 RADB Auto Generated Route Object for 8.14.158.0/23 via AS23089
+8.14.160.0 8.14.163.255 AS14323 LEVEL3 Syniverse Philly ISP
+8.14.164.0 8.14.164.255 AS32999 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.14.165.0 8.14.165.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.166.0 8.14.166.255 AS20053 LEVEL3 TT2644238
+8.14.167.0 8.14.167.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.168.0 8.14.171.255 AS14126 ARIN Voicestar
+8.14.172.0 8.14.175.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.176.0 8.14.179.255 AS19897 LEVEL3 BroadVox CLE customer network
+8.14.180.0 8.14.180.255 AS21707 LEVEL3 SLX route
+8.14.181.0 8.14.185.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.186.0 8.14.187.255 AS36298 RADB Internet access and hosting
+8.14.188.0 8.14.196.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.197.0 8.14.197.255 AS11179 RADB ARYAKA NETWORKS INC.
+8.14.198.0 8.14.209.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.210.0 8.14.211.255 AS26415 RADB VeriSign Customer Route
+8.14.212.0 8.14.219.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.220.0 8.14.220.255 AS10753 LEVEL3 Seattle
+8.14.221.0 8.14.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.14.224.0 8.14.255.255 AS594 LEVEL3 tkt 1994664
+8.15.0.0 8.15.0.255 AS36217 ARIN IronPath BGP Routes
+8.15.1.0 8.15.1.255 AS14244 ARIN NSIHosting
+8.15.2.0 8.15.2.255 AS26049 LEVEL3 SES Americom, INC.
+8.15.3.0 8.15.3.255 AS23249 LEVEL3 Proxy-registered route object
+8.15.4.0 8.15.4.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.5.0 8.15.6.255 AS26049 LEVEL3 SES Americom, INC.
+8.15.7.0 8.15.8.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.9.0 8.15.9.255 AS30281 LEVEL3 Route for the Washington Post
+8.15.10.0 8.15.11.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.12.0 8.15.12.255 AS19397 ALTDB IAD-Equinix
+8.15.13.0 8.15.13.255 AS36184 RADB DC
+8.15.14.0 8.15.14.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.15.0 8.15.15.255 AS15133 LEVEL3 Proxy-registered route object
+8.15.16.0 8.15.127.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.128.0 8.15.143.255 AS2714 LEVEL3 Route
+8.15.144.0 8.15.162.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.163.0 8.15.163.255 AS21685 ARIN FDCA Data Processign Center 3 - Largo Largo, MD     =20 US     =20
+8.15.164.0 8.15.167.255 AS10753 LEVEL3 route update via web
+8.15.168.0 8.15.170.255 AS21685 ARIN FDCA Integration Lab 1 Largo, MD     =20 US     =20
+8.15.171.0 8.15.171.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.172.0 8.15.191.255 AS18624 LEVEL3 Customer Route
+8.15.192.0 8.15.201.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.202.0 8.15.202.255 AS15169 RADB Google
+8.15.203.0 8.15.203.255 AS62986 ARIN 8-15-203-0-24
+8.15.204.0 8.15.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.224.0 8.15.225.255 AS64224 RADB ATI Solutions
+8.15.226.0 8.15.226.255 AS10753 LEVEL3 TKT000425592/Prefix Add
+8.15.227.0 8.15.227.255 AS2631 LEVEL3 8.15.227.0/24 for Discovery
+8.15.228.0 8.15.228.31 AS10753 LEVEL3 New Route
+8.15.228.32 8.15.228.63 AS3356 LEVEL3 Proxy-registered route object
+8.15.228.64 8.15.228.127 AS18624 LEVEL3 City of Wilson route
+8.15.228.128 8.15.228.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.229.0 8.15.229.255 AS22279 SAVVIS PNAP-WDC002 aggknow-route
+8.15.230.0 8.15.230.255 AS26769 LEVEL3 Adding Route
+8.15.231.0 8.15.231.255 AS21740 LEVEL3 8.15.231.0/24 Route for Demand Media
+8.15.232.0 8.15.239.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.240.0 8.15.240.255 AS30300 SAVVIS PNAP-WDC002 icommerce-1
+8.15.241.0 8.15.241.127 AS26769 LEVEL3 tkt1853612
+8.15.241.128 8.15.241.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.242.0 8.15.242.255 AS14833 ALTDB digg
+8.15.243.0 8.15.243.255 AS26769 LEVEL3 L3-IP-to-BANDCON-IN-ASH
+8.15.244.0 8.15.244.255 AS40596 LEVEL3 Ticket3241368
+8.15.245.0 8.15.245.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.246.0 8.15.246.255 AS11483 ARIN Conviva, Inc Suite 400 989 E Hillsdale Blvd Foster City, CA 94404
+8.15.247.0 8.15.253.255 AS3356 LEVEL3 Proxy-registered route object
+8.15.254.0 8.15.254.255 AS18624 LEVEL3 new block
+8.15.255.0 8.15.255.255 AS18716 RADB PNAP-WDC002 buzzsaw
+8.16.0.0 8.17.4.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.5.0 8.17.5.255 AS27164 RADB 3356 originated PA space
+8.17.6.0 8.17.17.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.18.0 8.17.18.255 AS32059 RADB TradeStation Securities, Inc  TRADE-38 
+8.17.19.0 8.17.20.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.21.0 8.17.21.255 AS23494 LEVEL3 BCBS Route
+8.17.22.0 8.17.22.255 AS40711 RADB Prolexic Technologies, Inc.
+8.17.23.0 8.17.23.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.24.0 8.17.24.255 AS40800 LEVEL3 Travel Acquisition Group route
+8.17.25.0 8.17.31.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.32.0 8.17.32.191 AS26967 LEVEL3 tkt 3721784
+8.17.32.192 8.17.32.223 AS22969 LEVEL3 Ticket 5092129
+8.17.32.224 8.17.32.255 AS26967 LEVEL3 tkt 3721784
+8.17.33.0 8.17.33.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.34.0 8.17.34.255 AS26967 LEVEL3 tkt 3721784
+8.17.35.0 8.17.36.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.37.0 8.17.37.255 AS14602 RADB 910 15th St Teliax
+8.17.38.0 8.17.39.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.40.0 8.17.40.255 AS23089 RADB Auto Generated Route Object for 8.17.40.0/24 via AS23089
+8.17.41.0 8.17.41.255 AS20081 ALTDB NET2ATLANTA
+8.17.42.0 8.17.42.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.43.0 8.17.47.255 AS23089 RADB Auto Generated Route Object for 8.17.43.0/24 via AS23089
+8.17.48.0 8.17.55.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.56.0 8.17.60.255 AS23089 RADB Auto Generated Route Object for 8.17.56.0/23 via AS23089
+8.17.61.0 8.17.61.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.62.0 8.17.63.255 AS23089 RADB Auto Generated Route Object for 8.17.62.0/24 via AS23089
+8.17.64.0 8.17.65.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.66.0 8.17.66.255 AS46639 RADB RR-RC-Hughes Telematics, Inc - Austin
+8.17.67.0 8.17.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.80.0 8.17.87.255 AS10753 LEVEL3 Joyent/Strongspace
+8.17.88.0 8.17.95.255 AS36734 RADB PAXIO from Level3
+8.17.96.0 8.17.97.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.98.0 8.17.98.255 AS40129 SAVVIS PNAP-CHG sentryds-1
+8.17.99.0 8.17.100.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.101.0 8.17.101.255 AS10753 LEVEL3 New route for ModernAd
+8.17.102.0 8.17.114.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.115.0 8.17.115.255 AS13886 RADB Cloud South  HRL-23 
+8.17.116.0 8.17.120.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.121.0 8.17.121.255 AS16827 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS 16827
+8.17.122.0 8.17.123.255 AS23089 RADB Auto Generated Route Object for 8.17.122.0/23 via AS23089
+8.17.124.0 8.17.125.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.126.0 8.17.127.255 AS23089 RADB Auto Generated Route Object for 8.17.126.0/23 via AS23089
+8.17.128.0 8.17.167.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.168.0 8.17.175.255 AS10753 LEVEL3 route added via web
+8.17.176.0 8.17.176.255 AS7029 RADB Proxy fbo The Tennessean  AS11459 
+8.17.177.0 8.17.180.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.181.0 8.17.181.255 AS55137 LEVEL3 IOSTUDIO
+8.17.182.0 8.17.192.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.193.0 8.17.193.255 AS19067 LEVEL3 BBBQ73329
+8.17.194.0 8.17.199.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.200.0 8.17.200.255 AS7029 RADB Windstream  PaeTec 
+8.17.201.0 8.17.201.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.202.0 8.17.203.255 AS19067 LEVEL3 VAILSYS-SF-ENS-DIA-1
+8.17.204.0 8.17.204.255 AS23365 SAVVIS PNAP-CHG
+8.17.205.0 8.17.207.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.208.0 8.17.223.255 AS18826 LEVEL3 TSN-L3-1-AGG
+8.17.224.0 8.17.228.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.229.0 8.17.229.255 AS54153 LEVEL3 Customer Prefix
+8.17.230.0 8.17.248.255 AS3356 LEVEL3 Proxy-registered route object
+8.17.249.0 8.17.249.255 AS35176 SAVVIS Revnet Proxy Route Object
+8.17.250.0 8.17.252.255 AS36352 RADB COLOCROSSING-SJC
+8.17.253.0 8.18.3.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.4.0 8.18.7.255 AS23089 RADB Auto Generated Route Object for 8.18.4.0/23 via AS23089
+8.18.8.0 8.18.15.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.16.0 8.18.16.255 AS26298 LEVEL3 Proxy-registered route object
+8.18.17.0 8.18.23.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.24.0 8.18.27.255 AS46484 BBOI Secure Computing Corporation
+8.18.28.0 8.18.29.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.30.0 8.18.30.255 AS40430 ARIN colo4jax LLC 421 W. Church St. Jacksonville FL 32202 US
+8.18.31.0 8.18.31.255 AS20366 RADB LinkedIn/Level3 2029 Stierlin Ct Mountain View, CA 94043
+8.18.32.0 8.18.32.255 AS27377 LEVEL3 route for FTI Consult
+8.18.33.0 8.18.37.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.38.0 8.18.39.255 AS23089 RADB Auto Generated Route Object for 8.18.38.0/24 via AS23089
+8.18.40.0 8.18.40.255 AS35873 LEVEL3 8.18.40.0/24 route for Move Networks
+8.18.41.0 8.18.41.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.42.0 8.18.43.255 AS26769 LEVEL3 BNDAS-AKA-IP-DFW1-001
+8.18.44.0 8.18.44.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.45.0 8.18.45.255 AS25751 RADB dc6.vclk.net
+8.18.46.0 8.18.50.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.51.0 8.18.51.255 AS53281 ARIN Clearpath Solutions Group 13800 Coppermine Rd Suite 400 Herndon,VA 20171 US
+8.18.52.0 8.18.72.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.73.0 8.18.73.255 AS4780 RADB SeedNet Digital United Inc. No. 220, Gangchi Rd., Taipei 114 Taiwan
+8.18.74.0 8.18.75.255 AS7615 RADB Fortana
+8.18.76.0 8.18.76.255 AS13427 RADB Softcom Internet Communications, Inc.
+8.18.77.0 8.18.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.80.0 8.18.80.255 AS11167 LEVEL3 8.18.80.0/21 Route for Aircell
+8.18.81.0 8.18.81.255 AS19067 LEVEL3 BBBQ73299
+8.18.82.0 8.18.82.255 AS27005 LEVEL3 PinPoint, Inc
+8.18.83.0 8.18.83.255 AS11167 LEVEL3 8.18.80.0/21 Route for Aircell
+8.18.84.0 8.18.85.255 AS26718 LEVEL3 Wolverine Trading Route
+8.18.86.0 8.18.87.255 AS11167 LEVEL3 8.18.80.0/21 Route for Aircell
+8.18.88.0 8.18.89.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.90.0 8.18.90.255 AS35873 LEVEL3 8.18.90.0/24 route for Move Networks
+8.18.91.0 8.18.91.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.92.0 8.18.93.255 AS20473 ALTDB auto-generated route object for 8.18.92.0/23
+8.18.94.0 8.18.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.96.0 8.18.97.255 AS21691 SAVVIS PNAP-PHX003 Toyota
+8.18.98.0 8.18.99.255 AS19181 LEVEL3 BBBX28683 CWIE
+8.18.100.0 8.18.103.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.104.0 8.18.104.255 AS19181 LEVEL3 Level3-IP-SPACE
+8.18.105.0 8.18.105.255 AS25973 RADB phx
+8.18.106.0 8.18.106.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.107.0 8.18.107.255 AS40064 SAVVIS PNAP-LAX jumptv route
+8.18.108.0 8.18.108.255 AS19181 LEVEL3 PRIDESTUDIO-IP-IN-PHX-FROM-L3
+8.18.109.0 8.18.109.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.110.0 8.18.110.255 AS27970 ALTDB OnePacket IP Route
+8.18.111.0 8.18.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.112.0 8.18.113.255 AS10753 LEVEL3 tkt 2533500
+8.18.114.0 8.18.114.255 AS6653 LEVEL3 Futurum Communications Corp
+8.18.115.0 8.18.117.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.118.0 8.18.118.255 AS19067 LEVEL3 Vail Systems, Inc
+8.18.119.0 8.18.127.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.128.0 8.18.128.255 AS16276 RIPE OVH
+8.18.129.0 8.18.135.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.136.0 8.18.143.255 AS16276 RIPE OVH
+8.18.144.0 8.18.145.255 AS16509 REACH REACH  Customer Route 
+8.18.146.0 8.18.151.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.152.0 8.18.152.255 AS17151 ALTDB Vonage Holdings 23 Main St Holmdel, NJ 07733 USA
+8.18.153.0 8.18.163.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.164.0 8.18.167.255 AS35873 LEVEL3 Customer Route
+8.18.168.0 8.18.171.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.172.0 8.18.172.255 AS16276 RIPE OVH
+8.18.173.0 8.18.173.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.174.0 8.18.175.255 AS393259 ALTDB Proxy-registered route object
+8.18.176.0 8.18.191.255 AS4891 LEVEL3 Route for Ferric Systems
+8.18.192.0 8.18.192.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.193.0 8.18.193.255 AS27559 ARIN Peets Coffee & Tea 1400 Park Avenue Emeryville, California 94608 US
+8.18.194.0 8.18.201.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.202.0 8.18.202.255 AS22518 RADB PANDORA CORP
+8.18.203.0 8.18.203.255 AS54603 SAVVIS PNAP-SFO mosaicnet
+8.18.204.0 8.18.205.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.206.0 8.18.207.255 AS26069 ALTDB Thingomatic, Inc.
+8.18.208.0 8.18.208.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.209.0 8.18.209.255 AS16774 RADB Level3 Allocation
+8.18.210.0 8.18.210.255 AS62616 NTTCOM Level 3 Assigned Space
+8.18.211.0 8.18.217.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.218.0 8.18.218.255 AS19001 LEVEL3 Route for Yelp
+8.18.219.0 8.18.222.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.223.0 8.18.223.255 AS8182 RADB Prolexic Technologies, Inc.
+8.18.224.0 8.18.225.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.226.0 8.18.229.255 AS23089 RADB Auto Generated Route Object for 8.18.226.0/23 via AS23089
+8.18.230.0 8.18.232.255 AS3356 LEVEL3 Proxy-registered route object
+8.18.233.0 8.18.233.255 AS8182 RADB Prolexic Technologies, Inc.
+8.18.234.0 8.18.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.0.0 8.19.0.255 AS46284 LEVEL3 BandCon - BBBW26096
+8.19.1.0 8.19.11.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.12.0 8.19.12.255 AS10753 LEVEL3 SEZMI route
+8.19.13.0 8.19.13.255 AS53813 SAVVIS PNAP-ACS zscaler-routes
+8.19.14.0 8.19.14.255 AS32743 SAVVIS PNAP-LAX uscolo
+8.19.15.0 8.19.15.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.16.0 8.19.31.255 AS29990 ALTDB AppNexus - L3-2
+8.19.32.0 8.19.37.255 AS10753 LEVEL3 Joyent
+8.19.38.0 8.19.39.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.40.0 8.19.43.255 AS10753 LEVEL3 Added per tkt 4182446
+8.19.44.0 8.19.44.255 AS40393 LEVEL3 WESTERNSTATESTELEPORT
+8.19.45.0 8.19.45.255 AS36119 SAVVIS PNAP-SFO
+8.19.46.0 8.19.47.255 AS40393 LEVEL3 WESTERNSTATESTELEPORT
+8.19.48.0 8.19.55.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.56.0 8.19.63.255 AS23089 RADB Auto Generated Route Object for 8.19.56.0/22 via AS23089
+8.19.64.0 8.19.71.255 AS19048 LEVEL3 tkt4344436
+8.19.72.0 8.19.73.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.74.0 8.19.77.255 AS13904 LEVEL3 TransWorld Network Corp
+8.19.78.0 8.19.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.80.0 8.19.87.255 AS19048 LEVEL3 tkt3940297
+8.19.88.0 8.19.96.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.97.0 8.19.97.255 AS46907 LEVEL3 ICALL ROUTE
+8.19.98.0 8.19.99.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.100.0 8.19.103.255 AS30496 SAVVIS PNAP-DAL colo4dallas
+8.19.104.0 8.19.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.112.0 8.19.112.255 AS46129 LEVEL3 route update via web
+8.19.113.0 8.19.113.255 AS17466 LEVEL3 New route for AS17466
+8.19.114.0 8.19.115.255 AS23486 NTTCOM Foremost_Level3 Provided IPs
+8.19.116.0 8.19.118.255 AS53780 ARIN AppRiver, LLC 1101 Gulf Breeze Parkway Gulf Breeze, FL 32561 US
+8.19.119.0 8.19.128.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.129.0 8.19.129.255 AS14986 SAVVIS ULTRA
+8.19.130.0 8.19.131.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.132.0 8.19.135.255 AS10753 LEVEL3 8.19.132.0/22 Route for The Berger foundation
+8.19.136.0 8.19.145.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.146.0 8.19.146.255 AS6919 SAVVIS PNAP-NYM Impact Route
+8.19.147.0 8.19.177.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.178.0 8.19.178.255 AS26143 SAVVIS Prosites.com Prefix Route Entry
+8.19.179.0 8.19.179.255 AS21732 LEVEL3 CoLocation
+8.19.180.0 8.19.180.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.181.0 8.19.181.255 AS25619 LEVEL3 Route for MyEServers
+8.19.182.0 8.19.187.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.188.0 8.19.191.255 AS33182 ALTDB Proxy Registered Object - irr@dimenoc.com
+8.19.192.0 8.19.192.255 AS10753 LEVEL3 Route for Infinium per TT 2890426
+8.19.193.0 8.19.199.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.200.0 8.19.200.255 AS18908 LEVEL3 Brightcove route
+8.19.201.0 8.19.201.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.202.0 8.19.202.255 AS32385 ALTDB IntelePeer Inc.
+8.19.203.0 8.19.203.255 AS53345 RADB One Source Networks Inc.
+8.19.204.0 8.19.205.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.206.0 8.19.207.255 AS23089 RADB Auto Generated Route Object for 8.19.206.0/23 via AS23089
+8.19.208.0 8.19.219.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.220.0 8.19.221.255 AS2734 ARIN CoreSite
+8.19.222.0 8.19.222.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.223.0 8.19.223.255 AS53610 ARIN NET-8-19-223-0-3
+8.19.224.0 8.19.224.255 AS46099 LEVEL3 route update via web
+8.19.225.0 8.19.227.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.228.0 8.19.233.255 AS23089 RADB Auto Generated Route Object for 8.19.228.0/23 via AS23089
+8.19.234.0 8.19.234.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.235.0 8.19.239.255 AS23089 RADB Auto Generated Route Object for 8.19.235.0/24 via AS23089
+8.19.240.0 8.19.240.255 AS18599 LEVEL3 customer routes
+8.19.241.0 8.19.241.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.242.0 8.19.242.255 AS19589 LEVEL3 route for City of Leesburg
+8.19.243.0 8.19.247.255 AS3356 LEVEL3 Proxy-registered route object
+8.19.248.0 8.19.248.255 AS19589 LEVEL3 Route for City of Leesburg
+8.19.249.0 8.20.1.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.2.0 8.20.2.255 AS31993 LEVEL3 X-Mission-Netblock
+8.20.3.0 8.20.17.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.18.0 8.20.23.255 AS23089 RADB Auto Generated Route Object for 8.20.18.0/23 via AS23089
+8.20.24.0 8.20.24.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.25.0 8.20.25.255 AS22773 LEVEL3 KSCY CB TRANSIT
+8.20.26.0 8.20.29.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.30.0 8.20.30.255 AS20077 RADB SPECTROTEL
+8.20.31.0 8.20.31.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.32.0 8.20.33.255 AS23089 RADB Auto Generated Route Object for 8.20.32.0/23 via AS23089
+8.20.34.0 8.20.35.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.36.0 8.20.37.255 AS23089 RADB Auto Generated Route Object for 8.20.36.0/23 via AS23089
+8.20.38.0 8.20.54.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.55.0 8.20.55.255 AS40371 NTTCOM Proxy RO for PROS Inc
+8.20.56.0 8.20.58.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.59.0 8.20.60.255 AS40371 NTTCOM Proxy RO for PROS Inc
+8.20.61.0 8.20.62.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.63.0 8.20.63.255 AS394437 NTTCOM PLW-Level3-Net1
+8.20.64.0 8.20.64.255 AS7029 RADB Windstream  PaeTec 
+8.20.65.0 8.20.72.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.73.0 8.20.73.255 AS20149 LEVEL3 NHL Enterprises Org ID: 1-286QV
+8.20.74.0 8.20.74.255 AS23256 LEVEL3 cus route
+8.20.75.0 8.20.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.80.0 8.20.83.255 AS14126 LEVEL3 Level 3 assigned block
+8.20.84.0 8.20.86.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.87.0 8.20.87.255 AS11946 RADB AdCopy  PHL 
+8.20.88.0 8.20.88.255 AS7381 LEVEL3 300v block 1
+8.20.89.0 8.20.89.255 AS6195 RADB Level-3 re-assigned
+8.20.90.0 8.20.91.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.92.0 8.20.92.255 AS30372 SAVVIS PNAP-PHI sunesyuss
+8.20.93.0 8.20.93.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.94.0 8.20.94.255 AS33257 SAVVIS PNAP-PHI whitelabelcomm route
+8.20.95.0 8.20.103.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.104.0 8.20.107.255 AS40495 SAVVIS PNAP-SEF Marchex Route
+8.20.108.0 8.20.108.255 AS32108 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.20.109.0 8.20.109.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.110.0 8.20.110.255 AS16276 RIPE OVH
+8.20.111.0 8.20.111.255 AS18888 LEVEL3 Adding route for Zillow
+8.20.112.0 8.20.112.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.113.0 8.20.113.255 AS46186 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.20.114.0 8.20.116.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.117.0 8.20.117.255 AS33047 RADB Instart Logic, Inc
+8.20.118.0 8.20.143.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.144.0 8.20.144.255 AS46769 EPOCH Altura Communication Solutions, LLC
+8.20.145.0 8.20.160.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.161.0 8.20.161.255 AS19695 RADB Comcast Customer - Beaver Visitec International
+8.20.162.0 8.20.183.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.184.0 8.20.184.255 AS19905 RADB SP-MFS
+8.20.185.0 8.20.190.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.191.0 8.20.191.255 AS22147 ALTDB Proxy-registered route object
+8.20.192.0 8.20.203.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.204.0 8.20.205.255 AS23089 RADB Auto Generated Route Object for 8.20.204.0/23 via AS23089
+8.20.206.0 8.20.209.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.210.0 8.20.210.255 AS26821 SAVVIS RN-DNV
+8.20.211.0 8.20.211.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.212.0 8.20.212.255 AS14602 RADB Teliax Denver
+8.20.213.0 8.20.213.255 AS18599 LEVEL3 customer route
+8.20.214.0 8.20.215.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.216.0 8.20.223.255 AS33302 LEVEL3 new per TT 2867746
+8.20.224.0 8.20.240.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.241.0 8.20.241.255 AS13767 LEVEL3 /18 for LayeredTech/Elvate
+8.20.242.0 8.20.242.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.243.0 8.20.243.255 AS23200 ARIN Elvate, LLC PO Box 7401 Louisville, KY 40257 US
+8.20.244.0 8.20.244.255 AS3356 LEVEL3 Proxy-registered route object
+8.20.245.0 8.20.245.255 AS40715 RADB RR-RC-Scherers Communications, Inc.-Columbus
+8.20.246.0 8.20.246.255 AS23612 RADB Axia L3 route maintained by IFN
+8.20.247.0 8.20.247.255 AS16589 RIPE DNS.com 20247
+8.20.248.0 8.21.3.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.4.0 8.21.4.255 AS11957 RADB Level  3  Network Block assigned to Bluecoat
+8.21.5.0 8.21.5.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.6.0 8.21.7.255 AS11957 RADB Level  3  IP Spcae assigned to Bluecoat
+8.21.8.0 8.21.23.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.24.0 8.21.24.255 AS22279 SAVVIS PNAP-WDC002 aggknow-route
+8.21.25.0 8.21.32.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.33.0 8.21.35.255 AS14112 ALTDB MTO Telecom Proxy Route - SecureNet
+8.21.36.0 8.21.36.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.37.0 8.21.39.255 AS40470 RADB Protected.CA Inc.
+8.21.40.0 8.21.40.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.41.0 8.21.41.255 AS16276 RIPE OVH
+8.21.42.0 8.21.59.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.60.0 8.21.60.255 AS16523 ARIN Connect One Richmond Hill, Ontario CA
+8.21.61.0 8.21.61.255 AS40596 SAVVIS Peer1 Route Object
+8.21.62.0 8.21.80.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.81.0 8.21.81.255 AS22147 ALTDB Proxy-registered route object
+8.21.82.0 8.21.82.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.83.0 8.21.83.255 AS20353 RADB Adage Capital Partners, LLC
+8.21.84.0 8.21.85.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.86.0 8.21.86.255 AS3 RADB Massachusetts Institute of Technology Room W92-190, 77 Massachusetts Avenue Cambridge, MA 02139
+8.21.87.0 8.21.87.255 AS40570 ARIN Vista Print USA, Incorporated
+8.21.88.0 8.21.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.112.0 8.21.112.255 AS31867 RADB RR-RC-DCT Telecom Group, Inc.-MOH
+8.21.113.0 8.21.113.255 AS13697 RADB SABER HEALTHCARE
+8.21.114.0 8.21.116.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.117.0 8.21.117.255 AS22259 LEVEL3 cus route
+8.21.118.0 8.21.128.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.129.0 8.21.129.255 AS55136 RADB CARLTON FIELDS, P.A.  CARLT-1 
+8.21.130.0 8.21.142.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.143.0 8.21.143.255 AS1618 RADB RR-RC-Daytona Net Works, Inc.-CentralFL
+8.21.144.0 8.21.144.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.145.0 8.21.145.255 AS11413 RADB RR-RC-IHERB INC-Louisville
+8.21.146.0 8.21.150.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.151.0 8.21.151.255 AS393762 RADB RR-RC-Restaurant Supply Chain Solutions, LLC-Louisville
+8.21.152.0 8.21.153.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.154.0 8.21.155.255 AS14283 RADB RR-RC-blueone.net-Insight
+8.21.156.0 8.21.159.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.160.0 8.21.163.255 AS46484 LEVEL3 Switch Communications Customer Route
+8.21.164.0 8.21.164.255 AS26415 RADB VeriSign Customer Route
+8.21.165.0 8.21.165.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.166.0 8.21.167.255 AS10753 LEVEL3 tkt#3526251
+8.21.168.0 8.21.168.255 AS5091 ARIN Stripe, Inc. infrastructure
+8.21.169.0 8.21.175.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.176.0 8.21.176.255 AS18442 SAVVIS PNAP-SJE Yousendit Route
+8.21.177.0 8.21.179.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.180.0 8.21.180.255 AS46186 LEVEL3 GILEAD SCIENCES, INC.
+8.21.181.0 8.21.191.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.192.0 8.21.192.255 AS26821 SAVVIS RN-ASH
+8.21.193.0 8.21.197.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.198.0 8.21.199.255 AS18837 RADB AddThis, Inc. 1595 Spring Hill Road, Suite 300 Vienna, VA 22182
+8.21.200.0 8.21.207.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.208.0 8.21.209.255 AS23089 RADB Auto Generated Route Object for 8.21.208.0/23 via AS23089
+8.21.210.0 8.21.227.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.228.0 8.21.228.255 AS26268 LEVEL3 Vienna Route
+8.21.229.0 8.21.232.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.233.0 8.21.233.255 AS36858 ARIN Delex Systems, Inc. 13865 Sunrise Valley Drive Suite 250 Herndon, VA 20171 US
+8.21.234.0 8.21.234.255 AS53281 ARIN Clearpath Solutions Group 13800 Coppermine Rd Suite 400 Herndon,VA 20171 US
+8.21.235.0 8.21.239.255 AS3356 LEVEL3 Proxy-registered route object
+8.21.240.0 8.21.247.255 AS22877 LEVEL3 route for UMUC
+8.21.248.0 8.22.9.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.10.0 8.22.10.255 AS5048 RADB Integra Telecom Route Object
+8.22.11.0 8.22.11.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.12.0 8.22.15.255 AS53407 LEVEL3 Utopia4725322
+8.22.16.0 8.22.35.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.36.0 8.22.37.255 AS6336 RADB TURN
+8.22.38.0 8.22.48.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.49.0 8.22.49.255 AS29834 RADB Ustream Level3
+8.22.50.0 8.22.83.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.84.0 8.22.87.255 AS14602 RADB Teliax Denver
+8.22.88.0 8.22.93.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.94.0 8.22.95.255 AS23089 RADB Auto Generated Route Object for 8.22.94.0/23 via AS23089
+8.22.96.0 8.22.119.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.120.0 8.22.120.255 AS20049 RADB LinkedIn/Level3 2029 Stierlin ct Mountain View, CA 94043
+8.22.121.0 8.22.121.255 AS13443 RADB Level3 prefix used and announced by AS-LINKEDIN-BIZ
+8.22.122.0 8.22.143.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.144.0 8.22.147.255 AS46691 SAVVIS PNAP-ACS
+8.22.148.0 8.22.160.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.161.0 8.22.161.255 AS14413 RADB LinkedIn/Level3 2029 Stierlin Ct Mountain View, CA 94043
+8.22.162.0 8.22.183.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.184.0 8.22.187.255 AS46856 LEVEL3 Customer Router
+8.22.188.0 8.22.189.255 AS11168 LEVEL3 route for SCC
+8.22.190.0 8.22.191.255 AS11127 RADB Globecomm 8.22.190.0/23
+8.22.192.0 8.22.193.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.194.0 8.22.194.255 AS10843 LEVEL3 tyBit add
+8.22.195.0 8.22.197.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.198.0 8.22.198.255 AS30364 LEVEL3 BGP-Filter-Update
+8.22.199.0 8.22.199.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.200.0 8.22.207.255 AS19844 RADB 8.22.200.0/24
+8.22.208.0 8.22.210.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.211.0 8.22.211.255 AS23400 ARIN Internet Access Point Corporation P.O. Box 398 Sugar Land, TX 77487-0398
+8.22.212.0 8.22.215.255 AS14676 ARIN Regus Business Center, LLC 15305 Dallas Parkway, Suite 400 Addison, TX 75001
+8.22.216.0 8.22.216.255 AS33271 LEVEL3 customer route
+8.22.217.0 8.22.219.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.220.0 8.22.221.255 AS6984 LEVEL3 Verizon Data Services
+8.22.222.0 8.22.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.224.0 8.22.225.255 AS19844 RADB GORACK
+8.22.226.0 8.22.227.255 AS3361 RADB Proxy registration for DFColo
+8.22.228.0 8.22.238.255 AS19844 RADB GORACK
+8.22.239.0 8.22.239.255 AS3356 LEVEL3 Proxy-registered route object
+8.22.240.0 8.22.240.255 AS30647 LEVEL3 NEN customer NetWest
+8.22.241.0 8.23.8.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.9.0 8.23.9.255 AS10753 LEVEL3 MODERNAD MARKETING
+8.23.10.0 8.23.11.255 AS43313 LEVEL3 4493265
+8.23.12.0 8.23.23.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.24.0 8.23.25.255 AS6507 RADB RiotGames
+8.23.26.0 8.23.31.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.32.0 8.23.47.255 AS25767 REACH REACH  Customer Route 
+8.23.48.0 8.23.63.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.64.0 8.23.71.255 AS23089 RADB Auto Generated Route Object for 8.23.64.0/22 via AS23089
+8.23.72.0 8.23.72.255 AS53340 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1000 N. West St., Suite 1200 Wilmington, DE 19801 United States of America
+8.23.73.0 8.23.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.80.0 8.23.81.255 AS26967 LEVEL3 tkt 3721784
+8.23.82.0 8.23.83.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.84.0 8.23.87.255 AS26967 LEVEL3 tkt 3721784
+8.23.88.0 8.23.91.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.92.0 8.23.95.255 AS26967 LEVEL3 tk# 4023099
+8.23.96.0 8.23.127.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.128.0 8.23.131.255 AS18990 LEVEL3 AirBand Communication INC
+8.23.132.0 8.23.136.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.137.0 8.23.138.255 AS26718 LEVEL3 Wolverine Trading Route
+8.23.139.0 8.23.143.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.144.0 8.23.147.255 AS23089 RADB Auto Generated Route Object for 8.23.144.0/22 via AS23089
+8.23.148.0 8.23.151.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.152.0 8.23.155.255 AS46435 RADB CAES
+8.23.156.0 8.23.158.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.159.0 8.23.159.255 AS23459 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.23.160.0 8.23.175.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.176.0 8.23.191.255 AS46975 LEVEL3 Merriman Hosting Solutions
+8.23.192.0 8.23.193.255 AS37958 RADB IP from LEVEL3 for EE
+8.23.194.0 8.23.194.255 AS14569 LEVEL3 Route for Assure Telecom
+8.23.195.0 8.23.195.255 AS37958 RADB LEVEL3 IPs for RDB service
+8.23.196.0 8.23.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.224.0 8.23.224.255 AS14627 RIPE Vitalwerks LAX
+8.23.225.0 8.23.225.255 AS53845 NTTCOM BBD SLC
+8.23.226.0 8.23.228.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.229.0 8.23.229.255 AS62485 LEVEL3 req by customer
+8.23.230.0 8.23.231.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.232.0 8.23.232.255 AS23240 ARIN LifeCare Assurance Company 21600 Ocnard Street, Suite 1500 Woodland Hills, CA 91367 US
+8.23.233.0 8.23.239.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.240.0 8.23.241.255 AS7194 LEVEL3 Route for CITY OF BURBANK
+8.23.242.0 8.23.242.255 AS23089 RADB Auto Generated Route Object for 8.23.242.0/24 via AS23089
+8.23.243.0 8.23.243.255 AS26476 RADB Cornerstone OnDemand, Inc.
+8.23.244.0 8.23.245.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.246.0 8.23.246.255 AS23089 RADB Auto Generated Route Object for 8.23.246.0/24 via AS23089
+8.23.247.0 8.23.251.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.252.0 8.23.253.255 AS1625 LEVEL3 New route for AS1625
+8.23.254.0 8.23.254.255 AS3356 LEVEL3 Proxy-registered route object
+8.23.255.0 8.23.255.255 AS26143 RADB ProSites.com Prefix Route Entry
+8.24.0.0 8.24.7.255 AS14112 ALTDB MTO Telecom Proxy Route - SecureNet
+8.24.8.0 8.24.15.255 AS16276 RIPE OVH
+8.24.16.0 8.24.23.255 AS23089 RADB Auto Generated Route Object for 8.24.16.0/22 via AS23089
+8.24.24.0 8.24.25.255 AS31793 RADB Auto Generated Route Object for 8.24.24.0/23 via AS31793
+8.24.26.0 8.24.29.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.30.0 8.24.30.255 AS23089 RADB Auto Generated Route Object for 8.24.30.0/24 via AS23089
+8.24.31.0 8.24.33.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.34.0 8.24.35.255 AS53581 ARIN IF&D DATASUITES, LLC P.O. Box 7378 Winter Haven, FL, 33883-7378 US
+8.24.36.0 8.24.66.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.67.0 8.24.67.255 AS46454 RADB WCS  WHOLE-150 
+8.24.68.0 8.24.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.80.0 8.24.83.255 AS23089 RADB Auto Generated Route Object for 8.24.80.0/22 via AS23089
+8.24.84.0 8.24.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.112.0 8.24.127.255 AS1632 RADB Proxy-registered route object
+8.24.128.0 8.24.135.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.136.0 8.24.137.255 AS11946 RADB AdCopy  CHI 
+8.24.138.0 8.24.144.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.145.0 8.24.145.255 AS27565 ARIN Bridgewater Associates, LP One Glendinning Place Westport,CT  06880
+8.24.146.0 8.24.154.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.155.0 8.24.155.255 AS54377 LEVEL3 FM Facility Maintenance
+8.24.156.0 8.24.156.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.157.0 8.24.157.255 AS11449 RADB Prolexic Technologies, Inc.
+8.24.158.0 8.24.175.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.176.0 8.24.191.255 AS23089 RADB Auto Generated Route Object for 8.24.176.0/20 via AS23089
+8.24.192.0 8.24.202.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.203.0 8.24.203.255 AS46508 LEVEL3 Route for DoubleHorn Communications Bis Org 1-TDEZ9
+8.24.204.0 8.24.207.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.208.0 8.24.215.255 AS22561 SAVVIS add route
+8.24.216.0 8.24.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.224.0 8.24.239.255 AS19844 RADB GORACK
+8.24.240.0 8.24.240.255 AS53690 RADB Prolexic Technologies, Inc.
+8.24.241.0 8.24.247.255 AS3356 LEVEL3 Proxy-registered route object
+8.24.248.0 8.24.255.255 AS19844 RADB GORACK
+8.25.0.0 8.25.0.255 AS55244 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.25.1.0 8.25.2.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.3.0 8.25.3.255 AS23089 RADB Auto Generated Route Object for 8.25.3.0/24 via AS23089
+8.25.4.0 8.25.5.255 AS64224 RADB ATI Solutions
+8.25.6.0 8.25.8.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.9.0 8.25.9.255 AS14244 ARIN NSI-8-25-9-0-24-1
+8.25.10.0 8.25.10.255 AS22449 SAVVIS PNAP-WDC002 awsconvergent-1
+8.25.11.0 8.25.11.255 AS14244 ARIN NETSTRAT-8-25-11-0-24-1
+8.25.12.0 8.25.15.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.16.0 8.25.16.255 AS14473 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.25.17.0 8.25.17.255 AS23539 RADB Proxy-registered route object
+8.25.18.0 8.25.21.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.22.0 8.25.22.255 AS23089 RADB Auto Generated Route Object for 8.25.22.0/24 via AS23089
+8.25.23.0 8.25.27.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.28.0 8.25.31.255 AS23089 RADB Auto Generated Route Object for 8.25.28.0/22 via AS23089
+8.25.32.0 8.25.33.255 AS19557 LEVEL3 Route for CHANGEIP-MNT
+8.25.34.0 8.25.34.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.35.0 8.25.35.255 AS22773 LEVEL3 SAND CB TRANSIT
+8.25.36.0 8.25.39.255 AS19557 LEVEL3 Route for CHANGEIP-MNT
+8.25.40.0 8.25.42.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.43.0 8.25.43.255 AS14911 RADB RR-RC-Taylor Made Golf Company, Inc.-Los Angeles
+8.25.44.0 8.25.63.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.64.0 8.25.74.255 AS4891 LEVEL3 tkt 3785282
+8.25.75.0 8.25.75.255 AS14739 RADB New Kansas City IP Block
+8.25.76.0 8.25.79.255 AS4891 LEVEL3 tk 3995223
+8.25.80.0 8.25.87.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.88.0 8.25.89.255 AS36298 RADB Internet access and hosting
+8.25.90.0 8.25.103.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.104.0 8.25.104.255 AS46125 RADB Proxy fbo ComScore  AS46125 
+8.25.105.0 8.25.135.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.136.0 8.25.143.255 AS33065 ARIN Megatechie 414 W Sunrise Hwy #149 Patchogue, NY 11772 US
+8.25.144.0 8.25.156.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.157.0 8.25.157.255 AS25611 ARIN North Shore Long Island Jewish Health System 972 Brush Hollow Road Westbury, NY 11590 US
+8.25.158.0 8.25.159.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.160.0 8.25.161.255 AS20260 ARIN TRAFFIC.COM 851 Duportail Road Suite 220 wayne PA 19087 US
+8.25.162.0 8.25.163.255 AS7029 RADB Proxy fbo Distributed Systems Services  AS30354 
+8.25.164.0 8.25.173.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.174.0 8.25.174.255 AS12178 SAVVIS PNAP-NYM nym-phi
+8.25.175.0 8.25.183.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.184.0 8.25.184.255 AS7029 RADB Proxy fbo Windstream Customer
+8.25.185.0 8.25.191.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.192.0 8.25.192.255 AS13445 RADB WebEx Level 3 Voice Network
+8.25.193.0 8.25.193.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.194.0 8.25.197.255 AS35995 RADB Twitter
+8.25.198.0 8.25.200.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.201.0 8.25.201.255 AS7506 RADB GMO Internet,Inc Cerulean Tower, 11F Sakuragaokacho-26-1 Shibuya-ku, Tokyo 150-8512, Japan
+8.25.202.0 8.25.202.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.203.0 8.25.203.255 AS53813 SAVVIS PNAP-ACS zscaler-routes
+8.25.204.0 8.25.205.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.206.0 8.25.206.255 AS54169 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.25.207.0 8.25.213.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.214.0 8.25.214.255 AS35176 RADB Proxy registration for Search Tech
+8.25.215.0 8.25.217.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.218.0 8.25.218.255 AS13499 RADB 8x8 deaggregated route
+8.25.219.0 8.25.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.224.0 8.25.239.255 AS26903 RADB City of Salisbury, North Carolina Reassigned from LVLT-CITYO-371-8-25-224
+8.25.240.0 8.25.247.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.248.0 8.25.248.255 AS32781 LEVEL3 AMI route
+8.25.249.0 8.25.251.255 AS3356 LEVEL3 Proxy-registered route object
+8.25.252.0 8.25.255.255 AS22773 LEVEL3 KSCY KSCY-DATA-BUSINESS
+8.26.0.0 8.26.7.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.8.0 8.26.15.255 AS23089 RADB Auto Generated Route Object for 8.26.8.0/23 via AS23089
+8.26.16.0 8.26.16.255 AS10753 LEVEL3 Jagex Ltd
+8.26.17.0 8.26.19.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.20.0 8.26.23.255 AS15083 RADB Infolink Global Corp. [LEVEL3
+8.26.24.0 8.26.31.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.32.0 8.26.32.255 AS23089 RADB Auto Generated Route Object for 8.26.32.0/24 via AS23089
+8.26.33.0 8.26.33.255 AS21893 SAVVIS PNAP-SJE xoomcorp-3
+8.26.34.0 8.26.47.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.48.0 8.26.51.255 AS33700 ALTDB Proxy-registered route object for Smart City Networks, L.P. 3720 Howard Hughes Pkwy Las Vegas, NV 89109
+8.26.52.0 8.26.55.255 AS14676 ARIN Regus Business Center, LLC 15305 Dallas Parkway, Suite 400 Addison, TX 75001
+8.26.56.0 8.26.56.255 AS16589 RIPE DNS.com 2656
+8.26.57.0 8.26.59.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.60.0 8.26.63.255 AS40715 RADB DataCenter.BZ   Columbus, Ohio
+8.26.64.0 8.26.65.255 AS19222 RADB proxy route for LIGHTCREST by PACKETEXCHANGE
+8.26.66.0 8.26.70.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.71.0 8.26.71.255 AS23089 RADB Auto Generated Route Object for 8.26.71.0/24 via AS23089
+8.26.72.0 8.26.77.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.78.0 8.26.78.255 AS53845 NTTCOM BBD LA
+8.26.79.0 8.26.79.255 AS13768 SAVVIS Peer1 Route Object
+8.26.80.0 8.26.80.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.81.0 8.26.81.255 AS7116 LEVEL3 Toyota Motor Sales
+8.26.82.0 8.26.82.255 AS22773 LEVEL3 OC CBS TRANSIT
+8.26.83.0 8.26.93.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.94.0 8.26.94.255 AS16276 RIPE OVH
+8.26.95.0 8.26.95.255 AS54335 LEVEL3 Digital Voice Solutions BBWT8246
+8.26.96.0 8.26.99.255 AS23089 RADB Auto Generated Route Object for 8.26.96.0/23 via AS23089
+8.26.100.0 8.26.102.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.103.0 8.26.103.255 AS53664 RADB RR-RC-IT Managed Solutions -Tampa
+8.26.104.0 8.26.107.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.108.0 8.26.109.255 AS13604 ARIN City of Dunnellon  Greenlight 
+8.26.110.0 8.26.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.112.0 8.26.113.255 AS19589 LEVEL3 Customer route
+8.26.114.0 8.26.115.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.116.0 8.26.116.255 AS23089 RADB Auto Generated Route Object for 8.26.116.0/24 via AS23089
+8.26.117.0 8.26.118.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.119.0 8.26.119.255 AS20463 ARIN EZYield.com, Inc. 125 Excelsior Pkwy Winter Springs, Florida 32708 US
+8.26.120.0 8.26.121.255 AS23089 RADB Auto Generated Route Object for 8.26.120.0/24 via AS23089
+8.26.122.0 8.26.122.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.123.0 8.26.123.255 AS21904 LEVEL3 route for POWER ONE
+8.26.124.0 8.26.125.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.126.0 8.26.126.255 AS23089 RADB Auto Generated Route Object for 8.26.126.0/24 via AS23089
+8.26.127.0 8.26.145.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.146.0 8.26.146.255 AS11414 RADB NVIDIA
+8.26.147.0 8.26.147.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.148.0 8.26.151.255 AS14676 ARIN Regus Business Center, LLC 15305 Dallas Parkway, Suite 400 Addison, TX 75001
+8.26.152.0 8.26.156.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.157.0 8.26.157.255 AS26673 RADB Uber, corporate, Level3 SWIPed block
+8.26.158.0 8.26.158.255 AS54161 SAVVIS PNAP-SFO PathInc Route
+8.26.159.0 8.26.159.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.160.0 8.26.160.255 AS53524 LEVEL3 customer route
+8.26.161.0 8.26.178.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.179.0 8.26.179.255 AS14739 LEVEL3 5344067
+8.26.180.0 8.26.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.224.0 8.26.231.255 AS23089 RADB Auto Generated Route Object for 8.26.224.0/22 via AS23089
+8.26.232.0 8.26.233.255 AS10891 ARIN CCH
+8.26.234.0 8.26.239.255 AS3356 LEVEL3 Proxy-registered route object
+8.26.240.0 8.26.243.255 AS23089 RADB Auto Generated Route Object for 8.26.240.0/23 via AS23089
+8.26.244.0 8.27.19.255 AS3356 LEVEL3 Proxy-registered route object
+8.27.20.0 8.27.21.255 AS23089 RADB Auto Generated Route Object for 8.27.20.0/23 via AS23089
+8.27.22.0 8.27.22.255 AS3356 LEVEL3 Proxy-registered route object
+8.27.23.0 8.27.23.255 AS19067 LEVEL3 VAILSYS-SF-ENS-IPVPN-1
+8.27.24.0 8.27.27.255 AS23089 RADB Auto Generated Route Object for 8.27.24.0/22 via AS23089
+8.27.28.0 8.27.30.255 AS3356 LEVEL3 Proxy-registered route object
+8.27.31.0 8.27.31.255 AS54785 LEVEL3 route for sun communities
+8.27.32.0 8.27.73.255 AS3356 LEVEL3 Proxy-registered route object
+8.27.74.0 8.27.74.255 AS16641 LEVEL3 ACBB-Bits
+8.27.75.0 8.27.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.27.112.0 8.27.121.255 AS23089 RADB Auto Generated Route Object for 8.27.112.0/22 via AS23089
+8.27.122.0 8.27.122.255 AS46473 RADB Terremark-Proxy for TigerDirect INC
+8.27.123.0 8.27.123.255 AS23089 RADB Auto Generated Route Object for 8.27.123.0/24 via AS23089
+8.27.124.0 8.27.124.255 AS46473 RADB Terremark-Proxy for TigerDirect INC
+8.27.125.0 8.27.127.255 AS23089 RADB Auto Generated Route Object for 8.27.125.0/24 via AS23089
+8.27.128.0 8.27.157.255 AS3356 LEVEL3 Proxy-registered route object
+8.27.158.0 8.27.158.255 AS560 LEVEL3 AS560
+8.27.159.0 8.27.159.255 AS3356 LEVEL3 Proxy-registered route object
+8.27.160.0 8.27.163.255 AS13550 ARIN CityNet Arizona LLC
+8.27.164.0 8.27.167.255 AS22773 LEVEL3 PH CB TRANSIT
+8.27.168.0 8.27.179.255 AS3356 LEVEL3 Proxy-registered route object
+8.27.180.0 8.27.183.255 AS6086 ARIN RTE66-GBLX
+8.27.184.0 8.27.185.255 AS25651 RADB Integra Telecom Route Object
+8.27.186.0 8.27.187.255 AS22528 RADB Consolidated Data Services Phoenix
+8.27.188.0 8.27.207.255 AS3356 LEVEL3 Proxy-registered route object
+8.27.208.0 8.27.223.255 AS40749 RADB CDE Lightband
+8.27.224.0 8.27.234.255 AS3356 LEVEL3 Proxy-registered route object
+8.27.235.0 8.27.235.255 AS560 LEVEL3 AS560
+8.27.236.0 8.27.247.255 AS3356 LEVEL3 Proxy-registered route object
+8.27.248.0 8.27.250.255 AS560 LEVEL3 AS560
+8.27.251.0 8.27.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.0.0 8.28.1.255 AS32308 RADB auto-generated route object for 8.28.0.0/24
+8.28.2.0 8.28.2.255 AS44965 LEVEL3 Workaround for 8x8
+8.28.3.0 8.28.3.255 AS26415 RADB VeriSign Customer Route
+8.28.4.0 8.28.4.255 AS11179 RADB ARYAKA NETWORKS INC.
+8.28.5.0 8.28.5.255 AS33047 LEVEL3 Instart Inc
+8.28.6.0 8.28.18.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.19.0 8.28.19.255 AS53813 SAVVIS PNAP-ACS zscaler-routes
+8.28.20.0 8.28.23.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.24.0 8.28.24.255 AS7029 RADB Windstream  PaeTec 
+8.28.25.0 8.28.30.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.31.0 8.28.31.255 AS22773 LEVEL3 MRFD CB TRANSIT
+8.28.32.0 8.28.39.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.40.0 8.28.40.255 AS19009 RADB Secure Data 365
+8.28.41.0 8.28.49.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.50.0 8.28.50.255 AS40367 RADB DRFIRST/ATLANTECH
+8.28.51.0 8.28.63.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.64.0 8.28.64.255 AS19067 LEVEL3 VAILSYS-AU-ENS-DIA-1
+8.28.65.0 8.28.66.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.67.0 8.28.67.255 AS32263 LEVEL3 WBS Connect
+8.28.68.0 8.28.71.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.72.0 8.28.72.255 AS19905 RADB AC_TRANS1ST
+8.28.73.0 8.28.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.80.0 8.28.80.255 AS21777 SAVVIS PNAP-DEN
+8.28.81.0 8.28.84.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.85.0 8.28.85.255 AS14602 RADB Teliax Denver
+8.28.86.0 8.28.87.255 AS17098 ARIN Secom proxy route object for AS17098
+8.28.88.0 8.28.91.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.92.0 8.28.94.255 AS22625 LEVEL3 Customer Route
+8.28.95.0 8.28.118.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.119.0 8.28.119.255 AS22773 LEVEL3 CHND PHX-DATA-BUSINESS
+8.28.120.0 8.28.148.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.149.0 8.28.149.255 AS53776 RADB Integra Telecom Route Object
+8.28.150.0 8.28.150.255 AS53813 SAVVIS PNAP-ACS zscaler-routes
+8.28.151.0 8.28.151.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.152.0 8.28.159.255 AS13693 RADB RR-RC-NTS Communications-North Texas
+8.28.160.0 8.28.168.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.169.0 8.28.169.255 AS62573 RADB Comcast cable Communications, Inc. 1800 Bishops Gate Blvd Mt laurel, NJ 08054
+8.28.170.0 8.28.172.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.173.0 8.28.173.255 AS11414 RADB GRID CH3
+8.28.174.0 8.28.174.255 AS65019 RADB Lightower-Customer-ETRADE
+8.28.175.0 8.28.176.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.177.0 8.28.177.255 AS53813 SAVVIS PNAP-ACS zscaler-routes
+8.28.178.0 8.28.179.255 AS103 RADB Northwestern University Evanston, IL
+8.28.180.0 8.28.183.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.184.0 8.28.191.255 AS14230 SAVVIS PNAP-CHG
+8.28.192.0 8.28.211.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.212.0 8.28.212.255 AS7029 RADB Proxy fbo Flashpoint Informatics  AS53684 
+8.28.213.0 8.28.222.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.223.0 8.28.223.255 AS7029 RADB Proxy fbo Southwestern/Great American Inc.  AS40279 
+8.28.224.0 8.28.224.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.225.0 8.28.225.255 AS22511 LEVEL3 TelCove BGP Customer netblock
+8.28.226.0 8.28.228.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.229.0 8.28.229.255 AS11414 RADB GRID-RLAB
+8.28.230.0 8.28.239.255 AS3356 LEVEL3 Proxy-registered route object
+8.28.240.0 8.28.255.255 AS22773 LEVEL3 OK CBS TRANSIT
+8.29.0.0 8.29.0.255 AS23089 RADB Auto Generated Route Object for 8.29.0.0/24 via AS23089
+8.29.1.0 8.29.3.255 AS3356 LEVEL3 Proxy-registered route object
+8.29.4.0 8.29.5.255 AS23089 RADB Auto Generated Route Object for 8.29.4.0/23 via AS23089
+8.29.6.0 8.29.67.255 AS3356 LEVEL3 Proxy-registered route object
+8.29.68.0 8.29.68.255 AS10753 LEVEL3 I Drive Safely LLC
+8.29.69.0 8.29.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.29.80.0 8.29.83.255 AS23089 RADB Auto Generated Route Object for 8.29.80.0/24 via AS23089
+8.29.84.0 8.29.87.255 AS3356 LEVEL3 Proxy-registered route object
+8.29.88.0 8.29.89.255 AS11843 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.29.90.0 8.29.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.29.96.0 8.29.97.255 AS22773 LEVEL3 BR CBS TRANSIT
+8.29.98.0 8.29.106.255 AS3356 LEVEL3 Proxy-registered route object
+8.29.107.0 8.29.107.255 AS394272 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.29.108.0 8.29.115.255 AS3356 LEVEL3 Proxy-registered route object
+8.29.116.0 8.29.116.255 AS3655 LEVEL3 General Electric AS3655
+8.29.117.0 8.29.117.255 AS10896 ARIN VERIF001
+8.29.118.0 8.29.119.255 AS3356 LEVEL3 Proxy-registered route object
+8.29.120.0 8.29.127.255 AS22969 LEVEL3 AFS-GA-Net2
+8.29.128.0 8.29.143.255 AS30152 ALTDB Proxy-registered route object for Beyond Hosting, LLC 400 Pike St Cincinnati, OH 45202
+8.29.144.0 8.29.147.255 AS26312 RADB Axia Technology Partners
+8.29.148.0 8.29.151.255 AS3356 LEVEL3 Proxy-registered route object
+8.29.152.0 8.29.159.255 AS30152 ALTDB Proxy-registered route object for Beyond Hosting, LLC 400 Pike St Cincinnati, OH 45202
+8.29.160.0 8.29.167.255 AS3356 LEVEL3 Proxy-registered route object
+8.29.168.0 8.29.175.255 AS30188 LEVEL3 route update via web
+8.29.176.0 8.29.191.255 AS7296 SAVVIS PNAP-LAX 2437855
+8.29.192.0 8.29.197.255 AS3356 LEVEL3 Proxy-registered route object
+8.29.198.0 8.29.198.255 AS22773 LEVEL3 BRNR CB TRANSIT
+8.29.199.0 8.29.208.255 AS3356 LEVEL3 Proxy-registered route object
+8.29.209.0 8.29.209.255 AS29906 ARIN Westat, Inc. 1600 Research Blvd Rockville, Maryland 20850 US
+8.29.210.0 8.29.222.255 AS3356 LEVEL3 Proxy-registered route object
+8.29.223.0 8.29.223.255 AS53552 RADB SIDERA-CSR-Direct Acess Parteners
+8.29.224.0 8.29.224.255 AS16276 RIPE OVH
+8.29.225.0 8.30.3.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.4.0 8.30.4.255 AS7029 RADB Proxy fbo DF Young  AS53720 
+8.30.5.0 8.30.10.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.11.0 8.30.11.255 AS26120 NTTCOM Proxy object for rhythm one
+8.30.12.0 8.30.15.255 AS20245 RADB Vonage DEV
+8.30.16.0 8.30.41.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.42.0 8.30.43.255 AS22566 RADB Proxy-registered route object
+8.30.44.0 8.30.86.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.87.0 8.30.87.255 AS22657 ARIN PROXI001
+8.30.88.0 8.30.91.255 AS53893 ARIN Earthwave Services, LLC 1718 M St NW #145 Washington, DC 20036 US
+8.30.92.0 8.30.92.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.93.0 8.30.93.255 AS29906 ARIN Westat, Inc. 1600 Research Blvd Rockville, Maryland 20850 US
+8.30.94.0 8.30.94.255 AS22773 LEVEL3 MRFD DHCP TRANSIT
+8.30.95.0 8.30.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.96.0 8.30.105.255 AS23089 RADB Auto Generated Route Object for 8.30.96.0/22 via AS23089
+8.30.106.0 8.30.106.255 AS27640 RADB Terremark-Proxy for Gigas Hosting
+8.30.107.0 8.30.123.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.124.0 8.30.124.255 AS13886 RADB Cloud South  HRL-23 
+8.30.125.0 8.30.151.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.152.0 8.30.153.255 AS14567 LEVEL3 5195817
+8.30.154.0 8.30.156.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.157.0 8.30.157.255 AS6582 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.30.158.0 8.30.158.255 AS19067 LEVEL3 VAILSYS-AU-ENS-HSIP-2
+8.30.159.0 8.30.159.255 AS31984 ARIN Multihome Level 3 IP Block
+8.30.160.0 8.30.167.255 AS27611 RADB DATAPIPE GMO SJ2
+8.30.168.0 8.30.170.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.171.0 8.30.171.255 AS7029 RADB Windstream  PaeTec 
+8.30.172.0 8.30.172.255 AS36421 RADB TREND MICRO INCORPORATED
+8.30.173.0 8.30.191.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.192.0 8.30.199.255 AS12025 ARIN i/o
+8.30.200.0 8.30.201.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.202.0 8.30.202.255 AS26927 RADB Proxy route for Zayo customer, Cablevision
+8.30.203.0 8.30.203.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.204.0 8.30.204.255 AS26668 LEVEL3 5400191
+8.30.205.0 8.30.207.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.208.0 8.30.215.255 AS16276 RIPE OVH
+8.30.216.0 8.30.236.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.237.0 8.30.237.255 AS26028 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.30.238.0 8.30.239.255 AS54225 ARIN NetsurfUSA, Inc.
+8.30.240.0 8.30.247.255 AS3356 LEVEL3 Proxy-registered route object
+8.30.248.0 8.30.251.255 AS103 RADB Northwestern University Evanston, IL
+8.30.252.0 8.30.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.31.0.0 8.31.1.255 AS23089 RADB Auto Generated Route Object for 8.31.0.0/24 via AS23089
+8.31.2.0 8.31.31.255 AS3356 LEVEL3 Proxy-registered route object
+8.31.32.0 8.31.47.255 AS19893 RADB RagingWire Data Centers, Inc.
+8.31.48.0 8.31.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.31.96.0 8.31.96.255 AS19905 RADB SP-Nexon
+8.31.97.0 8.31.97.255 AS26236 SAVVIS PNAP-LAX nexon-route
+8.31.98.0 8.31.100.255 AS19905 RADB SP-NEXON
+8.31.101.0 8.31.101.255 AS26236 LEVEL3 5199874
+8.31.102.0 8.31.102.255 AS19905 RADB SP-NEXON
+8.31.103.0 8.31.121.255 AS3356 LEVEL3 Proxy-registered route object
+8.31.122.0 8.31.122.255 AS53345 LEVEL3 One Source Route Addition
+8.31.123.0 8.31.133.255 AS3356 LEVEL3 Proxy-registered route object
+8.31.134.0 8.31.134.255 AS394416 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.31.135.0 8.31.143.255 AS3356 LEVEL3 Proxy-registered route object
+8.31.144.0 8.31.159.255 AS6621 ARIN Hughes Network Systems 11717 Exploration Lane DirecWAY Network Management Center attn: Network Security Manager Germantown, MD 20876 US
+8.31.160.0 8.31.164.255 AS3356 LEVEL3 Proxy-registered route object
+8.31.165.0 8.31.165.255 AS27477 RADB IBM Corp. Industry Solutions 10 North Martingale Rd Woodfield Preserve Schaumberg, IL 60173-2099 USA
+8.31.166.0 8.31.173.255 AS3356 LEVEL3 Proxy-registered route object
+8.31.174.0 8.31.174.255 AS10753 LEVEL3 New route for Usepro FZE
+8.31.175.0 8.31.205.255 AS3356 LEVEL3 Proxy-registered route object
+8.31.206.0 8.31.206.255 AS15162 RADB Muve DFW SWIP allocation - Level 3
+8.31.207.0 8.31.229.255 AS3356 LEVEL3 Proxy-registered route object
+8.31.230.0 8.31.230.255 AS13957 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.31.231.0 8.31.231.255 AS3356 LEVEL3 Proxy-registered route object
+8.31.232.0 8.31.233.255 AS53780 ARIN AppRiver, LLC 1101 Gulf Breeze Parkway Gulf Breeze, FL 32561 US
+8.31.234.0 8.31.234.255 AS33047 RADB Proxy route object registered by AS2764
+8.31.235.0 8.31.235.255 AS3356 LEVEL3 Proxy-registered route object
+8.31.236.0 8.31.239.255 AS22528 RADB Consolidated Data Services
+8.31.240.0 8.31.255.255 AS14676 ARIN Regus Business Center, LLC 15305 Dallas Parkway, Suite 400 Addison, TX 75001
+8.32.0.0 8.33.1.255 AS3356 LEVEL3 Proxy-registered route object
+8.33.2.0 8.33.2.255 AS54868 ARIN Widerange Broadband P.O. Box 67045 Lincoln, NE 68506 US US
+8.33.3.0 8.33.15.255 AS3356 LEVEL3 Proxy-registered route object
+8.33.16.0 8.33.19.255 AS33616 ARIN Co-Mo Connect PO BOX 220 Tipton, Mo 65081 US
+8.33.20.0 8.33.27.255 AS3356 LEVEL3 Proxy-registered route object
+8.33.28.0 8.33.29.255 AS22474 ARIN Saint Lukes Health System 800 NW Chipman Road Suite 5950 Lees Summit, MO 64063 US
+8.33.30.0 8.33.31.255 AS3356 LEVEL3 Proxy-registered route object
+8.33.32.0 8.33.33.255 AS53407 LEVEL3 AS53407 origin route
+8.33.34.0 8.33.47.255 AS3356 LEVEL3 Proxy-registered route object
+8.33.48.0 8.33.63.255 AS6621 ARIN Hughes Network Systems 11717 Exploration Lane DirecWAY Network Management Center attn: Network Security Manager Germantown, MD 20876 US
+8.33.64.0 8.33.64.255 AS3356 LEVEL3 Proxy-registered route object
+8.33.65.0 8.33.65.255 AS53560 LEVEL3 Endo Pharmaceuticals added by MAINT-AS6517 
+8.33.66.0 8.33.70.255 AS3356 LEVEL3 Proxy-registered route object
+8.33.71.0 8.33.71.255 AS30641 RADB State of Delaware
+8.33.72.0 8.33.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.33.80.0 8.33.95.255 AS7381 LEVEL3 sgns block 1
+8.33.96.0 8.33.103.255 AS16276 RIPE OVH
+8.33.104.0 8.33.127.255 AS3356 LEVEL3 Proxy-registered route object
+8.33.128.0 8.33.137.255 AS16276 RIPE OVH
+8.33.138.0 8.33.159.255 AS3356 LEVEL3 Proxy-registered route object
+8.33.160.0 8.33.175.255 AS33182 ALTDB Proxy Registered Object - irr@dimenoc.com
+8.33.176.0 8.33.176.255 AS393971 RADB RR-RC-Martin Luther King Jr., Healthcare Corporation-Los Angeles
+8.33.177.0 8.33.181.255 AS3356 LEVEL3 Proxy-registered route object
+8.33.182.0 8.33.182.255 AS32576 LEVEL3 New route for AS32576
+8.33.183.0 8.33.184.255 AS3356 LEVEL3 Proxy-registered route object
+8.33.185.0 8.33.185.255 AS22773 LEVEL3 RSMT RSMT-DATA-BUSINESS
+8.33.186.0 8.33.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.33.224.0 8.33.224.255 AS394936 RADB FMC route from Level3
+8.33.225.0 8.33.239.255 AS14676 ARIN Regus Business Center, LLC 15305 Dallas Parkway, Suite 400 Addison, TX 75001
+8.33.240.0 8.34.5.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.6.0 8.34.7.255 AS23089 RADB Auto Generated Route Object for 8.34.6.0/23 via AS23089
+8.34.8.0 8.34.9.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.10.0 8.34.11.255 AS33648 LEVEL3 COLOFLORIDA
+8.34.12.0 8.34.12.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.13.0 8.34.13.255 AS19589 LEVEL3 customer route
+8.34.14.0 8.34.15.255 AS13604 ARIN City of Dunnellon  Greenlight 
+8.34.16.0 8.34.27.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.28.0 8.34.31.255 AS16695 RADB CXP-DATACENTERS CXP Capital, LLC  CCL-325 
+8.34.32.0 8.34.33.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.34.0 8.34.34.255 AS53444 RADB Zscaler Route
+8.34.35.0 8.34.42.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.43.0 8.34.43.255 AS32781 LEVEL3 AMI route
+8.34.44.0 8.34.47.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.48.0 8.34.48.255 AS6102 RADB Level 3 for Showtime NOC
+8.34.49.0 8.34.62.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.63.0 8.34.63.255 AS54906 RADB Frontier Communications  ARIN OrgID: FRTR 
+8.34.64.0 8.34.71.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.72.0 8.34.79.255 AS13904 LEVEL3 TransWorld Network Corp
+8.34.80.0 8.34.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.96.0 8.34.103.255 AS54868 ARIN Widerange Broadband P.O. Box 67045 Lincoln, NE 68506 US US
+8.34.104.0 8.34.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.112.0 8.34.112.255 AS23399 LEVEL3 Customer route
+8.34.113.0 8.34.115.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.116.0 8.34.119.255 AS10753 LEVEL3 Route for HN  Berger
+8.34.120.0 8.34.123.255 AS33695 ARIN ScaleMatrix 5775 Kearny Villa Road San Diego, CA  92123 US
+8.34.124.0 8.34.124.255 AS22773 LEVEL3 FED1 SAND-BGP-IN
+8.34.125.0 8.34.125.255 AS33695 ARIN ScaleMatrix 5775 Kearny Villa Road San Diego, CA  92123 US
+8.34.126.0 8.34.127.255 AS53659 NTTCOM SCALE-MATRIX-L3-NET
+8.34.128.0 8.34.151.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.152.0 8.34.159.255 AS14230 SAVVIS PNAP-CHG
+8.34.160.0 8.34.160.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.161.0 8.34.161.255 AS7381 LEVEL3 Sunguard Route
+8.34.162.0 8.34.168.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.169.0 8.34.169.255 AS23384 LEVEL3 TT 6187612
+8.34.170.0 8.34.182.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.183.0 8.34.183.255 AS30372 SAVVIS PNAP-NYM sunesys
+8.34.184.0 8.34.187.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.188.0 8.34.188.255 AS10753 LEVEL3 AV-Zip2-WCMS-L3-SVALE
+8.34.189.0 8.34.207.255 AS3356 LEVEL3 Proxy-registered route object
+8.34.208.0 8.34.223.255 AS15169 RADB Google
+8.34.224.0 8.35.7.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.8.0 8.35.8.255 AS5110 LEVEL3 cus routes
+8.35.9.0 8.35.9.255 AS55060 RADB AS-AZT-77
+8.35.10.0 8.35.15.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.16.0 8.35.26.255 AS20077 RADB IPNETZONE-L3
+8.35.27.0 8.35.27.255 AS18990 LEVEL3 AirBand Communication INC
+8.35.28.0 8.35.31.255 AS20077 RADB IPNETZONE-L3
+8.35.32.0 8.35.33.255 AS14058 ARIN PointClick Technologies 5301 Departure Raleigh, NC 27616 US
+8.35.34.0 8.35.34.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.35.0 8.35.35.255 AS53813 RADB Zscaler Route
+8.35.36.0 8.35.63.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.64.0 8.35.79.255 AS6621 ARIN Hughes Network Systems 11717 Exploration Lane DirecWAY Network Management Center attn: Network Security Manager Germantown, MD 20876 US
+8.35.80.0 8.35.83.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.84.0 8.35.87.255 AS393706 RADB Proxy-registered route object for Nelson County Cable via Lumos Networks.
+8.35.88.0 8.35.91.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.92.0 8.35.92.255 AS22773 LEVEL3 RNKE CB TRANSIT
+8.35.93.0 8.35.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.96.0 8.35.111.255 AS6621 ARIN Hughes Network Systems 11717 Exploration Lane DirecWAY Network Management Center attn: Network Security Manager Germantown, MD 20876 US
+8.35.112.0 8.35.112.255 AS11251 LEVEL3 AS11251
+8.35.113.0 8.35.119.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.120.0 8.35.127.255 AS22773 LEVEL3 KSCY CB TRANSIT
+8.35.128.0 8.35.143.255 AS6621 ARIN Hughes Network Systems 11717 Exploration Lane DirecWAY Network Management Center attn: Network Security Manager Germantown, MD 20876 US
+8.35.144.0 8.35.175.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.176.0 8.35.176.255 AS27477 RADB IBM Corp. Industry Solutions 10 North Martingale Rd Woodfield Preserve Schaumberg, IL 60173-2099 USA
+8.35.177.0 8.35.178.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.179.0 8.35.179.255 AS198018 NTTCOM trivago-us-route
+8.35.180.0 8.35.191.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.192.0 8.35.207.255 AS15169 RADB Google
+8.35.208.0 8.35.208.255 AS22901 RADB AS6983 Route Object
+8.35.209.0 8.35.212.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.213.0 8.35.213.255 AS32912 RADB Prolexic Technologies, Inc.
+8.35.214.0 8.35.214.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.215.0 8.35.215.255 AS40152 LEVEL3 Sabre Technologies
+8.35.216.0 8.35.218.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.219.0 8.35.219.255 AS54697 RADB EverBank Financial Corp
+8.35.220.0 8.35.220.255 AS22561 SAVVIS add route
+8.35.221.0 8.35.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.35.224.0 8.35.239.255 AS6621 RADB LVLT-HNS-8-35-224
+8.35.240.0 8.35.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.0.0 8.36.1.255 AS11251 LEVEL3 added per customer request
+8.36.2.0 8.36.15.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.16.0 8.36.31.255 AS22561 SAVVIS add route
+8.36.32.0 8.36.39.255 AS12025 ARIN -------------------------------------------------- - i/o Data Centers - 615 North 48th Street - Phoenix, AZ 85008 US - http://www.iodatacenters.com - - Customer Proxy Route --------------------------------------------------
+8.36.40.0 8.36.47.255 AS30152 ALTDB Proxy-registered route object for Beyond Hosting, LLC 400 Pike St Cincinnati, OH 45202
+8.36.48.0 8.36.64.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.65.0 8.36.65.255 AS18796 LEVEL3 customer routes
+8.36.66.0 8.36.66.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.67.0 8.36.67.255 AS6352 RADB SIDERA-CSR-ETRADE
+8.36.68.0 8.36.70.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.71.0 8.36.71.255 AS62613 SAVVIS PNAP-NYM p3inc-1
+8.36.72.0 8.36.72.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.73.0 8.36.73.255 AS199188 RIPE Prime Exchange Markets GmbH
+8.36.74.0 8.36.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.80.0 8.36.80.255 AS11414 RADB GRID
+8.36.81.0 8.36.81.127 AS31950 RADB Data Network Solutions
+8.36.81.128 8.36.85.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.86.0 8.36.86.255 AS53831 RADB Squarespace Route Object
+8.36.87.0 8.36.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.112.0 8.36.113.255 AS11414 ALTDB NVIDIA GRID
+8.36.114.0 8.36.114.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.115.0 8.36.115.255 AS62 RADB CyrusOne - Proxy for Customer
+8.36.116.0 8.36.116.255 AS55256 ARIN Level3 Origin
+8.36.117.0 8.36.117.255 AS62616 NTTCOM Level 3 Assigned Space
+8.36.118.0 8.36.119.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.120.0 8.36.120.255 AS11414 RADB GRID
+8.36.121.0 8.36.123.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.124.0 8.36.124.127 AS29853 LEVEL3 new route  for LOYAL3
+8.36.124.128 8.36.161.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.162.0 8.36.162.255 AS27381 RADB Index Exchange Inc.
+8.36.163.0 8.36.239.255 AS3356 LEVEL3 Proxy-registered route object
+8.36.240.0 8.36.255.255 AS22773 LEVEL3 MACN CB TRANSIT
+8.37.0.0 8.37.4.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.5.0 8.37.5.255 AS40556 ARIN CHI02
+8.37.6.0 8.37.6.255 AS25775 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+8.37.7.0 8.37.13.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.14.0 8.37.15.255 AS54225 ARIN NetsurfUSA, Inc.
+8.37.16.0 8.37.69.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.70.0 8.37.71.255 AS18837 RADB AddThis, Inc. 1595 Spring Hill Road, Suite 300 Vienna, VA 22182
+8.37.72.0 8.37.86.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.87.0 8.37.87.255 AS53845 NTTCOM BBD SLC
+8.37.88.0 8.37.91.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.92.0 8.37.92.255 AS19768 RADB ScanHealthPlan
+8.37.93.0 8.37.93.255 AS62783 ARIN Hot Topic Inc. 18305 E. San Jose Ave. City of Industry, Ca 91748 US
+8.37.94.0 8.37.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.96.0 8.37.111.255 AS16491 RADB ViaSat Inc.
+8.37.112.0 8.37.112.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.113.0 8.37.113.255 AS22773 LEVEL3 FED1 SAND-DATA-BUSINESS
+8.37.114.0 8.37.161.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.162.0 8.37.162.255 AS3949277 RADB Southern Vermont Cable
+8.37.163.0 8.37.163.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.164.0 8.37.164.255 AS27306 LEVEL3 new route  for Mount Ascutney Hospital
+8.37.165.0 8.37.180.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.181.0 8.37.181.255 AS393728 ARIN World Streamedia Inc.
+8.37.182.0 8.37.185.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.186.0 8.37.186.255 AS53345 RADB One Source Networks Inc.
+8.37.187.0 8.37.189.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.190.0 8.37.190.255 AS3949277 RADB Southern Vermont Cable
+8.37.191.0 8.37.215.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.216.0 8.37.216.255 AS21866 RADB Citrix Online
+8.37.217.0 8.37.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.37.224.0 8.37.239.255 AS54994 RADB QUANTIL INC
+8.37.240.0 8.38.15.255 AS3356 LEVEL3 Proxy-registered route object
+8.38.16.0 8.38.23.255 AS27205 RADB Prolexic Technologies, Inc.
+8.38.24.0 8.38.24.255 AS53345 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+8.38.25.0 8.38.31.255 AS3356 LEVEL3 Proxy-registered route object
+8.38.32.0 8.38.32.255 AS18106 LEVEL3 Customer route
+8.38.33.0 8.38.33.255 AS19598 RADB ONTARIO-DATACENTER
+8.38.34.0 8.38.36.255 AS3356 LEVEL3 Proxy-registered route object
+8.38.37.0 8.38.37.255 AS13838 LEVEL3 creating route
+8.38.38.0 8.38.38.255 AS11414 RADB GRID-LAX
+8.38.39.0 8.38.39.255 AS31789 RADB DelTel Production Network
+8.38.40.0 8.38.40.255 AS3356 LEVEL3 Proxy-registered route object
+8.38.41.0 8.38.41.255 AS53845 NTTCOM BBD MIN
+8.38.42.0 8.38.43.255 AS40807 RADB TelCentris PA space from L3
+8.38.44.0 8.38.50.255 AS3356 LEVEL3 Proxy-registered route object
+8.38.51.0 8.38.51.255 AS18106 LEVEL3 Route Object
+8.38.52.0 8.38.72.255 AS3356 LEVEL3 Proxy-registered route object
+8.38.73.0 8.38.73.255 AS46639 RADB RR-RC-Hughes Telematics, Inc - Austin
+8.38.74.0 8.38.75.255 AS3356 LEVEL3 Proxy-registered route object
+8.38.76.0 8.38.79.255 AS13886 RADB Cloud South  HRL-23 
+8.38.80.0 8.38.96.255 AS3356 LEVEL3 Proxy-registered route object
+8.38.97.0 8.38.97.255 AS33047 LEVEL3 INSTART_INC
+8.38.98.0 8.38.98.255 AS22561 SAVVIS add route
+8.38.99.0 8.38.161.255 AS3356 LEVEL3 Proxy-registered route object
+8.38.162.0 8.38.162.255 AS20003 RADB Prolexic Technologies, Inc.
+8.38.163.0 8.38.163.255 AS2003 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+8.38.164.0 8.38.167.255 AS3356 LEVEL3 Proxy-registered route object
+8.38.168.0 8.38.168.255 AS32062 RADB Proxy fbo Armstrong World Industries  AS32062 
+8.38.169.0 8.38.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.0.0 8.39.0.255 AS11414 RADB NVIDIA
+8.39.1.0 8.39.3.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.4.0 8.39.4.255 AS22469 SAVVIS PNAP-ACS
+8.39.5.0 8.39.41.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.42.0 8.39.42.255 AS30427 SAVVIS PNAP-SJE lynda-routes
+8.39.43.0 8.39.48.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.49.0 8.39.49.255 AS394265 RADB Box, Inc.
+8.39.50.0 8.39.50.255 AS394562 ARIN Stripe, Inc. infrastructure
+8.39.51.0 8.39.52.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.53.0 8.39.53.255 AS13443 RADB Level3 prefix used and announced by AS-LINKEDIN-BIZ
+8.39.54.0 8.39.63.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.64.0 8.39.64.255 AS55256 ARIN Level3 Origin
+8.39.65.0 8.39.97.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.98.0 8.39.98.255 AS3737 ARIN PenTeleData
+8.39.99.0 8.39.99.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.100.0 8.39.101.255 AS22928 RADB Comcast cable Communications, Inc. 1800 Bishops Gate Blvd Mt laurel, NJ 08054
+8.39.102.0 8.39.116.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.117.0 8.39.117.255 AS394170 ARIN Susquehanna University Selinsgrove, PA 17870
+8.39.118.0 8.39.118.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.119.0 8.39.119.255 AS23061 RADB Proxy fbo HSH  AS23061 
+8.39.120.0 8.39.130.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.131.0 8.39.131.255 AS19905 RADB SKOUT
+8.39.132.0 8.39.143.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.144.0 8.39.144.255 AS55256 ARIN Level3 Origin
+8.39.145.0 8.39.145.255 AS393706 RADB proxy route for Nelson county cable
+8.39.146.0 8.39.146.255 AS54024 RADB proxy route for customer
+8.39.147.0 8.39.155.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.156.0 8.39.156.255 AS26054 RADB YP holdings, LLC
+8.39.157.0 8.39.157.255 AS394562 ARIN Stripe, Inc. infrastructure
+8.39.158.0 8.39.175.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.176.0 8.39.183.255 AS10355 LEVEL3 Digital Service Consultants
+8.39.184.0 8.39.220.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.221.0 8.39.221.255 AS63080 SAVVIS PNAP-DAL ccarib customer route
+8.39.222.0 8.39.239.255 AS3356 LEVEL3 Proxy-registered route object
+8.39.240.0 8.39.255.255 AS22773 LEVEL3 KSCY CB TRANSIT
+8.40.0.0 8.40.34.255 AS3356 LEVEL3 Proxy-registered route object
+8.40.35.0 8.40.35.255 AS394118 ARIN 83 Wooster Heights Rd, Suite 210 Danbury, CT 06810 US
+8.40.36.0 8.40.47.255 AS3356 LEVEL3 Proxy-registered route object
+8.40.48.0 8.40.63.255 AS23118 RADB Proxy-registered route object
+8.40.64.0 8.40.81.255 AS3356 LEVEL3 Proxy-registered route object
+8.40.82.0 8.40.82.255 AS3949277 RADB Southern Vermont Cable
+8.40.83.0 8.40.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.40.112.0 8.40.112.255 AS63317 ARIN DCP-8-40-112-0-24-1
+8.40.113.0 8.40.159.255 AS3356 LEVEL3 Proxy-registered route object
+8.40.160.0 8.40.171.255 AS35986 RADB Vyve Broadband
+8.40.172.0 8.40.172.255 AS3356 LEVEL3 Proxy-registered route object
+8.40.173.0 8.40.175.255 AS35986 RADB Proxy fbo Vyve Broadband  AS35986 
+8.40.176.0 8.40.183.255 AS3356 LEVEL3 Proxy-registered route object
+8.40.184.0 8.40.184.255 AS35986 RADB Proxy fbo Vyve Broadband  AS35986 
+8.40.185.0 8.40.241.255 AS3356 LEVEL3 Proxy-registered route object
+8.40.242.0 8.40.243.255 AS13354 RADB VAZATA-L3-ROUTE
+8.40.244.0 8.40.247.255 AS3356 LEVEL3 Proxy-registered route object
+8.40.248.0 8.40.255.255 AS22898 LEVEL3 New route for AS22898
+8.41.0.0 8.41.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.41.80.0 8.41.81.255 AS6352 RADB Prolexic Technologies, Inc.
+8.41.82.0 8.41.82.255 AS3356 LEVEL3 Proxy-registered route object
+8.41.83.0 8.41.83.255 AS31839 LEVEL3 Route for BLUE CROSS AND BLUE SHIELD
+8.41.84.0 8.41.86.255 AS3356 SAVVIS PNAP-ACS rentpath
+8.41.87.0 8.41.87.255 AS394133 NTTCOM Fiberlight proxy object
+8.41.88.0 8.41.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.41.112.0 8.41.127.255 AS23118 RADB Proxy-registered route object
+8.41.128.0 8.41.171.255 AS3356 LEVEL3 Proxy-registered route object
+8.41.172.0 8.41.175.255 AS22773 LEVEL3 KSCY KSCY-BGP-IN
+8.41.176.0 8.41.191.255 AS3356 LEVEL3 Proxy-registered route object
+8.41.192.0 8.41.207.255 AS63341 SAVVIS PNAP-ACS
+8.41.208.0 8.41.211.255 AS3356 LEVEL3 Proxy-registered route object
+8.41.212.0 8.41.213.255 AS26074 ALTDB Proxy Registration for FreshDirect by Telx
+8.41.214.0 8.41.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.41.224.0 8.41.224.255 AS18837 RADB AddThis, Inc. 1595 Spring Hill Road, Suite 300 Vienna, VA 22182
+8.41.225.0 8.41.225.255 AS3356 LEVEL3 Proxy-registered route object
+8.41.226.0 8.41.226.255 AS18837 RADB AddThis, Inc. 1595 Spring Hill Road, Suite 300 Vienna, VA 22182
+8.41.227.0 8.42.15.255 AS3356 LEVEL3 Proxy-registered route object
+8.42.16.0 8.42.16.255 AS23399 LEVEL3 Route for Valley Proteins, Inc.
+8.42.17.0 8.42.35.255 AS3356 LEVEL3 Proxy-registered route object
+8.42.36.0 8.42.37.255 AS26074 LEVEL3 LIC Primary
+8.42.38.0 8.42.79.255 AS3356 LEVEL3 Proxy-registered route object
+8.42.80.0 8.42.95.255 AS22773 LEVEL3 KSCY CB TRANSIT
+8.42.96.0 8.42.103.255 AS3356 LEVEL3 Proxy-registered route object
+8.42.104.0 8.42.104.255 AS19224 LEVEL3 ADDED FOR - AS19224
+8.42.105.0 8.42.111.255 AS3356 LEVEL3 Proxy-registered route object
+8.42.112.0 8.42.127.255 AS62955 RIPE Route Object for EBAY GMBH
+8.42.128.0 8.42.143.255 AS3356 LEVEL3 Proxy-registered route object
+8.42.144.0 8.42.144.255 AS394729 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.42.145.0 8.42.149.255 AS3356 LEVEL3 Proxy-registered route object
+8.42.150.0 8.42.151.255 AS19224 LEVEL3 ADDED FOR - AS19224
+8.42.152.0 8.42.223.255 AS3356 LEVEL3 Proxy-registered route object
+8.42.224.0 8.42.231.255 AS13904 RADB Proxy fbo Transworld Network  AS13904 
+8.42.232.0 8.42.239.255 AS3356 LEVEL3 Proxy-registered route object
+8.42.240.0 8.42.243.255 AS33616 ARIN Co-Mo Connect PO BOX 220 Tipton, Mo 65081 US
+8.42.244.0 8.43.15.255 AS3356 LEVEL3 Proxy-registered route object
+8.43.16.0 8.43.16.255 AS36298 RADB Internet Access and Hosting
+8.43.17.0 8.43.21.255 AS3356 LEVEL3 Proxy-registered route object
+8.43.22.0 8.43.22.255 AS393995 RADB PFFCUGW - Police and Fire Federal Credit Union,US
+8.43.23.0 8.43.175.255 AS3356 LEVEL3 Proxy-registered route object
+8.43.176.0 8.43.191.255 AS26554 RADB SECURE24-46746
+8.43.192.0 8.44.135.255 AS3356 LEVEL3 Proxy-registered route object
+8.44.136.0 8.44.136.255 AS394663 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.44.137.0 8.44.139.255 AS3356 LEVEL3 Proxy-registered route object
+8.44.140.0 8.44.140.255 AS32932 ARIN LenderLive Networks, Inc.
+8.44.141.0 8.44.162.255 AS3356 LEVEL3 Proxy-registered route object
+8.44.163.0 8.44.163.255 AS20387 SAVVIS PNAP-SFO cordblood
+8.44.164.0 8.64.108.255 AS3356 LEVEL3 Proxy-registered route object
+8.64.109.0 8.64.109.255 AS17565 RADB CSLoxinfo route object for BuddyBB Advance Datanetwork Communications Co.,Ltd.
+8.64.110.0 8.64.127.255 AS3356 LEVEL3 Proxy-registered route object
+8.64.128.0 8.64.191.255 AS45474 REACH REACH  Customer Route 
+8.64.192.0 8.191.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.192.0.0 8.192.0.255 AS36778 LEVEL3 route update via web
+8.192.1.0 8.192.1.255 AS10753 LEVEL3 ticket #3670490
+8.192.2.0 8.192.11.255 AS3356 LEVEL3 Proxy-registered route object
+8.192.12.0 8.192.12.255 AS40642 LEVEL3 route update via web
+8.192.13.0 8.192.27.255 AS3356 LEVEL3 Proxy-registered route object
+8.192.28.0 8.192.28.255 AS40410 RADB Prolexic Technologies, Inc.
+8.192.29.0 8.192.39.255 AS3356 LEVEL3 Proxy-registered route object
+8.192.40.0 8.192.40.255 AS32949 LEVEL3 route update via web
+8.192.41.0 8.192.123.255 AS3356 LEVEL3 Proxy-registered route object
+8.192.124.0 8.192.124.255 AS27492 LEVEL3 route update via web
+8.192.125.0 8.192.153.255 AS3356 LEVEL3 Proxy-registered route object
+8.192.154.0 8.192.154.255 AS14106 LEVEL3 route update via web
+8.192.155.0 8.192.155.255 AS3356 LEVEL3 Proxy-registered route object
+8.192.156.0 8.192.159.255 AS16574 RADB RR-RC-Gtek Computers LLC-Corpus Christi
+8.192.160.0 8.192.163.255 AS3356 LEVEL3 Proxy-registered route object
+8.192.164.0 8.192.164.255 AS32833 LEVEL3 route update via web
+8.192.165.0 8.192.171.255 AS3356 LEVEL3 Proxy-registered route object
+8.192.172.0 8.192.173.255 AS3729 LEVEL3 ONE SOURCE NETWORKS ROUTE
+8.192.174.0 8.193.11.255 AS3356 LEVEL3 Proxy-registered route object
+8.193.12.0 8.193.13.255 AS13904 LEVEL3 TransWorld Network Corp
+8.193.14.0 8.223.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.224.0.0 8.224.1.255 AS3949277 RADB Southern Vermont Cable
+8.224.2.0 8.224.3.255 AS3356 LEVEL3 Proxy-registered route object
+8.224.4.0 8.224.4.255 AS3949277 RADB Southern Vermont Cable
+8.224.5.0 8.224.5.255 AS14785 ALTDB BCBSVT
+8.224.6.0 8.224.7.255 AS3949277 RADB Southern Vermont Cable
+8.224.8.0 8.224.8.255 AS3356 LEVEL3 Proxy-registered route object
+8.224.9.0 8.224.9.255 AS3949277 RADB Southern Vermont Cable
+8.224.10.0 8.224.10.255 AS3356 LEVEL3 Proxy-registered route object
+8.224.11.0 8.224.11.255 AS36746 ALTDB SymQuest Group, Inc.
+8.224.12.0 8.224.15.255 AS3356 LEVEL3 Proxy-registered route object
+8.224.16.0 8.224.16.255 AS46510 RADB RR-RC-ACS Education Services-CentralNY
+8.224.17.0 8.224.31.255 AS3356 LEVEL3 Proxy-registered route object
+8.224.32.0 8.224.34.255 AS12220 RADB RR-RC-I-Evolve-Buffalo
+8.224.35.0 8.224.63.255 AS3356 LEVEL3 Proxy-registered route object
+8.224.64.0 8.224.64.255 AS46580 LEVEL3 Routest added
+8.224.65.0 8.224.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.224.96.0 8.224.96.255 AS7381 LEVEL3 acfg block 1
+8.224.97.0 8.224.98.255 AS3356 LEVEL3 Proxy-registered route object
+8.224.99.0 8.224.99.255 AS26647 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+8.224.100.0 8.224.143.255 AS3356 LEVEL3 Proxy-registered route object
+8.224.144.0 8.224.147.255 AS22773 LEVEL3 NRFK CB TRANSIT
+8.224.148.0 8.224.167.255 AS3356 LEVEL3 Proxy-registered route object
+8.224.168.0 8.224.168.255 AS36346 LEVEL3 ticket #3855971
+8.224.169.0 8.224.177.255 AS3356 LEVEL3 Proxy-registered route object
+8.224.178.0 8.224.178.255 AS53416 RADB RR-RC-RM Sources-Columbia
+8.224.179.0 8.224.179.255 AS19951 RADB RR-RC-Measurement Inc.-Columbia
+8.224.180.0 8.224.191.255 AS3356 LEVEL3 Proxy-registered route object
+8.224.192.0 8.224.192.255 AS20182 LEVEL3 Route added for 20182
+8.224.193.0 8.225.63.255 AS3356 LEVEL3 Proxy-registered route object
+8.225.64.0 8.225.65.255 AS22561 SAVVIS add route
+8.225.66.0 8.225.95.255 AS3356 LEVEL3 Proxy-registered route object
+8.225.96.0 8.225.99.255 AS22561 SAVVIS add route
+8.225.100.0 8.225.185.255 AS3356 LEVEL3 Proxy-registered route object
+8.225.186.0 8.225.187.255 AS46404 RADB Allegheny Intermediate Unit 3
+8.225.188.0 8.225.191.255 AS3356 LEVEL3 Proxy-registered route object
+8.225.192.0 8.225.199.255 AS46404 RADB Allegheny Intermediate Unit 3
+8.225.200.0 8.225.202.255 AS3356 LEVEL3 Proxy-registered route object
+8.225.203.0 8.225.205.255 AS46404 RADB Allegheny Intermediate Unit 3
+8.225.206.0 8.225.219.255 AS3356 LEVEL3 Proxy-registered route object
+8.225.220.0 8.225.220.255 AS46531 LEVEL3 4894106
+8.225.221.0 8.225.221.255 AS3356 LEVEL3 Proxy-registered route object
+8.225.222.0 8.225.222.255 AS22561 SAVVIS add route
+8.225.223.0 8.253.132.127 AS3356 LEVEL3 Proxy-registered route object
+8.253.132.128 8.253.132.255 AS560 LEVEL3 AS560
+8.253.133.0 8.253.135.255 AS3356 LEVEL3 Proxy-registered route object
+8.253.136.0 8.253.138.127 AS560 LEVEL3 AS560
+8.253.138.128 8.254.27.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.28.0 8.254.28.255 AS560 LEVEL3 AS560
+8.254.29.0 8.254.29.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.30.0 8.254.30.255 AS560 LEVEL3 AS560
+8.254.31.0 8.254.37.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.38.0 8.254.39.255 AS560 LEVEL3 AS560
+8.254.40.0 8.254.40.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.41.0 8.254.42.255 AS560 LEVEL3 AS560
+8.254.43.0 8.254.44.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.45.0 8.254.46.127 AS560 LEVEL3 AS560
+8.254.46.128 8.254.50.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.51.0 8.254.51.127 AS560 LEVEL3 AS560
+8.254.51.128 8.254.51.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.52.0 8.254.52.255 AS560 LEVEL3 AS560
+8.254.53.0 8.254.72.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.73.0 8.254.73.127 AS560 LEVEL3 AS560
+8.254.73.128 8.254.73.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.74.0 8.254.74.127 AS560 LEVEL3 AS560
+8.254.74.128 8.254.76.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.77.0 8.254.78.255 AS560 LEVEL3 AS560
+8.254.79.0 8.254.79.127 AS3356 LEVEL3 Proxy-registered route object
+8.254.79.128 8.254.82.127 AS560 LEVEL3 AS560
+8.254.82.128 8.254.82.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.83.0 8.254.86.127 AS560 LEVEL3 AS560
+8.254.86.128 8.254.87.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.88.0 8.254.91.127 AS560 LEVEL3 AS560
+8.254.91.128 8.254.108.127 AS3356 LEVEL3 Proxy-registered route object
+8.254.108.128 8.254.109.255 AS560 LEVEL3 AS560
+8.254.110.0 8.254.110.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.111.0 8.254.117.255 AS560 LEVEL3 AS560
+8.254.118.0 8.254.120.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.121.0 8.254.123.255 AS560 LEVEL3 AS560
+8.254.124.0 8.254.132.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.133.0 8.254.135.127 AS560 LEVEL3 AS560
+8.254.135.128 8.254.135.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.136.0 8.254.143.255 AS560 LEVEL3 AS560
+8.254.144.0 8.254.148.127 AS3356 LEVEL3 Proxy-registered route object
+8.254.148.128 8.254.148.255 AS560 LEVEL3 AS560
+8.254.149.0 8.254.155.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.156.0 8.254.163.255 AS560 LEVEL3 AS560
+8.254.164.0 8.254.169.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.170.0 8.254.170.255 AS560 LEVEL3 AS560
+8.254.171.0 8.254.178.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.179.0 8.254.181.255 AS560 LEVEL3 AS560
+8.254.182.0 8.254.217.127 AS3356 LEVEL3 Proxy-registered route object
+8.254.217.128 8.254.217.255 AS560 LEVEL3 AS560
+8.254.218.0 8.254.224.255 AS3356 LEVEL3 Proxy-registered route object
+8.254.225.0 8.254.225.127 AS560 LEVEL3 AS560
+8.254.225.128 8.254.255.255 AS3356 LEVEL3 Proxy-registered route object
+8.255.0.0 8.255.255.255 AS11213 LEVEL3 Proxy-registered route object

@@ -1,0 +1,6 @@
+9.0.8.0 9.0.15.255 AS58730 RADB Asia Pacific Telecom proxy announcement for customer
+9.4.0.0 9.4.255.255 AS559 RIPE CH-IBM-RESEARCH-NET
+9.20.0.0 9.20.255.255 AS2686 RIPE IBM UK Laboratories Ltd
+9.141.128.0 9.141.128.255 AS2686 RIPE Routed by AT&T Business
+9.184.112.0 9.184.127.255 AS3786 SAVVIS contact noc@bora.net if necessary
+9.186.144.0 9.186.159.255 AS3786 SAVVIS contact noc@bora.net if necessary

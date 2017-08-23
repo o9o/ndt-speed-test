@@ -1,0 +1,135 @@
+44.0.0.0 44.4.43.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.4.44.0 44.4.44.255 AS6140 ALTDB AMPRnet - c/o K6BGP
+44.4.45.0 44.4.63.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.4.64.0 44.4.67.255 AS8121 ALTDB KJSL-Tim Osburn m2os
+44.4.68.0 44.4.127.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.4.128.0 44.4.131.255 AS30640 RADB Cal Cactus Radio Association
+44.4.132.0 44.4.138.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.4.139.0 44.4.139.255 AS6140 ALTDB AMPRnet - c/o AK6L
+44.4.140.0 44.10.9.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.10.10.0 44.10.10.255 AS8121 ALTDB KJSL Hamstuff
+44.10.11.0 44.12.5.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.12.6.0 44.12.6.255 AS54688 ARIN Nigel Vander Houwen
+44.12.7.0 44.12.63.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.12.64.0 44.12.67.255 AS7752 ARIN Tim Osburn m2os
+44.12.68.0 44.16.14.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.16.15.0 44.16.15.255 AS226 NTTCOM JPL-lan
+44.16.16.0 44.24.129.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.24.130.0 44.24.130.255 AS54688 ARIN HamWAN John D Hays john@hays.org
+44.24.131.0 44.24.131.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.24.132.0 44.24.132.255 AS54858 RADB announcement for W3RWN per AMPRnet portal
+44.24.133.0 44.24.220.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.24.221.0 44.24.221.255 AS54688 ARIN Bart Kus HamWAN
+44.24.222.0 44.24.239.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.24.240.0 44.24.255.255 AS32915 RADB HamWAN
+44.25.0.0 44.34.95.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.34.96.0 44.34.96.255 AS20473 RADB Customer Prefix - Choopa
+44.34.97.0 44.34.127.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.34.128.0 44.34.135.255 AS54688 ARIN HamWAN
+44.34.136.0 44.40.43.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.40.44.0 44.40.45.255 AS40761 RADB Integra Telecom Route Object
+44.40.46.0 44.40.47.255 AS6315 RADB Precise
+44.40.48.0 44.46.159.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.46.160.0 44.46.175.255 AS19170 RADB Bryan Campbell-KD0GYL-AMPRNet c/o Steelville Telephone Exchange, Inc. Meramec Interactive Services Network 61 East Highway 8, P.O. Box 370 Steelville, MO 65565
+44.46.176.0 44.48.15.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.48.16.0 44.48.16.255 AS7332 AltDB LightBound Route Object
+44.48.17.0 44.48.23.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.48.24.0 44.48.27.255 AS7332 AltDB LightBound Route Object
+44.48.28.0 44.60.111.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.60.112.0 44.60.112.255 AS2697 RADB ERNET INDIA: R-COM Customer
+44.60.113.0 44.74.127.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.74.128.0 44.74.128.255 AS8121 ALTDB KJSL / AMPR
+44.74.129.0 44.103.31.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.103.32.0 44.103.34.255 AS18675 RADB Route for downstream customer FNW
+44.103.35.0 44.103.35.255 AS40720 RADB Added for - AS40720
+44.103.36.0 44.103.38.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.103.39.0 44.103.39.255 AS26554 RADB Route for downstream customer
+44.103.40.0 44.109.255.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.110.0.0 44.110.0.255 AS54489 RADB Customer Routed Range
+44.110.1.0 44.127.0.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.127.1.0 44.127.1.255 AS22773 LEVEL3 FED1 SAND-BGP-IN
+44.127.2.0 44.127.5.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.127.6.0 44.127.7.255 AS12637 RIPE IZ2QCT / K2GIU
+44.127.8.0 44.127.15.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.127.16.0 44.127.31.255 AS394144 RADB Tianyu Liu Fremont, CA USA
+44.127.32.0 44.127.35.255 AS48362 RIPE HAM-Link Network
+44.127.36.0 44.127.127.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.127.128.0 44.127.128.255 AS61337 RIPE Chris Wilkie AMPR Allocation
+44.127.129.0 44.130.97.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.130.98.0 44.130.100.255 AS28748 RIPE AMPR-44-130-98
+44.130.101.0 44.130.111.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.130.112.0 44.130.112.255 AS202113 RIPE HAMNET Germany  NET # 1 
+44.130.113.0 44.130.119.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.130.120.0 44.130.120.255 AS13132 RIPE VHF/UHF/SHF-Unit, DARC e.V., Jann Traschewski
+44.130.121.0 44.131.9.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.131.10.0 44.131.10.255 AS8943 RIPE AMPRnet - Debian Hamradio - 2M0STB
+44.131.11.0 44.131.11.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.131.12.0 44.131.12.255 AS200039 RIPE ARDC Allocation
+44.131.13.0 44.135.119.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.135.120.0 44.135.120.255 AS18451 ARIN HAM-VA4WAN
+44.135.121.0 44.135.192.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.135.193.0 44.135.193.255 AS25795 ALTDB Proxy-registered route object
+44.135.194.0 44.135.217.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.135.218.0 44.135.218.255 AS36483 RADB GT Route
+44.135.219.0 44.135.219.255 AS54688 RADB Spectrum Proxy Registration
+44.135.220.0 44.136.59.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.136.60.0 44.136.61.255 AS4739 NTTCOM Internode
+44.136.62.0 44.136.63.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.136.64.0 44.136.68.255 AS133536 NTTCOM NXG-REF-111291-6085
+44.136.69.0 44.136.127.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.136.128.0 44.136.129.255 AS4739 NTTCOM Internode
+44.136.130.0 44.136.137.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.136.138.0 44.136.138.255 AS56129 NTTCOM SERVERS AUSTRALIA
+44.136.139.0 44.136.139.255 AS58443 RADB Small Business Data #8
+44.136.140.0 44.136.149.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.136.150.0 44.136.150.255 AS55707 NTTCOM EXETEL-AUS-416
+44.136.151.0 44.136.151.255 AS58443 RADB SmallBusinessData #1
+44.136.152.0 44.136.153.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.136.154.0 44.136.155.255 AS58443 RADB SmallBusinessData #2
+44.136.156.0 44.136.157.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.136.158.0 44.136.159.255 AS55707 NTTCOM Servers Australia
+44.136.160.0 44.136.200.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.136.201.0 44.136.201.255 AS55707 NTTCOM Servers Australia
+44.136.202.0 44.136.223.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.136.224.0 44.136.224.255 AS55707 NTTCOM Equinix AP
+44.136.225.0 44.136.226.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.136.227.0 44.136.227.255 AS55707 NTTCOM Equinix AP
+44.136.228.0 44.136.255.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.137.0.0 44.137.255.255 AS3265 RIPE AMPRNET Netherlands
+44.138.0.0 44.138.255.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.139.0.0 44.139.255.255 AS34387 RIPE FI-AMPR-NET
+44.140.0.0 44.140.63.255 AS8973 RIPE AMPRNet-SE-SM0
+44.140.64.0 44.140.255.255 AS1653 RIPE AMPRNet-SE-SM2
+44.141.0.0 44.141.123.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.141.124.0 44.141.124.255 AS58302 RIPE AMPRNet
+44.141.125.0 44.141.131.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.141.132.0 44.141.132.255 AS58302 RIPE AMPRNet
+44.141.133.0 44.141.139.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.141.140.0 44.141.143.255 AS16175 RIPE Amateur Radio Digital Communications Inc
+44.141.144.0 44.143.255.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.144.0.0 44.144.255.255 AS62383 RIPE AMPRNET Belgium
+44.145.0.0 44.154.128.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.154.129.0 44.154.129.255 AS47172 RIPE ZWIEBELFREUNDE
+44.154.130.0 44.154.255.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.155.0.0 44.155.255.255 AS1213 RIPE IE-AMPRNET
+44.156.0.0 44.159.79.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.159.80.0 44.159.95.255 AS10136 RIPE Pacswitch Globe Telecom Ltd.  AS10136 
+44.159.96.0 44.161.203.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.161.204.0 44.161.205.255 AS15780 RIPE Route for ARDC
+44.161.206.0 44.161.221.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.161.222.0 44.161.223.255 AS15780 RIPE Route for ARDC
+44.161.224.0 44.161.229.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.161.230.0 44.161.230.255 AS15780 RIPE Route for ARDC
+44.161.231.0 44.161.238.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.161.239.0 44.161.239.255 AS15780 RIPE Route for ARDC
+44.161.240.0 44.161.251.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.161.252.0 44.161.255.255 AS15780 RIPE Route for ARDC
+44.162.0.0 44.169.47.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.169.48.0 44.169.63.255 AS37182 ALTDB Registered for Management on behalf of TERNET
+44.169.64.0 44.188.127.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.188.128.0 44.188.143.255 AS199295 RIPE AMPRnet-FOR-DSTAR-NODES
+44.188.144.0 44.207.255.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.208.0.0 44.208.255.255 AS39120 RIPE Amateur Radio Digital Communications
+44.209.0.0 44.247.15.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org
+44.247.16.0 44.247.19.255 AS55821 NTTCOM Proxy-registered route object
+44.247.20.0 44.255.255.255 AS7377 RADB AMPRNET Amateur Radio Digital Communications 5663 Balboa Ave Suite 432 San Diego, CA 92111-2705 USA ampr@ampr.org

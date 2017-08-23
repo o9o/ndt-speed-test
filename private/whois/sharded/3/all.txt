@@ -1,0 +1,7 @@
+3.0.0.0 3.4.4.255 AS80 ALTDB Proxy-registered route object for General Electric Company 3135 Easton Turnpike Fairfield, CT 06828-0001
+3.4.5.0 3.4.5.255 AS132537 RADB Proxy-registered route object
+3.4.6.0 3.14.152.255 AS80 ALTDB Proxy-registered route object for General Electric Company 3135 Easton Turnpike Fairfield, CT 06828-0001
+3.14.153.0 3.14.153.255 AS1221 REACH REACH  Customer Route 
+3.14.154.0 3.218.159.255 AS80 ALTDB Proxy-registered route object for General Electric Company 3135 Easton Turnpike Fairfield, CT 06828-0001
+3.218.160.0 3.218.175.255 AS13953 LEVEL3 NAS-INTERNET
+3.218.176.0 3.255.255.255 AS80 ALTDB Proxy-registered route object for General Electric Company 3135 Easton Turnpike Fairfield, CT 06828-0001

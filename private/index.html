@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<!-- Template based on Material Design Lite, Copyright 2015 Google Inc. -->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" manifest="err">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="A collection of tools to measure Internet connection performance (speed/throughput, latency etc.).">
+    <meta name="keywords" lang="en" content="throughput test, bandwidth test, speed test, bandwidth speed test, connection speed test, internet speed test, broadband speed test, latency test, network, connection, internet, broadband, bandwidth, throughput, latency, ping, rtt, download, upload, dsl, adsl, cable, t1, voip, isp, ip, ip address, tcp, whois, geo, ip2geo, congestion">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+
+    <!-- Add to homescreen for Chrome on Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="favicon-192.png">
+
+    <!-- Add to homescreen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Material Design Lite">
+    <link rel="apple-touch-icon-precomposed" href="favicon-152.png">
+
+    <!-- Tile icon for Win8 (144x144 + tile color) -->
+    <meta name="msapplication-TileImage" content="favicon-144.png">
+    <meta name="msapplication-TileColor" content="#7C4DFF">
+
+    <script>window.applicationCache.obsolete = function(event) {window.location.reload(true);};</script>
+
+    <link rel="icon" href="favicon-32.png" sizes="32x32">
+    <link rel="icon" href="favicon-16.png" sizes="16x16">
+    <!--remove -->
+    <link rel="stylesheet" href="fonts.css">
+    <!-- remove-->
+    <link rel="stylesheet" href="https://code.getmdl.io/1.1.3/material.blue-deep_purple.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+<body>
+
+<div class="demo-layout mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
+  <!-- TOP bar (title) -->
+  <header class="demo-header mdl-layout__header">
+    <div class="mdl-layout__header-row">
+      <span class="mdl-layout-title on" id="dashboardTitle">
+        <i class="material-icons" role="presentation">home</i>Dashboard
+      </span>
+      <span class="mdl-layout-title" id="throughputTitle">
+        <i class="material-icons" role="presentation">network_check</i>Throughput test</a>
+      </span>
+      <span class="mdl-layout-title" id="latencyTitle">
+        <i class="material-icons" role="presentation">hourglass_empty</i>Latency test</a>
+      </span>
+      <span class="mdl-layout-title" id="connectionTitle">
+        <i class="material-icons" role="presentation">settings_ethernet</i>Connectivity troubleshooter</a>
+      </span>
+      <span class="mdl-layout-title" id="browserTitle">
+        <i class="material-icons" role="presentation">public</i>Browser tests</a>
+      </span>
+      <span class="mdl-layout-title" id="mediaTitle">
+        <i class="material-icons" role="presentation">videocam</i>Microphone and webcam test</a>
+      </span>
+      <span class="mdl-layout-title" id="websiteTitle">
+        <i class="material-icons" role="presentation">cloud_off</i>Check if a website is down</a>
+      </span>
+      <span class="mdl-layout-title" id="tomographyTitle">
+        <i class="material-icons" role="presentation">call_split</i>Network tomography diagnostics</a>
+      </span>
+      <span class="mdl-layout-title" id="whoisTitle">
+        <i class="material-icons" role="presentation">language</i>IP address lookup</a>
+      </span>
+      <span class="mdl-layout-title" id="termsTitle">
+        <i class="material-icons" role="presentation">help_outline</i>Privacy policy and Terms of use</a>
+      </span>
+    </div>
+  </header>
+  <!-- LEFT bar (navigation menu) -->
+  <div class="demo-drawer mdl-layout__drawer mdl-color--blue-900 mdl-color-text--blue-50">
+    <header class="demo-drawer-header">
+      <span>Network&nbsp;performance measurement&nbsp;tools</span>
+    </header>
+    <nav class="demo-navigation mdl-navigation mdl-color--blue-900">
+      <a class="mdl-navigation__link on" id="dashboardNav" href="#dashboard"><i class="material-icons" role="presentation">home</i>Dashboard</a>
+      <a class="mdl-navigation__link" id="throughputNav" href="#throughput"><i class="material-icons" role="presentation">network_check</i>Throughput test</a>
+      <a class="mdl-navigation__link" id="mediaNav" href="#media"><i class="material-icons" role="presentation">videocam</i>Microphone and webcam test</a>
+      <a class="mdl-navigation__link" id="whoisNav" href="#whois"><i class="material-icons" role="presentation">language</i>IP address lookup</a>
+      <!--
+      <a class="mdl-navigation__link" id="latencyNav" href="#latencyTest"><i class="material-icons" role="presentation">hourglass_empty</i>Latency test</a>
+      <a class="mdl-navigation__link" id="browserNav" href="#browserTest"><i class="material-icons" role="presentation">public</i>Browser tests</a>
+      <a class="mdl-navigation__link" id="connectionNav" href="#connectionTest"><i class="material-icons" role="presentation">settings_ethernet</i>Connectivity troubleshooter</a>
+      <a class="mdl-navigation__link" id="websiteNav" href="#websiteTest"><i class="material-icons" role="presentation">cloud_off</i>Check if a website is down</a>
+      <a class="mdl-navigation__link" id="tomographyNav" href="#tomography"><i class="material-icons" role="presentation">call_split</i>Network tomography diagnostics</a>
+      -->
+      <div class="mdl-layout-spacer"></div>
+      <a class="mdl-navigation__link" id="termsNav" href="#terms"><i class="material-icons" role="presentation">help_outline</i>Privacy policy and Terms of use</a>
+    </nav>
+  </div>
+  <!-- CENTER (content) -->
+  <main class="mdl-layout__content mdl-color--grey-100">
+    <div id="dashboard" class="on">
+      <div class="mdl-grid">
+        <div class="mdl-cell mdl-cell--12-col mdl-shadow--2dp mdl-color--white">
+          <!--<div class="cell-title-large">Introduction</div>-->
+          <div class="cell-content">
+            <p>This is a set of tools that measure the performance of your Internet connection,
+            and diagnose various common problems.
+            They use primarily the Network Diagnostic Test service provided by the <a href="https://www.measurementlab.net/tools/ndt/">M-Lab</a> platform.
+            </p>
+            <p>Please note that the measurement data, including your IP address, is logged and
+            made publicly available for research purposes.
+            For more information please read carefully the <a href="https://www.measurementlab.net/privacy/">M-Lab privacy policy</a>
+            and our <a href="#terms">privacy policy and terms of use</a>.
+            By using this website and services, you agree to these terms.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="mdl-grid">
+        <div class="mdl-cell mdl-cell--4-col mdl-shadow--2dp mdl-color--white">
+          <div class="cell-title">Throughput test<i class="material-icons" role="presentation" style="float:right">network_check</i></div>
+          <div class="cell-content">
+            <p>Measures the upload and download throughput (&quot;speed&quot;) of your Internet connection,
+            while also monitoring its latency, detecting jitter and bufferbloat.</p>
+          </div>
+          <div class="cell-link-buttons">
+            <a href="#throughput" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--accent">Open tool</a>
+          </div>
+        </div>
+
+        <div class="mdl-cell mdl-cell--4-col mdl-shadow--2dp mdl-color--white">
+          <div class="cell-title">IP address lookup<i class="material-icons" role="presentation" style="float:right">language</i></div>
+          <div class="cell-content">
+            <p>Searches the ISP that an IP address is registered to (WHOIS), and its geographical location.
+            It can also find your IP address.</p>
+          </div>
+          <div class="cell-link-buttons">
+            <a href="#whois" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--accent">Open tool</a>
+          </div>
+        </div>
+
+        <div class="mdl-cell mdl-cell--4-col mdl-shadow--2dp mdl-color--white">
+          <div class="cell-title">Mic &amp; camera test<i class="material-icons" role="presentation" style="float:right">videocam_off</i></div>
+          <div class="cell-content">
+            <p>Tests your microphone and webcam, checking if they are configured correctly for HTML5 audio and video input.</p>
+          </div>
+          <div class="cell-link-buttons">
+            <a href="#media" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--accent">Open tool</a>
+          </div>
+        </div>
+      </div>
+    </div> <!-- dashboard -->
+
+    <div id="throughput">
+      <div class="mdl-grid">
+        <div class="mdl-cell mdl-cell--12-col mdl-shadow--2dp mdl-color--white">
+          <div class="cell-content">
+            <p>This is a throughput test that measures upload and download speeds,
+            and a few other metrics such as packet loss and latency (round-trip time).
+            It uses the Network Diagnostic Test (NDT) service provided by the <a href="https://www.measurementlab.net/tools/ndt/">M-Lab</a> platform.
+            </p>
+            <div id="ndtMetrics" class="off">
+            <h1>Performance metrics FAQ</h1>
+            <h2>I’m confused by all these graphs. Why do we need so many numbers to measure how fast an Internet connection is?</h2>
+            <p>Don’t worry, analyzing network performance is a bit complicated, but it’s not hard.
+            Unfortunately there are a lot of misconceptions floating around that make it seem more difficult
+            than it really is.
+            I’ll try to give a simple explanation in this document, and answer common questions.</p>
+            <p>When it comes to understanding network performance, it’s easier to think about the Internet using an analogy:
+            <strong>the Internet is much like a road network</strong>:</p>
+            <ul>
+            <li>We want to move things from a point to another. We call things <strong>data</strong> and moving them a <strong>transfer</strong>.</li>
+            <li>The roads are called <strong>links</strong>. The path from a source to a destination is called…a <strong>path</strong>.</li>
+            <li>We want moving things to be <strong>fast</strong>. This is hard to define; it’s easier to think about how it can be <strong>slow</strong>.</li>
+            <li>Moving things is slow when the two points are far away. We call this <strong>delay</strong> or <strong>latency</strong>; or informally, <strong>lag</strong>.
+            If we want to move something with a round-trip (from A to B and back to A),
+            we call this a <strong>round-trip time</strong> or <strong>RTT</strong>. Otherwise it’s called <strong>one-way delay</strong>.
+            Latency can refer to either, depending on the context.
+            On road networks, latency is caused primarily by the travel distance and the speed limit.
+            In computer networks, latency is caused primarily by the <strong>travel distance</strong> and the <strong>speed of light</strong>.</li>
+            <li>Moving things is slow also when there is a lot of <strong>traffic</strong> and the roads are too narrow.
+            We call the road “width” <strong>bandwidth</strong>: wider roads can carry more cars than narrow roads in a unit of time.</li>
+            <li>When there is more incoming traffic on a road than it can carry, we say that it is <strong>congested</strong>.</li>
+            <li>When a road is congested, a queue forms. We say that there is <strong>traffic queuing</strong>.
+            A little bit of queuing is not a problem, but if it’s too long we have to wait a long time to pass a congestion point.
+            We call this waiting time <strong>queuing delay</strong>. It’s annoying if we want to get somewhere quickly;
+            and it’s a big problem if we want to make multiple round-trip times on the same path.</li>
+            <li>If we want to make quick trips often, it’s also annoying if the road is sometimes congested and other times fast,
+            because we can’t predict how long the trip will take. We call the variation of latency <strong>jitter</strong>.</li>
+            <li>If a road is too congested, an evil traffic robo-cop will show up and take away all the excess cars to clear the way.
+            Our things will not reach the destination. We call this <strong>packet loss</strong>.</li>
+            <li>When our things are lost on the way, we will try to send others in their place. We call this <strong>retransmission</strong>.
+            If we have to do it often, it’s a sign of poor network performance. Useful in case somehow we didn’t notice that it takes forever
+            to move our things.</li>
+            <li>When we notice that the road is congested and our things get eaten by the robo-cop, we might decide to send them
+            a bit later when there is less traffic. This is called <strong>congestion control</strong>. Some smart people came up with a
+            scheme to do it in a way that is relatively efficient and fair, and tries to prevent our things being eaten.
+            They called it <strong><a href="https://www.ietf.org/rfc/rfc793.txt">TCP</a></strong>. Other people prefer to use <strong><a href="https://www.ietf.org/rfc/rfc768.txt">UDP</a></strong>, which lets we send what we want, when we want, but doesn’t
+            guarantee delivery.</li>
+            <li>Some road owners didn’t want people to be so sad because their things get eaten by the robo-cop when the queues are
+            too long. So they came up with the brilliant solution of building huge parking lots near intersections, so that more
+            cars can fit there and wait together when the road is congested. Unfortunately this increased waiting times even more,
+            keeping people upset. We call this <strong>excessive buffering</strong> on a link, or <strong><a href="http://www.bufferbloat.net/projects/bloat/wiki/Introduction">bufferbloat</a></strong>.</li>
+            </ul>
+            <p>So what makes an Internet connection <b>fast</b>?</p>
+            <ul>
+            <li>A <b>small latency</b>, close to the limit imposed by the speed of light. That’s a round-trip time in
+            a few tens of milliseconds (ms) for intracontinental transfers, almost 100 ms for transatlantic round trips,
+            and 250 ms between Europe and Australia. A small latency allows us to transfer a little bit of data quickly.</li>
+            <li>We also need a <b>small jitter</b> (variation of latency) for interactive applications such as games, remote desktop and
+            live audio/video chat. Exactly how much is acceptable depends on the application, but less than 100 ms is considered
+            a <a href="https://uhdspace.uhasselt.be/dspace/bitstream/1942/13047/1/delay%20jitter%20%28short%20paper%29.pdf">good target</a> in gaming.
+            Measuring jitter is discussed in detail in <a href="https://tools.ietf.org/html/rfc3393">RFC 3393</a>.</li>
+            <li>The jitter should be small also when our link is saturated by a large upload or download.
+            In other words, we want <b>no bufferbloat</b>.</li>
+            <li>To transfer large amounts of data quickly, such as large file downloads, software updates or non-live video streaming,
+            we also need a <b>high bandwidth</b>. Note that for technical reasons, some links are asymmetric, offering more bandwidth in one
+            direction than the other, so we often measure <b>download bandwidth</b> separately from <b>upload bandwidth</b>.
+            Again, actual requirements vary, but for example about 1-4 Mbps are needed to download standard definition video,
+            3-6 Mbps for 1080p HD and 25 Mbps for 4K UHD (<a href="https://support.google.com/youtube/answer/2853702?hl=en">Youtube</a>,
+            <a href="https://help.netflix.com/en/node/306">Netflix</a>).</li>
+            <li>Finally, <b>packet loss</b> should be as small as possible. Wireless links in particular may suffer either from high packet
+            loss or from large queuing delays and jitter (or both) in the presence of interference. High packet loss causes at
+            least one other metric to be poor.</li>
+            </ul>
+            <p>This is precisely what this tool measures.</p>
+            <h2>You speak about bandwidth, but your tool measures throughput. What is throughput?</h2>
+            <p>The <b>throughput</b> of a network connection is the rate at which it transmits <strong>useful data</strong> from a sender to a receiver.
+            Is also called informally “network speed” and, incorrectly, “network bandwidth”.</p>
+            <p>The correct definition of <b>bandwidth</b> is the <strong>maximum</strong> rate at which <strong>raw data</strong> can be transmitted over a channel.
+            This includes transmissions of packets that are lost in transit (wasted bandwidth), and other overheads.
+            Thus the network bandwidth is an upper limit for the network throughput:
+            in ideal conditions, the throughput should approach the bandwith, although it is usually a bit lower.
+            If the throughput is around 90% of the bandwidth or better, the network is working well.</p>
+            <p>In plain English, bandwidth is what the network is capable of, throughput is what we actually get.</p>
+            <p>Both throughput and network bandwidth are measured in bits per second (note that is not the same as bytes, the typical
+            unit for file size; 1 byte = 8 bits).
+            But it is more common to have it reported in Mbps (megabits per second, or millions of bits per second),
+            or Gbps (gigabits per second, or billions of bits per second). 1 Gbps = 1,000 Mbps = 1,000,000,000 bps.</p>
+            <p>If you need to calculate the transfer time for a file, you should convert from Mbps to MB/s, which is very simple: 10 Mbps = 1.2 MB/s
+            (approximately).</p>
+            <h2>Tell me more. What is the proper way to measure or calculate throughput?</h2>
+            <p>There are multiple ways, depending on what exactly we want to measure.
+            They all boil down to dividing some number of bits (or bytes) to a duration.
+            What varies is which bits we are counting or (more rarely)
+            which moments of time we are considering for measuring the duration.</p>
+            <p>The factors we need to take into account are:</p>
+            <h3>At which layer in the network stack are we measuring throughput?</h3>
+            <p>If we measure at the application layer, all that matters is what useful data we transmit to the other endpoint.
+            For example, if we are transferring a file of 6 kB, the amount of data we count when measuring throughput is 6 kB
+            (that is 6,000 bytes, not bits, and note the multiplier of 1000, not 1024; these conventions are common in networking).</p>
+            <p>This is usually called <strong>goodput</strong> and it may be different from what is actually sent at the transport layer (as in TCP or UDP),
+            for two reasons:</p>
+            <h4>1. Overhead due to headers</h4>
+            <p>Each layer in the network adds a header to the data that introduces some overhead due to its transmission time.
+            Moreover, the transport layer breaks the data into segments; this is because the network layer (as in IPv4 or IPv6)
+            has a <b>maximum packet size called MTU</b>, typically 1,500 B in Ethernet networks.
+            This value includes the network layer header size (e.g. the IPv4 header, which is variable in length but usually 20 B long)
+            and the transport layer header (for TCP, it is also variable in length but usually 40 B long).
+            This leads to a <b>maximum segment size MSS</b> (number of data bytes, without headers, in one segment) of 1500 - 40 - 20 = 1440 bytes.</p>
+            <p>Thus if we want to send 6 kB of application-layer data, we must break it into 6 segments, 5 of 1440 bytes each and one of 240 bytes.
+            However at the network layer we end up sending 6 packets, 5 of 1500 bytes each and one of 300 bytes, for a total of 6.3 kB.</p>
+            <p>Here I have not considered the fact that the link layer (as in Ethernet) adds its own header and possibly also a suffix,
+            which increases the overhead further. For Ethernet this is 14 bytes for the Ethernet header, optionally 4 bytes for VLAN tag,
+            then a CRC of 4 bytes and a gap of 12 bytes, for a total of 36 bytes per packet.</p>
+            <p>If we consider a fixed-rate link, say of 10 Mb/s, depending on what we measure we will get a different throughput.
+            Normally we want one of these:</p>
+            <p>The goodput, i.e. application layer throughput, if what we want to measure is application performance.
+            For this example, we divide 6 kB by the transfer duration.</p>
+            <p>The link-layer throughput, if what we want to measure is network performance (bandwidth).
+            For this example, we divide 6 kB + TCP overhead + IP overhead + Ethernet overhead = 6.3 kB + 6 * 36 B = 6516 B by the transfer duration.</p>
+            <h4>2. Retransmission overheads</h4>
+            <p>The Internet is a best-effort network, meaning that the packets will be delivered if possible, but may also be dropped.
+            Packet drops are corrected by the transport layer, in case of TCP.
+            For UDP, there is no such mechanism, which means that either the application does not care if some parts of the data do not get delivered,
+            or the application implements retransmission itself on top of UDP.</p>
+            <p>Retransmissions reduce goodput for two reasons:</p>
+            <p>a. Some data needs to be sent again, which takes time.
+            This introduces a delay which is inversely proportional to the rate of the slowest link in the network
+            between the sender and the receiver (a.k.a the bottleneck link).</p>
+            <p>b. Detecting that some data was not delivered needs <b>feedback</b> from the receiver to the sender.
+            Due to propagation delays (sometimes called latency; caused by the finite speed of light in the cable),
+            feedback can only be received by the sender with some latency, which slows down the transmission even more.
+            In most practical cases, this is the most significant contribution to the extra delay caused by the retransmission.</p>
+            <p>Clearly, if we use UDP instead of TCP and we do not care about packet loss,
+            we will of course get better performance. But for many applications, data loss cannot be tolerated,
+            in which case the measurement is meaningless.</p>
+            <p>There are some applications that do use UDP for transferring data.
+            One is BitTorrent, which may use either TCP or a protocol they designed called <strong>uTP</strong>
+            (<a href="http://blog.bittorrent.com/2009/10/05/changing-the-game-with-%CE%BCtp/">Changing the game with μTP</a>,
+            <a href="http://www.bittorrent.org/beps/bep_0029.html">BEP0029</a>),
+            which emulates TCP on top of UDP, but aims at being more efficient with many parallel connections.
+            Another transport protocol implemented over UDP is Google’s <strong>QUIC</strong> (<a href="https://www.chromium.org/quic">ref</a>, <a href="http://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html">blog</a>),
+            which also emulates TCP and offers multiplexing multiple parallel transfers over a single connection,
+            and uses forward error correction to reduce retransmissions.</p>
+            <p>I will discuss <strong>forward error correction</strong> (<a href="http://www.ieee802.org/3/10G_study/public/july99/azadet_1_0799.pdf">slides</a>) a little since it is related to throughput.
+            A naive way of implementing it is by sending every packet twice:
+            in case one gets lost, the other still has a chance of being received.
+            This reduces the amount of retransmissions to half, but also halves the goodput since we send redundant data
+            (note that the network bandwidth or link layer throughput remains the same!).
+            In some cases this is fine; especially if the latency is very large, such as on intercontinental or satellite links.
+            Moreover, some mathematical methods exist where we don’t have to send a full copy of the data;
+            for instance for every n packets we send, we send another reduntant one which is the XOR
+            (or some other arithmetic operation) of them; if the redundant one gets lost, it doesn’t matter;
+            if one of the n packets gets lost, we can reconstruct it based on the redundant one and the other n-1.
+            We can thus configure the overhead introduced by forward error correction to whatever amount of bandwidth we can spare.
+            We trade off some throughput to reduce latency.</p>
+            <p>TCP traffic, including HTTP, does not use forward error correction.
+            However <a href="https://webrtc.org/">WebRTC</a>, which is used in HTML5 audio/video/peer connections, does.</p>
+            <h3>How are we measuring the transfer time?</h3>
+            <p>Is the transfer completed when the sender finished sending the last bit over the wire,
+            or does it also include the time it takes for the last bit to travel to the receiver?
+            Additionally, does it include the time it takes to get a confirmation from the receiver,
+            stating that all data has been received successfully and no retransmission is needed?</p>
+            <p>It really depends on what we want to measure.
+            Note that for large transfers, one extra round-trip-time is insignificant in most cases
+            (unless we are communicating, for instance, with a probe on Mars). So usually it is included in the calculation.</p>
+            <h3>Putting it all together, how does this test work?</h3>
+            <p>The measurement method is described <a href="https://github.com/ndt-project/ndt/wiki/NDTTestMethodology">here</a>,
+            and the system architecture <a href="http://www.measurementlab.net/faq/">here</a>.
+            Note that I'm not affiliated to either of these projects. This website is a third party frontend with,
+            I hope, a friendlier interface.</p>
+            <h2>What is that key feature in TCP that makes it have much much higher throughput than UDP?</h2>
+            <p>This is not true, although a common misconception.</p>
+            <p>In addition to retransmitting data when needed,
+            TCP will also adjust its sending rate so that it will not cause packet drops by congesting the network.
+            The adjustment algorithm has been perfected over decades,
+            and usually converges quickly to the maximum rate supported by the network (actually, the bottleneck link).
+            For this reason it is usually difficult to beat TCP in throughput.</p>
+            <p>With UDP, there is no rate limiting at the sender.
+            UDP lets the application send as much as it wants.
+            But if we try to send more than the network can handle, some of the data will be dropped, lowering the throughput,
+            and also making the admin of the network we are congesting very angry.
+            This means that sending UDP traffic at high rates is impractical (unless the goal is to DoS a network).</p>
+            <p>Some media applications are using UDP but rate-limiting the transfer at the sender at a very small rate.
+            This is typically used in VoIP applications or Internet Radio,
+            which require very little throughput but low latency.
+            I suppose this is one of the reasons for the misconception that UDP is slower than TCP;
+            that is not the case, UDP can be as fast as the network allows.</p>
+            <p>As I said before, there are protocols such as uTP or QUIC, implemented over UDP, which achieve performance similar to TCP.</p>
+            <h2>I heard that UDP is much faster than TCP?</h2>
+            <p>See above.</p>
+            <h2>Throughput calculation formula for TCP?</h2>
+            <pre><code>TCP throughput = <span class="hljs-list"><span class="hljs-keyword">TCP</span> Window Size / RTT</span>
+            </code></pre>
+            <p>Without packet loss (and retransmissions), this is correct.</p>
+            <pre><code>TCP throughput = BDP / RTT = (<span class="hljs-keyword">Link</span> Speed <span class="hljs-keyword">in</span> <span class="hljs-built_in">Bytes</span>/sec * RTT)/RTT = <span class="hljs-keyword">Link</span> Speed <span class="hljs-keyword">in</span> <span class="hljs-built_in">Bytes</span>/sec
+            </code></pre>
+            <p>This is correct only if the window size is configured to the optimal value.
+            BDP/RTT is the optimal (maximum possible) transfer rate in the network.
+            Most modern operating systems should be able to auto-configure it optimally.</p>
+            <h2>From the formula, it seems that throughput is limited by the TCP window size. Is this true?</h2>
+            <p>If the TCP window size is smaller than BDP, then the throughput will be indeed suboptimal
+            (because we waste time waiting for ACKs instead of sending more data).
+            If it is equal or higher to the BDP, then we achieve optimal throughput.
+            But modern operating systems increase the window size automatically so that it is not limiting throughput,
+            so in practice it should not happen.</p>
+            <h2>Is throughput limited by the latency (or RTT)?</h2>
+            <p>The answer is that…it’s complicated.</p>
+            <p>Normally, no matter how large the RTT is, we can increase the window size until the throughput approaches the bandwidth.
+            However, there are situations in which a large RTT is still limiting throughput.</p>
+            <p>One scenario is when the amount of data to transfer is very small. In this case a large window does not help,
+            since we don’t have enough data to fully utilize it. Unfortunately, this is quite common for Web traffic, where
+            most files (such as styles or JavaScript) are small. Thus a large RTT hurts performance, increasing website loading times.
+            On the other hand, transferring large files or video (but maybe not real-time chat!) should still have good performance.</p>
+            <p>Another ill effect occurs when a new TCP connection is created:
+            TCP always starts with a handshake followed by a small initial window in slow start.
+            With a large RTT, the early phase of the transfer is slow; the effect is worse on HTTPS (SSL) connections.
+            While there have been efforts to address this problem
+            (<a href="http://www1.icsi.berkeley.edu/~barath/papers/tfo-conext11.pdf">TCP Fast Open</a>,
+            <a href="https://www.chromium.org/spdy/spdy-whitepaper">SPDY</a>,
+            <a href="https://assets.wp.nginx.com/wp-content/uploads/2015/09/NGINX_HTTP2_White_Paper_v4.pdf">HTTP/2</a>),
+            unless we invent faster-than-light communication, it will never be solved completely.</p>
+            <p>Finally, a more complex problematic scenario involves multiple TCP flows sharing the same bottleneck link.
+            While parallel TCP flows normally share bandwidth with each other approximately equally, which is called <strong>fairness</strong>,
+            if a TCP flow has a higher RTT than the others, it will end up with a smaller throughput
+            <a href="http://conferences.sigcomm.org/sigcomm/1998/tp/paper25.pdf">ref1</a>,
+            <a href="http://www.ece.ucsb.edu/~hespanha/published/fairness-techreport.pdf">ref2</a>.</p>
+            </div>
+          </div>
+          <div class="cell-buttons">
+            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" id="btnNdtTest">
+              Start test
+            </button>
+            <a href="##" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--accent" id="btnNdtOptions">Options</a>
+            <a href="##" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--accent" id="btnNdtMetrics">FAQ</a>
+            <object class="mdl-button off" style="float:right;max-width: 80px" id="ndt1" type="application/x-shockwave-flash" title="Flash throughput test plugin" data="ndt.swf">
+              <param name="allowscriptaccess" value="true" />
+              <param name="FlashVars" value="InstanceId=ndt1" />
+            </object>
+            <span style="float:right;font-family:Roboto">
+              <a class="share-button" title="Share me on Reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fnetperf.tools&amp;title=Test%20connection%20speed%20and%20latency"><img src="flat-social-media-icons/reddit.png"></a>
+              <a class="share-button" title="Share me on Twitter" href="https://twitter.com/share?url=https%3A%2F%2Fnetperf.tools&amp;text=Test%20connection%20speed%20and%20latency"><img src="flat-social-media-icons/twitter.png"></a>
+              <a class="share-button" title="Share me on Facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnetperf.tools&amp;t=Test%20connection%20speed%20and%20latency"><img src="flat-social-media-icons/facebook.png"></a>
+              <a class="share-button" title="Share me on Google+" href="https://plus.google.com/share?url=https%3A%2F%2Fnetperf.tools"><img src="flat-social-media-icons/google-plus.png"></a>
+            <span>
+          </div>
+        </div>
+      </div>
+      <div class="mdl-grid">
+        <div id="ndtServerCell" class="mdl-cell mdl-cell--12-col mdl-shadow--2dp mdl-color--white off">
+          <div class="cell-title">Server</div>
+          <table class="mymd full lefthead" style="table-layout:;font-size:14px">
+          <tbody>
+            <tr>
+              <td style="width:140px">Selected</td>
+              <td>
+                <span id="ndtStatusServer" class="off"></span>
+                <span id="ndtStatusServerSearching" class="mdl-spinner mdl-spinner--single-color mdl-js-spinner is-active off"></span>
+              </td>
+            </tr>
+            <tr>
+              <td>Selection mode</td>
+              <td>
+                <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="ndtSelectTypeAuto">
+                  <input type="radio" id="ndtSelectTypeAuto" class="mdl-radio__button" name="ndtSelectType" value="auto" checked>
+                  <span class="mdl-radio__label">Automatic</span>
+                </label>
+                <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="ndtSelectTypeMetro">
+                  <input type="radio" id="ndtSelectTypeMetro" class="mdl-radio__button" name="ndtSelectType" value="metro">
+                  <span class="mdl-radio__label">By location</span>
+                </label>
+                <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="ndtSelectTypeNet">
+                  <input type="radio" id="ndtSelectTypeNet" class="mdl-radio__button" name="ndtSelectType" value="net">
+                  <span class="mdl-radio__label">By network</span>
+                </label>
+              </td>
+            </tr>
+            <tr id="ndtSelectMetroRow">
+              <td>Location</td>
+              <td>
+                <select id="ndtSelectMetro" style="min-width: 25rem;"></select>
+              </td>
+            </tr>
+            <tr id="ndtSelectNetRow">
+              <td>Network</td>
+              <td>
+                <select id="ndtSelectNet" style="min-width: 25rem;"></select>
+              </td>
+            </tr>
+          </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="mdl-grid">
+        <div id="ndtLatencyCell" class="mdl-cell mdl-cell--4-col mdl-shadow--2dp mdl-color--white off">
+          <div class="cell-title">Latency<i class="material-icons" role="presentation" style="float:right">hourglass_empty</i></div>
+          <div class="cell-content">
+            <p><center><div id="ndtLatencyChart" style="width: 100%"></div></center></p>
+            <div id="ndtTestProgressBarLatency" class="mdl-progress mdl-js-progress mdl-progress--indeterminate"></div>
+            <div id="ndtTestProgressTextLatency" class="progress-bar-caption">Initializing...</div>
+          </div>
+        </div>
+        <div id="ndtUploadCell" class="mdl-cell mdl-cell--4-col mdl-shadow--2dp mdl-color--white off">
+          <div class="cell-title">Upload<i class="material-icons" role="presentation" style="float:right">file_upload</i></div>
+          <div class="cell-content">
+            <p><center id="ndtUploadPlotContainer"><!--add plot here--></center></p>
+            <div id="ndtTestProgressBarUpload" class="mdl-progress mdl-js-progress mdl-progress--indeterminate"></div>
+            <div id="ndtTestProgressTextUpload" class="progress-bar-caption">Initializing...</div>
+          </div>
+        </div>
+        <div id="ndtDownloadCell" class="mdl-cell mdl-cell--4-col mdl-shadow--2dp mdl-color--white off">
+          <div class="cell-title">Download<i class="material-icons" role="presentation" style="float:right">file_download</i></div>
+          <div class="cell-content">
+            <p><center id="ndtDownloadPlotContainer"><!--add plot here--></center></p>
+            <div id="ndtTestProgressBarDownload" class="mdl-progress mdl-js-progress mdl-progress--indeterminate"></div>
+            <div id="ndtTestProgressTextDownload" class="progress-bar-caption">Initializing...</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mdl-grid">
+        <div id="ndtDownStats" class="mdl-cell mdl-cell--12-col mdl-shadow--2dp mdl-color--white off">
+          <div class="cell-title">Download statistics for <span id="ndtDownCountry"></span></div>
+          <div class="cell-content">
+            <p><center><div id="ndtDownStatsChart" style="width: 100%"></div></center></p>
+          </div>
+        </div>
+      </div>
+      <div class="mdl-grid">
+        <div id="ndtUpStats" class="mdl-cell mdl-cell--12-col mdl-shadow--2dp mdl-color--white off">
+          <div class="cell-title">Upload statistics for <span id="ndtUpCountry"></span></div>
+          <div class="cell-content">
+            <p><center><div id="ndtUpStatsChart" style="width: 100%"></div></center></p>
+          </div>
+        </div>
+      </div>
+    </div> <!-- throughput -->
+
+    <div id="latency">
+    </div> <!-- latency -->
+
+    <div id="browser">
+    </div> <!-- browserTest -->
+
+    <div id="media">
+      <div class="mdl-grid">
+        <div class="mdl-cell mdl-cell--12-col mdl-shadow--2dp mdl-color--white">
+          <div class="cell-content">
+            <p>This is a tool that tests your microphone and webcam.
+            The audio and video are not sent over the network.
+            </p>
+            <p>Once you click 'Start', a webcam and microphone capture should appear below, with both of them
+            played back to you. If you don't see anything, your webcam or microphone are probably not configured
+            correctly.</p>
+          </div>
+          <div class="cell-buttons">
+            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" id="btnMediaTest">
+              Start
+            </button>
+            <span style="float:right;font-family:Roboto">
+              <a class="share-button" title="Share me on Reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fnetperf.tools&amp;title=HTML5%20microphone%20and%20camera%20test"><img src="flat-social-media-icons/reddit.png"></a>
+              <a class="share-button" title="Share me on Twitter" href="https://twitter.com/share?url=https%3A%2F%2Fnetperf.tools&amp;text=Useful%20HTML5%20webcam%20and%20microphone%20test"><img src="flat-social-media-icons/twitter.png"></a>
+              <a class="share-button" title="Share me on Facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnetperf.tools&amp;t=Useful%20HTML5%20webcam%20and%20microphone%20test"><img src="flat-social-media-icons/facebook.png"></a>
+              <a class="share-button" title="Share me on Google+" href="https://plus.google.com/share?url=https%3A%2F%2Fnetperf.tools"><img src="flat-social-media-icons/google-plus.png"></a>
+            <span>
+          </div>
+        </div>
+      </div>
+      <div class="mdl-grid">
+        <div id="mediaCamCell" class="mdl-cell mdl-cell--6-col mdl-shadow--2dp mdl-color--white">
+          <div class="cell-title">Camera<i class="material-icons" role="presentation" style="float:right">videocam</i></div>
+          <video id="mediaVideo" style="width:100%">Video stream not available.</video>
+        </div>
+        <div id="mediaMicCell" class="mdl-cell mdl-cell--6-col mdl-shadow--2dp mdl-color--white">
+          <div class="cell-title">Microphone<i class="material-icons" role="presentation" style="float:right">mic</i></div>
+          <canvas id="mediaMic" style="width:100%;height:100%"></canvas>
+        </div>
+      </div>
+    </div> <!-- media -->
+
+    <div id="connection">
+    </div> <!-- connectionTest -->
+
+    <div id="website">
+    </div> <!-- websiteTest -->
+
+    <div id="tomography">
+    </div> <!-- tomography -->
+
+    <div id="whois">
+      <div class="mdl-grid">
+        <div class="mdl-cell mdl-cell--12-col mdl-shadow--2dp mdl-color--white">
+          <div class="cell-content">
+            <p>This is a tool that, given an IP address, searches for:
+            <ul>
+              <li>the name of the ISP the IP address is registered to (<a href="https://en.wikipedia.org/wiki/WHOIS">WHOIS</a> lookup);</li>
+              <li>its geographical location (<a href="https://en.wikipedia.org/wiki/Geolocation">geolocation</a> lookup).</li>
+            </ul>
+            It uses the <a href="http://www.radb.net/">RADb</a> and the <a href="http://dev.maxmind.com/geoip/geoip2/geolite2/">MaxMind GeoLite2</a> databases.
+            Note that WHOIS and geolocation information is sometimes inaccurate.
+            </p>
+          </div>
+          <div class="cell-buttons">
+            <span class="mdl-textfield mdl-js-textfield">
+              <input class="mdl-textfield__input" type="text" id="ip">
+              <label class="mdl-textfield__label" for="ip">IP address (e.g. 1.2.3.4)</label>
+            </span>
+            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" id="btnIpLookup">
+              Lookup
+            </button>
+            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" id="btnMyIpLookup">
+              Lookup my IP
+            </button>
+            <span id="ipSearching" class="mdl-spinner mdl-spinner--single-color mdl-js-spinner is-active off"></span>
+            <span style="float:right;font-family:Roboto">
+              <a class="share-button" title="Share me on Reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fnetperf.tools&amp;title=Find%20my%20IP%20or%20locate%20any%20IP"><img src="flat-social-media-icons/reddit.png"></a>
+              <a class="share-button" title="Share me on Twitter" href="https://twitter.com/share?url=https%3A%2F%2Fnetperf.tools&amp;text=Find%20my%20IP%20or%20locate%20any%20IP"><img src="flat-social-media-icons/twitter.png"></a>
+              <a class="share-button" title="Share me on Facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnetperf.tools&amp;t=Find%20my%20IP%20or%20locate%20any%20IP"><img src="flat-social-media-icons/facebook.png"></a>
+              <a class="share-button" title="Share me on Google+" href="https://plus.google.com/share?url=https%3A%2F%2Fnetperf.tools"><img src="flat-social-media-icons/google-plus.png"></a>
+            <span>
+          </div>
+        </div>
+      </div>
+      <div class="mdl-grid">
+        <div id="ipLookupCell" class="mdl-cell mdl-cell--6-col mdl-shadow--2dp mdl-color--white off">
+          <div class="cell-title">Results<i class="material-icons" role="presentation" style="float:right">language</i></div>
+          <table class="mymd full lefthead" style="table-layout:fixed;">
+          <tbody>
+            <tr><td style="width:140px">IP address</td><td class="mdl-data-table__cell--non-numeric" id="ipIp"></td></tr>
+            <tr><td>Network</td><td id="ipNet"></td></tr>
+            <tr><td>Description</td><td id="ipDescr"></td></tr>
+            <tr><td>AS number</td><td id="ipAsn"></td></tr>
+            <tr><td>AS name</td><td id="ipAsName"></td></tr>
+            <tr><td>AS description</td><td id="ipAsDescr"></td></tr>
+            <tr><td>Country code</td><td id="ipCc"></td></tr>
+            <tr><td>Country</td><td id="ipCountry"></td></tr>
+          </tbody>
+          </table>
+        </div>
+        <div id="ipLookupMap" class="mdl-cell mdl-cell--6-col mdl-shadow--2dp mdl-color--white off">
+          <div class="cell-title">Map<i class="material-icons" role="presentation" style="float:right">language</i></div>
+          <div id="ipMap" style="width: 100%;"></div>
+        </div>
+      </div>
+    </div> <!-- whois -->
+
+    <div id="terms">
+    <div class="mdl-grid">
+      <div class="mdl-cell mdl-cell--12-col mdl-shadow--2dp mdl-color--white">
+        <div class="cell-content">
+        <h1>Privacy Policy</h1>
+        <p>This is a collection of tools created by researchers to gather information relevant to the performance of Internet connection services.</p>
+
+        <p>
+        The goals of the project are:
+        <ul>
+        <li>Providing users with hopefully useful network performance measurement tools;</li>
+        <li>Collecting and analyzing information regarding Internet connection services;</li>
+        <li>Reporting collected information to the public.</li>
+        </ul>
+        </p>
+
+        <p>By accessing the tools, you will generate and send some data back-and-forth with one or more measurement servers.
+        The servers collect data related to the particular communication flows generated by the tests between the client and the servers.
+        This data includes <b>your computer's IP address and the date and time when the test was executed</b>.
+        This data will be used and analyzed by researchers and, in order to advance research, it will be made <b>publicly available</b>.
+        The tools do <b>not</b> collect personal information, such as your Internet traffic, your name, your emails or Web searches.</p>
+
+        <p>We may also automatically collect the following information about your use of our site or services through cookies,
+        web beacons, and other technologies: your domain name; your browser type and operating system; web pages on this website you view;
+        links on this website you click; your IP address; the length of time you visit our site and or use our services;
+        and the referring URL, or the webpage that led you to our site,
+        and the following: access time, browser type, domain name, IP address, page views and referring URL.</p>
+
+        <h2>Cookies</h2>
+        <p>We use cookies and other tracking mechanisms (such as local storage) to track information about your use of our site
+        or services. These allow us to enhance user experience, for example by displaying a history of your previous performance test
+        results.</p>
+
+        <h2>Third parties</h2>
+        <p>This website uses software, services and infrastructure from the following third parties, which
+        may use cookies and other tracking mechanisms and may collect information about you:</p>
+
+        <h3>M-Lab</h3>
+        <p><a href="https://www.measurementlab.net/about/">M-Lab</a> is an open, distributed server platform
+        on which researchers can deploy open source Internet measurement tools.
+        The data collected by those tools is released in the public domain.
+        The goal of M-Lab is to advance network research and empower the public with useful information
+        about their broadband and mobile connections.
+        By enhancing Internet transparency, M-Lab helps sustain a healthy, innovative Internet.</p>
+
+        <p>Several tools access the M-Lab servers, which collect data.
+        Please read carefully the M-Lab <a href="https://www.measurementlab.net/privacy/">privacy policy</a>.
+        You can also find out exactly what data is collected and how to access it <a href="https://www.measurementlab.net/data/">here</a>.</p>
+
+        <h3>Google Analytics</h3>
+        <p>We use Google Analytics to evaluate usage of our site and help us improve our services, performance and user experiences.
+        You may find out more about Google Analytics <a href="https://support.google.com/analytics/">here</a>.</p>
+
+        <h3>MaxMind</h3>
+        <p>This product includes GeoLite2 data created by MaxMind, available from
+        <a href="http://www.maxmind.com">http://www.maxmind.com</a>.</p>
+
+        <h1>Terms of Use</h1>
+        <p>By using these services in any manner, including but not limited to visiting, browsing and using the
+        various tools, you agree to these Terms of Use and all other operating rules, policies and procedures that may be published
+        from time to time on the services,
+        each of which is incorporated by reference and each of which may be updated from time to time without notice to you.
+        </p>
+
+        <p>We reserve the right, at our sole discretion, to modify or replace any of these Terms of Use,
+        or change, suspend, or discontinue the services (including without limitation, the availability of any feature, database, or content)
+        at any time. We may also impose limits on certain features of the services
+        or restrict your access to parts or all of the services without notice or liability.
+        It is your responsibility to check these Terms of Use periodically for changes.
+        Your use of the services following the posting of any changes to these Terms of Use constitutes acceptance of those changes.
+        </p>
+
+        <p>These services are provided by the authors and contributors ''as is'' and any express or implied warranties, including, but not limited to,
+        the implied warranties of merchantability and fitness for a particular purpose are disclaimed.
+        In no event shall the authors or contributors be liable for any direct, indirect, incidental, special, exemplary,
+        or consequential damages (including, but not limited to, procurement of substitute goods or services;
+        loss of use, data, or profits; or business interruption)
+        however caused and on any theory of liability, whether in contract, strict liability, or tort
+        (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
+        </p>
+
+        <p>Any part of the data measured or reported by the tools may be inaccurate.</p>
+
+        <p>Users are not allowed to use automated scripts of any kind to access this website or services,
+        without our express permission.</p>
+
+        <p>Users are not allowed to deploy data-mining, web-mirroring or web-copying of any kind against the site.
+        Any such effort will be considered an attempt to duplicate copyrighted data, and/or to destabilize the operation of the website.
+        If you want to obtain the collected data, you may use the M-Lab open-access datasets instead.
+        If you want to obtain the client or server-side source code, you may download it from our git repository or contact us.
+        </p>
+
+        <p>
+        Portions of the software are based on the code of the <a href="https://github.com/ndt-project">Web100 Network Diagnostic Tool (NDT)</a>;
+        the software, with our modifications, is available in source code form in this <a href="https://git.epfl.ch/repo/ndt.git">git repository</a>
+        under the original NDT <a href="https://raw.githubusercontent.com/ndt-project/ndt/master/COPYING">license</a>.
+        </p>
+
+        <h1>Contact</h1>
+        <p>You may contact us at <i id="ctct">contact at netperf.tools</i></p>
+        </div>
+      </div>
+    </div> <!-- terms -->
+  </main>
+</div>
+
+<div id="snackbar" class="mdl-snackbar mdl-js-snackbar">
+  <div class="mdl-snackbar__text"></div>
+  <button class="mdl-snackbar__action" type="button"></button>
+</div>
+
+<iframe id="iframe" sandbox="allow-same-origin allow-scripts" style="display: none"></iframe>
+
+<script src="https://code.getmdl.io/1.1.3/material.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script src="https://www.gstatic.com/charts/loader.js"></script>
+<script>
+google.charts.load('current', {'packages':['corechart', 'geochart']});
+</script>
+<!--scriptsstart-->
+<script src="util.js"></script>
+<script src="gui.js"></script>
+<script src="mlab.js"></script>
+<script src="mlab-servers.js"></script>
+<script src="ndt-browser-client.js"></script>
+<script src="ndt-wrapper.js"></script>
+<script src="ndt-flash.js"></script>
+<script src="ndt-html5.js"></script>
+<script src="ndt-ping.js"></script>
+<script src="ndt-gui.js"></script>
+<script src="whois.js"></script>
+<script src="whois-gui.js"></script>
+<script src="media.js"></script>
+<!--scriptsend-->
+
+
+<!-- Google Analytics -->
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-76826802-1', 'auto');
+ga('require', 'linkid');
+ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<!-- End Google Analytics -->
+</body>
+</html>

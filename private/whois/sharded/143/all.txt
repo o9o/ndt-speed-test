@@ -1,0 +1,592 @@
+143.0.0.0 143.0.3.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.4.0 143.0.7.255 AS61797 RADB ITX-COPEL
+143.0.8.0 143.0.11.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.12.0 143.0.15.255 AS28604 RADB Globo Comunicacao e Participacoes corporate CIDR
+143.0.16.0 143.0.19.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.20.0 143.0.23.255 AS263985 TC FABIO DA SILVA GARCIA COMPUTADORES - ME
+143.0.24.0 143.0.27.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.28.0 143.0.31.255 AS263991 BBOI G8 Networks
+143.0.32.0 143.0.35.255 AS23520 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+143.0.36.0 143.0.39.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.40.0 143.0.43.255 AS262550 NTTCOM Embratel Customer
+143.0.44.0 143.0.51.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.52.0 143.0.55.255 AS263997 NTTCOM Embratel Customer
+143.0.56.0 143.0.67.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.68.0 143.0.71.255 AS264003 RADB Bloco de ipÂ´s cliente "Pronet" criado pela equipe Durand do Brazil
+143.0.72.0 143.0.87.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.88.0 143.0.91.255 AS264426 TC VM Provedora de Internet Ltda Me
+143.0.92.0 143.0.95.255 AS263836 RADB This route object is for IFX Networks customer route which is being exported under this origin AS 263836
+143.0.96.0 143.0.100.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.101.0 143.0.101.255 AS264612 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+143.0.102.0 143.0.107.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.108.0 143.0.111.255 AS64339 RADB This route object is for IFX Networks customer route which is being exported under this origin AS 64339
+143.0.112.0 143.0.135.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.136.0 143.0.139.255 AS264011 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.0.140.0 143.0.143.255 AS264009 TC TBONET SERVICOS DE INFORMATICA E COMUNICACOES LTDA
+143.0.144.0 143.0.147.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.148.0 143.0.151.255 AS264005 TC RocketNet ServiÃ§os de ComunicaÃ§Ã£o MultimÃ­dia Ltda
+143.0.152.0 143.0.163.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.164.0 143.0.167.255 AS28250 NTTCOM Rede Brasileira de Comunicacao Ltda
+143.0.168.0 143.0.175.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.176.0 143.0.179.255 AS264006 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.0.180.0 143.0.183.255 AS264007 RADB Prefixo AS264007
+143.0.184.0 143.0.211.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.212.0 143.0.215.255 AS263953 RADB OptiTel Customers
+143.0.216.0 143.0.227.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.228.0 143.0.231.255 AS264018 RADB Prefixo AS264018
+143.0.232.0 143.0.247.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.0.248.0 143.0.251.255 AS27843 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS27843  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+143.0.252.0 143.8.71.255 AS11003 ALTDB Proxy-registered route object for The Procter & Gamble Company 2 Procter & Gamble Plaza Cincinnati, OH 45202
+143.8.72.0 143.8.72.255 AS35163 ARIN Singapore AP CNF Ext Segment
+143.8.73.0 143.8.144.9 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.8.144.10 143.8.144.10 AS4282 SAVVIS Due to SAVVIS AUP violations, this prefix has been deliberately blackholed within the AS3561 network. Any questions should be directed to noc@savvis.net npm@savvis.net.
+143.8.144.11 143.16.82.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.16.83.0 143.16.83.255 AS61153 ARIN Ashburn Zscaler GRE A-leg
+143.16.84.0 143.16.89.255 AS11003 ARIN Procter and Gamble EMEA sites services
+143.16.90.0 143.16.90.255 AS61153 ARIN Ashburn Zscaler GRE B-leg
+143.16.91.0 143.16.176.255 AS11003 ARIN Procter and Gamble EMEA sites services
+143.16.177.0 143.16.178.255 AS61153 ARIN CHICAGO CNF DMZ
+143.16.179.0 143.16.188.255 AS11003 ARIN Procter and Gamble EMEA sites services
+143.16.189.0 143.16.189.255 AS61153 ARIN NACH P&G  SSL VPN
+143.16.190.0 143.19.3.255 AS11003 ARIN Procter and Gamble EMEA sites services
+143.19.4.0 143.19.6.255 AS15442 ARIN Wynyard EU Direct Access Exception
+143.19.7.0 143.19.49.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.19.50.0 143.19.51.255 AS15442 ARIN Wynyard EU Direct Access Exception
+143.19.52.0 143.19.59.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.19.60.0 143.19.60.255 AS15442 ARIN Wynyard EU Direct Access Exception
+143.19.61.0 143.19.69.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.19.70.0 143.19.73.255 AS15442 ARIN Wynyard EU Direct Access Exception
+143.19.74.0 143.26.115.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.26.116.0 143.26.116.255 AS15442 ARIN Frankfurt CNF DMZ F/W NAT
+143.26.117.0 143.26.128.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.26.129.0 143.26.131.255 AS15442 ARIN Wynyard EU Direct Access Exception
+143.26.132.0 143.26.143.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.26.144.0 143.26.144.255 AS15442 ARIN Frankfurt CNF SSL VPN External
+143.26.145.0 143.27.125.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.27.126.0 143.27.126.255 AS15442 ARIN Frankfurt CNF NAT
+143.27.127.0 143.27.161.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.27.162.0 143.27.162.255 AS15442 ARIN Frankfurt CNF
+143.27.163.0 143.28.115.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.28.116.0 143.28.116.255 AS15442 ARIN Frankfurt CNF zScaler B
+143.28.117.0 143.28.241.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.28.242.0 143.28.243.255 AS15442 ARIN Procter and Gamble EMEA NCSC Extranet Services
+143.28.244.0 143.29.62.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.29.63.0 143.29.63.255 AS35163 ARIN Singapore AP CNF NAT
+143.29.64.0 143.29.85.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.29.86.0 143.29.87.255 AS35163 ARIN APAC CNF Zscaler GRE B-leg
+143.29.88.0 143.29.128.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.29.129.0 143.29.129.255 AS35163 ARIN Singapore AP KDH Datacenter Direct Access Exception
+143.29.130.0 143.35.63.255 AS11003 ARIN Procter and Gamble HP AP DMZ services
+143.35.64.0 143.35.64.255 AS35163 ARIN Singapore AP KDH Datacenter Direct Access Exception
+143.35.65.0 143.36.197.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.36.198.0 143.36.199.255 AS35163 ARIN Singapore AP KDH Datacenter Direct Access Exception
+143.36.200.0 143.39.7.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.39.8.0 143.39.11.255 AS15442 ARIN Wynyard EU Direct Access Exception
+143.39.12.0 143.39.245.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.39.246.0 143.39.246.255 AS15442 ARIN Wynyard EU Direct Access Exception
+143.39.247.0 143.40.255.255 AS11003 ALTDB Proxy-registered route object for The Procter and Gamble Company P.O. Box 599 Cincinnati, OH 45201
+143.41.0.0 143.41.15.255 AS42436 RIPE Consumers Association Ltd.
+143.41.16.0 143.41.23.255 AS25180 RIPE Exponential-e Ltd
+143.43.0.0 143.43.127.255 AS22978 LEVEL3 Governors State Univ
+143.43.128.0 143.43.255.255 AS6325 LEVEL3 Proxy-registered route object
+143.44.0.0 143.44.255.255 AS7017 RADB RR-RC-Lawrence University-NEW
+143.45.0.0 143.45.0.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+143.45.1.0 143.45.255.255 AS209 REACH REACH  Customer Route 
+143.46.0.0 143.46.0.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+143.46.1.0 143.46.255.255 AS209 REACH REACH  Customer Route 
+143.47.0.0 143.47.1.255 AS19905 RADB SP-ORACLE
+143.47.2.0 143.47.2.255 AS52019 LEVEL3 Oracle-LLG AGG A
+143.47.3.0 143.47.12.255 AS19905 RADB SP-ORACLE
+143.47.13.0 143.47.14.255 AS52019 LEVEL3 Oracle-LLG AGG A
+143.47.15.0 143.47.23.255 AS19905 RADB SP-ORACLE
+143.47.128.0 143.47.175.255 AS19905 RADB SP-ORACLE
+143.47.192.0 143.47.255.255 AS19905 RADB SP-ORACLE
+143.48.0.0 143.48.255.255 AS46887 SAVVIS CSHL-143-48-0-0/17
+143.50.0.0 143.50.255.255 AS1853 RIPE KFUNIGRAZ
+143.51.128.0 143.51.255.255 AS16086 RIPE Lahden kaupunki, City of Lahti
+143.52.0.0 143.53.255.255 AS786 RIPE JANET Aggregated Route JANET UK  Network Operations Centre 100 Gray's Inn Road London WC1X 8AL United Kingdom
+143.54.0.0 143.54.255.255 AS1916 SAVVIS UFRGS
+143.55.0.0 143.55.0.255 AS10910 SAVVIS PNAP-NYC fashioninstute routes
+143.55.1.0 143.55.1.255 AS23341 RADB Fashion Institute of Technology PO Box 3678 Wantagh NY 11793
+143.55.2.0 143.55.4.255 AS10910 SAVVIS PNAP-NYC fashioninstute routes
+143.55.5.0 143.55.10.255 AS23341 RADB Fashion Institute of Technology PO Box 3678 Wantagh NY 11793
+143.55.11.0 143.55.31.255 AS10910 SAVVIS PNAP-NYC fashioninstute routes
+143.55.32.0 143.55.33.255 AS23341 ARIN Fashion Institute of Technology 27th Street New York, NY 10001
+143.55.34.0 143.55.63.255 AS10910 SAVVIS PNAP-NYC fashioninstute routes
+143.55.64.0 143.55.127.255 AS23341 RADB Fashion Institute of Technology PO Box 3678 Wantagh NY 11793
+143.55.128.0 143.55.135.255 AS7911 LEVEL3 Proxy-registered route object
+143.55.136.0 143.55.136.255 AS23341 RADB Fashion Institute of Technology PO Box 3678 Wantagh NY 11793
+143.55.137.0 143.55.139.255 AS10910 SAVVIS PNAP-NYC fashioninstute routes
+143.55.140.0 143.55.140.255 AS23341 RADB Fashion Institute of Technology PO Box 3678 Wantagh NY 11793
+143.55.141.0 143.55.143.255 AS10910 SAVVIS PNAP-NYC fashioninstute routes
+143.55.144.0 143.55.159.255 AS7029 RADB Windstream  PaeTec 
+143.55.160.0 143.55.175.255 AS23341 RADB Fashion Institute of Technology PO Box 3678 Wantagh NY 11793
+143.55.176.0 143.55.183.255 AS7029 RADB Windstream  PaeTec 
+143.55.184.0 143.55.191.255 AS10910 SAVVIS PNAP-NYC fashioninstute routes
+143.55.192.0 143.55.223.255 AS23341 RADB Fashion Institute of Technology PO Box 3678 Wantagh NY 11793
+143.55.224.0 143.55.255.255 AS10910 SAVVIS PNAP-NYC fashioninstute routes
+143.58.15.0 143.58.15.255 AS4645 RADB Sekots & Co Ltd
+143.58.68.0 143.58.75.255 AS21642 RADB AS21642 proxy-registered route by Cogent
+143.58.100.0 143.58.107.255 AS21641 RADB AS21641 proxy-registered route by Cogent
+143.58.120.0 143.58.127.255 AS8220 LEVEL3 Proxy-registered route object
+143.58.132.0 143.58.139.255 AS21644 RADB AS21644 proxy-registered route by Cogent
+143.60.0.0 143.60.231.255 AS40723 RADB uploaded by 26479 on behalf of 40723
+143.60.232.0 143.60.247.255 AS7029 RADB Proxy fbo Windstream Customer
+143.60.248.0 143.60.255.255 AS40723 RADB uploaded by 26479 on behalf of 40723
+143.61.46.0 143.61.46.255 AS852 RADB NET-AAA
+143.61.114.0 143.61.114.255 AS852 RADB NET-AAA
+143.61.122.0 143.61.122.255 AS13407 nttcom AAA Merrimack Valley
+143.61.160.0 143.61.160.255 AS6181 ALTDB Proxy-registered route object for AAA Cincinnati 15 W Central Pkwy Cincinnati, OH 45202
+143.62.0.0 143.62.0.255 AS6181 ALTDB Proxy-registered route object
+143.62.1.0 143.62.255.255 AS23440 ALTDB Proxy-registered route object for Peak 10, Inc. Suite A Charlotte, NC 29273
+143.63.0.0 143.63.255.255 AS6984 LEVEL3 New route for Verizon
+143.65.120.0 143.65.127.255 AS50510 RIPE Cancer Research UK Angel Building 407 St. John Street London EC1V 4AD United Kingdom
+143.65.192.0 143.65.224.255 AS50510 RIPE Cancer Research UK Angel Building 407 St. John St London EC1V 4AD United Kingdom
+143.66.0.0 143.66.255.255 AS11351 RADB RR-Route
+143.67.0.0 143.67.187.255 AS22302 RADB Proxy route entry added on behalf of JCC
+143.67.188.0 143.67.188.255 AS11351 RADB RR-RC-Jamestown Community College-Buffalo
+143.67.189.0 143.67.255.255 AS22302 RADB Proxy route entry added on behalf of JCC
+143.68.0.0 143.68.255.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.69.105.0 143.69.105.255 AS721 LEVEL3 Proxy-registered route object
+143.72.0.0 143.72.255.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.0.0 143.73.3.255 AS14349 RADB GBLX-US-BGP
+143.73.4.0 143.73.7.255 AS5800 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.8.0 143.73.8.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.9.0 143.73.12.255 AS14349 RADB GBLX-US-BGP
+143.73.13.0 143.73.13.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.14.0 143.73.53.255 AS14349 RADB GBLX-US-BGP
+143.73.54.0 143.73.54.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.55.0 143.73.60.255 AS14349 RADB GBLX-US-BGP
+143.73.61.0 143.73.61.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.62.0 143.73.119.255 AS14349 RADB GBLX-US-BGP
+143.73.120.0 143.73.120.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.121.0 143.73.126.255 AS14349 RADB GBLX-US-BGP
+143.73.127.0 143.73.127.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.128.0 143.73.131.255 AS14349 RADB GBLX-US-BGP
+143.73.132.0 143.73.134.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.135.0 143.73.139.255 AS14349 RADB GBLX-US-BGP
+143.73.140.0 143.73.140.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.141.0 143.73.146.255 AS14349 RADB GBLX-US-BGP
+143.73.147.0 143.73.147.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.148.0 143.73.205.255 AS14349 RADB GBLX-US-BGP
+143.73.206.0 143.73.207.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.208.0 143.73.211.255 AS14349 RADB GBLX-US-BGP
+143.73.212.0 143.73.213.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.214.0 143.73.216.255 AS14349 RADB GBLX-US-BGP
+143.73.217.0 143.73.217.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.73.218.0 143.73.255.255 AS14349 RADB GBLX-US-BGP
+143.74.0.0 143.74.6.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.74.7.0 143.74.7.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.74.8.0 143.74.12.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.74.13.0 143.74.13.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.74.14.0 143.74.15.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.74.16.0 143.74.16.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.74.17.0 143.74.31.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.74.32.0 143.74.37.255 AS5800 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.74.38.0 143.74.39.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.74.40.0 143.74.47.255 AS5800 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.74.48.0 143.74.250.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.74.251.0 143.74.251.255 AS209 REACH REACH  Customer Route 
+143.74.252.0 143.76.31.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.76.32.0 143.76.47.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.76.48.0 143.76.111.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.76.112.0 143.76.127.255 AS5800 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.76.128.0 143.76.255.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.77.0.0 143.77.0.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+143.77.1.0 143.77.255.255 AS209 REACH REACH  Customer Route 
+143.81.0.0 143.81.0.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.1.0 143.81.3.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.4.0 143.81.7.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.8.0 143.81.14.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.15.0 143.81.16.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.17.0 143.81.17.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.18.0 143.81.18.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.19.0 143.81.49.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.50.0 143.81.50.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.51.0 143.81.52.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.53.0 143.81.53.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.54.0 143.81.98.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.99.0 143.81.99.255 AS6048 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.100.0 143.81.105.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.106.0 143.81.106.255 AS6048 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.107.0 143.81.111.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.112.0 143.81.112.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.113.0 143.81.156.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.157.0 143.81.158.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.159.0 143.81.159.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.160.0 143.81.161.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.162.0 143.81.199.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.200.0 143.81.200.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.201.0 143.81.221.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.81.222.0 143.81.255.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.0.0 143.86.15.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.16.0 143.86.16.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.17.0 143.86.18.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.19.0 143.86.19.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.20.0 143.86.31.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.32.0 143.86.32.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.33.0 143.86.53.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.54.0 143.86.54.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.55.0 143.86.79.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.80.0 143.86.80.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.81.0 143.86.81.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.82.0 143.86.82.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.83.0 143.86.103.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.104.0 143.86.104.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.105.0 143.86.127.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.128.0 143.86.128.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.129.0 143.86.167.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.168.0 143.86.169.255 AS5800 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.170.0 143.86.201.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.202.0 143.86.203.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.204.0 143.86.239.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.86.240.0 143.86.255.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.88.0.0 143.88.255.255 AS6912 SAVVIS PNAP-ACS
+143.89.0.0 143.89.0.255 AS9269 REACH REACH  Customer Route 
+143.89.1.0 143.89.233.255 AS3662 RADB HGC  customer route 
+143.89.234.0 143.89.234.255 AS3363 LEVEL3 Proxy-registered route object
+143.89.235.0 143.89.255.255 AS3662 RADB HGC  customer route 
+143.90.0.0 143.90.255.255 AS4725 JPIRR ODN
+143.91.0.0 143.91.255.255 AS6984 LEVEL3 New route for Verizon
+143.92.0.0 143.92.255.255 AS7657 EPOCH The Internet Group
+143.93.0.0 143.93.79.54 AS2857 RIPE FH-RPL-NET
+143.93.79.55 143.93.79.55 AS4565 EPOCH DAL Specifics
+143.93.79.56 143.93.159.255 AS2857 RIPE FH-RPL-NET
+143.93.160.0 143.93.191.255 AS8450 RIPE FH Worms
+143.93.192.0 143.93.255.255 AS2857 RIPE FH-RPL-NET
+143.94.0.0 143.94.255.255 AS2497 JPIRR IIJ Customer route
+143.95.0.0 143.95.31.255 AS36444 LEVEL3 ADDED FOR - AS36444
+143.95.32.0 143.95.63.255 AS30496 LEVEL3 colo4 customer network
+143.95.64.0 143.95.127.255 AS36024 LEVEL3 colo4 customer network
+143.95.128.0 143.95.143.255 AS14585 NTTCOM Athenix block CIFNet, Inc. PO Box 5966 Vernon Hills, IL 60061-5966
+143.95.144.0 143.95.159.255 AS36024 LEVEL3 colo4 customer network
+143.95.160.0 143.95.183.255 AS14585 NTTCOM Athenix block CIFNet, Inc. PO Box 5966 Vernon Hills, IL 60061-5966
+143.95.184.0 143.95.191.255 AS46606 RADB Unified Layer
+143.95.192.0 143.95.207.255 AS20013 RADB CyrusOne - Proxy for Customer
+143.95.208.0 143.95.223.255 AS14585 NTTCOM Athenix block CIFNet, Inc. PO Box 5966 Vernon Hills, IL 60061-5966
+143.95.224.0 143.95.255.255 AS36024 LEVEL3 colo4 customer network
+143.96.0.0 143.96.12.255 AS45172 RADB PACNET  proxy-registered route object 
+143.96.13.0 143.96.13.255 AS23655 RADB Snap Internet
+143.96.14.0 143.96.69.255 AS45172 RADB PACNET  proxy-registered route object 
+143.96.70.0 143.96.71.255 AS8220 RIPE IANA BLOCK EU ZZ 143
+143.96.72.0 143.96.255.255 AS45172 RADB PACNET  proxy-registered route object 
+143.97.0.0 143.97.255.255 AS42175 RIPE STATOIL
+143.98.0.0 143.98.255.255 AS7132 RADB Sacramento, CA SBC Internet Services Cardinal Health Inc. chuck mackie 916-985-5823 81 Blue Ravine Rd. Folsom, CA 95630 cardhealth.com
+143.100.0.0 143.100.255.255 AS3479 LEVEL3 Creating route
+143.101.0.0 143.103.255.255 AS13636 LEVEL3 Route object for NEC
+143.104.0.0 143.104.255.255 AS20252 RADB RR-RC-Weill Medical College-NY City
+143.105.0.0 143.105.255.255 AS19009 RADB John Carroll University
+143.106.0.0 143.106.255.255 AS1251 LEVEL3 Proxy-registered route object
+143.107.0.0 143.107.255.255 AS28571 LEVEL3 Proxy-registered route object
+143.108.0.0 143.108.255.255 AS1251 SCW FAPESP
+143.109.0.0 143.109.255.255 AS2381 RADB Ripon College
+143.110.0.0 143.110.255.255 AS20115 LEVEL3 CHTR-WI-Public
+143.111.0.0 143.111.255.255 AS11773 NTTCOM The University of Texas - MD Anderson Cancer Center
+143.112.0.0 143.112.255.255 AS10599 SAVVIS McKesson Corp One Post Street San Francisco CA 94104
+143.114.0.0 143.114.127.255 AS6075 RADB Prolexic Technologies, Inc.
+143.115.0.0 143.115.253.255 AS3455 SAVVIS PNAP-BSN libertymutual
+143.115.254.0 143.115.255.255 AS13540 SAVVIS PNAP-SEF
+143.116.83.0 143.116.83.255 AS23154 RADB Auto-generated route object for 143.116.83.0/24
+143.116.116.0 143.116.116.255 AS23154 ARIN Sanmina Corporation Huntsville, Alabama USA
+143.116.186.0 143.116.186.255 AS23154 RADB RR-RC-Sanmina-SCI Corporation-Milwaukee
+143.116.250.0 143.116.253.255 AS23154 ARIN Sanmina Corporation San Jose, California USA
+143.117.0.0 143.117.255.255 AS786 RIPE Queens University Belfast Computer Centre Botanic Ave Belfast Northern Ireland UNITED KINGDOM
+143.118.0.0 143.118.255.255 AS1881 RIPE SWAF Swedish Armed Forces
+143.119.0.0 143.119.95.255 AS24032 RADB AC3, Sydney
+143.119.96.0 143.119.127.255 AS59383 NTTCOM NXG-REF-20052-5591
+143.119.128.0 143.119.159.255 AS24032 RADB AC3, Sydney
+143.119.160.0 143.119.163.255 AS1221 REACH REACH  Customer Route 
+143.119.164.0 143.119.193.255 AS24032 RADB AC3, Sydney
+143.119.194.0 143.119.195.255 AS56307 NTTCOM NXG-REF-109836-6007
+143.119.196.0 143.119.199.255 AS24032 RADB AC3, Sydney
+143.119.200.0 143.119.203.255 AS56307 NTTCOM NXG-REF-109836-6007
+143.119.204.0 143.119.207.255 AS24032 RADB AC3, Sydney
+143.119.208.0 143.119.239.255 AS59383 NTTCOM NXG-REF-20052-5591
+143.119.240.0 143.119.246.255 AS24032 RADB AC3, Sydney
+143.119.247.0 143.119.247.255 AS56307 NTTCOM NXG-REF-109836-6007
+143.119.248.0 143.119.255.255 AS24032 RADB AC3, Sydney
+143.120.0.0 143.120.202.255 AS7850 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+143.120.203.0 143.120.203.255 AS26439 RADB Proxy Route for City of Albuquerque
+143.120.204.0 143.120.255.255 AS7850 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+143.121.0.0 143.121.255.255 AS1103 RIPE netname: AZUTRECHT Academic Hospital Utrecht Utrecht
+143.125.0.0 143.125.211.255 AS2497 JPIRR IIJ Customer route
+143.125.212.0 143.125.255.255 AS2514 JPIRR INFOSPHERE
+143.126.0.0 143.126.71.255 AS8220 RIPE Ebone France Regional Network Centr des Telecommunications Ministere de la culture
+143.126.72.0 143.126.79.255 AS19551 NTTCOM EXETEL-AUS-404
+143.126.80.0 143.126.255.255 AS8220 RIPE Ebone France Regional Network Centr des Telecommunications Ministere de la culture
+143.127.2.0 143.127.2.255 AS26415 RADB VeriSign Customer Route
+143.127.10.0 143.127.11.255 AS26415 RADB VeriSign Customer Route
+143.127.14.0 143.127.15.255 AS26415 RADB VeriSign Customer Route
+143.127.87.0 143.127.87.255 AS26415 RADB VeriSign Customer Route
+143.127.93.0 143.127.93.255 AS26415 ARIN VeriSign Customer Route
+143.127.100.0 143.127.100.255 AS26415 RADB VeriSign Customer Route
+143.127.102.0 143.127.103.255 AS26415 RADB VeriSign Customer Route
+143.127.119.0 143.127.119.255 AS26415 ARIN VeriSign Customer Route
+143.127.128.0 143.127.135.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+143.127.136.0 143.127.136.255 AS26415 ARIN VeriSign Customer Route
+143.127.137.0 143.127.137.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+143.127.138.0 143.127.139.255 AS26415 ARIN VeriSign Customer Route
+143.127.140.0 143.127.159.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+143.127.239.0 143.127.239.255 AS4544 RADB NAVISITE-SYMANTEC-NET-1
+143.127.241.0 143.127.243.255 AS26415 RADB VeriSign Customer Route
+143.127.244.0 143.127.244.255 AS4544 RADB NAVISITE-SYMANTEC-NET-2
+143.127.246.0 143.127.246.255 AS4544 RADB NAVISITE-SYMANTEC-NET-3
+143.128.0.0 143.128.255.255 AS2018 ALTDB Registered for Management by TENET
+143.129.0.0 143.129.255.255 AS2611 RIPE RUCANET
+143.130.0.0 143.130.255.255 AS1853 RIPE WSRNET
+143.132.0.0 143.132.255.255 AS32229 LEVEL3 Proxy-registered route object
+143.136.0.0 143.136.255.255 AS1849 RIPE CROSFIELD
+143.137.0.0 143.137.3.255 AS61797 BBOI G8 Networks
+143.137.12.0 143.137.15.255 AS264024 RADB ITX-K2TELECOM
+143.137.16.0 143.137.19.255 AS264028 NTTCOM Embratel Customer
+143.137.24.0 143.137.27.255 AS52242 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+143.137.44.0 143.137.47.255 AS264071 RADB ITX-VOGEL
+143.137.60.0 143.137.63.255 AS262569 RADB AS262569
+143.137.64.0 143.137.67.255 AS263530 BBOI G8 Networks
+143.137.68.0 143.137.71.255 AS262369 RADB Ok Virtual Provedor de Internet ltda
+143.137.72.0 143.137.75.255 AS262481 RADB OptiTel Customers
+143.137.80.0 143.137.83.255 AS23520 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+143.137.84.0 143.137.87.255 AS262847 RADB ITX-CONNECTSUL
+143.137.108.0 143.137.111.255 AS22908 RADB Proxy-registered route object
+143.137.112.0 143.137.115.255 AS262159 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS262159  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+143.137.124.0 143.137.127.255 AS264050 BBOI G8 Networks
+143.137.148.0 143.137.151.255 AS264615 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+143.137.156.0 143.137.159.255 AS263099 BBOI G8 Networks
+143.137.180.0 143.137.183.255 AS61834 RADB ITX-CEMIG
+143.137.188.0 143.137.191.255 AS264041 TC MetaWeb
+143.137.192.0 143.137.195.255 AS263222 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+143.137.212.0 143.137.215.255 AS264053 BBOI G8 Networks
+143.137.220.0 143.137.223.255 AS264047 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.137.224.0 143.137.227.255 AS264054 RADB GoTelecom
+143.137.232.0 143.137.235.255 AS263402 BBOI G8 Networks
+143.137.236.0 143.137.239.255 AS28283 RADB Prefixo AS263649
+143.138.0.0 143.138.255.255 AS209 REACH REACH  Customer Route 
+143.159.0.0 143.159.255.255 AS6871 RIPE PlusNet plc.
+143.160.0.0 143.160.255.255 AS8094 ALTDB University of the North West
+143.161.0.0 143.161.245.255 AS8387 RIPE NET-MFA Andritz AG via T-Systems Austria
+143.161.246.0 143.161.246.255 AS702 RIPE Sundwig-Andritz
+143.161.247.0 143.161.255.255 AS8387 RIPE NET-MFA Andritz AG via T-Systems Austria
+143.163.2.0 143.163.11.255 AS3745 RIPE Volkswagen AG
+143.164.0.0 143.164.3.255 AS264014 BBOI G8 Networks
+143.164.4.0 143.164.255.255 AS12331 RIPE AUDI
+143.165.0.0 143.165.127.255 AS2923 SAVVIS PNAP-ACS Tiaacref Route
+143.165.160.0 143.165.191.255 AS2923 SAVVIS PNAP-DEN tiaacref
+143.165.224.0 143.165.255.255 AS2923 SAVVIS PNAP-ACS tiaacref
+143.166.0.0 143.166.255.255 AS19905 RADB AC_DELL
+143.167.0.0 143.167.255.255 AS786 RIPE University of Sheffield 2 Hounsfield Road Sheffield S10 2TN UNITED KINGDOM
+143.169.0.0 143.169.255.255 AS2611 RIPE UIANET
+143.174.0.0 143.174.255.255 AS17477 RADB Proxy route object registered by AS2764
+143.176.0.0 143.176.255.255 AS8588 RIPE Tele2 Consumer prefix
+143.177.0.0 143.179.255.255 AS13127 RIPE Tele2 Nederland FTTH
+143.180.0.0 143.180.255.255 AS8803 RIPE MIGROS-SG-NET
+143.181.4.0 143.181.7.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.182.0.0 143.183.255.255 AS4983 SAVVIS PNAP-SEA pnap_sea intelice routes
+143.186.13.0 143.186.13.255 AS17315 LEVEL3 Proxy-registered route object
+143.187.0.0 143.187.10.255 AS26415 RADB VeriSign Customer Route
+143.187.11.0 143.187.11.255 AS22822 REACH REACH  Customer Route 
+143.187.12.0 143.187.48.255 AS26415 RADB VeriSign Customer Route
+143.187.49.0 143.187.49.255 AS22822 REACH REACH  Customer Route 
+143.187.50.0 143.187.53.255 AS26415 RADB VeriSign Customer Route
+143.187.54.0 143.187.54.255 AS22822 REACH REACH  Customer Route 
+143.187.55.0 143.187.94.255 AS26415 RADB VeriSign Customer Route
+143.187.95.0 143.187.95.255 AS22822 REACH REACH  Customer Route 
+143.187.96.0 143.187.255.255 AS26415 RADB VeriSign Customer Route
+143.188.0.0 143.188.255.255 AS9837 REACH REACH  Customer Route 
+143.190.0.0 143.190.255.255 AS22561 SAVVIS adding route
+143.191.0.0 143.191.255.255 AS35916 RADB Customer Route - LOA provided
+143.192.0.0 143.192.11.255 AS3549 RADB GBLX-US-STATIC
+143.192.12.0 143.192.12.255 AS1221 REACH REACH  Customer Route 
+143.192.13.0 143.192.95.255 AS3549 RADB GBLX-US-STATIC
+143.192.96.0 143.192.111.255 AS131310 NTTCOM Proxy-registered route object
+143.192.112.0 143.192.255.255 AS3549 RADB GBLX-US-STATIC
+143.194.0.0 143.194.0.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.194.1.0 143.194.47.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.194.48.0 143.194.48.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.194.49.0 143.194.50.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.194.51.0 143.194.51.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.194.52.0 143.194.63.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.194.64.0 143.194.64.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.194.65.0 143.194.111.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.194.112.0 143.194.127.255 AS6034 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.194.128.0 143.194.203.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.194.204.0 143.194.204.255 AS5800 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.194.205.0 143.194.239.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.194.240.0 143.194.240.255 AS5803 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.194.241.0 143.194.255.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.195.0.0 143.195.223.255 AS6325 LEVEL3 Proxy-registered route object
+143.195.224.0 143.195.255.255 AS393451 RADB OnlightAurora
+143.197.0.0 143.197.255.255 AS32480 RADB Proxy-registered route object
+143.198.0.0 143.198.255.255 AS3549 RADB GBLX-US-STATIC
+143.199.0.0 143.199.3.255 AS13756 SAVVIS Inflow/AS13756
+143.199.4.0 143.199.4.255 AS21680 SAVVIS GWLA E-Commerce
+143.199.5.0 143.199.112.255 AS13756 SAVVIS Inflow/AS13756
+143.199.113.0 143.199.113.255 AS21680 RADB Akamai Technologies, Inc.
+143.199.114.0 143.199.207.255 AS13756 SAVVIS Inflow/AS13756
+143.199.208.0 143.199.223.255 AS21680 RADB Akamai Technologies, Inc.
+143.199.224.0 143.199.255.255 AS13756 SAVVIS Inflow/AS13756
+143.200.0.0 143.200.255.255 AS3128 ARIN UW-GreenBay
+143.202.4.0 143.202.7.255 AS264049 BBOI G8 Networks
+143.202.8.0 143.202.11.255 AS264470 NTTCOM Embratel Customer
+143.202.36.0 143.202.39.255 AS264056 RADB This is a Voxility customer route-object which is being exported under origin AS264056 This route object was created because no existing route object with the same origin was found. Please contact noc@voxility.com if you have any questions regarding this object.
+143.202.40.0 143.202.43.255 AS264406 NTTCOM Embratel Customer
+143.202.52.0 143.202.55.255 AS61754 BBOI G8 Networks
+143.202.60.0 143.202.63.255 AS264060 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.202.64.0 143.202.67.255 AS264062 BBOI G8 Networks
+143.202.76.0 143.202.78.255 AS32098 RADB Customer Red7
+143.202.79.0 143.202.79.255 AS18734 RADB Route from Metronet
+143.202.80.0 143.202.83.255 AS264067 NTTCOM Embratel Customer
+143.202.92.0 143.202.95.255 AS52838 BBOI G8 Networks
+143.202.96.0 143.202.99.255 AS264619 RADB This route object is for IFX Networks customer route which is being exported under this origin AS 264619
+143.202.108.0 143.202.111.255 AS262802 NTTCOM Embratel Customer
+143.202.112.0 143.202.115.255 AS263604 RADB OptiTel Customers
+143.202.120.0 143.202.123.255 AS3223 RADB OptiTel Customers
+143.202.124.0 143.202.127.255 AS52568 TC B. & S. COMERCIO E SERVICOS LTDA
+143.202.128.0 143.202.131.255 AS262324 BBOI G8 Networks
+143.202.156.0 143.202.159.255 AS11172 RADB auto-generated route object for 143.202.156.0/22
+143.202.160.0 143.202.163.255 AS52423 RADB RackNation Data Center  racknation.cr 
+143.202.176.0 143.202.179.255 AS52566 BBOI G8 Networks
+143.202.188.0 143.202.191.255 AS263085 BBOI G8 Networks
+143.202.192.0 143.202.195.255 AS28513 LEVEL3 CLARO_ARGENTINA
+143.202.204.0 143.202.207.255 AS8151 LEVEL3 TRIARA
+143.202.216.0 143.202.219.255 AS264074 RADB Prefixo AS264074
+143.202.228.0 143.202.231.255 AS264589 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.202.236.0 143.202.239.255 AS263627 NTTCOM Ultrawave Transit Customer
+143.202.240.0 143.202.243.255 AS262293 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.202.252.0 143.202.255.255 AS264609 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+143.205.0.0 143.205.255.255 AS1111 RIPE UNI-KLU
+143.206.0.0 143.206.255.255 AS19009 LEVEL3 route added via web
+143.207.0.0 143.207.255.255 AS19106 RADB Andrews University Computer Science Department Berrien Springs MI 49104-0020, USA
+143.208.8.0 143.208.11.255 AS264077 RADB Host HP - Hospedagem de Sites
+143.208.20.0 143.208.23.255 AS264075 RADB ITX-K2TELECOM
+143.208.36.0 143.208.36.255 AS11014 RADB This route object is for IFX Networks customer route which is being exported under this origin AS 11014
+143.208.72.0 143.208.75.255 AS265138 BBOI G8 Networks
+143.208.76.0 143.208.79.255 AS265120 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.208.88.0 143.208.91.255 AS262651 NTTCOM Embratel Customer
+143.208.92.0 143.208.95.255 AS265122 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.208.112.0 143.208.115.255 AS265128 BBOI G8 Networks
+143.208.124.0 143.208.127.255 AS265126 BBOI G8 Networks
+143.208.148.0 143.208.151.255 AS264092 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.208.160.0 143.208.163.255 AS1916 RADB RNP
+143.208.164.0 143.208.167.255 AS23520 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+143.208.168.0 143.208.171.255 AS262145 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+143.208.184.0 143.208.187.255 AS265118 RADB OptiTel Customers
+143.208.200.0 143.208.203.255 AS265150 TC Eternal VÃ­deo Locadora Ltda
+143.208.204.0 143.208.207.255 AS262422 RADB Bloco de Ips cliente "Anderson" criado pela equipe da Durand do Brazil
+143.208.212.0 143.208.215.255 AS263565 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.208.216.0 143.208.219.255 AS61578 BBOI G8 Networks
+143.208.220.0 143.208.223.255 AS265131 BBOI G8 Networks
+143.208.240.0 143.208.243.255 AS61750 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.208.244.0 143.208.247.255 AS265137 BBOI G8 Networks
+143.210.0.0 143.210.255.255 AS786 RIPE University of Leicester University Road Leicester LE1 7RH UNITED KINGDOM
+143.214.0.0 143.214.0.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+143.215.0.0 143.215.255.255 AS2637 LEVEL3 Georgia Tech
+143.216.0.0 143.216.31.255 AS7657 EPOCH The Internet Group
+143.216.32.0 143.216.39.255 AS4739 NTTCOM Internode
+143.216.40.0 143.216.40.255 AS7657 EPOCH The Internet Group
+143.216.41.0 143.216.43.255 AS4739 NTTCOM Internode
+143.216.44.0 143.216.45.255 AS7657 EPOCH The Internet Group
+143.216.46.0 143.216.47.255 AS4739 NTTCOM Internode
+143.216.48.0 143.216.76.255 AS7657 EPOCH The Internet Group
+143.216.77.0 143.216.77.255 AS4739 NTTCOM Internode
+143.216.78.0 143.216.91.255 AS7657 EPOCH The Internet Group
+143.216.92.0 143.216.93.255 AS4739 NTTCOM Internode
+143.216.94.0 143.216.255.255 AS7657 EPOCH The Internet Group
+143.217.0.0 143.217.255.255 AS43450 RIPE E.ON Nordic Essen
+143.223.0.0 143.223.0.255 AS33371 SAVVIS PNAP-OCY William Morris Angency
+143.223.1.0 143.223.1.255 AS10912 SAVVIS PNAP-LAX wma prefix
+143.223.2.0 143.223.2.255 AS13789 RADB PNAP-NYM wma-route
+143.223.3.0 143.223.29.255 AS33371 SAVVIS PNAP-OCY William Morris Angency
+143.223.30.0 143.223.30.255 AS10910 SAVVIS PNAP-NYC William Morris Agency
+143.223.31.0 143.223.255.255 AS33371 SAVVIS PNAP-NYM William Morris Agency
+143.224.0.0 143.224.99.255 AS1853 RIPE JR-NETWORK
+143.224.100.0 143.224.107.255 AS8437 RIPE Technikum Joanneum
+143.224.108.0 143.224.255.255 AS1853 RIPE JR-NETWORK
+143.225.0.0 143.225.255.255 AS137 RIPE UNINA-NET
+143.226.0.0 143.226.255.255 AS7132 RADB Rockford, IL SBC Internet Services Augustana College out of ATT/7132
+143.227.0.0 143.227.255.255 AS4587 RADB Integra Telecom Route Object
+143.228.0.0 143.228.255.255 AS1999 LEVEL3 Creating route for U.S. Government Legislative Branch
+143.229.0.0 143.229.255.255 AS36427 ARIN Vassar College
+143.230.0.0 143.230.255.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.231.0.0 143.231.255.255 AS1999 LEVEL3 Creating route for U.S. Government Legislative Branch
+143.232.0.0 143.232.255.255 AS41 RADB NASA Ames Research Center
+143.233.0.0 143.233.42.255 AS2546 RIPE Ariadne-t Network
+143.233.43.0 143.233.43.255 AS5408 RIPE GR-NET
+143.233.44.0 143.233.49.255 AS2546 RIPE Ariadne-t Network
+143.233.50.0 143.233.51.255 AS5408 RIPE GR-NET
+143.233.52.0 143.233.56.255 AS2546 RIPE Ariadne-t Network
+143.233.57.0 143.233.57.255 AS5408 RIPE GR-NET
+143.233.58.0 143.233.61.255 AS2546 RIPE Ariadne-t Network
+143.233.62.0 143.233.62.255 AS5408 RIPE GR-NET
+143.233.63.0 143.233.67.255 AS2546 RIPE Ariadne-t Network
+143.233.68.0 143.233.68.255 AS5408 RIPE General Secretariat of Research and Technology
+143.233.69.0 143.233.110.255 AS2546 RIPE Ariadne-t Network
+143.233.111.0 143.233.111.255 AS5408 RIPE GR-NET
+143.233.112.0 143.233.168.255 AS2546 RIPE Ariadne-t Network
+143.233.169.0 143.233.169.255 AS5408 RIPE TEIPI TEI PEIRAEUS
+143.233.170.0 143.233.171.255 AS2546 RIPE Ariadne-t Network
+143.233.172.0 143.233.176.255 AS5408 RIPE TEIPI TEI PEIRAEUS
+143.233.177.0 143.233.181.255 AS2546 RIPE Ariadne-t Network
+143.233.182.0 143.233.189.255 AS5408 RIPE Agricultural University of Athens
+143.233.190.0 143.233.203.255 AS2546 RIPE Ariadne-t Network
+143.233.204.0 143.233.204.255 AS5408 RIPE Agricultural University of Athens
+143.233.205.0 143.233.239.255 AS2546 RIPE Ariadne-t Network
+143.233.240.0 143.233.240.255 AS5408 RIPE Agricultural University of Athens
+143.233.241.0 143.233.255.255 AS2546 RIPE Ariadne-t Network
+143.234.0.0 143.234.255.255 AS786 RIPE SARI
+143.235.0.0 143.236.255.255 AS3128 ARIN UW-CollegesExtension
+143.237.0.0 143.237.255.255 AS199902 RIPE Lantmateriverket
+143.238.0.0 143.238.255.255 AS1221 REACH REACH  Customer Route 
+143.239.0.0 143.239.255.255 AS1213 RIPE NET-CORK-UNIV
+143.243.0.0 143.243.255.255 AS18676 ALTDB Proxy-registered route object for Avaya Inc. 211 Mount Airy Road Basking Ridge, NJ 07920
+143.244.0.0 143.244.255.255 AS19019 LEVEL3 YRC
+143.245.0.0 143.245.255.255 AS21079 RIPE OEKBLAN
+143.246.0.0 143.246.255.255 AS10796 RADB RR-Route
+143.247.0.0 143.247.0.255 AS14390 RADB Core Communications 209 West Street, Suite 302 Annapolis, MD 21401 US
+143.247.1.0 143.247.19.255 AS13506 LEVEL3 Proxy-registered route object
+143.247.20.0 143.247.21.255 AS14390 RADB Core Communications 209 West Street, Suite 302 Annapolis, MD 21401 US
+143.247.22.0 143.247.23.255 AS1784 LEVEL3 AS1784-CUST
+143.247.24.0 143.247.25.255 AS14390 RADB Core Communications 209 West Street, Suite 302 Annapolis, MD 21401 US
+143.247.26.0 143.247.237.255 AS1784 LEVEL3 AS1784-CUST
+143.247.238.0 143.247.239.255 AS14390 RADB Core Communications 209 West Street, Suite 302 Annapolis, MD 21401 US
+143.247.240.0 143.247.255.255 AS1784 LEVEL3 AS1784-CUST
+143.248.0.0 143.248.255.255 AS9318 REACH REACH  Customer Route 
+143.249.3.0 143.249.5.255 AS1516 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.249.7.0 143.249.7.255 AS1516 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.249.17.0 143.249.17.255 AS27136 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.249.28.0 143.249.31.255 AS1516 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.249.32.0 143.249.32.255 AS209 REACH REACH  Customer Route 
+143.249.33.0 143.249.47.255 AS5800 NTTCOM DISA-PAC  AS27066  Customer Route Object
+143.252.0.0 143.252.79.255 AS34846 RIPE News UK and Ireland Ltd
+143.252.80.0 143.252.84.255 AS1849 RIPE News International
+143.252.85.0 143.252.255.255 AS34846 RIPE News International
+143.254.0.0 143.254.255.255 AS26924 ALTDB San Jose Unified School District
+143.255.0.0 143.255.3.255 AS265140 RADB Prefixo AS265140
+143.255.12.0 143.255.15.255 AS265141 RADB Prefixo AS265141
+143.255.28.0 143.255.31.255 AS264644 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+143.255.32.0 143.255.35.255 AS27923 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+143.255.40.0 143.255.43.255 AS18734 RADB Route from SMARTNETT
+143.255.44.0 143.255.47.255 AS263623 BBOI G8 Networks
+143.255.52.0 143.255.55.255 AS265139 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.255.56.0 143.255.59.255 AS32098 RADB Cliente Megacable
+143.255.60.0 143.255.63.255 AS263037 NTTCOM Embratel Customer
+143.255.72.0 143.255.75.255 AS262460 RADB AS262460
+143.255.76.0 143.255.79.255 AS262971 BBOI G8 Networks
+143.255.84.0 143.255.87.255 AS263703 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS 263703
+143.255.92.0 143.255.95.255 AS265143 RADB OptiTel Customers
+143.255.96.0 143.255.99.255 AS52977 RADB Sul Online Telecom Ltda - EPP Ararangua/SC - Brasil
+143.255.100.0 143.255.103.255 AS262619 NTTCOM Embratel Customer
+143.255.108.0 143.255.111.255 AS265144 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.255.116.0 143.255.119.255 AS52722 TC Paranhananet Ltda.
+143.255.120.0 143.255.123.255 AS61948 RADB prefixo AS61948
+143.255.128.0 143.255.131.255 AS265147 TC UP Telecom e serv de multimÃ­dia e comercio ltda-me
+143.255.148.0 143.255.151.255 AS265155 BBOI G8 Networks
+143.255.184.0 143.255.187.255 AS262587 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+143.255.188.0 143.255.191.255 AS265151 TC Sitesul Servicos de Internet
+143.255.196.0 143.255.199.255 AS263558 BBOI G8 Networks
+143.255.200.0 143.255.203.255 AS52863 RADB UPX Technologies infrastructure
+143.255.204.0 143.255.207.255 AS264496 BBOI G8 Networks
+143.255.208.0 143.255.211.255 AS52741 BBOI G8 Networks
+143.255.212.0 143.255.215.255 AS265161 BBOI G8 Networks
+143.255.216.0 143.255.219.255 AS52935 BBOI G8 Networks
+143.255.236.0 143.255.239.255 AS265163 RADB AS265163
+143.255.252.0 143.255.255.255 AS263405 TC GIGANET TELECOM

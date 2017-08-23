@@ -1,0 +1,1253 @@
+177.0.0.0 177.0.255.255 AS8167 RADB Proxy-registered route object
+177.1.0.0 177.1.8.255 AS12654 RIPE RIPE-NCC-RIS debogon prefix
+177.1.9.0 177.7.255.255 AS8167 RADB Proxy-registered route object
+177.8.0.0 177.8.31.255 AS28360 SCW WKVE Asses em Servicos de Inform e Telecom Ltda
+177.8.32.0 177.8.47.255 AS262830 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.8.48.0 177.8.48.255 AS262493 NTTCOM Embratel Customer
+177.8.49.0 177.8.49.255 AS262659 NTTCOM Embratel Customer
+177.8.50.0 177.8.55.255 AS262493 NTTCOM Embratel Customer
+177.8.56.0 177.8.63.255 AS262591 SCW F B COMUNICACAO MULTIMIDIA LTDA
+177.8.64.0 177.8.79.255 AS262833 NTTCOM Responsible: Luis Henrique Rissato
+177.8.112.0 177.8.127.255 AS263028 NTTCOM Embratel Customer
+177.8.128.0 177.8.143.255 AS262835 BBOI Over All Internet Ltda
+177.8.144.0 177.8.151.255 AS28347 NTTCOM Unotel Proxy Object
+177.8.152.0 177.8.155.255 AS262683 SCW Minas Mais Telecom
+177.8.156.0 177.8.159.255 AS263286 BBOI G8 Networks
+177.8.160.0 177.8.175.255 AS53231 RADB GRUPOHOST
+177.8.176.0 177.8.191.255 AS53233 SCW VELOZNETCOM Servicos e Internet Ltda
+177.8.192.0 177.8.207.255 AS28329 ALTDB Proxy object for SPIN
+177.8.208.0 177.8.215.255 AS262819 RADB Solicitado por nuestro cliente CITTA para su cliente LINKTECK NET. Marzo 19 2014.
+177.8.216.0 177.8.219.255 AS53191 RADB Solicitado por Vegas para plugnet
+177.8.220.0 177.8.223.255 AS263133 RADB Solicitado por nuestro cliente IPE para LOL conectividade. Junio 12 2014
+177.8.224.0 177.8.239.255 AS262843 SCW Lognet Telecomunicacoes e Informatica Ltda
+177.8.240.0 177.8.247.255 AS263030 RADB OptiTel Customers
+177.10.0.0 177.10.15.255 AS53230 NTTCOM Embratel Customer
+177.10.20.0 177.10.21.255 AS52916 SCW Minas Mais Telecom
+177.10.22.0 177.10.23.255 AS52897 TC G8 Networks
+177.10.24.0 177.10.31.255 AS262841 SCW MA Informatica Ltda
+177.10.32.0 177.10.39.255 AS262842 BBOI G8 Networks
+177.10.40.0 177.10.43.255 AS263012 SCW UNIMED BELEMCOOPERATIVA DE TRABALHO MEDICO
+177.10.44.0 177.10.47.255 AS263591 SCW G8 Networks
+177.10.56.0 177.10.63.255 AS262847 SCW Hoinaski Sklasky Ltda
+177.10.64.0 177.10.71.255 AS53234 SCW SILVEIRA ZIQUINATTI LTDA
+177.10.76.0 177.10.79.255 AS263592 TC FRANCISCO MARQUES VIEIRA GONCALVES ME
+177.10.88.0 177.10.91.255 AS263014 TC HN Informatica ltda me
+177.10.96.0 177.10.103.255 AS262848 SCW Naja Telecomunicacoes Ltda
+177.10.104.0 177.10.111.255 AS28283 RADB Prefixo AS262848
+177.10.112.0 177.10.115.255 AS53235 SCW Eletrosul Centrais Eletricas SA
+177.10.116.0 177.10.119.255 AS52917 BBOI G8 Networks
+177.10.120.0 177.10.123.255 AS53236 NTTCOM Minas Mais Telecom
+177.10.132.0 177.10.135.255 AS52919 SCW SINGLE HOST DATA CENTER
+177.10.136.0 177.10.139.255 AS262850 RADB Solicitado por AVVIO para bluephone. Sep 15 2014.
+177.10.144.0 177.10.151.255 AS262851 SCW Plim Telecomunicacoes Ltda
+177.10.152.0 177.10.155.255 AS263016 RADB Solicitado por nuestro cliente YIP para NDX. Mayo 09 2014
+177.10.156.0 177.10.159.255 AS61894 BBOI G8 Networks
+177.10.160.0 177.10.167.255 AS53238 NTTCOM Embratel Customer
+177.10.168.0 177.10.171.255 AS262977 RADB Solicitado por nuestro cliente S.O de Brasil para ADSNET. Mayo 13 2014
+177.10.172.0 177.10.175.255 AS263601 SCW Anderson Marcos Coelho e Cia Ltda ME
+177.10.176.0 177.10.179.255 AS262853 NTTCOM Embratel Customer
+177.10.192.0 177.10.199.255 AS262854 SCW Unotel proxy route for AS262854
+177.10.200.0 177.10.203.255 AS263025 SCW ISPTEC Sistemas de Comunicacao Ltda
+177.10.208.0 177.10.215.255 AS262856 SCW Unotel proxy route for AS262856
+177.10.216.0 177.10.219.255 AS263036 SCW Fox Conect Provedor de Internet LTDA
+177.10.224.0 177.10.231.255 AS262861 TC G30 TELECOM SERVICOS EM TELECOMUNICACOES LTDA
+177.10.232.0 177.10.239.255 AS262880 NTTCOM G8 Networks
+177.10.240.0 177.10.247.255 AS262863 SCW MIDASNET TELECOMUNICACOES LTDA
+177.10.248.0 177.10.248.255 AS3223 RADB voxility.net
+177.10.249.0 177.10.249.255 AS262274 SCW Viveiros Araujo Servicos de Provedores da Intern
+177.10.250.0 177.10.255.255 AS3223 RADB voxility.net
+177.11.0.0 177.11.7.255 AS52962 SCW Vipnet Baixada Telecom e Informatica Ltda
+177.11.20.0 177.11.23.255 AS262295 NTTCOM Embratel Customer
+177.11.24.0 177.11.27.255 AS262870 NTTCOM Embratel Customer
+177.11.30.0 177.11.30.255 AS52922 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.11.31.0 177.11.31.255 AS52754 NTTCOM Embratel Customer
+177.11.48.0 177.11.55.255 AS3223 RADB voxility.net
+177.11.56.0 177.11.59.255 AS262871 TC R.D.S. Bortoluzzi & Cia Ltda - ME
+177.11.60.0 177.11.63.255 AS52934 RADB OptiTel Customers
+177.11.64.0 177.11.71.255 AS262872 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.11.80.0 177.11.83.255 AS3223 RADB voxility.net
+177.11.84.0 177.11.87.255 AS52939 SCW Minas Mais Telecom
+177.11.88.0 177.11.91.255 AS262874 BBOI G8 Networks
+177.11.92.0 177.11.95.255 AS52940 BBOI G8 Networks
+177.11.96.0 177.11.97.255 AS262875 SCW Minas Mais Telecom
+177.11.98.0 177.11.99.255 AS52752 NTTCOM G8 Networks
+177.11.100.0 177.11.103.255 AS52942 RADB Bloco de Ip's cliente "Redesul/Conexis" criado pela equipe Durand do Brazil
+177.11.104.0 177.11.107.255 AS53247 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS53247  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.11.112.0 177.11.119.255 AS52948 RADB Proxy-registered route object
+177.11.120.0 177.11.127.255 AS28173 NTTCOM Prefixo Dinamica
+177.11.144.0 177.11.151.255 AS262878 BBOI G8 Networks
+177.11.152.0 177.11.159.255 AS52901 SCW MINAS NET LDTA ME
+177.11.160.0 177.11.167.255 AS28268 RADB Solicitado por Link Sol. Sep 17 2014
+177.11.176.0 177.11.183.255 AS52951 NTTCOM Embratel Customer
+177.11.184.0 177.11.191.255 AS52904 RADB Rota do Cliente AS52904 Criado por Durand.
+177.11.192.0 177.11.207.255 AS53053 TC Bom Tempo InformÃ¡tica Ltda
+177.11.208.0 177.11.211.255 AS262881 NTTCOM Embratel Customer
+177.11.212.0 177.11.215.255 AS52945 NTTCOM Embratel Customer
+177.11.232.0 177.11.239.255 AS52905 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.11.240.0 177.11.243.255 AS262885 NTTCOM Embratel Customer
+177.11.248.0 177.11.251.255 AS262895 BBOI G8 Networks
+177.11.252.0 177.11.252.255 AS52756 NTTCOM Embratel Customer
+177.11.253.0 177.11.253.255 AS52826 NTTCOM Embratel Customer
+177.11.254.0 177.11.255.255 AS52785 RADB Solicitado por Terremark do Brasil para su cliente E-Commerce Media Group. feb 25 2014
+177.12.64.0 177.12.71.255 AS262845 NTTCOM Embratel Customer
+177.12.72.0 177.12.79.255 AS262455 NTTCOM Embratel Customer
+177.12.80.0 177.12.87.255 AS263031 BBOI G8 Networks
+177.12.92.0 177.12.95.255 AS262721 NTTCOM Embratel Customer
+177.12.96.0 177.12.96.255 AS53118 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS53118  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+177.12.97.0 177.12.99.255 AS52648 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS52648  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+177.12.100.0 177.12.103.255 AS53118 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS53118  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+177.12.104.0 177.12.107.255 AS52648 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS52648  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+177.12.108.0 177.12.127.255 AS53118 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS53118  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+177.12.128.0 177.12.159.255 AS28188 NTTCOM Embratel Customer
+177.12.160.0 177.12.175.255 AS28299 SCW IPV6 Internet Ltda
+177.12.192.0 177.12.207.255 AS262855 SCW ALONSO OLIVEIRA NETO ME
+177.12.208.0 177.12.223.255 AS262858 RADB Solicitado por nuestro cliente IP2. Mayo 22 de 2014.
+177.13.0.0 177.13.255.255 AS262849 NTTCOM Embratel Customer
+177.16.0.0 177.17.175.255 AS3223 RADB voxility.net
+177.17.176.0 177.17.183.255 AS262549 BBOI G8 Networks
+177.17.184.0 177.17.199.255 AS3223 RADB voxility.net
+177.17.200.0 177.17.207.255 AS18881 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS18881  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.17.208.0 177.19.255.255 AS3223 RADB voxility.net
+177.20.0.0 177.20.127.255 AS53239 NTTCOM Embratel Customer
+177.20.128.0 177.20.159.255 AS262857 SCW UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+177.20.176.0 177.20.183.255 AS263035 SCW G8 Networks
+177.20.184.0 177.20.191.255 AS262891 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.20.200.0 177.20.207.255 AS262867 NTTCOM Embratel Customer
+177.20.208.0 177.20.219.255 AS262868 NTTCOM Minas Mais Telecom
+177.20.220.0 177.20.220.255 AS262867 NTTCOM Embratel Customer
+177.20.221.0 177.20.223.255 AS262868 NTTCOM Minas Mais Telecom
+177.20.224.0 177.20.255.255 AS53240 SCW Net Onze Provedor de Acesso a Internet Ltda
+177.21.0.0 177.21.31.255 AS53242 SCW Nogueira e Dantas LTda
+177.21.64.0 177.21.79.255 AS53245 TC ACTION CENTRO DE INFORMATICA E INTERNET LTDA ME
+177.21.96.0 177.21.127.255 AS53246 NTTCOM Embratel Customer
+177.21.128.0 177.21.143.255 AS28245 TC NETDIGIT TELECOMUNICACOES LTDA
+177.21.144.0 177.21.159.255 AS52836 SCW SNT Banda Larga e Internet Ltda
+177.21.160.0 177.21.191.255 AS262876 NTTCOM Embratel Customer
+177.21.208.0 177.21.223.255 AS262879 SCW Hifive Provedor de Internet Ltda
+177.21.224.0 177.21.255.255 AS11835 RADB OptiTel Customers
+177.22.0.0 177.22.15.255 AS262883 RADB OptiTel Customers
+177.22.16.0 177.22.31.255 AS52952 RADB OptiTel Customers
+177.22.32.0 177.22.47.255 AS52981 TC Conecta Tecnologia LTDA
+177.22.48.0 177.22.63.255 AS52953 NTTCOM Embratel Customer
+177.22.64.0 177.22.79.255 AS262890 NTTCOM Embratel Customer
+177.22.80.0 177.22.95.255 AS52892 NTTCOM Embratel Customer
+177.22.96.0 177.22.111.255 AS52956 NTTCOM Embratel Customer
+177.22.112.0 177.22.127.255 AS262899 NTTCOM Minas Mais Telecom
+177.22.128.0 177.22.159.255 AS3223 RADB voxility.net
+177.22.160.0 177.22.175.255 AS52959 SCW Computech Tecnologia Ltda
+177.22.184.0 177.22.187.255 AS263563 NTTCOM Embratel Customer
+177.22.188.0 177.22.191.255 AS263121 NTTCOM Embratel Customer
+177.22.192.0 177.22.207.255 AS262901 SCW Vcnet Provedora de Internet Ltda
+177.22.208.0 177.22.223.255 AS262902 NTTCOM Embratel Customer
+177.22.224.0 177.22.239.255 AS262669 NTTCOM Embratel Customer
+177.22.240.0 177.22.247.255 AS28264 SCW ADLLink Provedor de Internet Via Radio LTDA
+177.22.248.0 177.22.251.255 AS263564 SCW ITANA GABRIELA DO NASCIMENTO BEZERRA 07302188483
+177.23.8.0 177.23.15.255 AS263037 NTTCOM Embratel Customer
+177.23.16.0 177.23.19.255 AS262887 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.23.20.0 177.23.23.255 AS52757 NTTCOM Embratel Customer
+177.23.56.0 177.23.63.255 AS52906 RADB ITX-SAMM
+177.23.64.0 177.23.71.255 AS262891 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.23.72.0 177.23.79.255 AS263039 SCW Interminas Provedor de Servicos de Internet Ltda
+177.23.88.0 177.23.95.255 AS262268 NTTCOM Embratel Customer
+177.23.96.0 177.23.103.255 AS262892 NTTCOM Embratel Customer
+177.23.104.0 177.23.107.255 AS52907 NTTCOM Responsible: JOSE NILTON FERREIRA DE OLIVEIRA
+177.23.112.0 177.23.119.255 AS262893 TC P4 TELECOM LTDA
+177.23.120.0 177.23.127.255 AS52908 RADB Rota adicionada para Filtros de Transito - Flys Interativa
+177.23.128.0 177.23.135.255 AS52957 NTTCOM Minas Mais Telecom
+177.23.136.0 177.23.143.255 AS52909 BBOI G8 Networks
+177.23.144.0 177.23.151.255 AS262896 RADB Rota Cliente AS262896 Criado por Durand
+177.23.152.0 177.23.159.255 AS52911 BBOI G8 Networks
+177.23.160.0 177.23.167.255 AS52960 NTTCOM Responsible: Edilson Santos Silva
+177.23.168.0 177.23.175.255 AS52913 TC PLANALTO NET
+177.23.184.0 177.23.191.255 AS52935 NTTCOM G8 Networks
+177.23.200.0 177.23.207.255 AS52937 TC FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE
+177.23.208.0 177.23.215.255 AS262903 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.23.216.0 177.23.219.255 AS52961 NTTCOM Embratel Customer
+177.23.220.0 177.23.221.255 AS11432 RADB IFX _ Telium
+177.23.224.0 177.23.231.255 AS52963 SCW Unotel proxy route for AS52963
+177.23.244.0 177.23.244.255 AS262269 NTTCOM Embratel Customer
+177.23.248.0 177.23.251.255 AS262906 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS262906  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+177.23.252.0 177.23.255.255 AS52764 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.28.0.0 177.31.255.255 AS26615 RADB TIM Celular S.A.
+177.32.0.0 177.35.255.255 AS28573 NTTCOM Embratel Customer
+177.36.0.0 177.36.32.255 AS33597 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+177.36.33.0 177.36.35.255 AS262907 SCW Beta Processamento de Dados Ltda
+177.36.36.0 177.36.45.255 AS33597 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+177.36.46.0 177.36.47.255 AS262907 SCW Beta Processamento de Dados Ltda
+177.36.48.0 177.36.63.255 AS33597 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+177.36.64.0 177.36.79.255 AS262910 NTTCOM Responsible: Frederico Baggio
+177.36.96.0 177.36.127.255 AS52972 NTTCOM Embratel Customer
+177.36.176.0 177.36.191.255 AS262782 RADB OptiTel Customers
+177.36.192.0 177.36.223.255 AS52967 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS52967  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+177.36.224.0 177.36.224.255 AS3223 RADB voxility.net
+177.36.240.0 177.36.255.255 AS262404 NTTCOM Embratel Customer
+177.37.0.0 177.37.15.255 AS28266 TC Vante Provedor de Internet Ltda
+177.37.64.0 177.37.95.255 AS262417 RADB OptiTel Customers
+177.37.96.0 177.37.111.255 AS262418 NTTCOM Minas Mais Telecom
+177.37.112.0 177.37.127.255 AS3223 RADB voxility.net
+177.37.128.0 177.37.255.255 AS28126 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.38.0.0 177.38.7.255 AS52964 NTTCOM Minas Mais Telecom
+177.38.8.0 177.38.15.255 AS262893 TC P4 TELECOM LTDA
+177.38.16.0 177.38.19.255 AS52966 RADB Proxy Registration for PCCW Global customer Brasil Telecom, This route object is for a PCCW Global customer route which is being exported under this origin AS. This route object was created because no existing route object with the same origin was found, and since some BtN peers filter based on these objects this route may be rejected if this object is not created. Please contact peering@pccwglobal.com if you have any questions regarding this object.
+177.38.20.0 177.38.23.255 AS52787 NTTCOM Minas Mais Telecom
+177.38.32.0 177.38.39.255 AS28310 RADB Smart
+177.38.40.0 177.38.47.255 AS52941 SCW SPACE NETWORK INFORMATICA LTDA
+177.38.48.0 177.38.55.255 AS262911 SCW BAU E DORL LTDA
+177.38.64.0 177.38.67.255 AS262400 TC VisÃ£o Net Provedor de TelecomunicaÃ§Ãµes Ltda
+177.38.68.0 177.38.71.255 AS52788 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.38.72.0 177.38.75.255 AS262406 RADB National Telecom
+177.38.80.0 177.38.95.255 AS262402 SCW IPINFO TELECOMUNICACOES LTDA
+177.38.96.0 177.38.103.255 AS262403 SCW Net Way Telecom LTDA ME
+177.38.104.0 177.38.111.255 AS262774 NTTCOM Embratel Customer
+177.38.112.0 177.38.127.255 AS52968 SCW TECMIDIAWEB LTDA
+177.38.128.0 177.38.131.255 AS262405 SCW ENTERIW PROVEDOR DE INTERNET LTDA
+177.38.132.0 177.38.135.255 AS61570 TC ENTERIW PROVEDOR DE INTERNET LTDA
+177.38.136.0 177.38.143.255 AS52947 SCW PARAOPEBANET PROVEDOR LTDA
+177.38.152.0 177.38.159.255 AS52751 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.38.168.0 177.38.175.255 AS52755 NTTCOM Embratel Customer
+177.38.184.0 177.38.191.255 AS52758 NTTCOM Embratel Customer
+177.38.192.0 177.38.199.255 AS262409 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS262409  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.38.200.0 177.38.207.255 AS52759 RADB DataSafeIT SoluÃ§Ãµes em Tecnologia
+177.38.208.0 177.38.215.255 AS262411 SCW FORCE TELECOM
+177.38.216.0 177.38.222.255 AS262412 NTTCOM Embratel Customer
+177.38.224.0 177.38.231.255 AS28216 SCW Host Revenda
+177.38.232.0 177.38.239.255 AS52760 NTTCOM Embratel Customer
+177.38.240.0 177.38.247.255 AS52974 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS52974  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.38.248.0 177.38.255.255 AS262832 RADB Terremark-Proxy for ALOG-03
+177.39.0.0 177.39.3.255 AS262413 TC Intertrade Brasil, TelecomunicaÃ§Ãµes, MultimÃ­dia e
+177.39.4.0 177.39.7.255 AS52994 SCW UniNorte
+177.39.8.0 177.39.11.255 AS52975 RADB Moreti & Moretti Provedora
+177.39.12.0 177.39.15.255 AS52790 SCW Minas Mais Telecom
+177.39.16.0 177.39.23.255 AS262415 SCW TCD PROCESSAMENTO DE DADOS LTDA
+177.39.24.0 177.39.27.255 AS28173 NTTCOM Prefixo Dinamica
+177.39.32.0 177.39.39.255 AS262416 NTTCOM Embratel Customer
+177.39.40.0 177.39.47.255 AS262284 RADB OptiTel Customers
+177.39.48.0 177.39.55.255 AS52976 TC Datacast Teleinformatica Ltda
+177.39.56.0 177.39.63.255 AS52761 NTTCOM Embratel Customer
+177.39.64.0 177.39.71.255 AS262419 RADB Prefixo AS262419
+177.39.72.0 177.39.79.255 AS52977 SCW netsystem servicos de informatica ltda me
+177.39.80.0 177.39.87.255 AS262422 RADB Bloco de Ips cliente "Anderson" criado pela equipe da Durand do Brazil
+177.39.88.0 177.39.95.255 AS52763 SCW Localnet Telecom LTDA
+177.39.96.0 177.39.99.255 AS35788 RADB Terremark-Proxy for Alog
+177.39.100.0 177.39.100.255 AS262440 RADB AS262440
+177.39.101.0 177.39.101.255 AS3223 RADB voxility.net
+177.39.102.0 177.39.103.255 AS262440 RADB AS262440
+177.39.104.0 177.39.107.255 AS262425 BBOI G8 Networks
+177.39.108.0 177.39.111.255 AS52766 SCW M3GANET TELECOMUNICACOES LTDA ME
+177.39.112.0 177.39.119.255 AS262423 NTTCOM Embratel Customer
+177.39.120.0 177.39.127.255 AS52765 NTTCOM Embratel Customer
+177.39.128.0 177.39.131.255 AS262426 NTTCOM Embratel Customer
+177.39.132.0 177.39.135.255 AS3223 RADB voxility.net
+177.39.156.0 177.39.159.255 AS52772 RADB SJNET
+177.39.160.0 177.39.167.255 AS262429 SCW Nextview Consultoria em Informatica Ltda
+177.39.168.0 177.39.175.255 AS52768 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS52768  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+177.39.184.0 177.39.191.255 AS52770 SCW REVO TELECOMUNICACOES LTDA
+177.39.192.0 177.39.195.255 AS262432 RADB Kofre
+177.39.200.0 177.39.203.255 AS52978 SCW G8 Networks
+177.39.204.0 177.39.207.255 AS52780 NTTCOM Embratel Customer
+177.39.216.0 177.39.219.255 AS52795 NTTCOM Embratel Customer
+177.39.222.0 177.39.223.255 AS52795 NTTCOM Embratel Customer
+177.39.224.0 177.39.231.255 AS52979 NTTCOM Responsible: Erinaldo Arcanjo
+177.39.232.0 177.39.239.255 AS52797 NTTCOM Embratel Customer
+177.39.240.0 177.39.255.255 AS53135 TC Nettel Telecomunicacoes Ltda
+177.40.0.0 177.40.119.255 AS3223 RADB voxility.net
+177.40.120.0 177.40.123.255 AS53236 BBOI G8 Networks
+177.40.124.0 177.41.79.255 AS3223 RADB voxility.net
+177.41.80.0 177.41.95.255 AS18881 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS18881  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.41.96.0 177.43.81.255 AS3223 RADB voxility.net
+177.43.82.0 177.43.83.255 AS18881 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS18881  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.43.84.0 177.43.255.255 AS3223 RADB voxility.net
+177.44.0.0 177.44.127.255 AS28202 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.44.144.0 177.44.159.255 AS262428 NTTCOM Embratel Customer
+177.44.174.0 177.44.175.255 AS262434 RADB America Movil Brasil
+177.44.176.0 177.44.191.255 AS53173 NTTCOM Embratel Customer
+177.44.192.0 177.44.207.255 AS28155 SCW Viavale Telecom
+177.44.208.0 177.44.215.255 AS53230 RADB OptiTel Customers
+177.44.216.0 177.44.219.255 AS263566 TC RONDON TELECOM LTDA - ME
+177.44.220.0 177.44.223.255 AS61927 RADB Solicitado por nuestro cliente IPE Informatica para ES informatica e Tecnologia. junio 24 2014
+177.44.224.0 177.44.239.255 AS52982 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.44.240.0 177.44.255.255 AS262441 SCW Fund Vale do Taquari de Educ e Desenvolv Social
+177.46.0.0 177.46.127.255 AS28135 SCW ANID
+177.47.0.0 177.47.31.255 AS16397 SCW Alog Datacenters do Brasil
+177.47.32.0 177.47.47.255 AS28652 NTTCOM Embratel Customer
+177.47.64.0 177.47.79.255 AS262402 NTTCOM Embratel Customer
+177.47.96.0 177.47.127.255 AS28271 RIPE DataCorpore Serviços e Representações
+177.47.176.0 177.47.191.255 AS262283 NTTCOM Embratel Customer
+177.47.208.0 177.47.223.255 AS262473 BBOI G8 Networks
+177.47.224.0 177.47.239.255 AS52995 NTTCOM Embratel Customer
+177.48.0.0 177.51.255.255 AS26615 RADB TIM Celular S.A.
+177.52.16.0 177.52.23.255 AS262435 NTTCOM Embratel Customer
+177.52.32.0 177.52.35.255 AS262436 RADB Solicitado por IPE para E.B. Sanchez. nov 10 2014
+177.52.44.0 177.52.47.255 AS52796 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.52.48.0 177.52.55.255 AS28198 NTTCOM Minas Mais Telecom
+177.52.64.0 177.52.71.255 AS262438 BBOI G8 Networks
+177.52.72.0 177.52.79.255 AS52786 BBOI G8 Networks
+177.52.100.0 177.52.101.255 AS262455 NTTCOM Embratel Customer
+177.52.102.0 177.52.102.255 AS52997 RADB Solicitado por nuestro cliente Datacorpore para PARANÃ TRIBUNAL DE JUSTIÃA junio 03 2014
+177.52.103.0 177.52.103.255 AS28283 RADB Prefixo AS262508
+177.52.120.0 177.52.127.255 AS52802 RADB OptiTel Customers
+177.52.128.0 177.52.131.255 AS262446 SCW Ananke PRPJ Solucoes em Informatica Ltda
+177.52.136.0 177.52.138.255 AS52983 NTTCOM Embratel Customer
+177.52.144.0 177.52.151.255 AS262752 RADB OptiTel Customers
+177.52.152.0 177.52.159.255 AS262446 RADB Ananke Tecnologia Ltda
+177.52.160.0 177.52.163.255 AS262448 BBOI G8 Networks
+177.52.164.0 177.52.167.255 AS262436 RADB Solicitado por IPE para E.B. Sanchez. nov 10 2014
+177.52.172.0 177.52.172.255 AS263540 NTTCOM Embratel Customer
+177.52.174.0 177.52.175.255 AS52820 RADB OptiTel Customers
+177.52.176.0 177.52.177.255 AS812 RADB Added on behalf of Hughes Network
+177.52.178.0 177.52.179.255 AS28613 RADB Proxy Addition
+177.52.200.0 177.52.207.255 AS52830 RADB OptiTel Customers
+177.52.208.0 177.52.211.255 AS52986 SCW Vupt Provedora de Internet Ltda
+177.52.212.0 177.52.215.255 AS52800 NTTCOM Embratel Customer
+177.52.222.0 177.52.223.255 AS52834 RADB OptiTel Customers
+177.52.240.0 177.52.243.255 AS262453 SCW Varanda Comunicacoes Ltda ME
+177.52.248.0 177.52.251.255 AS262454 SCW Rmontan Tecnologia Ltda
+177.53.0.0 177.53.15.255 AS52989 NTTCOM Embratel Customer
+177.53.16.0 177.53.23.255 AS52990 RADB Bloco de IpÂ´s cliente "Host/Nexus" criado pela equipe Durand do Brazil
+177.53.40.0 177.53.47.255 AS52807 BBOI G8 Networks
+177.53.64.0 177.53.67.255 AS262459 RADB Prefixo AS262459
+177.53.68.0 177.53.71.255 AS52803 NTTCOM Embratel Customer
+177.53.72.0 177.53.79.255 AS262460 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.53.88.0 177.53.91.255 AS262568 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.53.92.0 177.53.95.255 AS28604 RADB Globo Comunicacao e Participacoes unicast-2 CIDR
+177.53.96.0 177.53.103.255 AS262464 SCW TRIP INFORMaTICA LTDA
+177.53.104.0 177.53.107.255 AS52650 SCW G8 Networks
+177.53.108.0 177.53.111.255 AS262568 BBOI G8 Networks
+177.53.112.0 177.53.115.255 AS262465 SCW Masterradius Telecom Ltda EPP
+177.53.116.0 177.53.119.255 AS52804 NTTCOM Minas Mais Telecom
+177.53.120.0 177.53.123.255 AS262467 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1000 N. West St., Suite 1200 Wilmington, DE 19801 United States of America
+177.53.124.0 177.53.127.255 AS52810 RADB OptiTel Customers
+177.53.136.0 177.53.139.255 AS52665 SCW G8 Networks
+177.53.144.0 177.53.147.255 AS262468 TC Natel Telecom Ltda ME
+177.53.148.0 177.53.151.255 AS31863 RADB Dacentec 338881
+177.53.152.0 177.53.155.255 AS262471 SCW Unotel proxy route for AS262471
+177.53.156.0 177.53.159.255 AS28329 ALTDB Valdecir de Miranda-ME  AS262471 
+177.53.160.0 177.53.163.255 AS262472 NTTCOM Embratel Customer
+177.53.168.0 177.53.175.255 AS262474 NTTCOM Embratel Customer
+177.53.176.0 177.53.179.255 AS262475 NTTCOM Embratel Customer
+177.53.180.0 177.53.183.255 AS52832 SCW Petrox Comercial Ltda
+177.53.184.0 177.53.187.255 AS262476 TC PROVEDOR BRCENTRALNET LTDA
+177.53.188.0 177.53.188.255 AS262331 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.53.191.0 177.53.191.255 AS52867 NTTCOM Embratel Customer
+177.53.196.0 177.53.199.255 AS52833 NTTCOM Minas Mais Telecom
+177.53.204.0 177.53.207.255 AS262483 NTTCOM Embratel Customer
+177.53.216.0 177.53.223.255 AS52666 TC SERGIPEWEB PROVEDORES DE INTERNET LTDA
+177.53.224.0 177.53.231.255 AS53138 NTTCOM Embratel Customer
+177.53.232.0 177.53.235.255 AS52667 NTTCOM Embratel Customer
+177.53.236.0 177.53.239.255 AS263434 NTTCOM Embratel Customer
+177.53.240.0 177.53.247.255 AS262481 RADB OptiTel Customers
+177.54.0.0 177.54.15.255 AS262443 SCW Unotel proxy route for AS262443
+177.54.32.0 177.54.47.255 AS262889 SCW Softhouse Solucoes em Informatica
+177.54.64.0 177.54.79.255 AS28154 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.54.80.0 177.54.95.255 AS3223 RADB voxility.net
+177.54.104.0 177.54.111.255 AS52988 NTTCOM Embratel Customer
+177.54.112.0 177.54.127.255 AS53142 RADB Solicitado por Tetra para Friburgo. Sep 08 2014
+177.54.128.0 177.54.143.255 AS262456 NTTCOM Embratel Customer
+177.54.144.0 177.54.159.255 AS28666 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1000 N. West St., Suite 1200 Wilmington, DE 19801 United States of America
+177.54.160.0 177.54.191.255 AS52991 SCW Minas Mais Telecom
+177.54.224.0 177.54.239.255 AS262462 BBOI ARANET - IPv4 CIDR block
+177.54.240.0 177.54.243.255 AS266299 NTTCOM Embratel Customer
+177.54.244.0 177.54.244.255 AS262299 NTTCOM Embratel Customer
+177.54.245.0 177.54.246.255 AS266299 NTTCOM Embratel Customer
+177.54.247.0 177.54.255.255 AS262299 NTTCOM Embratel Customer
+177.55.0.0 177.55.31.255 AS11338 NTTCOM Embratel Customer
+177.55.48.0 177.55.63.255 AS262493 NTTCOM Embratel Customer
+177.55.64.0 177.55.79.255 AS262484 BBOI G8 Networks
+177.55.80.0 177.55.87.255 AS28591 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.55.88.0 177.55.95.255 AS263571 NTTCOM Embratel Customer
+177.55.176.0 177.55.191.255 AS262514 BBOI G8 Networks
+177.55.192.0 177.55.207.255 AS3223 RADB voxility.net
+177.55.208.0 177.55.223.255 AS262531 BBOI G8 Networks
+177.55.224.0 177.55.239.255 AS28656 BBOI G8 Networks
+177.55.240.0 177.55.242.255 AS3223 RADB voxility.net
+177.55.243.0 177.55.243.255 AS262532 TC VAS Freitas Servicos de Internet Ltda
+177.55.244.0 177.55.249.255 AS263311 TC Via Cast Solucoes em Telecomunicacoes Ltda
+177.55.250.0 177.55.250.255 AS262532 TC VAS Freitas Servicos de Internet Ltda
+177.55.251.0 177.55.255.255 AS3223 RADB voxility.net
+177.56.0.0 177.59.255.255 AS22085 NTTCOM Embratel Customer
+177.63.48.0 177.63.63.255 AS264409 RADB voxility.net
+177.64.0.0 177.64.191.255 AS53128 NTTCOM Embratel Customer
+177.64.192.0 177.64.223.255 AS28573 RADB America Movil Brasil
+177.64.224.0 177.64.231.255 AS53128 NTTCOM Embratel Customer
+177.64.232.0 177.64.236.255 AS28573 RADB America Movil Brasil
+177.64.237.0 177.64.237.255 AS53128 NTTCOM Embratel Customer
+177.64.238.0 177.64.245.255 AS28573 NTTCOM Embratel Customer
+177.64.246.0 177.64.246.255 AS53128 NTTCOM Embratel Customer
+177.64.247.0 177.64.251.255 AS28573 NTTCOM Embratel Customer
+177.64.252.0 177.64.252.255 AS53128 NTTCOM Embratel Customer
+177.64.253.0 177.64.254.255 AS28573 NTTCOM Embratel Customer
+177.64.255.0 177.65.30.255 AS53128 NTTCOM Embratel Customer
+177.65.31.0 177.65.31.255 AS28573 NTTCOM Embratel Customer
+177.65.32.0 177.65.95.255 AS53128 NTTCOM Embratel Customer
+177.65.96.0 177.65.119.255 AS28573 NTTCOM Embratel Customer
+177.65.120.0 177.65.131.255 AS53128 NTTCOM Embratel Customer
+177.65.132.0 177.65.135.255 AS28573 NTTCOM Embratel Customer
+177.65.136.0 177.65.139.255 AS53128 NTTCOM Embratel Customer
+177.65.140.0 177.65.155.255 AS28573 RADB America Movil Brasil
+177.65.156.0 177.65.179.255 AS53128 NTTCOM Embratel Customer
+177.65.180.0 177.65.183.255 AS28573 NTTCOM Embratel Customer
+177.65.184.0 177.65.187.255 AS53128 NTTCOM Embratel Customer
+177.65.188.0 177.65.191.255 AS28573 NTTCOM Embratel Customer
+177.65.192.0 177.65.199.255 AS53128 NTTCOM Embratel Customer
+177.65.200.0 177.65.223.255 AS28573 RADB America Movil Brasil
+177.65.224.0 177.65.255.255 AS53128 NTTCOM Embratel Customer
+177.66.0.0 177.66.4.255 AS262485 SCW SC RIO TELECOMUNICACOES E INFORMATICA LTDA
+177.66.5.0 177.66.5.255 AS52844 NTTCOM Embratel Customer
+177.66.6.0 177.66.6.255 AS52649 NTTCOM Embratel Customer
+177.66.7.0 177.66.7.255 AS52701 NTTCOM Embratel Customer
+177.66.8.0 177.66.15.255 AS262486 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS262486  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+177.66.16.0 177.66.23.255 AS262487 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.66.24.0 177.66.27.255 AS52841 SCW A A CAP COMERCIO E SERVICOS LTDA ME
+177.66.28.0 177.66.31.255 AS28283 RADB Prefixo AS263656
+177.66.32.0 177.66.39.255 AS52999 RADB STARTNET COMERCIO E SERVICOS DE INFORMATICA LTDA
+177.66.40.0 177.66.47.255 AS52843 RADB OptiTel Customers
+177.66.48.0 177.66.63.255 AS262488 NTTCOM Embratel Customer
+177.66.64.0 177.66.71.255 AS262489 NTTCOM Embratel Customer
+177.66.76.0 177.66.79.255 AS263658 RADB Solicitado por nuestro cliente VIPNET para RP NET. Abril 23 2014
+177.66.80.0 177.66.87.255 AS262490 RADB AS262490
+177.66.88.0 177.66.95.255 AS3223 RADB voxility.net
+177.66.96.0 177.66.99.255 AS262491 TC Saulo J. de Moura Borba ME
+177.66.100.0 177.66.103.255 AS52838 BBOI G8 Networks
+177.66.104.0 177.66.107.255 AS262492 NTTCOM Embratel Customer
+177.66.112.0 177.66.119.255 AS3223 RADB voxility.net
+177.66.120.0 177.66.123.255 AS262495 TC INOVE TELECOMUNICACOES LTDA ME
+177.66.124.0 177.66.125.255 AS52672 NTTCOM Embratel Customer
+177.66.126.0 177.66.127.255 AS40028 ALTDB SPD-177-66-126-0-23
+177.66.128.0 177.66.143.255 AS262496 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.66.144.0 177.66.147.255 AS53001 SCW GNet Telecom
+177.66.156.0 177.66.157.255 AS52652 NTTCOM Embratel Customer
+177.66.160.0 177.66.163.255 AS262500 BBOI G8 Networks
+177.66.164.0 177.66.167.255 AS52655 BBOI G8 Networks
+177.66.172.0 177.66.175.255 AS52659 RADB Solicitado por nuestro cliente datacorpore para Maralex 335 Servicos de Provedor na Internet. Marzo 26 2014
+177.66.176.0 177.66.179.255 AS28283 RADB Prefixo AS53002
+177.66.180.0 177.66.183.255 AS52675 RADB Bloco de IP's cliente "Cliente". Criado pela equipa Durand do Brazil
+177.66.184.0 177.66.191.255 AS262502 TC FLYLink Telecom
+177.66.196.0 177.66.199.255 AS52798 NTTCOM Embratel Customer
+177.66.200.0 177.66.203.255 AS264548 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.66.208.0 177.66.223.255 AS262504 NTTCOM Embratel Customer
+177.66.240.0 177.66.247.255 AS53005 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS53005  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.67.0.0 177.67.7.255 AS262509 RADB Solicitado por AVVIO para Conexao. Sep 15 2014.
+177.67.28.0 177.67.31.255 AS262324 BBOI G8 Networks
+177.67.32.0 177.67.39.255 AS262715 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS 262715
+177.67.40.0 177.67.47.255 AS52956 NTTCOM Embratel Customer
+177.67.52.0 177.67.55.255 AS52684 RADB OptiTel Customers
+177.67.56.0 177.67.59.255 AS28590 RADB Terremark-Proxy for Alog
+177.67.62.0 177.67.62.255 AS262536 NTTCOM Embratel Customer
+177.67.63.0 177.67.63.255 AS262477 NTTCOM Embratel Customer
+177.67.68.0 177.67.68.255 AS53012 NTTCOM Embratel Customer
+177.67.69.0 177.67.69.255 AS263556 SCW ESTALEIRO ENSEADA DO PARAGUACU SA
+177.67.70.0 177.67.70.255 AS262524 SCW COAMO AGROINDUSTRIAL COOPERATIVA
+177.67.71.0 177.67.71.255 AS262525 NTTCOM Embratel Customer
+177.67.80.0 177.67.81.255 AS28666 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+177.67.82.0 177.67.83.255 AS53013 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+177.67.84.0 177.67.86.255 AS28666 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+177.67.87.0 177.67.87.255 AS53013 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+177.67.88.0 177.67.91.255 AS52674 RADB voxility.net
+177.67.92.0 177.67.95.255 AS263435 RADB Solicitado por nuestro cliente Minas Mais para MAIS NET TECNOLOGIA INTEGRADA. abril 14 2014.
+177.67.96.0 177.67.111.255 AS262517 BBOI G8 Networks
+177.67.112.0 177.67.119.255 AS262518 SCW TRAY TECNOLOGIA LTDA
+177.67.120.0 177.67.127.255 AS263314 NTTCOM Ultrawave Transit Customer
+177.67.128.0 177.67.135.255 AS3223 RADB voxility.net
+177.67.136.0 177.67.143.255 AS52663 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.67.144.0 177.67.147.255 AS262521 TC pgf telecomunicacoes ltda
+177.67.152.0 177.67.153.255 AS53014 NTTCOM Embratel Customer
+177.67.156.0 177.67.159.255 AS52686 BBOI G8 Networks
+177.67.168.0 177.67.169.255 AS262528 RADB IBIG - RORAIMA
+177.67.170.0 177.67.171.255 AS30058 RADB 177.67.170.0/23
+177.67.172.0 177.67.175.255 AS52917 BBOI G8 Networks
+177.67.176.0 177.67.183.255 AS262523 BBOI G8 Networks
+177.67.192.0 177.67.199.255 AS262526 NTTCOM Embratel Customer
+177.67.200.0 177.67.207.255 AS52664 SCW IHNOVECOM TELECOMUNICACOES E SERVICOS LTDA
+177.67.208.0 177.67.215.255 AS262527 NTTCOM Embratel Customer
+177.67.232.0 177.67.239.255 AS52680 RADB Bloco de IPÂ´s cliente "Vesx/Blz" Criado pela Equipe Durand do Brazil
+177.67.248.0 177.67.248.255 AS262552 BBOI G8 Networks
+177.67.249.0 177.67.249.255 AS16685 RADB America Movil Brasil
+177.67.250.0 177.67.250.255 AS262556 NTTCOM Embratel Customer
+177.67.252.0 177.67.252.255 AS53028 SCW ATP TECNOLOGIA E PRODUTOS SA
+177.67.253.0 177.67.253.255 AS262583 RADB Terremark-Proxy for FIU-LAUREN
+177.67.254.0 177.67.254.255 AS262559 RADB America Movil Brasil
+177.67.255.0 177.67.255.255 AS53044 NTTCOM Embratel Customer
+177.69.0.0 177.69.255.255 AS16735 RADB auto-generated route object for 177.69.0.0/16
+177.70.0.0 177.70.31.255 AS28209 SCW Desenvolve Solucoes de Internet Ltda
+177.70.32.0 177.70.63.255 AS262533 RADB Universidade do Estado do ParÃ¡  UEPA 
+177.70.64.0 177.70.79.255 AS262544 RADB OptiTel Customers
+177.70.80.0 177.70.95.255 AS28241 SCW Unotel proxy route for AS28241
+177.70.96.0 177.70.125.255 AS3223 RADB This is a Voxility customer route-object which is being exported under this origin AS262545. This route object was created because no existing
+177.70.126.0 177.70.127.255 AS36351 REACH REACH  Customer Route 
+177.70.128.0 177.70.143.255 AS262547 NTTCOM Embratel Customer
+177.70.144.0 177.70.159.255 AS262813 NTTCOM Embratel Customer
+177.70.160.0 177.70.175.255 AS53019 TC infotec- serviÃ§os de provedor da internet ltda
+177.70.176.0 177.70.191.255 AS262681 NTTCOM Responsible: Klemenson Leal
+177.70.208.0 177.70.223.255 AS53217 BBOI G8 Networks
+177.70.224.0 177.70.239.255 AS28346 SCW IB TELECOMUNICACOES LTDA
+177.70.240.0 177.70.240.255 AS52780 NTTCOM Embratel Customer
+177.71.0.0 177.71.15.255 AS53131 SCW GB Informatica Ltda
+177.71.32.0 177.71.34.255 AS53022 NTTCOM Embratel Customer
+177.71.35.0 177.71.37.255 AS28328 NTTCOM Embratel Customer
+177.71.38.0 177.71.42.255 AS53022 NTTCOM Embratel Customer
+177.71.43.0 177.71.44.255 AS28328 NTTCOM Embratel Customer
+177.71.45.0 177.71.45.255 AS53022 NTTCOM Embratel Customer
+177.71.46.0 177.71.47.255 AS28328 NTTCOM Embratel Customer
+177.71.64.0 177.71.79.255 AS262561 NTTCOM BRIP IPv4 Network
+177.71.80.0 177.71.87.255 AS52749 RADB AS52749
+177.71.88.0 177.71.91.255 AS263604 RADB OptiTel Customers
+177.71.112.0 177.71.127.255 AS52750 SCW Fundacao Centros de Ref em Tecnologias Inovadoras
+177.71.128.0 177.71.255.255 AS16509 REACH REACH  Customer Route 
+177.72.0.0 177.72.3.255 AS262537 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.72.4.0 177.72.7.255 AS3223 RADB voxility.net
+177.72.8.0 177.72.15.255 AS52814 RADB Bloco de ips cliente "LM" criado pela equipe da Durand do Brazil
+177.72.20.0 177.72.23.255 AS262691 RADB Conecta Conecta - Sao Joao del Rei Ltda Sao Joao del Rei - MG - 36305-032 Brazil
+177.72.24.0 177.72.27.255 AS262539 NTTCOM Embratel Customer
+177.72.32.0 177.72.39.255 AS262540 TC Netwis Telecom
+177.72.40.0 177.72.47.255 AS52813 RADB OptiTel Customers
+177.72.56.0 177.72.63.255 AS52815 BBOI G8 Networks
+177.72.64.0 177.72.79.255 AS262542 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.72.80.0 177.72.87.255 AS262543 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.72.88.0 177.72.95.255 AS52822 NTTCOM Embratel Customer
+177.72.96.0 177.72.103.255 AS53015 SCW Redetell Tecnologia em Informatica Ltda
+177.72.104.0 177.72.111.255 AS52828 TC Netpal Telecom
+177.72.112.0 177.72.115.255 AS262558 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS262558  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.72.116.0 177.72.119.255 AS262546 TC NetCintra Telecomunicacoes Ltda
+177.72.120.0 177.72.127.255 AS53017 RADB Solicitado por nuestro cliente NIB para Rede novo Tempo. Mayo 08 2014.
+177.72.128.0 177.72.143.255 AS53018 SCW Viana Viana Comunicacao LTDAME
+177.72.160.0 177.72.163.255 AS262548 BBOI G8 Networks
+177.72.164.0 177.72.167.255 AS52827 TC OLA SERVICO DE ACESSO A INTERNET LTDA ME
+177.72.168.0 177.72.175.255 AS262550 NTTCOM Embratel Customer
+177.72.176.0 177.72.183.255 AS262549 NTTCOM Responsible: ROBERTO DOS SANTOS
+177.72.184.0 177.72.191.255 AS52829 RADB NEWLINE TELECOM
+177.72.192.0 177.72.195.255 AS262551 SCW CONSTANTINO TONINI LTDA ME
+177.72.196.0 177.72.199.255 AS52687 SCW Leni gomes Oberleander ME
+177.72.208.0 177.72.215.255 AS262554 RADB AS262554
+177.72.224.0 177.72.231.255 AS53023 RADB Prefixo AS53023
+177.72.239.0 177.72.239.255 AS200002 RIPE Route Object
+177.72.240.0 177.72.247.255 AS16509 REACH REACH  Customer Route 
+177.72.254.0 177.72.254.255 AS52857 RADB ITX-MUNDIVOX
+177.73.0.0 177.73.7.255 AS53184 RADB Prefixo AS53184
+177.73.8.0 177.73.15.255 AS52683 SCW HiperNET Servico de Comunicacao LTDA ME
+177.73.16.0 177.73.23.255 AS262562 BBOI G8 Networks
+177.73.24.0 177.73.31.255 AS52685 TC Conectnet TelecomunicaÃ§Ãµes Ltda.
+177.73.36.0 177.73.39.255 AS52694 TC N. A. INFORMATICA LTDA
+177.73.48.0 177.73.55.255 AS262565 BBOI G8 Networks
+177.73.56.0 177.73.59.255 AS263071 NTTCOM Embratel Customer
+177.73.60.0 177.73.63.255 AS263468 TC Rapnet Comunicacao Multimidia Ltda
+177.73.68.0 177.73.71.255 AS52698 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.73.72.0 177.73.75.255 AS262566 BBOI G8 Networks
+177.73.84.0 177.73.87.255 AS52700 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.73.88.0 177.73.91.255 AS262568 BBOI G8 Networks
+177.73.92.0 177.73.95.255 AS52704 NTTCOM Embratel Customer
+177.73.108.0 177.73.111.255 AS263471 BBOI G8 Networks
+177.73.112.0 177.73.119.255 AS262569 TC MGNET INFORMATICA E SERVICOS LTDA
+177.73.120.0 177.73.123.255 AS52689 RADB voxility.net
+177.73.124.0 177.73.127.255 AS263502 NTTCOM Embratel Customer
+177.73.136.0 177.73.139.255 AS3223 RADB voxility.net
+177.73.145.0 177.73.147.255 AS262570 NTTCOM Embratel Customer
+177.73.168.0 177.73.175.255 AS52695 NTTCOM Embratel Customer
+177.73.176.0 177.73.183.255 AS28593 RADB Terremark-Proxy for Applied Systems
+177.73.184.0 177.73.187.255 AS262759 RADB OptiTel Customers
+177.73.188.0 177.73.191.255 AS263503 RADB OptiTel Customers
+177.73.192.0 177.73.199.255 AS53036 SCW Minas World Informatica Ltda
+177.73.200.0 177.73.207.255 AS262773 NTTCOM Responsible: Leonardo de Lima Gomes Filho
+177.73.208.0 177.73.215.255 AS262573 RADB Solicitado por IPE para Gilmar Dos Santos. nov 15 2014
+177.73.216.0 177.73.223.255 AS52707 BBOI G8 Networks
+177.73.228.0 177.73.231.255 AS52712 NTTCOM Embratel Customer
+177.73.232.0 177.73.239.255 AS53038 TC WDI SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA
+177.73.240.0 177.73.247.255 AS28173 NTTCOM Prefixo Dinamica
+177.73.248.0 177.73.251.255 AS262558 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS262558  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.73.252.0 177.73.252.255 AS52713 NTTCOM Embratel Customer
+177.73.254.0 177.73.255.255 AS52725 NTTCOM Embratel Customer
+177.74.0.0 177.74.63.255 AS53016 NTTCOM Embratel Customer
+177.74.64.0 177.74.79.255 AS262316 NTTCOM Embratel Customer
+177.74.80.0 177.74.95.255 AS24239 RADB CAT route object for CAT Telecom
+177.74.120.0 177.74.127.255 AS53184 RADB Prefixo AS53184
+177.74.144.0 177.74.147.255 AS28283 RADB Prefixo AS263649
+177.74.148.0 177.74.151.255 AS262376 BBOI G8 Networks
+177.74.152.0 177.74.159.255 AS263650 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.74.160.0 177.74.175.255 AS262279 RADB Solicitado por nuestro cliente datacorpore para Agencia na Web Sistemas. Marzo 26 2014
+177.74.176.0 177.74.179.255 AS263651 TC RVNeT - V. Montoro & Cia Ltda
+177.74.192.0 177.74.207.255 AS28282 BBOI G8 Networks
+177.74.224.0 177.74.239.255 AS28268 BBOI G8 Networks
+177.74.240.0 177.74.255.255 AS263653 RADB OptiTel Customers
+177.75.0.0 177.75.15.255 AS28178 BBOI G8 Networks
+177.75.16.0 177.75.23.255 AS52812 RADB WRLINK TELECOM
+177.75.24.0 177.75.31.255 AS263647 BBOI G8 Networks
+177.75.48.0 177.75.55.255 AS262880 NTTCOM G8 Networks
+177.75.56.0 177.75.63.255 AS262588 BBOI G8 Networks
+177.75.64.0 177.75.79.255 AS53087 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS53087  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.75.80.0 177.75.95.255 AS262544 RADB OptiTel Customers
+177.75.112.0 177.75.127.255 AS52819 RADB AS52819
+177.75.128.0 177.75.159.255 AS28146 TC MHNET TELECOM
+177.75.160.0 177.75.175.255 AS3223 RADB voxility.net
+177.75.224.0 177.75.227.255 AS262598 SCW Minas Mais Telecom
+177.75.228.0 177.75.231.255 AS28268 RADB Solicitado por Link Sol. Sep 17 2014
+177.75.232.0 177.75.239.255 AS262598 BBOI G8 Networks
+177.75.240.0 177.75.255.255 AS262601 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS262601  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+177.80.0.0 177.83.255.255 AS28573 NTTCOM Embratel Customer
+177.84.0.0 177.84.15.255 AS262575 RADB OptiTel Customers
+177.84.16.0 177.84.19.255 AS262576 BBOI G8 Networks
+177.84.20.0 177.84.23.255 AS52715 RADB Solicitado por Vegas Telecom para SCORPION TELECOMUNICAÃÃO. Oct 23 2014
+177.84.32.0 177.84.39.255 AS262578 RADB EasyEmbranet
+177.84.40.0 177.84.43.255 AS52708 BBOI G8 Networks
+177.84.48.0 177.84.55.255 AS262579 RADB Terremark-Proxy for Alog
+177.84.56.0 177.84.59.255 AS52709 RADB AS52709
+177.84.76.0 177.84.79.255 AS263534 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.84.80.0 177.84.87.255 AS262581 RADB AS262581
+177.84.96.0 177.84.103.255 AS262582 NTTCOM Embratel Customer
+177.84.108.0 177.84.111.255 AS52721 NTTCOM Embratel Customer
+177.84.120.0 177.84.127.255 AS52718 RADB AS52718
+177.84.128.0 177.84.131.255 AS262586 BBOI G8 Networks
+177.84.136.0 177.84.139.255 AS262591 SCW F B COMUNICACAO MULTIMIDIA LTDA
+177.84.144.0 177.84.151.255 AS262587 SCW Maicon Marques Cerentini
+177.84.152.0 177.84.155.255 AS28198 NTTCOM Minas Mais Telecom
+177.84.156.0 177.84.159.255 AS263551 RADB OptiTel Customers
+177.84.160.0 177.84.167.255 AS262589 RADB Prefijo de internexa Brasil
+177.84.168.0 177.84.175.255 AS52727 RADB OptiTel Customers
+177.84.192.0 177.84.199.255 AS262590 TC NET ON LINE LTDA ME
+177.84.201.0 177.84.201.255 AS52740 NTTCOM Embratel Customer
+177.84.216.0 177.84.223.255 AS52729 RADB AS52729
+177.84.224.0 177.84.227.255 AS262593 NTTCOM Embratel Customer
+177.84.228.0 177.84.231.255 AS52728 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.84.232.0 177.84.235.255 AS28283 RADB Prefix for AS262605
+177.84.236.0 177.84.239.255 AS52730 SCW G8 Networks
+177.85.0.0 177.85.7.255 AS262595 BBOI G8 Networks
+177.85.8.0 177.85.15.255 AS52732 SCW N F DA SILVA
+177.85.16.0 177.85.23.255 AS53043 SCW NET VALE LTDA
+177.85.24.0 177.85.31.255 AS52734 RADB OptiTel Customers
+177.85.32.0 177.85.39.255 AS262597 NTTCOM Embratel Customer
+177.85.44.0 177.85.47.255 AS263296 RADB Solicitado por nuestro cliente S&M Informatica. julio 1 2014.
+177.85.48.0 177.85.55.255 AS3223 RADB voxility.net
+177.85.56.0 177.85.63.255 AS52737 RADB OptiTel Customers
+177.85.64.0 177.85.71.255 AS262600 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS262600  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+177.85.72.0 177.85.75.255 AS52739 TC PROVEDOR INTERSOUSA LTDA
+177.85.76.0 177.85.79.255 AS28173 NTTCOM Prefixo Dinamica
+177.85.80.0 177.85.87.255 AS262602 SCW G8 Networks
+177.85.88.0 177.85.91.255 AS262748 TC NetJat Provedor de Acesso a Internet
+177.85.92.0 177.85.95.255 AS61902 SCW G8 Networks
+177.85.96.0 177.85.96.255 AS51167 RIPE Homehost.com.br
+177.85.101.0 177.85.103.255 AS51167 RIPE Homehost.com.br
+177.85.104.0 177.85.111.255 AS52741 TC Macedo e Castro InformÃ¡tica LTDA
+177.85.112.0 177.85.119.255 AS262607 RADB OptiTel Customers
+177.85.128.0 177.85.135.255 AS262608 SCW Vapt Solucoes Tecnologias Ltda
+177.85.144.0 177.85.151.255 AS53045 NTTCOM Minas Mais Telecom
+177.85.152.0 177.85.153.255 AS52552 NTTCOM Embratel Customer
+177.85.155.0 177.85.155.255 AS52569 SCW Tribunal Regional do Trabalho da 2 Regiao
+177.85.156.0 177.85.156.255 AS52564 NTTCOM Embratel Customer
+177.85.158.0 177.85.159.255 AS52564 NTTCOM Embratel Customer
+177.85.160.0 177.85.163.255 AS40028 ALTDB SPD-177-85-160-0-22
+177.85.164.0 177.85.167.255 AS28198 BBOI G8 Networks
+177.85.172.0 177.85.175.255 AS52746 SCW Primanet Informatica LTDA
+177.85.188.0 177.85.191.255 AS52558 BBOI G8 Networks
+177.85.192.0 177.85.199.255 AS262612 BBOI G8 Networks
+177.85.200.0 177.85.207.255 AS52554 NTTCOM Responsible: Sergio Alvares da Silva Junior
+177.85.224.0 177.85.227.255 AS262616 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.85.228.0 177.85.231.255 AS53213 RADB Solicitado por nuestro cliente NIB para Negrisolo. Mayo 08 2014
+177.85.232.0 177.85.235.255 AS262617 SCW UWBR Telecomunicacoes Ltda
+177.85.236.0 177.85.237.255 AS262515 NTTCOM Embratel Customer
+177.85.238.0 177.85.238.255 AS52791 BBOI G8 Networks
+177.85.240.0 177.85.247.255 AS52849 SCW RITA DE KASSIA PARENTE ALVES SOUSA ME
+177.86.0.0 177.86.7.255 AS262619 NTTCOM Embratel Customer
+177.86.24.0 177.86.27.255 AS52566 SCW SISALWEB INTERNET
+177.86.28.0 177.86.31.255 AS262492 NTTCOM Embratel Customer
+177.86.32.0 177.86.35.255 AS262621 SCW LIMA VICENTE Diversoes Eletronicas LTDA
+177.86.36.0 177.86.39.255 AS52549 BBOI G8 Networks
+177.86.40.0 177.86.43.255 AS262622 NTTCOM Embratel Customer
+177.86.44.0 177.86.47.255 AS52550 RADB Solicitado por nuestro cliente datacorpore para ALQG TECNOLOGIA LTDA. Marzo 26 2014
+177.86.48.0 177.86.55.255 AS28141 RADB Descr: This route object is for a IFX Networks customer route which is being exported under this origin AS 28141
+177.86.56.0 177.86.63.255 AS52567 RADB ITX-K2TELECOM
+177.86.72.0 177.86.72.255 AS262627 BBOI G8 Networks
+177.86.73.0 177.86.74.255 AS28329 ALTDB Proxy object for SPIN
+177.86.75.0 177.86.75.255 AS262627 BBOI G8 Networks
+177.86.80.0 177.86.87.255 AS262625 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.86.88.0 177.86.95.255 AS52568 SCW B S COMERCIO E SERVICOS LTDA
+177.86.104.0 177.86.111.255 AS262903 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.86.112.0 177.86.115.255 AS262628 NTTCOM Embratel Customer
+177.86.116.0 177.86.119.255 AS52570 RADB OptiTel Customers
+177.86.120.0 177.86.121.255 AS52852 SCW Icatel Servicos de Telecomunicacoes
+177.86.122.0 177.86.123.255 AS265241 RADB Data Fibra Telecom
+177.86.126.0 177.86.127.255 AS52571 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS52571  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+177.86.136.0 177.86.139.255 AS262636 RADB OptiTel Customers
+177.86.141.0 177.86.141.255 AS52582 NTTCOM Embratel Customer
+177.86.142.0 177.86.142.255 AS52585 SCW Dismobras Imp Exp Distr de Moveis e Eletr SA
+177.86.143.0 177.86.143.255 AS52608 BBOI G8 Networks
+177.86.144.0 177.86.151.255 AS262631 TC ILIG TELECOM LTDA
+177.86.152.0 177.86.155.255 AS52572 TC Easy Call SCM do Brasil LTDA
+177.86.156.0 177.86.159.255 AS263324 TC Net&Com ServiÃ§os de InformÃ¡tica e TelecomunicaÃ§Ãµes
+177.86.176.0 177.86.183.255 AS262634 SCW lemos e morais ltda
+177.86.192.0 177.86.199.255 AS262635 TC MKVEX LTDA ME
+177.86.200.0 177.86.201.255 AS52576 NTTCOM Minas Mais Telecom
+177.86.202.0 177.86.203.255 AS28198 BBOI G8 Networks
+177.86.204.0 177.86.207.255 AS52576 SCW Minas Mais Telecom
+177.86.236.0 177.86.239.255 AS263377 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.86.244.0 177.86.247.255 AS52584 TC CONNECT PROVEDOR
+177.86.248.0 177.86.251.255 AS262644 NTTCOM Minas Mais Telecom
+177.86.252.0 177.86.255.255 AS52586 RADB America Movil Brasil
+177.87.0.0 177.87.7.255 AS262642 RADB Terremark-Proxy for Alog
+177.87.12.0 177.87.15.255 AS263383 TC L GONZAGA JUNIOR SERVICOS DE INTERNET - ME
+177.87.16.0 177.87.23.255 AS53171 BBOI G8 Networks
+177.87.32.0 177.87.35.255 AS53184 RADB Prefixo AS53184
+177.87.40.0 177.87.43.255 AS28329 ALTDB Proxy object for SPIN
+177.87.44.0 177.87.47.255 AS3223 RADB voxility.net
+177.87.48.0 177.87.51.255 AS28238 RADB Terremark-Proxy for Alog
+177.87.52.0 177.87.55.255 AS262432 NTTCOM G8 Networks
+177.87.56.0 177.87.63.255 AS262648 NTTCOM Embratel Customer
+177.87.64.0 177.87.67.255 AS52858 BBOI G8 Networks
+177.87.92.0 177.87.95.255 AS52592 SCW G8 Networks
+177.87.100.0 177.87.101.255 AS262655 NTTCOM Embratel Customer
+177.87.103.0 177.87.103.255 AS263095 NTTCOM Embratel Customer
+177.87.104.0 177.87.107.255 AS262300 SCW AFONSO LUIZ TENORIO FREITAS MELRO ME
+177.87.112.0 177.87.119.255 AS262301 SCW Wirelessconection Serv Telecomunicacoes Ltda
+177.87.120.0 177.87.123.255 AS53211 RADB ISPRJ
+177.87.124.0 177.87.127.255 AS263385 RADB AS263385
+177.87.136.0 177.87.143.255 AS262303 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.87.152.0 177.87.155.255 AS52579 NTTCOM Embratel Customer
+177.87.160.0 177.87.167.255 AS262304 NTTCOM Minas Mais Telecom
+177.87.176.0 177.87.179.255 AS262306 NTTCOM Embratel Customer
+177.87.184.0 177.87.187.255 AS28283 RADB Prefix for AS262308
+177.87.188.0 177.87.191.255 AS262308 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.87.192.0 177.87.199.255 AS262307 RADB OptiTel Customers
+177.87.204.0 177.87.207.255 AS262691 RADB Conecta Conecta - Sao Joao del Rei Ltda Sao Joao del Rei - MG - 36305-032 Brazil
+177.87.208.0 177.87.215.255 AS52860 NTTCOM Minas Mais Telecom
+177.87.216.0 177.87.223.255 AS52590 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.87.224.0 177.87.231.255 AS262309 RADB OptiTel Customers
+177.87.236.0 177.87.239.255 AS61905 TC A K DE SOUZA MARINHO ME
+177.89.0.0 177.89.255.255 AS28220 ALTDB Cabo Telecom / Natal-RN - BRasil
+177.91.0.0 177.91.3.255 AS263679 RADB Solicitado por nuestro cliente datacorpore para Servidor na Web Data Center. Marzo 26 2014
+177.91.4.0 177.91.7.255 AS61896 RADB Systemsat
+177.91.8.0 177.91.11.255 AS61897 RADB OptiTel Customers
+177.91.12.0 177.91.15.255 AS61898 SCW Foco Servicoes de Telecomunicacoes Ltda Me
+177.91.16.0 177.91.31.255 AS61895 RADB Bloco de IPÂ´s cliente "Cliente" criado pela equipe Durand do Brazil
+177.91.32.0 177.91.35.255 AS263424 NTTCOM Embratel Customer
+177.91.37.0 177.91.37.255 AS263428 BBOI G8 Networks
+177.91.39.0 177.91.39.255 AS263488 NTTCOM Embratel Customer
+177.91.48.0 177.91.51.255 AS263429 RADB OptiTel Customers
+177.91.52.0 177.91.55.255 AS263430 NTTCOM Embratel Customer
+177.91.64.0 177.91.67.255 AS263431 RADB Solicitado por S.O: do Brasil para Sulnet. Ago 11 2014
+177.91.68.0 177.91.71.255 AS61899 NTTCOM Embratel Customer
+177.91.72.0 177.91.79.255 AS263432 BBOI G8 Networks
+177.91.80.0 177.91.87.255 AS263433 SCW G8 Networks
+177.91.96.0 177.91.111.255 AS263436 SCW G8 Networks
+177.91.112.0 177.91.115.255 AS263439 TC Saber InformÃ¡tica LTDA
+177.91.128.0 177.91.131.255 AS263441 RADB Prefixo AS263441
+177.91.160.0 177.91.163.255 AS263444 TC Open X Tecnologia Ltda
+177.91.164.0 177.91.167.255 AS263445 TC SEM LIMITE COMUNICACOES LTDA ME
+177.91.172.0 177.91.175.255 AS262355 BBOI G8 Networks
+177.91.192.0 177.91.223.255 AS52945 NTTCOM Embratel Customer
+177.91.232.0 177.91.235.255 AS263450 NTTCOM Embratel Customer
+177.91.236.0 177.91.239.255 AS263454 NTTCOM Embratel Customer
+177.91.240.0 177.91.247.255 AS263449 RADB Bloco de ip's cliente "Netell" criado pela equipe Durand do Brazil
+177.92.0.0 177.92.63.255 AS14868 ALTDB COPEL Telecomunicacoes S.A. Curitiba - Parana- Brazil +55-41-3230-9257
+177.92.64.0 177.92.95.255 AS17222 RADB ITX-MUNDIVOX
+177.92.136.0 177.92.143.255 AS263124 BBOI G8 Networks
+177.92.160.0 177.92.163.255 AS263117 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.92.176.0 177.92.183.255 AS52573 SCW G8 Networks
+177.92.184.0 177.92.191.255 AS263126 NTTCOM Embratel Customer
+177.92.192.0 177.92.207.255 AS262729 RADB Solicitado por nuestro cliente CILNET para Telemidia. jul 17 2014
+177.93.64.0 177.93.71.255 AS263137 BBOI G8 Networks
+177.93.88.0 177.93.91.255 AS28173 NTTCOM Prefixo Dinamica
+177.93.92.0 177.93.95.255 AS262582 NTTCOM Embratel Customer
+177.93.104.0 177.93.111.255 AS25761 RADB Staminus Communications Proxy route object for downstream customer  AS53107 
+177.93.112.0 177.93.119.255 AS52928 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.93.120.0 177.93.127.255 AS53046 TC UNIVERSIDADE ESTADUAL DE PONTA GROSSA
+177.93.128.0 177.93.143.255 AS28366 RADB Marinter Telecom
+177.93.144.0 177.93.151.255 AS52861 RADB OptiTel Customers
+177.93.160.0 177.93.167.255 AS263159 RADB Solicitado por nuestro cliente Transit para BR Turbo. Mayo 27 2014.
+177.93.168.0 177.93.175.255 AS263154 NTTCOM Embratel Customer
+177.93.184.0 177.93.187.255 AS263254 RADB Prefixo AS263254
+177.93.188.0 177.93.191.255 AS263166 RADB Solicitado por nuestro cliente IPE Informatica para Murback Muchelin. Junio 03 2014
+177.93.224.0 177.93.239.255 AS28663 RADB Rota Cliente AS28663 Criado por Durand
+177.93.240.0 177.93.247.255 AS52828 TC Netpal Telecom
+177.96.0.0 177.99.203.255 AS3223 RADB voxility.net
+177.99.204.0 177.99.204.255 AS18881 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS18881  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.99.205.0 177.99.255.255 AS3223 RADB voxility.net
+177.100.0.0 177.100.143.255 AS28281 RADB OptiTel Customers
+177.100.144.0 177.100.151.255 AS28573 NTTCOM Embratel Customer
+177.100.152.0 177.100.247.255 AS28281 NTTCOM Embratel Customer
+177.100.248.0 177.100.255.255 AS28573 NTTCOM Embratel Customer
+177.101.0.0 177.101.0.255 AS262604 RADB Terremark-Proxy for Alog
+177.101.1.0 177.101.1.255 AS3223 RADB voxility.net
+177.101.2.0 177.101.3.255 AS262604 RADB Terremark-Proxy for Alog
+177.101.4.0 177.101.5.255 AS3223 RADB voxility.net
+177.101.6.0 177.101.10.255 AS262604 RADB Terremark-Proxy for Alog
+177.101.11.0 177.101.13.255 AS3223 RADB voxility.net
+177.101.14.0 177.101.14.255 AS262604 RADB Terremark-Proxy for Alog
+177.101.15.0 177.101.15.255 AS3223 RADB voxility.net
+177.101.16.0 177.101.31.255 AS53046 SCW UNIVERSIDADE ESTADUAL DE PONTA GROSSA
+177.101.32.0 177.101.47.255 AS262606 BBOI G8 Networks
+177.101.48.0 177.101.63.255 AS53131 SCW GB Informatica Ltda
+177.101.64.0 177.101.79.255 AS262610 SCW INTERall Informatica Ltda
+177.101.80.0 177.101.95.255 AS28173 NTTCOM Prefixo Dinamica
+177.101.96.0 177.101.127.255 AS28343 SCW TPA INFORMATICA LTDA
+177.101.140.0 177.101.143.255 AS28158 NTTCOM Embratel Customer
+177.101.144.0 177.101.159.255 AS262790 SCW CentralServer Informatica LTDA
+177.101.160.0 177.101.175.255 AS262615 SCW Locadora Nascimento LTDA
+177.101.176.0 177.101.191.255 AS262668 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS262668  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.101.192.0 177.101.223.255 AS25933 SCW SouthTech Telecom IPv4 Block
+177.104.0.0 177.104.15.255 AS3223 RADB voxility.net
+177.104.32.0 177.104.63.255 AS262742 RADB Terremark-Proxy for LAUREN
+177.104.64.0 177.104.95.255 AS28258 NTTCOM Embratel Customer
+177.104.96.0 177.104.111.255 AS53053 TC Bom Tempo InformÃ¡tica Ltda
+177.104.112.0 177.104.127.255 AS263655 TC TNET WIRELESS E INFORMA769TICA
+177.104.128.0 177.104.191.255 AS28640 BBOI G8 Networks
+177.104.192.0 177.104.207.255 AS262632 SCW J W MATEUS INFORMATICA ME
+177.104.208.0 177.104.223.255 AS262638 SCW Minas Mais Telecom
+177.104.224.0 177.104.227.255 AS28173 NTTCOM Prefixo Dinamica
+177.104.228.0 177.104.239.255 AS52972 NTTCOM Embratel Customer
+177.104.240.0 177.104.255.255 AS52657 BBOI G8 Networks
+177.105.0.0 177.105.63.255 AS52853 RADB UFLA-IPv4-NETWORK
+177.105.64.0 177.105.79.255 AS262637 TC NETPRIMUS TECNOLOGIA LTDA
+177.105.112.0 177.105.127.255 AS262643 RADB Rota Cliente AS262643 Criado por Durand
+177.105.144.0 177.105.159.255 AS262462 TC ARANET COMUNICAÃÃO LTDA
+177.105.176.0 177.105.191.255 AS262354 RADB Terremark-Proxy for Alog
+177.105.192.0 177.105.207.255 AS262651 NTTCOM Embratel Customer
+177.105.208.0 177.105.223.255 AS262653 NTTCOM Embratel Customer
+177.105.224.0 177.105.239.255 AS262313 NTTCOM Embratel Customer
+177.105.240.0 177.105.255.255 AS262314 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.106.0.0 177.106.255.255 AS53006 RADB auto-generated route object for 177.106.0.0/16
+177.107.0.0 177.107.15.255 AS262730 BBOI G8 Networks
+177.107.16.0 177.107.31.255 AS52690 NTTCOM Embratel Customer
+177.107.32.0 177.107.63.255 AS28329 BBOI G8 Networks
+177.107.80.0 177.107.95.255 AS52697 BBOI G8 Networks
+177.107.96.0 177.107.111.255 AS262323 NTTCOM Embratel Customer
+177.107.112.0 177.107.127.255 AS53065 SCW OpcaoNet Informatica Ltda ME
+177.107.128.0 177.107.159.255 AS28268 BBOI G8 Networks
+177.107.160.0 177.107.175.255 AS53137 SCW TCA INFORMATICA LTDA
+177.107.176.0 177.107.191.255 AS262476 TC PROVEDOR BRCENTRALNET LTDA
+177.107.192.0 177.107.207.255 AS262329 TC HIT TelecomunicaÃ§Ãµes Ltda.
+177.107.208.0 177.107.215.255 AS53101 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS53101  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.107.216.0 177.107.223.255 AS263506 NTTCOM Embratel Customer
+177.107.224.0 177.107.255.255 AS28658 BBOI G8 Networks
+177.108.0.0 177.111.255.255 AS26615 RADB TIM Celular S.A.
+177.120.0.0 177.123.255.255 AS26615 RADB TIM Celular S.A.
+177.124.0.0 177.124.7.255 AS262311 RADB OptiTel Customers
+177.124.16.0 177.124.19.255 AS262312 TC VEX TELECOM SERVI=C7OS DE TELECOMUNICA=C7=C3O LTDA
+177.124.20.0 177.124.23.255 AS52612 TC ALT INFORMATICA LTDA
+177.124.24.0 177.124.27.255 AS262315 SCW ROALNET SOLUCOES WEB LTDA
+177.124.32.0 177.124.39.255 AS52861 RADB OptiTel Customers
+177.124.40.0 177.124.47.255 AS52599 RADB bloco de ips cliente "aRede" criado pela equipe Durand do Brazil
+177.124.48.0 177.124.51.255 AS262316 NTTCOM Embratel Customer
+177.124.56.0 177.124.63.255 AS262318 SCW Horizons Telecomunicacoes e Tecnologia Ltda
+177.124.72.0 177.124.79.255 AS52601 BBOI G8 Networks
+177.124.80.0 177.124.87.255 AS262319 BBOI G8 Networks
+177.124.96.0 177.124.99.255 AS262320 RADB OptiTel Customers
+177.124.100.0 177.124.103.255 AS52617 NTTCOM Responsible: GILVAN SANTANA
+177.124.108.0 177.124.109.255 AS52619 NTTCOM Embratel Customer
+177.124.110.0 177.124.110.255 AS52620 SCW BRASIL NORTE BEBIDAS LTDA
+177.124.120.0 177.124.127.255 AS52604 SCW V NET INTERNET BANDA LARGA
+177.124.128.0 177.124.129.255 AS52863 RADB UPX Technologies infrastructure
+177.124.130.0 177.124.130.255 AS32632 RADB UPX Infrastructure by partners
+177.124.131.0 177.124.131.255 AS174 RADB UPX Technologies infrastructure delivered by partners.
+177.124.136.0 177.124.139.255 AS262324 BBOI G8 Networks
+177.124.140.0 177.124.143.255 AS52624 TC EDSON MARTINS PROVEDOR LTDA ME
+177.124.144.0 177.124.147.255 AS262325 TC Oyama Bahia da Silva
+177.124.148.0 177.124.151.255 AS52625 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS 52625
+177.124.160.0 177.124.163.255 AS52872 BBOI G8 Networks
+177.124.168.0 177.124.171.255 AS262327 TC High Tech Informatica Ltda
+177.124.184.0 177.124.187.255 AS52865 NTTCOM Embratel Customer
+177.124.188.0 177.124.191.255 AS52634 SCW BRNet Telecomunicacoes Ltda
+177.124.192.0 177.124.255.255 AS17222 RADB ITX-MUNDIVOX
+177.125.8.0 177.125.15.255 AS52605 RADB PGI SERVICOS DE TELECOMUNICACOES
+177.125.20.0 177.125.23.255 AS52635 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.125.24.0 177.125.27.255 AS52866 SCW WHS Telecom Serv em Telecomunicoes Ltda
+177.125.28.0 177.125.31.255 AS52654 NTTCOM Embratel Customer
+177.125.44.0 177.125.47.255 AS263619 NTTCOM Embratel Customer
+177.125.56.0 177.125.59.255 AS52607 RADB OptiTel Customers
+177.125.64.0 177.125.71.255 AS262335 RADB America Movil Brasil
+177.125.72.0 177.125.79.255 AS52766 SCW M3GANET TELECOMUNICACOES LTDA ME
+177.125.80.0 177.125.95.255 AS262336 NTTCOM Embratel Customer
+177.125.96.0 177.125.99.255 AS262340 SCW G8 Networks
+177.125.100.0 177.125.101.255 AS52628 RADB America Movil Brasil
+177.125.102.0 177.125.102.255 AS52645 NTTCOM Embratel Customer
+177.125.103.0 177.125.103.255 AS28356 RADB America Movil Brasil
+177.125.104.0 177.125.107.255 AS262341 RADB OptiTel Customers
+177.125.112.0 177.125.119.255 AS262342 SCW G8 Networks
+177.125.124.0 177.125.127.255 AS263395 SCW TINASNET SERVICOS E ACESSOS A INTERNET LTDA
+177.125.128.0 177.125.131.255 AS262344 RADB Solicitado por nuestro cliente ROSINETE. Sep 15 2014
+177.125.136.0 177.125.139.255 AS3223 RADB voxility.net
+177.125.140.0 177.125.141.255 AS52646 NTTCOM Embratel Customer
+177.125.152.0 177.125.159.255 AS262394 NTTCOM Embratel Customer
+177.125.162.0 177.125.165.255 AS262346 BBOI G8 Networks
+177.125.168.0 177.125.175.255 AS52613 SCW G8 Networks
+177.125.180.0 177.125.180.255 AS263122 NTTCOM Embratel Customer
+177.125.181.0 177.125.181.255 AS262358 NTTCOM Embratel Customer
+177.125.192.0 177.125.195.255 AS262351 NTTCOM Embratel Customer
+177.125.208.0 177.125.215.255 AS262354 TC Ligue TelecomunicaÃ§Ãµes Ltda
+177.125.216.0 177.125.219.255 AS262355 BBOI G8 Networks
+177.125.232.0 177.125.239.255 AS3223 RADB voxility.net
+177.125.240.0 177.125.247.255 AS262360 RADB OptiTel Customers
+177.125.248.0 177.125.251.255 AS52858 BBOI G8 Networks
+177.126.0.0 177.126.15.255 AS22381 SCW Megatelecom Telecomunicacoes Ltda
+177.126.16.0 177.126.31.255 AS52706 RADB OptiTel Customers
+177.126.64.0 177.126.79.255 AS262338 NTTCOM Embratel Customer
+177.126.80.0 177.126.95.255 AS262352 BBOI G8 Networks
+177.126.96.0 177.126.96.255 AS3223 RADB voxility.net
+177.126.97.0 177.126.111.255 AS28303 RADB OptiTel Ltda
+177.126.112.0 177.126.127.255 AS52720 SCW WEBFOCO TELECOMUNICACOES LTDA
+177.126.144.0 177.126.151.255 AS52714 NTTCOM Embratel Customer
+177.126.160.0 177.126.191.255 AS16397 SCW Alog Datacenters do Brasil
+177.126.192.0 177.126.207.255 AS3223 RADB voxility.net
+177.126.208.0 177.126.215.255 AS52717 BBOI G8 Networks
+177.126.216.0 177.126.223.255 AS263522 TC ANA ALICE NAZARIO DE OLIVEIRA - ME
+177.126.224.0 177.126.239.255 AS262680 TC CITY SHOP NET LTDA
+177.127.0.0 177.127.255.255 AS28281 RADB OptiTel Customers
+177.128.0.0 177.128.7.255 AS3223 RADB voxility.net
+177.128.16.0 177.128.23.255 AS262362 BBOI G8 Networks
+177.128.24.0 177.128.31.255 AS52631 BBOI G8 Networks
+177.128.40.0 177.128.43.255 AS262367 RADB WEST
+177.128.44.0 177.128.47.255 AS28283 RADB Prefix for AS262605
+177.128.48.0 177.128.55.255 AS52868 RADB Terremark-Proxy for Alog
+177.128.56.0 177.128.63.255 AS52638 SCW RV Provedor de Internet Ltda ME
+177.128.64.0 177.128.71.255 AS52869 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.128.80.0 177.128.87.255 AS262365 NTTCOM Embratel Customer
+177.128.88.0 177.128.95.255 AS262805 RADB This is a Voxility customer route-object which is being exported under this origin AS262805 This route object was created because no existing route object with the same origin was found. Please contact noc@voxility.com if you have any questions regarding this object.
+177.128.96.0 177.128.103.255 AS262368 RADB Terremark-Proxy for ALOG
+177.128.104.0 177.128.111.255 AS262385 BBOI G8 Networks
+177.128.112.0 177.128.115.255 AS262370 SCW Othos Telecomunicacoes Ltda
+177.128.116.0 177.128.116.255 AS28148 NTTCOM Embratel Customer
+177.128.117.0 177.128.117.255 AS28253 NTTCOM Embratel Customer
+177.128.118.0 177.128.119.255 AS28196 NTTCOM Embratel Customer
+177.128.120.0 177.128.123.255 AS52870 NTTCOM Embratel Customer
+177.128.124.0 177.128.127.255 AS28217 SCW SIM CONECTE Solucoes Integradas de Multimidia
+177.128.132.0 177.128.135.255 AS28337 NTTCOM Embratel Customer
+177.128.136.0 177.128.139.255 AS262373 SCW Bahianet Ltda
+177.128.160.0 177.128.167.255 AS28173 NTTCOM Prefixo Dinamica
+177.128.168.0 177.128.171.255 AS262376 BBOI G8 Networks
+177.128.175.0 177.128.175.255 AS52523 NTTCOM Embratel Customer
+177.128.176.0 177.128.176.255 AS31863 RADB EMMEX-NET1
+177.128.177.0 177.128.183.255 AS262377 RIPE EMMEX SOLUCOES EMPRESARIAIS LTDA
+177.128.184.0 177.128.191.255 AS28587 SCW HADNET SERVICOS EM TI LTDA
+177.128.204.0 177.128.207.255 AS263418 BBOI G8 Networks
+177.128.208.0 177.128.215.255 AS52873 SCW SOFTCOMP TELECOMUNICACOES
+177.128.216.0 177.128.219.255 AS262661 RADB OptiTel Customers
+177.128.220.0 177.128.223.255 AS61570 TC ENTERIW PROVEDOR DE INTERNET LTDA
+177.128.224.0 177.128.227.255 AS262379 BBOI G8 Networks
+177.128.232.0 177.128.235.255 AS262380 NTTCOM Embratel Customer
+177.128.240.0 177.128.247.255 AS262381 RADB Prefix for AS262381
+177.129.0.0 177.129.7.255 AS262383 NTTCOM Embratel Customer
+177.129.16.0 177.129.23.255 AS262807 NTTCOM Responsible: Alexandre Toppa
+177.129.24.0 177.129.27.255 AS53184 RADB Prefixo AS53184
+177.129.32.0 177.129.39.255 AS262384 RADB OptiTel Customers
+177.129.40.0 177.129.47.255 AS28257 NTTCOM Minas Mais Telecom
+177.129.48.0 177.129.55.255 AS262385 BBOI G8 Networks
+177.129.56.0 177.129.59.255 AS262354 RADB Terremark-Proxy for Alog
+177.129.60.0 177.129.63.255 AS262327 TC High Tech Informatica Ltda
+177.129.64.0 177.129.67.255 AS262389 NTTCOM Embratel Customer
+177.129.72.0 177.129.73.255 AS262390 NTTCOM Embratel Customer
+177.129.74.0 177.129.74.255 AS263061 RADB Cadastro para Transito - Flys Interativa - AS 28663
+177.129.75.0 177.129.75.255 AS263063 NTTCOM Embratel Customer
+177.129.76.0 177.129.76.255 AS52883 BBOI G8 Networks
+177.129.77.0 177.129.77.255 AS263088 NTTCOM Embratel Customer
+177.129.78.0 177.129.78.255 AS52885 NTTCOM Embratel Customer
+177.129.79.0 177.129.79.255 AS3223 RADB voxility.net
+177.129.80.0 177.129.87.255 AS262393 SCW A ALVES GOMES INFORMATICA ME
+177.129.88.0 177.129.95.255 AS262394 NTTCOM Embratel Customer
+177.129.104.0 177.129.107.255 AS262396 RADB OptiTel Customers
+177.129.108.0 177.129.109.255 AS52529 NTTCOM Embratel Customer
+177.129.111.0 177.129.111.255 AS52538 BBOI G8 Networks
+177.129.112.0 177.129.115.255 AS26239 RADB solicitado por terremark do Brasil para su cliente atlasair. feb 25 2014
+177.129.124.0 177.129.127.255 AS52540 NTTCOM Embratel Customer
+177.129.128.0 177.129.135.255 AS52874 NTTCOM Minas Mais Telecom
+177.129.136.0 177.129.143.255 AS263584 BBOI G8 Networks
+177.129.148.0 177.129.151.255 AS52520 SCW Sociedade Educacional Santo Antonio
+177.129.160.0 177.129.163.255 AS263042 TC DELTA TELECOMUNICACOES LTDA
+177.129.168.0 177.129.171.255 AS2914 NTTCOM NTTB-V4-1
+177.129.176.0 177.129.183.255 AS52876 NTTCOM PWNETWORK IPv4 Network
+177.129.184.0 177.129.191.255 AS262566 BBOI G8 Networks
+177.129.200.0 177.129.203.255 AS3223 RADB voxility.net
+177.129.208.0 177.129.215.255 AS263047 RADB Solicitado por Speednet. Oct 31 2014
+177.129.216.0 177.129.219.255 AS263048 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.129.224.0 177.129.227.255 AS263049 BBOI G8 Networks
+177.129.232.0 177.129.235.255 AS11432 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS 11432
+177.129.236.0 177.129.239.255 AS263052 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS 263052
+177.129.240.0 177.129.247.255 AS263051 RADB OptiTel Customers
+177.129.248.0 177.129.255.255 AS28335 TC MAXCOMM LTDA
+177.130.16.0 177.130.31.255 AS52742 NTTCOM Minas Mais Telecom
+177.130.32.0 177.130.47.255 AS53145 RADB Bloco de Ip's cliente "REDESUL" criado pela equipe Durand do Brazil
+177.130.48.0 177.130.63.255 AS3223 RADB This is a Voxility customer route-object which is being exported under this origin AS264409 This route object was created because no existing route object with the same origin was found. Please contact noc@voxility.com if you have any questions regarding this object.
+177.130.64.0 177.130.79.255 AS262733 NTTCOM Minas Mais Telecom
+177.130.80.0 177.130.95.255 AS262369 RADB Solicitado por OK Virtual. Sep 17 2014.
+177.130.96.0 177.130.111.255 AS28287 BBOI G8 Networks
+177.130.128.0 177.130.191.255 AS28202 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.130.224.0 177.130.239.255 AS3223 RADB voxility.net
+177.130.248.0 177.130.255.255 AS52516 SCW NIPOXNET TELECOM LTDA ME
+177.131.0.0 177.131.15.255 AS262375 NTTCOM Minas Mais Telecom
+177.131.16.0 177.131.31.255 AS262378 RADB Compuservice Empreendimentos LTDA MacapÃ¡/AP BR
+177.131.32.0 177.131.47.255 AS262382 NTTCOM Embratel Customer
+177.131.48.0 177.131.63.255 AS262387 NTTCOM Embratel Customer
+177.131.112.0 177.131.123.255 AS262391 SCW ACESSOLINE TELECOMUNICACOES LTDA
+177.131.124.0 177.131.127.255 AS3223 RADB voxility.net
+177.131.128.0 177.131.143.255 AS262392 SCW G8 Networks
+177.131.144.0 177.131.144.255 AS28137 NTTCOM Embratel Customer
+177.131.145.0 177.131.145.255 AS52875 NTTCOM Embratel Customer
+177.131.160.0 177.131.191.255 AS3223 RADB voxility.net
+177.131.192.0 177.131.255.255 AS28615 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.132.0.0 177.132.239.255 AS3223 RADB voxility.net
+177.132.240.0 177.132.247.255 AS18881 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS18881  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.132.248.0 177.135.243.255 AS3223 RADB voxility.net
+177.135.244.0 177.135.247.255 AS18881 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS18881  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.135.248.0 177.135.255.255 AS3223 RADB voxility.net
+177.136.0.0 177.136.1.255 AS52871 RADB TASCOM
+177.136.2.0 177.136.5.255 AS28346 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS28346  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.136.6.0 177.136.6.255 AS52871 RADB TASCOM
+177.136.7.0 177.136.7.255 AS28346 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS28346  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.136.8.0 177.136.13.255 AS36351 REACH REACH  Customer Route 
+177.136.14.0 177.136.15.255 AS52871 RADB TASCOM
+177.136.16.0 177.136.31.255 AS13618 LEVEL3 Creating Route For Carolina Internet
+177.136.32.0 177.136.36.255 AS52871 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.136.37.0 177.136.39.255 AS36351 REACH REACH  Customer Route 
+177.136.40.0 177.136.47.255 AS52871 RADB TASCOM
+177.136.48.0 177.136.63.255 AS13618 LEVEL3 Route for Carolina Internet Org ID 1-PC-2838
+177.136.72.0 177.136.75.255 AS263606 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.136.76.0 177.136.79.255 AS263109 TC Primus Solucoes em TI LTDA
+177.136.80.0 177.136.83.255 AS262589 RADB PREFIJO DE INTERNEXA BRASIL
+177.136.84.0 177.136.87.255 AS263132 RADB ShyBuia
+177.136.88.0 177.136.95.255 AS263607 SCW BJPnet Comercio e Servicos de Informatica Ltda
+177.136.96.0 177.136.103.255 AS263608 RADB ITX-WSNET
+177.136.104.0 177.136.111.255 AS263049 BBOI G8 Networks
+177.136.160.0 177.136.167.255 AS263593 RADB OptiTel Customers
+177.136.168.0 177.136.171.255 AS263594 BBOI G8 Networks
+177.136.172.0 177.136.175.255 AS61911 BBOI G8 Networks
+177.136.208.0 177.136.215.255 AS52685 TC Conectnet TelecomunicaÃ§Ãµes Ltda.
+177.136.224.0 177.136.255.255 AS263598 SCW Minas Mais Telecom
+177.137.16.0 177.137.23.255 AS53225 SCW IPGLOBE INTERNET SERVICES DATACENTER LTDA
+177.137.24.0 177.137.30.255 AS3223 RADB voxility.net
+177.137.31.0 177.137.31.255 AS40676 RADB client: 8718 - CG12.9
+177.137.48.0 177.137.55.255 AS28283 RADB Prefixo AS53048
+177.137.56.0 177.137.63.255 AS263032 RADB OptiTel Customers
+177.137.80.0 177.137.87.255 AS262700 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.137.88.0 177.137.95.255 AS53093 TC AS53093-VOAX - Voax Provedor de Internet
+177.137.120.0 177.137.127.255 AS263015 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.137.128.0 177.137.143.255 AS263053 BBOI G8 Networks
+177.137.152.0 177.137.159.255 AS263632 BBOI G8 Networks
+177.137.160.0 177.137.167.255 AS263066 SCW RVNet R V PORTELA AGUIAR CIA LTDA
+177.137.168.0 177.137.175.255 AS3223 RADB voxility.net
+177.137.176.0 177.137.191.255 AS53163 NTTCOM Responsible: Jackson Almeida
+177.137.192.0 177.137.207.255 AS53199 NTTCOM Embratel Customer
+177.137.208.0 177.137.223.255 AS263087 BBOI G8 Networks
+177.137.224.0 177.137.239.255 AS28173 NTTCOM Prefixo Dinamica
+177.137.248.0 177.137.255.255 AS28283 RADB Prefixo AS52748
+177.140.0.0 177.143.255.255 AS28573 NTTCOM Embratel Customer
+177.148.0.0 177.151.255.255 AS26615 RADB TIM Celular S.A.
+177.152.0.0 177.152.31.255 AS262399 RADB OptiTel Customers
+177.152.32.0 177.152.47.255 AS28169 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.152.52.0 177.152.55.255 AS61912 RADB Solicitado por nuestro cliente NT Brasil tecnologia para UIAILINK. Mayo 08 2014.
+177.152.56.0 177.152.63.255 AS52519 RADB Solicitado por nuestro cliente IDSUL para rodrigo przybycien. julio 22 2014
+177.152.64.0 177.152.79.255 AS262773 NTTCOM Responsible: Leonardo de Lima Gomes Filho
+177.152.84.0 177.152.87.255 AS52527 SCW G8 Networks
+177.152.111.0 177.152.111.255 AS263021 NTTCOM Embratel Customer
+177.152.112.0 177.152.119.255 AS52536 BBOI G8 Networks
+177.152.120.0 177.152.123.255 AS52919 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.152.128.0 177.152.143.255 AS28618 NTTCOM Proxy Object for Linktel
+177.152.144.0 177.152.151.255 AS263314 NTTCOM Ultrawave Transit Customer
+177.152.184.0 177.152.187.255 AS61889 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.152.192.0 177.152.201.255 AS36351 REACH REACH  Customer Route 
+177.152.202.0 177.152.202.255 AS19994 RADB Akna  1811063 
+177.152.203.0 177.152.255.255 AS36351 REACH REACH  Customer Route 
+177.153.0.0 177.153.63.255 AS27715 RADB CIDR-177.153.0.0/19
+177.153.224.0 177.153.255.255 AS27715 RADB CIDR-177.153.224.0/19
+177.154.0.0 177.154.10.255 AS3223 RADB voxility.net
+177.154.11.0 177.154.27.255 AS262293 NTTCOM Minas Mais Telecom
+177.154.28.0 177.154.31.255 AS263145 TC GRUPO MEGA FLASH SERVICOS E COM LTDA - EPP
+177.154.32.0 177.154.41.255 AS262293 NTTCOM Minas Mais Telecom
+177.154.42.0 177.154.47.255 AS28263 NTTCOM Embratel Customer
+177.154.48.0 177.154.55.255 AS262946 RADB AS262946
+177.154.56.0 177.154.63.255 AS262947 NTTCOM Embratel Customer
+177.154.88.0 177.154.91.255 AS262960 RADB Solicitado por Know Telecom para su cliente HEPTANET. Feb 27 2014.
+177.154.92.0 177.154.92.255 AS262963 NTTCOM Embratel Customer
+177.154.95.0 177.154.95.255 AS263376 BBOI G8 Networks
+177.154.112.0 177.154.127.255 AS262959 NTTCOM Embratel Customer
+177.154.128.0 177.154.159.255 AS16397 SCW Alog Datacenters do Brasil
+177.154.160.0 177.154.175.255 AS262288 NTTCOM Embratel Customer
+177.154.176.0 177.154.191.255 AS53038 TC WDI SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA
+177.154.192.0 177.154.223.255 AS262293 NTTCOM Minas Mais Telecom
+177.155.0.0 177.155.63.255 AS28615 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.155.64.0 177.155.79.255 AS28283 RADB Prefixo AS52748
+177.155.84.0 177.155.87.255 AS263129 NTTCOM Embratel Customer
+177.155.112.0 177.155.127.255 AS263616 RADB Solicitado por IPE para Dez Solucoes. Nov 10 2014
+177.155.128.0 177.155.143.255 AS3223 RADB voxility.net
+177.155.144.0 177.155.159.255 AS263622 NTTCOM Responsible: Jackson Almeida
+177.155.160.0 177.155.175.255 AS52752 RADB G8 Networks
+177.155.176.0 177.155.191.255 AS52753 RADB ITX-TELECOM
+177.155.200.0 177.155.207.255 AS53222 RADB OptiTel Customers
+177.155.208.0 177.155.223.255 AS52771 NTTCOM Embratel Customer
+177.155.224.0 177.155.231.255 AS52773 BBOI G8 Networks
+177.155.248.0 177.155.251.255 AS262419 RADB Prefixo AS262419
+177.155.252.0 177.155.255.255 AS52544 RADB Solicitado por nuestro cliente IPE INFORMATICA para BKup Ti e Telecom. julio 8 2014
+177.156.0.0 177.159.255.255 AS3223 RADB voxility.net
+177.164.0.0 177.167.255.255 AS26615 RADB TIM Celular S.A.
+177.172.76.0 177.172.79.255 AS31863 RADB Big Brain LLC
+177.173.88.0 177.173.91.255 AS262568 BBOI G8 Networks
+177.176.0.0 177.179.255.255 AS7738 RADB Oi's route object
+177.180.0.0 177.183.255.255 AS28573 NTTCOM Embratel Customer
+177.184.0.0 177.184.31.255 AS26592 SCW Alog Datacenters do Brasil
+177.184.32.0 177.184.47.255 AS28362 SCW Onda Internet Ltda R. Sao Pedro, 82 - 38190-000 - Sacramento - MG
+177.184.48.0 177.184.63.255 AS52896 BBOI G8 Networks
+177.184.64.0 177.184.79.255 AS52898 NTTCOM Responsible: Filipe Mejdalani
+177.184.80.0 177.184.95.255 AS52902 BBOI G8 Networks
+177.184.96.0 177.184.111.255 AS3223 RADB voxility.net
+177.184.112.0 177.184.127.255 AS262673 RADB Solicitado por nuestro cliente Minas Mais para Lafaiete. jun 12 2014
+177.184.128.0 177.184.142.255 AS28190 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS28190  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+177.184.143.0 177.184.143.255 AS3223 RADB voxility.net
+177.184.144.0 177.184.151.255 AS263581 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.184.160.0 177.184.175.255 AS52920 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.184.176.0 177.184.191.255 AS52923 BBOI G8 Networks
+177.184.208.0 177.184.211.255 AS263572 NTTCOM Ultrawave Transit Customer
+177.184.224.0 177.184.239.255 AS52924 RADB Solicitado por NEXCESS Sep 24 2014
+177.184.248.0 177.184.255.255 AS262605 RADB Prefix for AS262605
+177.185.0.0 177.185.15.255 AS52925 TC ASCENTY DATA CENTERS LOCAÃÃO E SERVIÃOS SA
+177.185.16.0 177.185.31.255 AS262375 NTTCOM Minas Mais Telecom
+177.185.64.0 177.185.95.255 AS52928 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.185.112.0 177.185.119.255 AS52932 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.185.120.0 177.185.123.255 AS263577 NTTCOM G8 Networks
+177.185.124.0 177.185.127.255 AS263000 RADB OptiTel Customers
+177.185.128.0 177.185.143.255 AS52936 BBOI G8 Networks
+177.185.192.0 177.185.207.255 AS28299 SCW IPV6 Internet Ltda
+177.185.208.0 177.185.223.255 AS263599 RADB Solicitado por nuestro cliente IPE para Globonet. jul 22 2014
+177.185.224.0 177.185.239.255 AS3223 RADB voxility.net
+177.185.240.0 177.185.255.255 AS263623 NTTCOM Embratel Customer
+177.186.0.0 177.187.255.255 AS26615 RADB TIM Celular S.A.
+177.190.0.0 177.190.63.255 AS28151 RADB Datora Prefix
+177.190.64.0 177.190.71.255 AS263289 RADB Solicitado por nuestro cliente Palmasnet Informatica. Mayo 6 2014.
+177.190.80.0 177.190.95.255 AS263019 RADB Solicitado por nuestro cliente S.O de Brasil para Quicknet. Mayo 13 2014.
+177.190.96.0 177.190.111.255 AS22356 RADB Bloco Ip Durand do Brazil
+177.190.112.0 177.190.127.255 AS28283 RADB Prefixo AS53169
+177.190.128.0 177.190.131.255 AS263452 NTTCOM Embratel Customer
+177.190.132.0 177.190.135.255 AS263455 TC Eletron Luz - Solucoes em Tecnologia
+177.190.136.0 177.190.143.255 AS263453 TC INOVANET INFORMATICA E PAPELARIA LTDA - ME
+177.190.148.0 177.190.151.255 AS28666 RADB CLIENT:177.190.148.0/24
+177.190.152.0 177.190.159.255 AS263457 SCW Minas Mais Telecom
+177.190.160.0 177.190.167.255 AS263458 SCW Itrix Internet Inteligente
+177.190.176.0 177.190.183.255 AS263460 BBOI G8 Networks
+177.190.192.0 177.190.207.255 AS26273 RADB solicitado por Terremark do Brasil para su cliente SKTH-AS. feb 25 2014
+177.190.208.0 177.190.211.255 AS263463 NTTCOM Embratel Customer
+177.190.213.0 177.190.213.255 AS263323 NTTCOM Embratel Customer
+177.190.214.0 177.190.214.255 AS263403 NTTCOM Embratel Customer
+177.190.215.0 177.190.215.255 AS263406 BBOI G8 Networks
+177.190.216.0 177.190.223.255 AS263464 NTTCOM Embratel Customer
+177.190.240.0 177.190.243.255 AS262393 NTTCOM Embratel Customer
+177.190.244.0 177.190.245.255 AS263118 NTTCOM Embratel Customer
+177.190.246.0 177.190.247.255 AS61933 NTTCOM Embratel Customer
+177.191.0.0 177.191.255.255 AS53006 RADB auto-generated route object for 177.191.0.0/16
+177.192.0.0 177.192.255.255 AS28573 NTTCOM Embratel Customer
+177.193.0.0 177.193.19.255 AS53128 NTTCOM Embratel Customer
+177.193.20.0 177.193.113.255 AS28573 NTTCOM Embratel Customer
+177.193.114.0 177.193.114.255 AS53128 NTTCOM Embratel Customer
+177.193.115.0 177.193.127.255 AS28573 NTTCOM Embratel Customer
+177.193.128.0 177.193.135.255 AS53128 NTTCOM Embratel Customer
+177.193.136.0 177.194.140.255 AS28573 NTTCOM Embratel Customer
+177.194.141.0 177.194.141.255 AS53128 NTTCOM Embratel Customer
+177.194.142.0 177.194.143.255 AS28573 NTTCOM Embratel Customer
+177.194.144.0 177.194.151.255 AS53128 NTTCOM Embratel Customer
+177.194.152.0 177.194.155.255 AS28573 NTTCOM Embratel Customer
+177.194.156.0 177.194.159.255 AS53128 NTTCOM Embratel Customer
+177.194.160.0 177.194.167.255 AS28573 NTTCOM Embratel Customer
+177.194.168.0 177.194.175.255 AS53128 NTTCOM Embratel Customer
+177.194.176.0 177.195.63.255 AS28573 NTTCOM Embratel Customer
+177.195.64.0 177.195.191.255 AS53128 NTTCOM Embratel Customer
+177.195.192.0 177.195.239.255 AS28573 NTTCOM Embratel Customer
+177.195.240.0 177.195.251.255 AS53128 NTTCOM Embratel Customer
+177.195.252.0 177.195.253.255 AS28573 NTTCOM Embratel Customer
+177.195.254.0 177.195.255.255 AS53128 NTTCOM Embratel Customer
+177.200.0.0 177.200.15.255 AS52775 RADB OptiTel Customers
+177.200.16.0 177.200.31.255 AS263628 NTTCOM Responsible: Jose Adilson
+177.200.64.0 177.200.79.255 AS52783 SCW Skynet Telecomunicacoes Ltda
+177.200.80.0 177.200.95.255 AS28368 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.200.144.0 177.200.159.255 AS52793 RADB KelvinSat
+177.200.160.0 177.200.175.255 AS52794 RADB GoTelecom
+177.200.176.0 177.200.191.255 AS262526 NTTCOM Embratel Customer
+177.200.192.0 177.200.223.255 AS28343 RADB Proxy-registered route object
+177.200.224.0 177.200.239.255 AS262721 NTTCOM Embratel Customer
+177.200.240.0 177.200.255.255 AS52824 RADB AS52824
+177.201.0.0 177.203.255.255 AS8167 RADB Oi's route object
+177.204.0.0 177.207.255.255 AS3223 RADB voxility.net
+177.208.0.0 177.211.255.255 AS7738 RADB Oi's route object
+177.216.0.0 177.219.255.255 AS26615 RADB TIM Celular S.A.
+177.220.128.0 177.220.191.255 AS14868 ALTDB COPEL Telecomunicacoes S.A. Curitiba - Parana- Brazil +55-41-3331-3257
+177.221.0.0 177.221.31.255 AS28294 SCW Minas Mais Telecom
+177.221.32.0 177.221.47.255 AS53144 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS53144  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+177.221.48.0 177.221.55.255 AS263660 RADB OptiTel Customers
+177.221.56.0 177.221.59.255 AS263661 NTTCOM Embratel Customer
+177.221.60.0 177.221.63.255 AS263672 NTTCOM Embratel Customer
+177.221.64.0 177.221.71.255 AS52561 RADB OptiTel Customers
+177.221.72.0 177.221.79.255 AS262336 NTTCOM Embratel Customer
+177.221.96.0 177.221.111.255 AS52654 NTTCOM Embratel Customer
+177.221.112.0 177.221.119.255 AS52668 RADB Terremark-Proxy for Intelle Comunicagues do Brasil Ltda
+177.221.120.0 177.221.127.255 AS28173 NTTCOM Dinamica Customer
+177.221.128.0 177.221.159.255 AS28282 BBOI G8 Networks
+177.221.160.0 177.221.175.255 AS52669 RADB OptiTel Customers
+177.221.176.0 177.221.183.255 AS28250 NTTCOM Rede Brasileira de Comunicacao Ltda
+177.221.184.0 177.221.191.255 AS52673 BBOI G8 Networks
+177.221.192.0 177.221.223.255 AS52682 RADB W3 Network Ltda
+177.221.240.0 177.221.255.255 AS263467 SCW G8 Networks
+177.222.0.0 177.222.127.255 AS52840 RADB Solicitado por Sunrise TelecomunicaÃ§Ãµes. Marzo 11 2014.
+177.222.144.0 177.222.159.255 AS263386 RADB OptiTel Customers
+177.222.160.0 177.222.167.255 AS263388 TC PAM Pepe Antenas Telecom. e Multimida Ltda ME
+177.222.192.0 177.222.199.255 AS263391 RADB Adylnet Customer
+177.222.200.0 177.222.207.255 AS263393 SCW ELI ANTONIO MARTINS ME
+177.222.208.0 177.222.215.255 AS263397 BBOI G8 Networks
+177.222.224.0 177.222.227.255 AS263399 NTTCOM Responsible: Filipe Soares Pereira
+177.222.228.0 177.222.231.255 AS263402 BBOI G8 Networks
+177.222.232.0 177.222.239.255 AS263400 NTTCOM Embratel Customer
+177.222.240.0 177.222.247.255 AS263401 SCW G8 Networks
+177.222.248.0 177.222.255.255 AS263405 TC GIGANET TELECOM
+177.223.0.0 177.223.15.255 AS52699 TC Conecta Telecom Ltda
+177.223.16.0 177.223.31.255 AS52702 SCW Willams Torres de Melo
+177.223.32.0 177.223.47.255 AS28266 SCW Minas Mais Telecom
+177.223.48.0 177.223.63.255 AS263500 RADB AS263500
+177.223.64.0 177.223.79.255 AS52722 TC Paranhananet Ltda.
+177.223.80.0 177.223.95.255 AS52562 NTTCOM Embratel Customer
+177.223.112.0 177.223.127.255 AS262360 RADB OptiTel Customers
+177.223.158.0 177.223.159.255 AS262303 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.223.160.0 177.223.191.255 AS28300 RADB Primeiro Bloco IPv4 Para Usuarios Dinamicos de SAJ
+177.223.192.0 177.223.194.255 AS28271 RADB This is a Voxility customer route-object which is being exported under this origin AS28271 This route object was created because no existing route object with the same origin was found. Please contact noc@voxility.com if you have any questions regarding this object.
+177.223.195.0 177.223.195.255 AS3223 RADB voxility.net
+177.223.196.0 177.223.223.255 AS28271 RADB This is a Voxility customer route-object which is being exported under this origin AS28271 This route object was created because no existing route object with the same origin was found. Please contact noc@voxility.com if you have any questions regarding this object.
+177.223.240.0 177.223.255.255 AS53152 NTTCOM Embratel Customer
+177.224.0.0 177.231.255.255 AS8151 LEVEL3 MEGA_CABLE
+177.232.0.0 177.233.255.255 AS18734 RADB Route from CABLECOM
+177.234.0.0 177.234.31.255 AS32098 RADB Customer CUSTOMER
+177.234.32.0 177.234.34.255 AS28400 RADB Proxy-registered route object
+177.234.35.0 177.234.127.255 AS32098 RADB Proxy-registered route object
+177.234.128.0 177.234.131.255 AS28513 LEVEL3 CLARO_ARGENTINA
+177.234.132.0 177.234.135.255 AS262333 RADB Solicitado por nuestro cliente CILNET para Zuknet. Jul 17 2014
+177.234.144.0 177.234.159.255 AS53055 TC HostDime.com.br Data Center
+177.234.160.0 177.234.191.255 AS263250 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+177.234.192.0 177.234.255.255 AS27765 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+177.235.0.0 177.235.255.255 AS28573 NTTCOM Embratel Customer
+177.236.0.0 177.236.191.255 AS18734 RADB Route from Cablemas
+177.236.192.0 177.236.255.255 AS32098 RADB Customer CABLEMAS
+177.237.0.0 177.237.78.255 AS28512 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+177.237.79.0 177.237.79.255 AS28545 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+177.237.80.0 177.237.127.255 AS28512 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+177.237.128.0 177.237.191.255 AS28545 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+177.237.192.0 177.237.223.255 AS28509 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+177.237.224.0 177.237.247.255 AS32098 RADB Customer Cablemas
+177.237.248.0 177.237.255.255 AS28545 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+177.238.0.0 177.238.31.255 AS18734 RADB Route from Cablemas
+177.238.32.0 177.238.39.255 AS32098 RADB Customer CFE
+177.238.40.0 177.238.46.255 AS18734 RADB Route from Cablemas
+177.238.47.0 177.238.95.255 AS32098 RADB Customer CFE
+177.238.96.0 177.238.127.255 AS28094 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+177.238.128.0 177.238.203.255 AS18734 RADB Route from Cablemas
+177.238.204.0 177.238.207.255 AS32098 RADB Customer CABLEMAS
+177.238.208.0 177.238.215.255 AS18734 RADB Route from Cablemas
+177.238.216.0 177.238.223.255 AS32098 RADB Customer Cablemas
+177.238.224.0 177.238.238.255 AS18734 RADB Route from Cablemas
+177.238.239.0 177.239.47.255 AS32098 RADB Customer CFE
+177.239.48.0 177.239.79.255 AS28094 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+177.239.80.0 177.239.107.255 AS18734 RADB Route from Cablemas
+177.239.108.0 177.239.108.255 AS32098 RADB Customer Cablemas
+177.239.109.0 177.239.111.255 AS18734 RADB Route from Cablemas
+177.239.112.0 177.239.119.255 AS32098 RADB Cliente Cablemas
+177.239.120.0 177.239.127.255 AS18734 RADB Route from Cablemas
+177.239.128.0 177.239.167.255 AS32098 RADB Customer Cablemas
+177.239.168.0 177.239.168.255 AS18734 RADB Route from Cablemas
+177.239.169.0 177.239.169.255 AS32098 RADB Customer Cablemas
+177.239.170.0 177.239.174.255 AS18734 RADB Route from Cablemas
+177.239.175.0 177.239.175.255 AS32098 RADB Cablemas
+177.239.176.0 177.239.195.255 AS18734 RADB Route from Cablemas
+177.239.196.0 177.239.229.255 AS32098 RADB Cliente: Cablemas
+177.239.230.0 177.239.255.255 AS18734 RADB Route from Cablemas
+177.240.0.0 177.247.255.255 AS8151 LEVEL3 Mega_Cable
+177.248.0.0 177.248.239.255 AS18734 RADB Route from Gpo Hevi
+177.248.240.0 177.248.255.255 AS16960 RADB Customer: Megacable
+177.249.0.0 177.249.255.255 AS18734 RADB Route from Gpo Hevi
+177.252.0.0 177.255.255.255 AS27831 RADB NETBLK-TIGO

@@ -1,0 +1,171 @@
+42.0.8.0 42.0.15.255 AS58730 NTTCOM Proxy-registered route object
+42.0.16.0 42.0.19.255 AS49597 RADB JS
+42.0.20.0 42.0.20.255 AS133948 RADB DONGFONG INC LIMITED
+42.0.21.0 42.0.23.255 AS49597 RADB JS
+42.0.28.0 42.0.31.255 AS56140 RADB Proxy-registered route object
+42.0.64.0 42.0.127.255 AS9919 RADB New Century InfoComm Tech Co., Ltd. ip broadcast for Qware
+42.0.128.0 42.0.184.255 AS49597 RADB JS
+42.0.185.0 42.0.185.255 AS17709 REACH REACH  Customer Route 
+42.0.186.0 42.0.221.255 AS49597 RADB JS
+42.0.222.0 42.0.222.255 AS63849 NTTCOM Proxy-registered route object
+42.0.223.0 42.0.255.255 AS49597 RADB JS
+42.1.32.0 42.1.55.255 AS49597 RADB JS
+42.1.60.0 42.1.63.255 AS46015 RADB Proxy-registered route object
+42.1.172.0 42.1.172.255 AS17709 REACH REACH  Customer Route 
+42.1.178.0 42.1.178.255 AS63849 NTTCOM Proxy-registered route object
+42.2.0.0 42.3.225.255 AS4760 RADB Proxy Registration for PCCW Global customer  Biz Netvigator , This route object is for a PCCW Global customer route which is being exported under this origin AS. This route object was created because no existing route object with the same origin was found, and since some BtN peers filter based on these objects this route may be rejected if this object is not created. Please contact peering@pccwglobal.com if you have any questions regarding this object.
+42.3.226.0 42.3.226.255 AS4515 RADB PCCW  Customer Route 
+42.3.227.0 42.3.255.255 AS4760 RADB Proxy Registration for PCCW Global customer  Biz Netvigator , This route object is for a PCCW Global customer route which is being exported under this origin AS. This route object was created because no existing route object with the same origin was found, and since some BtN peers filter based on these objects this route may be rejected if this object is not created. Please contact peering@pccwglobal.com if you have any questions regarding this object.
+42.16.0.0 42.16.255.255 AS33597 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+42.50.121.0 42.50.121.255 AS17709 REACH REACH  Customer Route 
+42.60.0.0 42.60.255.255 AS9506 RADB Singapore Telecommunications Ltd SingTel BroadBand network 31 Exeter Road Orchard Telephone Exchange SINGAPORE 239732
+42.61.0.0 42.61.33.255 AS3758 RADB Singapore Telecommunications Ltd SingNet Corp network 31 Exeter Road Orchard Telephone Exchange SINGAPORE 239732
+42.61.34.0 42.61.34.255 AS19905 RADB AC_SINGTEL
+42.61.35.0 42.61.35.255 AS3758 RADB Singapore Telecommunications Ltd SingNet Corp network 31 Exeter Road Orchard Telephone Exchange SINGAPORE 239732
+42.61.36.0 42.61.36.255 AS19905 RADB AC_SINGTEL
+42.61.37.0 42.61.42.255 AS3758 RADB Singapore Telecommunications Ltd SingNet Corp network 31 Exeter Road Orchard Telephone Exchange SINGAPORE 239732
+42.61.43.0 42.61.43.255 AS19905 RADB AC_SINGTEL
+42.61.44.0 42.61.44.255 AS3758 RADB Singapore Telecommunications Ltd SingNet Corp network 31 Exeter Road Orchard Telephone Exchange SINGAPORE 239732
+42.61.45.0 42.61.45.255 AS19905 RADB AC_SINGTEL
+42.61.46.0 42.61.46.255 AS3758 RADB Singapore Telecommunications Ltd SingNet Corp network 31 Exeter Road Orchard Telephone Exchange SINGAPORE 239732
+42.61.47.0 42.61.47.255 AS19905 RADB AC_SINGTEL
+42.61.48.0 42.61.49.255 AS3758 RADB Singapore Telecommunications Ltd SingNet Corp network 31 Exeter Road Orchard Telephone Exchange SINGAPORE 239732
+42.61.50.0 42.61.50.255 AS19905 RADB AC_SINGTEL
+42.61.51.0 42.61.69.255 AS3758 RADB Singapore Telecommunications Ltd SingNet Corp network 31 Exeter Road Orchard Telephone Exchange SINGAPORE 239732
+42.61.70.0 42.61.70.255 AS19905 RADB AC_SINGTEL
+42.61.71.0 42.61.100.255 AS3758 RADB Singapore Telecommunications Ltd SingNet Corp network 31 Exeter Road Orchard Telephone Exchange SINGAPORE 239732
+42.61.101.0 42.61.101.255 AS19905 RADB AC_SINGTEL
+42.61.102.0 42.61.116.255 AS3758 RADB Singapore Telecommunications Ltd SingNet Corp network 31 Exeter Road Orchard Telephone Exchange SINGAPORE 239732
+42.61.117.0 42.61.117.255 AS19905 RADB AC_SINGTEL
+42.61.118.0 42.61.127.255 AS3758 RADB Singapore Telecommunications Ltd SingNet Corp network 31 Exeter Road Orchard Telephone Exchange SINGAPORE 239732
+42.61.128.0 42.61.255.255 AS9506 RADB Singapore Telecommunications Ltd SingTel BroadBand network 31 Exeter Road Orchard Telephone Exchange SINGAPORE 239732
+42.62.0.0 42.62.127.255 AS23724 RADB China Telecom Beijing Co. Ltd.
+42.62.128.0 42.62.131.255 AS133741 RADB HONGKONG YABOIDC TECHNOLOGY LIMITED
+42.62.132.0 42.62.132.255 AS133948 RADB DONGFONG INC LIMITED
+42.62.133.0 42.62.133.255 AS133741 RADB HONGKONG YABOIDC TECHNOLOGY LIMITED
+42.62.160.0 42.62.175.255 AS49597 RADB JS
+42.62.176.0 42.62.179.255 AS24538 NTTCOM route-object for AS23947
+42.62.184.0 42.62.191.255 AS49597 RADB JS
+42.80.0.0 42.81.255.255 AS4134 SAVVIS CHINANET Tianjin province network
+42.82.0.0 42.82.63.255 AS38091 NTTCOM EnterpriseNetworks
+42.82.64.0 42.82.95.255 AS10155 NTTCOM proxy for HANARO TELECOM route
+42.82.96.0 42.82.127.255 AS10037 NTTCOM proxy for HANARO TELECOM route
+42.82.128.0 42.82.191.255 AS38091 NTTCOM EnterpriseNetworks
+42.82.208.0 42.82.239.255 AS38091 NTTCOM EnterpriseNetworks
+42.83.0.0 42.83.63.255 AS18135 NTTCOM BTV Cable Television
+42.83.64.0 42.83.79.255 AS49597 RADB JS
+42.83.84.0 42.83.87.255 AS56167 SAVVIS PTCL via EMIX
+42.83.88.0 42.83.95.255 AS49597 RADB JS
+42.83.128.0 42.83.129.255 AS24406 RIPE CN NIC
+42.83.130.0 42.83.133.255 AS24409 SAVVIS PNAP-DAL nccgroup
+42.83.134.0 42.83.143.255 AS24406 RIPE CN NIC
+42.83.200.0 42.83.201.255 AS9808 NTTCOM CMI IP Transit - from CMCC 2011
+42.90.0.0 42.95.255.255 AS4134 SAVVIS CHINANET Gansu province network
+42.96.6.0 42.96.6.255 AS45554 NTTCOM VNNIC
+42.96.8.0 42.96.8.255 AS45554 NTTCOM VNNIC
+42.96.96.0 42.96.103.255 AS49597 RADB JS
+42.96.112.0 42.96.127.255 AS49597 RADB JS
+42.97.0.0 42.97.255.255 AS4134 SAVVIS CHINANET Jilin province network
+42.98.0.0 42.98.255.255 AS4760 RADB Proxy Registration for PCCW Global customer  Biz Netvigator , This route object is for a PCCW Global customer route which is being exported under this origin AS. This route object was created because no existing route object with the same origin was found, and since some BtN peers filter based on these objects this route may be rejected if this object is not created. Please contact peering@pccwglobal.com if you have any questions regarding this object.
+42.99.0.0 42.99.63.255 AS4134 RADB CHINANET MCE
+42.99.96.0 42.99.111.255 AS49597 RADB JS
+42.99.120.0 42.99.127.255 AS49597 RADB JS
+42.99.128.0 42.99.131.255 AS10026 RADB PACNET  proxy-registered route object 
+42.99.132.0 42.99.132.63 AS64753 RADB PACNET  proxy-registered route object 
+42.99.132.64 42.99.132.255 AS10026 RADB PACNET  proxy-registered route object 
+42.99.133.0 42.99.133.63 AS64773 RADB PACNET  proxy-registered route object 
+42.99.133.64 42.99.133.79 AS10026 RADB PACNET  proxy-registered route object 
+42.99.133.80 42.99.133.95 AS64776 RADB PACNET  proxy-registered route object 
+42.99.133.96 42.99.133.191 AS10026 RADB PACNET  proxy-registered route object 
+42.99.133.192 42.99.133.255 AS64773 RADB PACNET  proxy-registered route object 
+42.99.134.0 42.99.134.127 AS10026 RADB PACNET  proxy-registered route object 
+42.99.134.128 42.99.134.159 AS64778 RADB PACNET  proxy-registered route object 
+42.99.134.160 42.99.139.63 AS10026 RADB PACNET  proxy-registered route object 
+42.99.139.64 42.99.139.79 AS64782 RADB PACNET  proxy-registered route object 
+42.99.139.80 42.99.159.255 AS10026 RADB PACNET  proxy-registered route object 
+42.99.160.0 42.99.162.255 AS15133 RADB PACNET  proxy-registered route object 
+42.99.163.0 42.99.163.255 AS10026 RADB PACNET  proxy-registered route object 
+42.99.164.0 42.99.164.255 AS53813 RADB PACNET  proxy-registered route object 
+42.99.165.0 42.99.223.255 AS10026 RADB PACNET  proxy-registered route object 
+42.99.224.0 42.99.224.255 AS45932 RADB NET SYS INTERNATIONAL LIMITED - Internet Service Provider
+42.99.225.0 42.99.255.255 AS10026 RADB PACNET  proxy-registered route object 
+42.102.0.0 42.103.255.255 AS4134 RADB Chinanet Heilongjiang network
+42.104.0.0 42.104.127.255 AS55410 RADB Vodafone India
+42.104.128.0 42.111.255.255 AS38266 RADB AS38266:Vodafone-Value Added Services
+42.112.0.0 42.112.213.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.112.214.0 42.112.214.255 AS22822 REACH REACH  Customer Route 
+42.112.215.0 42.112.218.255 AS18403 RADB FPT Telecom Company 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.112.219.0 42.112.219.255 AS22822 REACH REACH  Customer Route 
+42.112.220.0 42.113.53.255 AS18403 RADB FPT Telecom Company 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.113.54.0 42.113.55.255 AS22822 REACH REACH  Customer Route 
+42.113.56.0 42.113.151.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.113.152.0 42.113.153.255 AS22822 REACH REACH  Customer Route 
+42.113.154.0 42.114.23.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.114.24.0 42.114.27.255 AS22822 REACH REACH  Customer Route 
+42.114.28.0 42.114.196.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.114.197.0 42.114.197.255 AS22822 REACH REACH  Customer Route 
+42.114.198.0 42.114.213.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.114.214.0 42.114.215.255 AS22822 REACH REACH  Customer Route 
+42.114.216.0 42.114.255.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.115.0.0 42.115.1.255 AS131178 RADB FPT Telecom
+42.115.2.0 42.115.2.255 AS18403 REACH REACH  Customer Route 
+42.115.3.0 42.115.52.255 AS131178 RADB AS18403
+42.115.53.0 42.115.53.255 AS22822 REACH REACH  Customer Route 
+42.115.54.0 42.115.127.255 AS131178 RADB AS18403
+42.115.128.0 42.116.75.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.116.76.0 42.116.76.255 AS22822 REACH REACH  Customer Route 
+42.116.77.0 42.116.107.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.116.108.0 42.116.108.255 AS22822 REACH REACH  Customer Route 
+42.116.109.0 42.116.121.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.116.122.0 42.116.122.255 AS22822 REACH REACH  Customer Route 
+42.116.123.0 42.117.103.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.117.104.0 42.117.104.255 AS22822 REACH REACH  Customer Route 
+42.117.105.0 42.117.111.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.117.112.0 42.117.113.255 AS22822 REACH REACH  Customer Route 
+42.117.114.0 42.117.249.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.117.250.0 42.117.251.255 AS22822 REACH REACH  Customer Route 
+42.117.252.0 42.119.12.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.119.13.0 42.119.13.255 AS22822 REACH REACH  Customer Route 
+42.119.14.0 42.119.175.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.119.176.0 42.119.177.255 AS22822 REACH REACH  Customer Route 
+42.119.178.0 42.119.255.255 AS18403 RADB FPT Telecom 66-68 Vo Van Tan Ho Chi Minh City Vietnam
+42.122.0.0 42.122.255.255 AS4134 SAVVIS CHINANET TIANJIN PROVINCE NETWORK
+42.123.32.0 42.123.35.255 AS23661 JPIRR Clara Online, Inc.
+42.123.40.0 42.123.47.255 AS200137 RADB GGZ
+42.123.48.0 42.123.63.255 AS49597 RADB JS
+42.123.162.0 42.123.162.255 AS17709 REACH REACH  Customer Route 
+42.123.165.0 42.123.165.255 AS17709 REACH REACH  Customer Route 
+42.124.0.0 42.127.255.255 AS10010 JPIRR TOKAI-NET
+42.128.201.0 42.128.201.255 AS17709 REACH REACH  Customer Route 
+42.140.0.0 42.140.127.255 AS10136 RIPE Pacswitch Globe Telecom Ltd.  AS10136 
+42.140.128.0 42.140.255.255 AS55536 RIPE PACSWITCH GLOBE TELECOM LIMITED
+42.144.0.0 42.151.255.255 AS9824 RADB Jupiter Telecommunications Co., Ltd
+42.152.0.0 42.155.255.255 AS38322 NTTCOM PacketOne  Malaysia  Sdn Bhd
+42.156.32.0 42.156.35.255 AS56181 RADB itech network
+42.158.0.0 42.158.255.255 AS17428 RADB Proxy-registered route object
+42.159.0.0 42.159.255.255 AS58593 ALTDB Microsoft
+42.168.0.0 42.171.255.255 AS55536 RIPE Pacswitch Globe Telecom Ltd.  AS55536 
+42.184.0.0 42.185.255.255 AS4134 SAVVIS CHINANET HEILONGJIANG PROVINCE NETWORK
+42.186.171.0 42.186.171.255 AS17709 REACH REACH  Customer Route 
+42.186.181.0 42.186.181.255 AS17709 REACH REACH  Customer Route 
+42.186.192.0 42.187.95.255 AS197426 RADB 42.186.192.0/18
+42.187.124.0 42.187.127.255 AS17682 JPIRR CABLENET296
+42.188.0.0 42.191.255.255 AS38322 NTTCOM PacketOne  Malaysia  Sdn Bhd
+42.194.64.0 42.194.127.255 AS197426 RADB CHINANET Guangdong province network
+42.194.128.0 42.194.162.255 AS3689 RIPE AS3689 route
+42.194.163.0 42.194.163.255 AS17709 REACH REACH  Customer Route 
+42.194.164.0 42.194.178.255 AS3689 RIPE AS3689 route
+42.194.179.0 42.194.179.255 AS63849 NTTCOM Proxy-registered route object
+42.194.180.0 42.194.255.255 AS3689 RIPE AS3689 route
+42.195.133.0 42.195.133.255 AS63849 NTTCOM Proxy-registered route object
+42.195.199.0 42.195.199.255 AS63849 NTTCOM Proxy-registered route object
+42.197.0.0 42.199.63.255 AS17430 RADB PACNET  proxy-registered route object 
+42.200.224.0 42.200.255.255 AS4760 RADB PCCW  Customer Route 
+42.201.128.0 42.201.254.255 AS55714 SAVVIS Transworld via EMIX
+42.202.0.0 42.203.255.255 AS4134 SAVVIS CHINANET LiaoNing province network
+42.208.0.0 42.215.255.255 AS133855 RADB Proxy Entry for Client
+42.240.196.0 42.240.196.255 AS24155 RADB World Link International Network Co Limited
+42.240.220.0 42.240.220.255 AS17709 REACH REACH  Customer Route 
+42.242.0.0 42.243.255.255 AS4134 SAVVIS CHINANET YunNan PROVINCE NETWORK
+42.244.0.0 42.247.255.255 AS4538 RADB PACNET  proxy-registered route object 
+42.248.0.0 42.249.255.255 AS4134 SAVVIS CHINANET LiaoNing province network

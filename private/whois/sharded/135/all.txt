@@ -1,0 +1,103 @@
+135.0.0.0 135.0.159.255 AS54614 RADB CIK Telecom Inc.
+135.0.192.0 135.0.223.255 AS54614 RADB CIK Telecom Inc.
+135.8.0.0 135.10.245.255 AS18676 ARIN AVAYA Inc. 233 Mount Airy Road, 1C10 Basking Ridge, NJ 07920-2311 US
+135.10.246.0 135.10.246.255 AS16466 NTTCOM EnterpriseNetworks
+135.10.247.0 135.10.249.255 AS18676 ARIN AVAYA Inc. 233 Mount Airy Road, 1C10 Basking Ridge, NJ 07920-2311 US
+135.10.250.0 135.10.250.255 AS19379 LEVEL3 Route for Infocrossing
+135.10.251.0 135.11.255.255 AS18676 ARIN AVAYA Inc. 233 Mount Airy Road, 1C10 Basking Ridge, NJ 07920-2311 US
+135.12.8.0 135.12.15.255 AS2686 RIPE Routed by AT&T Business for AT&T GIDC / Celestica Firewall
+135.12.16.0 135.12.16.255 AS2685 GT Proxy-registered route object for GT
+135.12.32.0 135.12.47.255 AS2685 GT Proxy-registered route object for GT
+135.14.205.0 135.14.205.255 AS65211 RADB Avago
+135.14.209.0 135.14.209.255 AS19637 RADB An Orange Business customer
+135.14.210.0 135.14.211.255 AS4862 REACH REACH  Customer Route 
+135.14.212.0 135.14.212.255 AS19637 RADB Avago Technologies U.S. Inc.
+135.19.0.0 135.19.255.255 AS5769 RADB LOCAL18-121
+135.20.0.0 135.20.255.255 AS18676 ALTDB Proxy-registered route object for Avaya Inc. 211 Mount Airy Road Basking Ridge, NJ 07920
+135.22.0.0 135.22.255.255 AS3707 LEVEL3 a Digex network
+135.23.0.0 135.23.255.255 AS5645 RIPE TekSavvy Solutions, Inc.
+135.26.0.0 135.26.143.255 AS6300 RADB Consolidated Communications, Texas
+135.26.144.0 135.26.159.255 AS14051 RADB Consolidated Communications
+135.26.160.0 135.26.223.255 AS6300 RADB Consolidated Communications, Texas
+135.26.224.0 135.26.255.255 AS18712 RADB Consolidated Communications
+135.27.0.0 135.27.0.255 AS4657 REACH REACH  Customer Route 
+135.27.1.0 135.27.255.255 AS18676 ALTDB Proxy-registered route object for Avaya Inc. 211 Mount Airy Road Basking Ridge, NJ 07920
+135.35.0.0 135.35.255.255 AS18676 ALTDB Proxy-registered route object for Avaya Inc. 211 Mount Airy Road Basking Ridge, NJ 07920
+135.39.128.0 135.39.155.255 AS23197 ARIN GENESYS-SAAS UK
+135.39.165.0 135.39.165.255 AS14110 LEVEL3 Genesys Multihoming Block
+135.39.166.0 135.39.166.255 AS60665 ARIN GENESYS-DC
+135.55.0.0 135.56.255.255 AS18676 ALTDB Proxy-registered route object for Avaya Inc. 211 Mount Airy Road Basking Ridge, NJ 07920
+135.60.0.0 135.60.255.255 AS18676 ALTDB Proxy-registered route object for Avaya Inc. 211 Mount Airy Road Basking Ridge, NJ 07920
+135.64.0.0 135.64.255.255 AS18676 ALTDB Proxy-registered route object for Avaya Inc. 211 Mount Airy Road Basking Ridge, NJ 07920
+135.74.0.0 135.74.255.255 AS18676 ALTDB Proxy-registered route object for Avaya Inc. 211 Mount Airy Road Basking Ridge, NJ 07920
+135.76.9.0 135.76.9.255 AS2686 RIPE Routed by AT&T Business
+135.84.34.0 135.84.34.255 AS395027 LEVEL3 Switch Communications Customer Route
+135.84.132.0 135.84.135.255 AS394628 RADB Square corporate
+135.84.140.0 135.84.143.255 AS394620 ALTDB Proxy-registered route object
+135.84.144.0 135.84.145.255 AS30640 RADB Etheric Networks
+135.84.176.0 135.84.179.255 AS54527 RADB Astute Hosting Incorporated
+135.84.184.0 135.84.184.255 AS54527 RADB Astute Hosting Incorporated
+135.84.192.0 135.84.207.255 AS53435 RADB Jackson Engergy Authority
+135.84.208.0 135.84.215.255 AS53889 NTTCOM Micfo
+135.84.216.0 135.84.216.255 AS22773 LEVEL3 FED1 SAND-DATA-BUSINESS
+135.84.217.0 135.84.217.255 AS46475 ARIN Limestone Networks Inc. 400 S. Akard Street Dallas, TX 75202 US
+135.84.220.0 135.84.223.255 AS10835 RADB Proxy entry
+135.84.224.0 135.84.229.255 AS53435 RADB Jackson Engergy Authority
+135.84.230.0 135.84.230.255 AS22773 LEVEL3 KSCY KSCY-DATA-BUSINESS
+135.84.232.0 135.84.239.255 AS133847 REACH REACH  Customer Route 
+135.84.240.0 135.84.255.255 AS55303 REACH REACH  Customer Route 
+135.89.152.56 135.89.152.63 AS2386 RADB Proxy-registered route object
+135.89.154.152 135.89.154.159 AS2386 RADB Proxy-registered route object
+135.105.0.0 135.105.255.255 AS18676 ALTDB Proxy-registered route object for Avaya Inc. 211 Mount Airy Road Basking Ridge, NJ 07920
+135.106.0.0 135.106.255.255 AS4293 SAVVIS NCR route object
+135.109.76.0 135.109.76.255 AS7345 LEVEL3 Lucent.com Multi-homing block
+135.109.137.0 135.109.137.255 AS7345 LEVEL3 Lucent.com Multi-homing block
+135.118.6.0 135.118.9.255 AS10455 SAVVIS PNAP-NYC Lucent
+135.120.254.0 135.120.254.255 AS10455 SAVVIS PNAP-NYC Lucent
+135.122.0.0 135.125.255.255 AS18676 ALTDB Proxy-registered route object for Avaya Inc. 211 Mount Airy Road Basking Ridge, NJ 07920
+135.130.0.0 135.131.245.255 AS4293 SAVVIS NCR route object
+135.131.246.0 135.131.246.255 AS2686 RIPE NCR Corporation, Duesseldorf -------------------------------------------------------- Network assigned to NCR in ARIN For routing issues: noc@intl.att.com --------------------------------------------------------
+135.131.247.0 135.134.189.255 AS4293 SAVVIS NCR route object
+135.134.190.0 135.134.190.255 AS2686 RIPE NCR Corporation, Amboise, France -------------------------------------------------------- Network assigned to NCR in ARIN For routing issues: noc@intl.att.com --------------------------------------------------------
+135.134.191.0 135.137.255.255 AS4293 SAVVIS NCR route object
+135.148.0.0 135.148.255.255 AS18676 ALTDB Proxy-registered route object for Avaya Inc. 211 Mount Airy Road Basking Ridge, NJ 07920
+135.169.0.0 135.169.255.255 AS18676 ALTDB Proxy-registered route object for Avaya Inc. 211 Mount Airy Road Basking Ridge, NJ 07920
+135.180.0.0 135.180.255.255 AS7065 ALTDB Sonic.net
+135.196.0.0 135.196.12.255 AS8190 RIPE MDNX-NET
+135.196.13.0 135.196.13.255 AS31202 NTTCOM KPN International Customer Route
+135.196.14.0 135.196.255.255 AS8190 RIPE MDNX-NET
+135.209.64.0 135.209.95.255 AS22849 LEVEL3 Proxy-registered route object
+135.209.208.0 135.209.223.255 AS22849 LEVEL3 Proxy-registered route object
+135.211.200.0 135.211.200.255 AS20057 LEVEL3 An ATT Mobility Network
+135.211.206.0 135.211.206.255 AS20057 LEVEL3 An AT&T Mobility Network
+135.211.216.0 135.211.216.255 AS20057 LEVEL3 An ATT Mobility Network
+135.211.221.0 135.211.221.255 AS20057 LEVEL3 An AT&T Mobility Network
+135.211.232.0 135.211.232.255 AS20057 LEVEL3 An ATT Mobility Network
+135.211.237.0 135.211.237.255 AS20057 LEVEL3 An AT&T Mobility Network
+135.211.248.0 135.211.248.255 AS20057 LEVEL3 An ATT Mobility Network
+135.211.254.0 135.211.254.255 AS20057 LEVEL3 An AT&T Mobility Network
+135.224.96.0 135.224.127.255 AS10455 RADB Registered by Starhub on behalf of Lucent Technologies Singapore
+135.224.192.0 135.224.255.255 AS8983 RIPE Alcatel
+135.236.64.0 135.236.127.255 AS8983 RIPE Alcatel-lucent
+135.238.128.0 135.238.159.255 AS8983 RIPE Alcatel
+135.241.32.0 135.241.47.255 AS4657 RADB Alcatel-Lucent Singapore Pte Ltd
+135.244.16.0 135.244.31.255 AS10455 SAVVIS PNAP-NYC lucent-routes
+135.244.96.0 135.244.111.255 AS18101 RADB RIL-IDC-VSNL Route Object
+135.244.112.0 135.244.127.255 AS4657 RADB StarHub Internet Pte Ltd
+135.244.128.0 135.244.131.255 AS10223 RADB Uecomm Pty Ltd
+135.244.160.0 135.244.175.255 AS10455 RADB Lucent Technologies Inc
+135.244.176.0 135.244.191.255 AS41581 RIPE Alcatel-Lucent Deutschland part of LUCENT-135-220-248-B belongs to 135.224.0.0/11 registered at ARIN
+135.244.192.0 135.244.255.255 AS29150 RIPE Alcatel-Lucent EMEA/FR
+135.245.64.0 135.245.79.255 AS3320 RIPE part of LUCENT-135-220-248-B belongs to 135.220.0.0/14 registered at ARIN
+135.245.96.0 135.245.111.255 AS18101 RADB Reliance Customer LUCENT
+135.245.112.0 135.245.114.255 AS4657 RADB StarHub Internet Pte Ltd
+135.245.115.0 135.245.117.255 AS10455 RADB Registered by Starhub on behalf of Lucent Technologies Singapore
+135.245.118.0 135.245.127.255 AS4657 RADB Alcatel-Lucent Singapore Pte Ltd
+135.245.128.0 135.245.131.255 AS10223 RADB Uecomm Pty Ltd
+135.245.160.0 135.245.175.255 AS10455 RADB Lucent Technologies Inc
+135.245.192.0 135.245.255.255 AS8983 RIPE Alcatel
+135.249.0.0 135.250.255.255 AS10455 RADB RCOM_CUSTOMER_ALCATEL_LUCENT
+135.253.136.0 135.253.143.255 AS10455 RADB Registered by Starhub on behalf of Lucent Technologies Singapore
+135.254.0.0 135.254.155.255 AS1221 REACH REACH  Customer Route 
+135.254.156.0 135.254.255.255 AS10455 RADB ALCATEL - LUCENT INDIA LIMITED - RCOM customer
+135.255.200.0 135.255.203.255 AS264512 BBOI G8 Networks

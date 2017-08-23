@@ -1,0 +1,862 @@
+138.0.12.0 138.0.15.255 AS18747 NTTCOM TELMEX-CL-SSEE cliente  IFX
+138.0.16.0 138.0.19.255 AS7738 RADB Proxy-registered route object
+138.0.24.0 138.0.27.255 AS264539 RADB Erik Lucas Barbosa
+138.0.28.0 138.0.31.255 AS264529 NTTCOM Embratel Customer
+138.0.32.0 138.0.35.255 AS262755 NTTCOM Embratel Customer
+138.0.36.0 138.0.39.255 AS28173 NTTCOM Prefixo Dinamica
+138.0.40.0 138.0.43.255 AS52320 RADB GlobeNet
+138.0.44.0 138.0.47.255 AS262369 RADB Solicitado por OK Virtual. Dic 29 2014
+138.0.56.0 138.0.59.255 AS28513 LEVEL3 ARGENTINA
+138.0.60.0 138.0.63.255 AS264545 RADB AS264545
+138.0.64.0 138.0.67.255 AS262595 BBOI G8 Networks
+138.0.68.0 138.0.71.255 AS264536 RADB OptiTel Customers
+138.0.72.0 138.0.75.255 AS264531 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.0.84.0 138.0.87.255 AS264537 BBOI G8 Networks
+138.0.88.0 138.0.88.255 AS264646 RADB DOBLECLICK SOFTWARE E INGENERIA
+138.0.89.0 138.0.89.255 AS263819 RADB Prefijo Mediacommerce 07Sep2015
+138.0.90.0 138.0.90.255 AS27951 RADB ITX-MC
+138.0.100.0 138.0.103.255 AS53059 BBOI G8 Networks
+138.0.108.0 138.0.111.255 AS264546 BBOI G8 Networks
+138.0.112.0 138.0.115.255 AS264544 NTTCOM SUPERNOVA IPv4 Network
+138.0.124.0 138.0.127.255 AS264548 NTTCOM Rede Brasileira de Comunicacao Ltda
+138.0.136.0 138.0.139.255 AS264550 RADB G8 Networks
+138.0.140.0 138.0.143.255 AS264551 RADB Bloco de ips cliente "fb" criado pela equipe Durand do Brazil
+138.0.156.0 138.0.159.255 AS52236 RADB G2KHosting S.A
+138.0.160.0 138.0.163.255 AS264555 NTTCOM Embratel Customer
+138.0.168.0 138.0.171.255 AS263592 TC FRANCISCO MARQUES VIEIRA GONCALVES ME
+138.0.172.0 138.0.175.255 AS264552 BBOI G8 Networks
+138.0.188.0 138.0.191.255 AS52838 BBOI G8 Networks
+138.0.192.0 138.0.195.255 AS28131 TC NET.COM TELECOMUNICACOES LTDA
+138.0.196.0 138.0.199.255 AS263073 RADB AS263073
+138.0.200.0 138.0.203.255 AS263581 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.0.212.0 138.0.215.255 AS264554 BBOI G8 Networks
+138.0.216.0 138.0.219.255 AS264559 RADB Bloco de Ips cliente "Kerax/Inovti" criado pela equipe da Durand do Brazil
+138.0.224.0 138.0.227.255 AS263264 BBOI G8 Networks
+138.0.228.0 138.0.231.255 AS263725 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.0.232.0 138.0.235.255 AS264567 NTTCOM Embratel Customer
+138.0.240.0 138.0.243.255 AS27932 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.0.248.0 138.0.251.255 AS263629 NTTCOM Embratel Customer
+138.0.252.0 138.0.255.255 AS264561 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.4.0.0 138.4.255.255 AS766 RIPE UPM
+138.6.0.0 138.6.255.255 AS38956 RIPE UPPSALA-SE
+138.7.0.0 138.7.255.255 AS7575 RADB AIMS Townsville
+138.8.0.0 138.8.255.255 AS6195 RADB Goldman, Sachs & Co.
+138.9.0.0 138.9.4.255 AS18663 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+138.9.5.0 138.9.5.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+138.9.6.0 138.9.255.255 AS18663 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+138.11.0.0 138.11.255.255 AS4469 ROGERS prefix transits through AS3602
+138.12.0.0 138.12.255.255 AS1757 SAVVIS LEXISNEXIS
+138.14.0.0 138.14.243.255 AS2119 RIPE NET-NOBEL
+138.14.244.0 138.14.244.255 AS3301 RIPE TELIANET-BLK Saab Bofors Dynamics AB
+138.14.245.0 138.14.255.255 AS2119 RIPE NET-NOBEL
+138.16.0.0 138.16.191.255 AS22773 LEVEL3 RI CBS TRANSIT
+138.16.192.0 138.16.223.255 AS11078 SAVVIS Brown-Univ-138-16-192-0-19
+138.16.224.0 138.16.255.255 AS22773 LEVEL3 NETBLK-RI-OFF-HFC-CBS-138-16-224-0
+138.18.0.0 138.18.255.255 AS668 RADB Defense Research and Engineering Network US Army Research Lab AMSRL-CI-A  Rodger Johnson  Aberdeen Proving Ground MD 21005-5067, USA
+138.19.0.0 138.19.255.255 AS9269 REACH REACH  Customer Route 
+138.20.184.0 138.20.184.255 AS5049 SAVVIS PNAP-NYM
+138.20.185.0 138.20.185.255 AS21439 RIPE MORGAN-STANLEY
+138.21.3.0 138.21.4.255 AS8528 RIPE RENAULT
+138.21.12.0 138.21.12.255 AS8528 RIPE RENAULT
+138.21.18.0 138.21.18.255 AS8528 RIPE RENAULT
+138.21.56.0 138.21.56.255 AS8528 RIPE RENAULT
+138.21.78.0 138.21.78.255 AS8528 RIPE RENAULT
+138.21.113.0 138.21.113.255 AS8528 RIPE RENAULT
+138.21.148.0 138.21.148.255 AS8528 RIPE RENAULT
+138.22.0.0 138.22.255.255 AS1853 RIPE ZAMGNET-WIEN
+138.23.0.0 138.23.255.255 AS6106 RADB NET-UC-Riverside
+138.24.0.0 138.24.0.255 AS1221 REACH REACH  Customer Route 
+138.24.1.0 138.24.1.255 AS38809 NTTCOM NXG-REF-20126-6476
+138.24.2.0 138.24.255.255 AS1221 REACH REACH  Customer Route 
+138.25.0.0 138.25.155.255 AS7575 RADB NSW AARNet
+138.25.156.0 138.25.156.255 AS7570 RADB UTS, NSWRNO, AARNet
+138.25.157.0 138.25.247.255 AS7575 RADB NSW AARNet
+138.25.248.0 138.25.251.255 AS10143 NTTCOM EXETEL-AUS-140
+138.25.252.0 138.25.255.255 AS7575 RADB NSW AARNet
+138.26.0.0 138.26.187.255 AS3452 LEVEL3 Proxy-registered route object
+138.26.188.0 138.26.191.255 AS3223 RADB voxility.net
+138.26.192.0 138.26.255.255 AS3452 LEVEL3 Proxy-registered route object
+138.28.0.0 138.28.255.255 AS600 RADB OARnet
+138.29.0.0 138.29.255.255 AS22742 LEVEL3 Proxy-registered route object
+138.32.0.0 138.32.7.255 AS4761 RADB Proxy-registered route object
+138.32.8.0 138.32.11.255 AS8047 SAVVIS GCI-INET-02
+138.32.12.0 138.32.15.255 AS15269 RADB NET-138-32-0-0-1
+138.32.16.0 138.32.19.255 AS18701 NTTCOM NXG-REF-109000-6618
+138.32.20.0 138.32.87.255 AS4761 RADB Proxy-registered route object
+138.32.88.0 138.32.91.255 AS18701 RADB Q9 Networks Inc. for ConocoPhillips
+138.32.92.0 138.32.167.255 AS4761 RADB Proxy-registered route object
+138.32.168.0 138.32.171.255 AS3292 RIPE ConocoPhillips Norway TDC Song AS
+138.32.172.0 138.32.175.255 AS4761 RADB Proxy-registered route object
+138.32.176.0 138.32.191.255 AS18701 LEVEL3 Proxy-registered route object
+138.32.192.0 138.32.231.255 AS4761 RADB Proxy-registered route object
+138.32.232.0 138.32.235.255 AS852 RADB PPCO
+138.32.236.0 138.32.236.255 AS45147 NTTCOM route-object for AS23947
+138.32.237.0 138.32.237.255 AS17974 RADB PT. TELKOM INDONESIA
+138.32.238.0 138.32.239.255 AS4761 RADB Proxy-registered route object
+138.32.240.0 138.32.243.255 AS4826 LEVEL3 VOCUS-CUST-AS4802
+138.32.244.0 138.32.247.255 AS4761 RADB Proxy-registered route object
+138.32.248.0 138.32.255.255 AS9911 RADB ConocoPhillips
+138.33.0.0 138.33.255.255 AS4503 RADB Grady Memorial Hospital
+138.34.0.0 138.34.3.255 AS7456 SAVVIS Peer1 Route Object
+138.34.4.0 138.34.7.255 AS32710 RADB NET-138-34-4-0-22-YYZ
+138.34.8.0 138.34.9.255 AS7456 SAVVIS Peer1 Route Object
+138.34.10.0 138.34.14.255 AS19752 RADB TeloIP
+138.34.15.0 138.34.15.255 AS16570 ALTDB Proxy Registered for TeloIP by Telx
+138.34.16.0 138.34.19.255 AS36493 SAVVIS Peer1 Route Object
+138.34.20.0 138.34.20.255 AS32277 ARIN ETA Technologies Corporation 2-254 Hastings St. North P.O. Box 1226 Bancroft ON. K0L 1C0 CA
+138.34.21.0 138.34.21.255 AS11727 RADB Bruce Telecom
+138.34.22.0 138.34.23.255 AS7456 SAVVIS Peer1 Route Object
+138.34.24.0 138.34.27.255 AS32710 RADB NET-138-34-24-0-22-YYZ
+138.34.28.0 138.34.47.255 AS7456 SAVVIS Peer1 Route Object
+138.34.48.0 138.34.51.255 AS16570 ALTDB Proxy Registered for TeloIP by Telx
+138.34.52.0 138.34.247.255 AS7456 SAVVIS Peer1 Route Object
+138.34.248.0 138.34.248.255 AS36493 SAVVIS Peer1 Route Object
+138.34.249.0 138.34.249.255 AS803 SAVVIS Peer1 Route Object
+138.34.250.0 138.34.251.255 AS7456 RADB Ikano IP address block
+138.34.252.0 138.34.252.255 AS36493 SAVVIS Peer1 Route Object
+138.34.253.0 138.34.255.255 AS7456 SAVVIS Peer1 Route Object
+138.35.77.0 138.35.77.255 AS19647 LEVEL3 Switch Communications Customer Route
+138.35.142.0 138.35.142.255 AS6301 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+138.35.158.0 138.35.161.255 AS6301 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+138.36.0.0 138.36.3.255 AS264562 RADB AS254562
+138.36.4.0 138.36.7.255 AS264564 TC VIVA SERVICOS DE COMUNICACAO LTDA - ME
+138.36.8.0 138.36.9.255 AS34444 RIPE JCP MELO - INTERNET SAT SERVICOS DE TELECOMUNICACOES LTDA
+138.36.12.0 138.36.15.255 AS34444 RIPE J C P DE MELO TELECOMUNICACOES
+138.36.24.0 138.36.27.255 AS23520 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.36.28.0 138.36.31.255 AS52807 BBOI G8 Networks
+138.36.32.0 138.36.35.255 AS14868 ALTDB COPEL Telecomunicacoes S.A. Curitiba - Parana- Brazil +55-41-3230-9257
+138.36.36.0 138.36.39.255 AS264568 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.36.52.0 138.36.55.255 AS28513 LEVEL3 CLARO_ARGENTINA
+138.36.65.0 138.36.65.255 AS19429 RADB Ruta agregada por Universidad de Ibague
+138.36.68.0 138.36.71.255 AS61797 BBOI G8 Networks
+138.36.76.0 138.36.77.255 AS262159 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS262159  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+138.36.78.0 138.36.78.255 AS26159 NTTCOM ENTEL S.A. BOLIVIA
+138.36.79.0 138.36.79.255 AS262159 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS262159  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+138.36.84.0 138.36.87.255 AS264572 NTTCOM Embratel Customer
+138.36.88.0 138.36.91.255 AS28294 RADB Univox
+138.36.92.0 138.36.95.255 AS27932 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.36.100.0 138.36.103.255 AS264599 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.36.108.0 138.36.111.255 AS264574 BBOI G8 Networks
+138.36.112.0 138.36.115.255 AS264576 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.36.128.0 138.36.131.255 AS264579 BBOI G8 Networks
+138.36.140.0 138.36.143.255 AS28257 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.36.148.0 138.36.151.255 AS52251 RADB This route object is for IFX Networks customer route which is being exported under this origin AS 52251
+138.36.152.0 138.36.155.255 AS28453 RADB auto-generated route object for 138.36.152.0/22
+138.36.156.0 138.36.159.255 AS52717 BBOI G8 Networks
+138.36.160.0 138.36.163.255 AS52610 TC Giga Internet
+138.36.164.0 138.36.167.255 AS263444 TC Open X Tecnologia Ltda
+138.36.172.0 138.36.175.255 AS263554 RADB Bloco de IPs cliente "Persis/Persio" criado pela equipe Durand do Brasil
+138.36.176.0 138.36.179.255 AS52568 TC B. & S. COMERCIO E SERVICOS LTDA
+138.36.180.0 138.36.183.255 AS262272 RADB Bloco de IPÂ´s cliente "Ensite/Fit" criado pela equipe Durand do Brazil
+138.36.188.0 138.36.191.255 AS3223 RADB voxility.net
+138.36.228.0 138.36.231.255 AS264598 BBOI G8 Networks
+138.36.240.0 138.36.243.255 AS264589 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.36.244.0 138.36.245.255 AS262814 NTTCOM Embratel Customer
+138.36.248.0 138.36.251.255 AS61934 BBOI G8 Networks
+138.37.0.0 138.38.255.255 AS786 RIPE Queen Mary & Westfield College Mile End Road London E1 4NS UNITED KINGDOM
+138.39.0.0 138.39.6.255 AS5665 LEVEL3 Proxy-registered route object
+138.39.7.0 138.39.7.255 AS17347 RADB Prolexic Technologies, Inc.
+138.39.8.0 138.39.255.255 AS5665 LEVEL3 Proxy-registered route object
+138.40.0.0 138.40.255.255 AS786 RIPE City University 10 Northampton Sq. London EC1V 0HB UNITED KINGDOM
+138.41.0.0 138.41.255.255 AS137 RIPE GARR routes
+138.42.0.0 138.42.112.255 AS6126 ARIN Computer Associates International 1 CA Plaza Islandia, NY, 11749 US
+138.42.113.0 138.42.113.255 AS18747 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS 18747
+138.42.114.0 138.42.255.255 AS6126 ARIN Computer Associates International 1 CA Plaza Islandia, NY, 11749 US
+138.44.0.0 138.44.31.255 AS7570 RADB NSWRNO, AARNET
+138.44.32.0 138.44.63.255 AS7572 RADB ACTRNO, AARNET
+138.44.64.0 138.44.135.255 AS7575 RADB AARNet Pty Ltd
+138.44.136.0 138.44.159.255 AS4738 RADB linux.conf.au, Adelaide, South Australia
+138.44.160.0 138.44.255.255 AS7575 RADB AARNet Pty Ltd
+138.46.0.0 138.46.51.255 AS6938 LEVEL3 Proxy-registered route object
+138.46.52.0 138.46.53.255 AS20416 LEVEL3 Proxy-registered route object
+138.46.54.0 138.46.61.255 AS6938 LEVEL3 Proxy-registered route object
+138.46.62.0 138.46.62.255 AS20416 ALTDB Proxy-registered route object for General Cable Corporation 4 Tesseneer Drive Highland Heights, KY 41076
+138.46.63.0 138.46.63.255 AS10796 RADB RR-RC-General Cable Corporation-Louisville
+138.46.64.0 138.46.255.255 AS6938 LEVEL3 Proxy-registered route object
+138.47.0.0 138.47.159.255 AS19564 LEVEL3 Proxy-registered route object
+138.47.160.0 138.47.255.255 AS32440 RADB LaTech University Originating AS 19564
+138.48.0.0 138.48.255.255 AS2611 RIPE FUNDP-AC-BE
+138.49.0.0 138.49.255.255 AS3128 ARIN UW-LaCrosse
+138.50.0.0 138.50.255.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+138.51.0.0 138.51.255.255 AS549 canarie GTAnet  UofT 
+138.57.123.0 138.57.123.255 AS14000 LEVEL3 NETBLK-SHELL-MEX  atraves de AXTEL 
+138.58.0.0 138.58.255.255 AS2874 RIPE BEABNET
+138.59.12.0 138.59.15.255 AS27750 RADB Terremark-Proxy for Clara
+138.59.16.0 138.59.19.255 AS52423 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+138.59.24.0 138.59.27.255 AS27665 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.59.44.0 138.59.47.255 AS264595 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.59.48.0 138.59.51.255 AS264597 RADB Prefixo AS264597
+138.59.52.0 138.59.55.255 AS264594 NTTCOM Embratel Customer
+138.59.100.0 138.59.103.255 AS61871 TC SiqueiraLink Internet Banda Larga
+138.59.112.0 138.59.115.255 AS28606 ALTDB FSOnline
+138.59.124.0 138.59.127.255 AS262971 BBOI G8 Networks
+138.59.128.0 138.59.131.255 AS53222 RADB OptiTel Customers
+138.59.132.0 138.59.135.255 AS28110 RADB Rack Lodge S.A.
+138.59.136.0 138.59.139.255 AS264199 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.59.140.0 138.59.143.255 AS263737 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS 263737
+138.59.148.0 138.59.151.255 AS197426 RIPE Bitcanal DE
+138.59.156.0 138.59.159.255 AS263042 TC DELTA TELECOMUNICACOES LTDA
+138.59.160.0 138.59.163.255 AS15256 NTTCOM Embratel Customer
+138.59.192.0 138.59.195.255 AS264133 BBOI G8 Networks
+138.59.196.0 138.59.199.255 AS264109 RADB Prefix for AS264109
+138.59.204.0 138.59.207.255 AS263735 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.59.212.0 138.59.215.255 AS264110 RADB Bloco de IPÂ´s cliente "Hostlocation/Econect" criado pelo equipe Durand do Brazil
+138.59.220.0 138.59.223.255 AS264127 TC EMITEL - EMPRESA DE INFORMÃTICA E TELECOMUNICAÃÃES
+138.59.228.0 138.59.231.255 AS264113 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.59.236.0 138.59.239.255 AS263154 NTTCOM Rede Brasileira de Comunicacao Ltda
+138.59.248.0 138.59.251.255 AS52858 BBOI G8 Networks
+138.62.0.0 138.62.255.255 AS2116 RIPE NSB-NET
+138.63.0.0 138.63.255.255 AS2200 RIPE RENATER FRANCE
+138.64.0.0 138.64.255.255 AS2035 SAVVIS ATK-NET
+138.66.0.0 138.66.255.255 AS20981 RIPE INNOVAPUGLIA-NET InnovaPuglia SpA
+138.67.0.0 138.67.255.255 AS14041 LEVEL3 Colorado School of Mines 1500 Illinois Street Golden, CO 80401, USA
+138.68.0.0 138.68.63.255 AS14061 RADB DigitalOcean
+138.68.192.0 138.68.199.255 AS14061 RADB DigitalOcean
+138.68.208.0 138.68.223.255 AS14061 RADB DigitalOcean
+138.69.152.0 138.69.167.255 AS22907 RADB Proxy registration for route by Cablevision  AS  customer
+138.69.196.0 138.69.199.255 AS22907 RADB Proxy registration for route by Cablevision  AS  customer
+138.69.200.0 138.69.201.255 AS14566 RADB QTS-Proxy-Xerox
+138.70.0.0 138.70.255.255 AS6 RADB PR-BULL-ITALY Bull HN Information Systems Technology Park Billerica, MA 01821-4119 USA
+138.71.0.0 138.71.255.255 AS1221 REACH REACH  Customer Route 
+138.73.0.0 138.73.255.255 AS611 canarie Mount Allison University  NET-MTA-IPNET 
+138.74.0.0 138.74.127.255 AS22561 SAVVIS add route
+138.74.128.0 138.74.255.255 AS2041 RADB St Norbert College
+138.75.0.0 138.75.255.255 AS4773 RADB M1 Limited Internet Service Provider 10 International Business Park, Singapore 609928
+138.76.0.0 138.76.255.255 AS270 RADB NASA Headquarters Code M Washington DC 20546, USA
+138.77.0.0 138.77.255.255 AS24433 RADB Central Queensland University
+138.78.0.0 138.78.255.255 AS27026 RADB networkMaryland
+138.79.0.0 138.79.255.255 AS7474 RADB BlueFire Group
+138.80.0.0 138.80.0.255 AS56220 RADB AMCOMM
+138.80.1.0 138.80.207.255 AS58611 RADB Charles Darwin University, NT
+138.80.208.0 138.80.223.255 AS7575 RADB AARNet
+138.80.224.0 138.80.255.255 AS58611 RADB Charles Darwin University, NT
+138.81.0.0 138.81.255.255 AS8220 RIPE COLT Internet CH
+138.83.0.0 138.83.255.255 AS6984 LEVEL3 New route for Verizon
+138.85.0.0 138.85.255.255 AS8147 RADB Ericsson US
+138.86.0.0 138.86.0.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+138.86.1.0 138.86.255.255 AS15295 LEVEL3 UniversityNorthernColorado
+138.87.0.0 138.87.255.255 AS7386 ARIN Illinois State University
+138.90.0.0 138.90.255.255 AS19678 LEVEL3 FOCC-CUST-138.90.0.0/16
+138.91.0.0 138.91.255.255 AS8075 NTTCOM CMI IP Transit
+138.92.0.0 138.92.255.255 AS11482 ARIN Canisius College 2001 Main St. Buffalo, NY. 14208
+138.94.8.0 138.94.11.255 AS28360 RADB G8 Networks
+138.94.24.0 138.94.27.255 AS264108 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.94.32.0 138.94.35.255 AS264121 RADB Prefix for AS264121
+138.94.44.0 138.94.47.255 AS264125 RADB Bloco de Ips cliente "Netell/UN" criado pela equipe DUrand do Brazil
+138.94.48.0 138.94.51.255 AS264124 RADB AS264124
+138.94.56.0 138.94.59.255 AS263749 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.94.64.0 138.94.67.255 AS264135 RADB OptiTel Customers
+138.94.68.0 138.94.71.255 AS263471 RADB G8 Networks
+138.94.72.0 138.94.75.255 AS262848 RADB Prefixo AS262848
+138.94.76.0 138.94.79.255 AS28283 RADB Prefixo AS263649
+138.94.88.0 138.94.91.255 AS264152 RADB OptiTel Customers
+138.94.92.0 138.94.95.255 AS264145 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.94.104.0 138.94.107.255 AS264134 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.94.108.0 138.94.111.255 AS262293 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.94.116.0 138.94.119.255 AS52612 TC ALT INFORMATICA LTDA
+138.94.120.0 138.94.123.255 AS263745 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.94.128.0 138.94.131.255 AS264179 NTTCOM GL DUARTE IPv4 Network
+138.94.140.0 138.94.143.255 AS28397 RADB auto-generated route object for 138.94.140.0/22
+138.94.164.0 138.94.167.255 AS64180 BBOI G8 Networks
+138.94.168.0 138.94.171.255 AS264183 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.94.172.0 138.94.175.255 AS264168 NTTCOM Embratel Customer
+138.94.176.0 138.94.179.255 AS264165 BBOI G8 Networks
+138.94.180.0 138.94.183.255 AS264176 RADB OptiTel Customers
+138.94.188.0 138.94.191.255 AS264175 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.94.192.0 138.94.195.255 AS264186 RADB Bloco de IpÂ´s cliente "Netell/Agrestenet" criado pela equipe da Durand do Brazil
+138.94.196.0 138.94.199.255 AS264516 BBOI G8 Networks
+138.94.200.0 138.94.203.255 AS3223 RADB This is a Voxility customer route-object which is being exported under this origin AS264409 This route object was created because no existing route object with the same origin was found. Please contact noc@voxility.com if you have any questions regarding this object.
+138.94.204.0 138.94.207.255 AS264187 BBOI G8 Networks
+138.94.208.0 138.94.211.255 AS264194 RADB OptiTel Customers
+138.94.212.0 138.94.215.255 AS264174 RADB AS264174
+138.94.216.0 138.94.219.255 AS263744 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.94.228.0 138.94.231.255 AS52751 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.94.232.0 138.94.235.255 AS262887 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.94.236.0 138.94.239.255 AS264177 TC NETTCON PROVEDOR DE INTERNET LTDA - ME
+138.94.240.0 138.94.243.255 AS263222 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.94.248.0 138.94.251.255 AS19863 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.96.0.0 138.96.255.255 AS2200 RIPE FR-INRIA-SOPHIA-B
+138.97.4.0 138.97.7.255 AS263037 NTTCOM Embratel Customer
+138.97.12.0 138.97.15.255 AS264111 BBOI G8 Networks
+138.97.16.0 138.97.19.255 AS52604 RADB OptiTel Customers
+138.97.20.0 138.97.23.255 AS264112 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.97.28.0 138.97.31.255 AS264117 BBOI G8 Networks
+138.97.36.0 138.97.39.255 AS264129 RADB Bloco de Ips Cliente "Gabriel" criado pela equipe da Durand do Brazil
+138.97.52.0 138.97.55.255 AS264128 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.97.60.0 138.97.63.255 AS264130 TC RADIONET TELECOM
+138.97.64.0 138.97.67.255 AS264142 RADB ITX-COMSINAL
+138.97.80.0 138.97.83.255 AS27937 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.97.88.0 138.97.91.255 AS264146 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.97.92.0 138.97.95.255 AS264158 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.97.97.0 138.97.97.255 AS264137 NTTCOM Embratel Customer
+138.97.104.0 138.97.107.255 AS264182 RADB Bloco de IpsÂ´cliente "Silicom" criado pela equipe da Durand do Brazil
+138.97.112.0 138.97.115.255 AS264163 NTTCOM Embratel Customer
+138.97.116.0 138.97.119.255 AS264162 RADB NC-announce-ACRIO
+138.97.124.0 138.97.127.255 AS264144 TC ASAP GLOBAL TELECOM LTDA
+138.97.128.0 138.97.131.255 AS263017 RADB OptiTel Customers
+138.97.152.0 138.97.155.255 AS214192 BBOI G8 Networks
+138.97.164.0 138.97.167.255 AS264189 TC MINUTOS TELECOM SERVICOS EM INFORMATICA E TELECOM
+138.97.168.0 138.97.171.255 AS11888 RADB Television internacional
+138.97.180.0 138.97.183.255 AS264206 RADB OptiTel Customers
+138.97.184.0 138.97.187.255 AS264193 NTTCOM Embratel Customer
+138.97.208.0 138.97.211.255 AS264211 RADB AS264211
+138.97.220.0 138.97.223.255 AS264209 BBOI G8 Networks
+138.97.224.0 138.97.227.255 AS264208 TC L L NET COMERCIO E SERVIÃO DE INFORMATICA LTDA ME
+138.97.228.0 138.97.231.255 AS61904 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.97.248.0 138.97.251.255 AS23520 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.98.0.0 138.98.255.255 AS68 RADB Network Operations Center Los Alamos National Laboratory Los Alamos NM 87545, USA
+138.99.0.0 138.99.3.255 AS26617 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.99.12.0 138.99.15.255 AS264150 RADB Bloco de ipÂ´s cliente "NBTelecom/Gigaflex" criado pela equipe Flys
+138.99.16.0 138.99.19.255 AS264159 NTTCOM Embratel Customer
+138.99.20.0 138.99.23.255 AS262883 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.99.32.0 138.99.35.255 AS28173 NTTCOM Prefixo Dinamica
+138.99.40.0 138.99.43.255 AS263086 RADB AS263086
+138.99.52.0 138.99.55.255 AS28577 RADB OptiTel Customers
+138.99.68.0 138.99.71.255 AS264160 RADB PRYMUS
+138.99.72.0 138.99.75.255 AS264178 BBOI G8 Networks
+138.99.84.0 138.99.87.255 AS262802 NTTCOM Embratel Customer
+138.99.92.0 138.99.95.255 AS264161 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.99.104.0 138.99.107.255 AS52764 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.99.108.0 138.99.111.255 AS3223 RADB This is a Voxility customer route-object which is being exported under this origin AS264409 This route object was created because no existing route object with the same origin was found. Please contact noc@voxility.com if you have any questions regarding this object.
+138.99.112.0 138.99.115.255 AS262544 RADB OptiTel Customers
+138.99.116.0 138.99.119.255 AS53233 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.99.120.0 138.99.123.255 AS61440 RADB Datasec Holding Ltd
+138.99.124.0 138.99.125.255 AS18747 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS 18747
+138.99.132.0 138.99.135.255 AS264215 RADB GoTelecom
+138.99.136.0 138.99.139.255 AS61497 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.99.144.0 138.99.144.255 AS21321 RADB Client - Proxy Object
+138.99.148.0 138.99.149.255 AS28398 RADB auto-generated route object for 138.99.148.0/23
+138.99.150.0 138.99.151.255 AS32098 RADB Cust: Megacable
+138.99.152.0 138.99.155.255 AS264205 RADB AS264205
+138.99.160.0 138.99.163.255 AS264212 RADB Blocos de IpÂ´s cliente "Neovia/Impacto" criado pela equipe Durand do Brazil
+138.99.164.0 138.99.167.255 AS264211 TC A C Gomes-ME
+138.99.176.0 138.99.179.255 AS52439 NTTCOM TELMEX-CL-SSEE cliente  OPTIC
+138.99.180.0 138.99.183.255 AS262199 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.99.192.0 138.99.195.255 AS52760 BBOI G8 Networks
+138.99.204.0 138.99.207.255 AS52686 BBOI G8 Networks
+138.99.212.0 138.99.215.255 AS27660 RADB Curacao Full 02
+138.99.216.0 138.99.219.255 AS60117 RIPE BZ-HOSTSAILOR 138.99.216.0/24
+138.99.228.0 138.99.231.255 AS52977 RADB OptiTel Customers
+138.99.236.0 138.99.239.255 AS52471 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.99.240.0 138.99.243.255 AS28198 RADB G8 Networks
+138.99.244.0 138.99.247.255 AS28173 NTTCOM Prefixo Dinamica
+138.100.0.0 138.100.255.255 AS766 RIPE UPM
+138.101.0.0 138.101.255.255 AS9593 RADB Nihon Keizai Shimbun,Inc. NIKKEI
+138.102.0.0 138.102.255.255 AS2200 RIPE FR-INRA-ILE-DE-FRANCE
+138.104.0.0 138.104.3.255 AS1290 RIPE MOTTMAC-ROUTE
+138.104.4.0 138.104.4.255 AS4739 NTTCOM Internode
+138.104.5.0 138.104.39.255 AS1290 RIPE MOTTMAC-ROUTE
+138.104.40.0 138.104.40.255 AS4589 RIPE Mott MacDonald
+138.104.41.0 138.104.219.255 AS1290 RIPE MOTTMAC-ROUTE
+138.104.220.0 138.104.220.255 AS4589 RIPE MOTTMAC-UK-ROUTE
+138.104.221.0 138.104.221.255 AS1290 RIPE MOTTMAC-ROUTE
+138.104.222.0 138.104.222.255 AS4589 RIPE MOTTMAC-ROUTE
+138.104.223.0 138.104.225.255 AS1290 RIPE MOTTMAC-ROUTE
+138.104.226.0 138.104.227.255 AS6453 RIPE EUNA-DC
+138.104.228.0 138.104.229.255 AS4755 RIPE MESA-DC
+138.104.230.0 138.104.230.255 AS6421 RIPE APNA-DC
+138.104.231.0 138.104.232.255 AS6453 RIPE APNA-DC
+138.104.233.0 138.104.255.255 AS1290 RIPE MOTTMAC-ROUTE
+138.106.0.0 138.106.255.255 AS1257 RIPE SCANIA-NET In case of improper use originating from our network, please mail customer or abuse@swip.net
+138.107.0.0 138.107.255.255 AS2497 JPIRR Olympus Optical Co., Ltd. 2951 Ishikawa-cho, Hachioji-shi, Tokyo, 192-8507 Japan
+138.108.0.0 138.108.2.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.3.0 138.108.3.255 AS19606 RADB RR-RC-Nielsen Media Research-TampaBay
+138.108.4.0 138.108.7.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.8.0 138.108.8.255 AS19606 RADB RR-RC-Nielsen Media Research-TampaBay
+138.108.9.0 138.108.9.255 AS13343 RADB RR-Route
+138.108.10.0 138.108.10.255 AS19606 RADB RR-RC-Nielsen Media Research-TampaBay
+138.108.11.0 138.108.12.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.13.0 138.108.31.255 AS30023 ALTDB Proxy-registered route object for Cincinnati Bell Technology Solutions 121-300 Cincinnati, OH 45202
+138.108.32.0 138.108.33.255 AS8151 LEVEL3 NIELSEN_MEXICO_CORP
+138.108.34.0 138.108.38.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.39.0 138.108.39.255 AS8151 LEVEL3 Nielsen_Company
+138.108.40.0 138.108.41.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.42.0 138.108.42.255 AS19746 ALTDB LAYER42 PROXY
+138.108.43.0 138.108.44.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.45.0 138.108.45.255 AS8151 LEVEL3 NIELSEN_MEXICO_CORP
+138.108.46.0 138.108.47.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.48.0 138.108.49.255 AS16477 RIPE nielsen route
+138.108.50.0 138.108.53.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.54.0 138.108.54.255 AS30023 ALTDB Proxy-registered route object for Cincinnati Bell Technology Solutions 121-300 Cincinnati, OH 45202
+138.108.55.0 138.108.55.255 AS12110 SAVVIS PNAP-NYM soundscan
+138.108.56.0 138.108.57.255 AS13789 SAVVIS PNAP-NYM VNU Routes
+138.108.58.0 138.108.59.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.60.0 138.108.60.255 AS19606 RADB RR-RC-Nielsen Media Research-TampaBay
+138.108.61.0 138.108.61.255 AS13343 RADB RR-Route
+138.108.62.0 138.108.63.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.64.0 138.108.64.255 AS11797 RIPE AC NIELSEN
+138.108.65.0 138.108.93.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.94.0 138.108.94.255 AS16477 ARIN Nielsen_BRACKNELL
+138.108.95.0 138.108.95.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.96.0 138.108.107.255 AS16477 ARIN Nielsen
+138.108.108.0 138.108.109.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.110.0 138.108.111.255 AS16477 ARIN Nielsen
+138.108.112.0 138.108.123.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.124.0 138.108.124.255 AS16477 ARIN Nielsen_SA
+138.108.125.0 138.108.127.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.128.0 138.108.128.255 AS2687 RADB AT&T Australia Ltd
+138.108.129.0 138.108.129.255 AS1221 REACH REACH  Customer Route 
+138.108.130.0 138.108.131.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.132.0 138.108.132.255 AS16477 RADB A.C. Nielsen Company
+138.108.133.0 138.108.134.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.135.0 138.108.136.255 AS16477 ARIN Nielsen
+138.108.137.0 138.108.139.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.140.0 138.108.144.255 AS16477 RIPE Route for Nielsen
+138.108.145.0 138.108.147.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.148.0 138.108.148.255 AS16477 NTTCOM The Nielsen Company  Philippines , Inc.
+138.108.149.0 138.108.161.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.108.162.0 138.108.163.255 AS16477 RADB AS16477
+138.108.164.0 138.108.255.255 AS7132 RADB Appleton, WI SBC Internet Services A.C. Nielsen Company Request 11-18-03
+138.110.0.0 138.110.255.255 AS1249 NTTCOM MTHOLYOKE
+138.111.0.0 138.111.2.255 AS3952 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+138.111.3.0 138.111.4.255 AS7381 LEVEL3 te06 block 1
+138.111.5.0 138.111.129.255 AS3952 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+138.111.130.0 138.111.135.255 AS1759 RIPE Tellabs US
+138.111.136.0 138.111.255.255 AS3952 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+138.112.116.0 138.112.119.255 AS28202 RADB ITX-AXIS
+138.115.0.0 138.115.255.255 AS771 RADB NASA Marshall Space Flight Center
+138.116.0.0 138.116.198.255 AS33004 RADB RR-RC-Empire State College-Albany
+138.116.199.0 138.116.199.255 AS7029 RADB Windstream  PaeTec 
+138.116.200.0 138.116.255.255 AS33004 RADB RR-RC-Empire State College-Albany
+138.117.0.0 138.117.3.255 AS17108 TC Honos Data Exchange InformÃ¡tica Ltda
+138.117.4.0 138.117.7.255 AS263765 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.117.12.0 138.117.15.255 AS52465 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS52465
+138.117.24.0 138.117.27.255 AS263321 TC Ejmnet Tecnologia ltda
+138.117.32.0 138.117.35.255 AS264479 TC Hurian Silva Santos Sampaio
+138.117.40.0 138.117.43.255 AS27951 RADB CLIENTE MEDIA COMMERCE
+138.117.96.0 138.117.99.255 AS262146 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.117.100.0 138.117.103.255 AS262387 TC Intermicro Ltda
+138.117.104.0 138.117.107.255 AS52996 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.117.108.0 138.117.111.255 AS27951 RADB Prefijo Mediacommerce 05Nov2015
+138.117.116.0 138.117.119.255 AS264233 BBOI G8 Networks
+138.117.132.0 138.117.133.255 AS61572 BBOI G8 Networks
+138.117.136.0 138.117.139.255 AS61498 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.117.144.0 138.117.147.255 AS264242 RADB OptiTel Customers
+138.117.160.0 138.117.163.255 AS262168 RADB Solicitado por el cliente COLINANET
+138.117.168.0 138.117.171.255 AS264243 NTTCOM Rede Brasileira de Comunicacao Ltda
+138.117.172.0 138.117.175.255 AS264237 NTTCOM Embratel Customer
+138.117.179.0 138.117.179.255 AS264245 NTTCOM Embratel Customer
+138.117.184.0 138.117.187.255 AS264244 BBOI G8 Networks
+138.117.188.0 138.117.191.255 AS264238 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.117.192.0 138.117.195.255 AS262316 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.117.196.0 138.117.199.255 AS3223 RADB voxility.net
+138.117.204.0 138.117.207.255 AS262336 BBOI G8 Networks
+138.117.216.0 138.117.219.255 AS264254 TC BLACKLAYER | Network Security
+138.118.12.0 138.118.15.255 AS262591 RADB OptiTel Customers
+138.118.32.0 138.118.35.255 AS264247 TC Maila Networks
+138.118.40.0 138.118.43.255 AS264259 NTTCOM Embratel Customer
+138.118.44.0 138.118.47.255 AS264252 TC NetChip Provedor de Acesso a Rede e Internet - Me
+138.118.48.0 138.118.51.255 AS52431 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS 52431
+138.118.64.0 138.118.67.255 AS264250 RADB OptiTel Customers
+138.118.72.0 138.118.75.255 AS264258 NTTCOM Embratel Customer
+138.118.76.0 138.118.79.255 AS262394 BBOI G8 Networks
+138.118.80.0 138.118.83.255 AS14754 NTTCOM Telgua Maintainer
+138.118.84.0 138.118.87.255 AS53184 RADB Prefixo AS53184
+138.118.88.0 138.118.91.255 AS262485 RADB SCRIO
+138.118.96.0 138.118.99.255 AS264253 RADB Bloco de ips cliente "Hostlocation/Isso" criado pelo equipe Durand do Brazil
+138.118.100.0 138.118.103.255 AS52708 BBOI G8 Networks
+138.118.120.0 138.118.123.255 AS28287 RADB G8 Networks
+138.118.124.0 138.118.127.255 AS28005 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.118.128.0 138.118.131.255 AS262500 NTTCOM Embratel Customer
+138.118.136.0 138.118.137.255 AS812 RADB Added on behalf of Hughes Network
+138.118.138.0 138.118.139.255 AS18734 RADB Route from RedIT
+138.118.140.0 138.118.143.255 AS52925 TC ASCENTY DATA CENTERS LOCAÃÃO E SERVIÃOS SA
+138.118.144.0 138.118.147.255 AS263770 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.118.156.0 138.118.159.255 AS262252 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.118.160.0 138.118.163.255 AS28638 NTTCOM Embratel Customer
+138.118.164.0 138.118.167.255 AS52799 TC Adentro
+138.118.168.0 138.118.169.255 AS263147 RADB ITX-CONNECTSUL
+138.118.172.0 138.118.175.255 AS262448 BBOI G8 Networks
+138.118.176.0 138.118.179.255 AS264268 BBOI G8 Networks
+138.118.180.0 138.118.182.255 AS28283 RADB Prefix for AS264264
+138.118.183.0 138.118.183.255 AS264264 NTTCOM Embratel Customer
+138.118.184.0 138.118.187.255 AS264276 NTTCOM Embratel Customer
+138.118.188.0 138.118.191.255 AS264272 NTTCOM Rede Brasileira de Comunicacao Ltda
+138.118.192.0 138.118.195.255 AS264262 TC BOSSNET PROVEDOR DE INTERNET - ME
+138.118.200.0 138.118.203.255 AS264303 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.118.204.0 138.118.207.255 AS264263 RADB OptiTel Customers
+138.118.208.0 138.118.211.255 AS28100 RADB ITX-Coovilros
+138.118.236.0 138.118.239.255 AS28183 NTTCOM Embratel Customer
+138.118.240.0 138.118.243.255 AS264283 BBOI G8 Networks
+138.118.248.0 138.118.251.255 AS264269 RADB AS264269
+138.119.0.0 138.119.255.255 AS611 canarie University of New Brunswick, Saint John Campus  NET-UNBSJ-IPNET 
+138.121.4.0 138.121.7.255 AS61499 RADB ITX-TIVIT
+138.121.8.0 138.121.11.255 AS264274 RADB OptiTel Customers
+138.121.12.0 138.121.15.255 AS23520 RADB COLUMBUS NETWORKS COLOMBIA IP BLOCK
+138.121.16.0 138.121.19.255 AS264290 TC TechLink Telecomunicacoes
+138.121.20.0 138.121.23.255 AS26978 SAVVIS Puregig BGP Customer - Sterling Network - 138.121.16.0 - 138.121.23.255
+138.121.32.0 138.121.35.255 AS264288 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.121.36.0 138.121.39.255 AS264279 RADB Primeiro grupo de IPs TDF
+138.121.44.0 138.121.47.255 AS26346 RADB PNAP-SFO digitalwire-routes
+138.121.48.0 138.121.48.255 AS264278 BBOI G8 Networks
+138.121.49.0 138.121.50.255 AS26346 RADB PNAP-SFO digitalwire routes
+138.121.51.0 138.121.51.255 AS264278 BBOI G8 Networks
+138.121.52.0 138.121.59.255 AS26346 RADB PNAP-SFO digitalwire-routes
+138.121.68.0 138.121.71.255 AS1916 RADB RNP
+138.121.80.0 138.121.83.255 AS26608 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS 26608
+138.121.88.0 138.121.91.255 AS28513 LEVEL3 CLARO_ARGENTINA
+138.121.96.0 138.121.99.255 AS18747 NTTCOM TELMEX-CL-SSEE cliente  IFX
+138.121.120.0 138.121.123.255 AS264293 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.121.124.0 138.121.127.255 AS28513 LEVEL3 Claro Argentina
+138.121.128.0 138.121.131.255 AS264294 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.121.132.0 138.121.135.255 AS264300 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.121.136.0 138.121.139.255 AS28173 NTTCOM Prefixo Dinamica
+138.121.140.0 138.121.140.255 AS28317 RADB Boomerang Wireless
+138.121.141.0 138.121.141.255 AS26346 RADB PNAP-SFO PNAP-SFO digitalwire route
+138.121.142.0 138.121.143.255 AS28317 RADB Boomerang Wireless
+138.121.152.0 138.121.155.255 AS53080 NTTCOM Embratel Customer
+138.121.164.0 138.121.167.255 AS264305 RADB ITX-K2TELECOM
+138.121.180.0 138.121.183.255 AS264302 BBOI G8 Networks
+138.121.188.0 138.121.191.255 AS52813 RADB OptiTel Customers
+138.121.196.0 138.121.199.255 AS264301 RADB ITX-K2TELECOM
+138.121.200.0 138.121.203.255 AS33182 ALTDB Proxy Registered Object - irr@dimenoc.com
+138.121.204.0 138.121.207.255 AS61908 TC Nova Net TelecomunicaÃ§Ãµes Ltda
+138.121.220.0 138.121.223.255 AS262992 NTTCOM Rede Brasileira de Comunicacao Ltda
+138.121.248.0 138.121.251.255 AS262393 NTTCOM Embratel Customer
+138.121.252.0 138.121.255.255 AS262765 BBOI G8 Networks
+138.122.0.0 138.122.0.255 AS264307 BBOI G8 Networks
+138.122.8.0 138.122.11.255 AS262404 BBOI G8 Networks
+138.122.16.0 138.122.19.255 AS264306 NTTCOM Embratel Customer
+138.122.20.0 138.122.23.255 AS264308 RADB OptiTel Customers
+138.122.24.0 138.122.27.255 AS263785 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.122.32.0 138.122.35.255 AS264310 RADB This is a Voxility customer route-object which is being exported under this origin AS264310 This route object was created because no existing route object with the same origin was found. Please contact noc@voxility.com if you have any questions regarding this object.
+138.122.36.0 138.122.39.255 AS262683 TC M4.NET ACESSO A REDE DE COMUNICACAO LTDA - ME
+138.122.44.0 138.122.47.255 AS264315 TC Ciclo Tecnologia da InformaÃ§Ã£o ME
+138.122.48.0 138.122.51.255 AS264328 BBOI G8 Networks
+138.122.60.0 138.122.63.255 AS61573 RADB IP2TEL SERVICOS DE COMUNICACAO MULTIMIDIA LTDA
+138.122.80.0 138.122.83.255 AS3223 RADB voxility.net
+138.122.84.0 138.122.87.255 AS52666 TC SERGIPEWEB PROVEDORES DE INTERNET LTDA
+138.122.92.0 138.122.95.255 AS264324 RADB OptiTel Customers
+138.122.96.0 138.122.99.255 AS18734 RADB Route from RedIT
+138.122.100.0 138.122.103.255 AS264311 BBOI G8 Networks
+138.122.116.0 138.122.119.255 AS264319 BBOI G8 Networks
+138.122.136.0 138.122.139.255 AS264329 BBOI G8 Networks
+138.122.140.0 138.122.143.255 AS61678 BBOI G8 Networks
+138.122.144.0 138.122.147.255 AS18734 RADB Route from Bestel
+138.122.152.0 138.122.155.255 AS264321 RADB WEBGENESYS INFORMÃTICA LTDA AS264321 26/06/2015
+138.122.172.0 138.122.175.255 AS262518 NTTCOM Ultrawave Transit Customer
+138.122.188.0 138.122.191.255 AS263801 RADB This route object is for IFX Networks customer route which is being exported under this origin AS 63801
+138.122.192.0 138.122.195.255 AS52485 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.122.196.0 138.122.199.255 AS61813 RADB Bloco de IPÂ´s cliente "Edge4m" criado pela equipe da Durand do Brazil
+138.122.200.0 138.122.203.255 AS10299 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.122.204.0 138.122.207.255 AS264326 BBOI G8 Networks
+138.122.208.0 138.122.211.255 AS264330 TC Zimba Host
+138.122.216.0 138.122.219.255 AS262362 RADB B. D. MATOS & CIA LTDA - SINET INTERNET AS262362 26/06/2015
+138.122.220.0 138.122.223.255 AS262993 BBOI G8 Networks
+138.122.225.0 138.122.225.255 AS40676 RADB SID:9216
+138.122.227.0 138.122.227.255 AS40676 RADB client prefix: 138.122.227.0/24
+138.122.240.0 138.122.243.255 AS263837 BBOI G8 Networks
+138.122.244.0 138.122.247.255 AS263796 RADB Othos
+138.122.248.0 138.122.251.255 AS262590 TC NET ON LINE LTDA ME
+138.122.252.0 138.122.255.255 AS28378 RADB Proxy-registered route object
+138.123.0.0 138.123.255.255 AS30641 SAVVIS PNAP-PHI delaware route
+138.124.0.0 138.124.255.255 AS2116 RIPE ICE-NORGE
+138.125.0.0 138.127.255.255 AS12007 RADB Raytheon Company Northeast
+138.128.0.0 138.128.127.255 AS55286 RADB B2NET Solutions
+138.128.128.0 138.128.129.255 AS6 RADB BULLDSANET Bull Worldwide Information Systems 300 Concord Road Billerica, MA 01821 USA
+138.128.130.0 138.128.131.255 AS12177 RADB Nexusguard  Customer Route 
+138.128.132.0 138.128.135.255 AS6 RADB BULLDSANET Bull Worldwide Information Systems 300 Concord Road Billerica, MA 01821 USA
+138.128.136.0 138.128.143.255 AS49544 RIPE MyInternetServices LLC  AS49544 
+138.128.144.0 138.128.159.255 AS13886 RADB Cloud South  HRL-23 
+138.128.160.0 138.128.191.255 AS33182 ALTDB Proxy Registered Object - irr@dimenoc.com
+138.128.192.0 138.128.223.255 AS25820 LEVEL3 IT7 Networks
+138.128.224.0 138.128.226.255 AS46562 RADB avery
+138.128.227.0 138.128.227.255 AS64200 RADB Proxy route for customer
+138.128.228.0 138.128.255.255 AS62741 RADB 138.128.224.0/19
+138.129.0.0 138.129.255.255 AS17326 RADB Proxy Route Object for IdeaOne
+138.130.0.0 138.130.255.255 AS1221 REACH REACH  Customer Route 
+138.131.0.0 138.131.255.255 AS559 RIPE CSEMNE
+138.132.0.0 138.132.255.255 AS3269 RIPE ITALTEL INTERBUSINESS
+138.133.0.0 138.133.0.63 AS14762 SAVVIS PNAP-OCY amgen
+138.133.0.64 138.133.16.255 AS22773 LEVEL3 LA CBS TRANSIT
+138.133.17.0 138.133.17.255 AS14762 SAVVIS PNAP-OCY amgen
+138.133.18.0 138.133.51.255 AS22773 LEVEL3 LA CBS TRANSIT
+138.133.52.0 138.133.52.255 AS22911 ALTDB LLNW customer route
+138.133.53.0 138.133.59.255 AS22773 LEVEL3 LA CBS TRANSIT
+138.133.60.0 138.133.60.255 AS14762 LEVEL3 Switch Communications Customer Route
+138.133.61.0 138.133.70.255 AS22773 LEVEL3 LA CBS TRANSIT
+138.133.71.0 138.133.71.255 AS14762 LEVEL3 Switch Communications Customer Route
+138.133.72.0 138.133.80.255 AS22773 LEVEL3 LA CBS TRANSIT
+138.133.81.0 138.133.82.255 AS14762 LEVEL3 Switch Communications Customer Route
+138.133.83.0 138.133.191.255 AS22773 LEVEL3 LA CBS TRANSIT
+138.133.192.0 138.133.195.255 AS14762 LEVEL3 Switch Communications Customer Route
+138.133.196.0 138.133.231.255 AS22773 LEVEL3 LA CBS TRANSIT
+138.133.232.0 138.133.235.255 AS14762 SAVVIS PNAP-OCY amgen
+138.133.236.0 138.133.239.255 AS22773 LEVEL3 LA CBS TRANSIT
+138.133.240.0 138.133.243.255 AS14762 SAVVIS PNAP-DEN amgen-3
+138.133.244.0 138.133.255.255 AS22773 LEVEL3 LA CBS TRANSIT
+138.134.0.0 138.134.1.255 AS1680 RIPE NET-IEC
+138.134.2.0 138.134.2.255 AS5540 RADB Proxy-registered route object
+138.134.3.0 138.134.28.255 AS1680 RIPE NET-IEC
+138.134.29.0 138.134.29.255 AS5540 RADB Proxy-registered route object
+138.134.30.0 138.134.98.255 AS1680 RIPE NET-IEC
+138.134.99.0 138.134.102.255 AS5540 RADB Proxy-registered route object
+138.134.103.0 138.134.104.255 AS1680 RIPE NET-IEC
+138.134.105.0 138.134.105.255 AS5540 RADB Proxy-registered route object
+138.134.106.0 138.134.125.255 AS1680 RIPE NET-IEC
+138.134.126.0 138.134.126.255 AS5540 RADB Proxy-registered route object
+138.134.127.0 138.134.128.255 AS1680 RIPE NET-IEC
+138.134.129.0 138.134.129.255 AS5540 RADB Proxy-registered route object
+138.134.130.0 138.134.130.255 AS1680 RIPE NET-IEC
+138.134.131.0 138.134.131.255 AS5540 RADB Proxy-registered route object
+138.134.132.0 138.134.161.255 AS1680 RIPE NET-IEC
+138.134.162.0 138.134.162.255 AS5540 RADB Proxy-registered route object
+138.134.163.0 138.134.255.255 AS1680 RIPE NET-IEC
+138.157.40.0 138.157.47.255 AS209 REACH REACH  Customer Route 
+138.163.160.0 138.163.163.255 AS209 REACH REACH  Customer Route 
+138.168.0.0 138.168.255.255 AS209 REACH REACH  Customer Route 
+138.177.184.0 138.177.187.255 AS264244 BBOI G8 Networks
+138.178.0.0 138.178.255.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+138.180.0.0 138.180.0.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+138.180.1.0 138.180.255.255 AS1733 NTTCOM DISA-PAC  AS27066  Customer Route Object
+138.184.0.0 138.184.0.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+138.184.1.0 138.184.255.255 AS619 NTTCOM DISA-PAC  AS724  Customer Route Object
+138.185.0.0 138.185.0.255 AS28404 RADB Customer: Megacable
+138.185.1.0 138.185.3.255 AS32098 RADB Customer: Megacable
+138.185.12.0 138.185.15.255 AS52439 NTTCOM TELMEX-CL-SSEE cliente  OPTIC
+138.185.16.0 138.185.19.255 AS264333 RADB AS264333
+138.185.24.0 138.185.27.255 AS28250 NTTCOM Rede Brasileira de Comunicacao Ltda
+138.185.28.0 138.185.31.255 AS263817 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.185.76.0 138.185.79.255 AS28513 LEVEL3 CLARO_GUATEMALA
+138.185.84.0 138.185.87.255 AS264344 NTTCOM Embratel Customer
+138.185.89.0 138.185.89.255 AS200002 RIPE Route Object
+138.185.104.0 138.185.107.255 AS28513 LEVEL3 CLARO_GUATEMALA
+138.185.116.0 138.185.119.255 AS201288 RIPE Route Object
+138.185.120.0 138.185.123.255 AS28173 NTTCOM Prefixo Dinamica
+138.185.124.0 138.185.127.255 AS263840 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.185.132.0 138.185.135.255 AS263439 TC Saber InformÃ¡tica LTDA
+138.185.136.0 138.185.139.255 AS19169 RADB SAITEL-NEDETEL Ecuador
+138.185.148.0 138.185.151.255 AS263846 RADB AS263846
+138.185.160.0 138.185.163.255 AS262604 RADB AS262604
+138.185.164.0 138.185.167.255 AS262748 TC NetJat Provedor de Acesso a Internet
+138.185.172.0 138.185.175.255 AS3223 RADB voxility.net
+138.185.188.0 138.185.191.255 AS262494 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.185.192.0 138.185.195.255 AS263841 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.185.208.0 138.185.211.255 AS28104 RADB UTS transient customer
+138.185.216.0 138.185.219.255 AS264367 RADB Bloco de ip's cliente "Kerax/lej" criado pela equipe da Durand do Brazil
+138.185.224.0 138.185.227.255 AS19332 LEVEL3 New route for AS19332
+138.185.228.0 138.185.231.255 AS61574 BBOI UFMG/USC PEERING Research Testbed
+138.185.232.0 138.185.235.255 AS52892 NTTCOM Embratel Customer
+138.185.248.0 138.185.251.255 AS262241 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.186.0.0 138.186.3.255 AS262622 NTTCOM Ultrawave Transit Customer
+138.186.12.0 138.186.15.255 AS262248 RADB Metro MPLS - Customer
+138.186.28.0 138.186.29.255 AS18734 RADB Route from Iusacell
+138.186.30.0 138.186.30.255 AS17072 RADB TOTAL PLAY
+138.186.31.0 138.186.31.255 AS18734 RADB Route from Iusacell
+138.186.32.0 138.186.35.255 AS262775 TC TECHS TECNOLOGIA EM HARDWARE E SOFTWARE
+138.186.36.0 138.186.39.255 AS53080 NTTCOM Embratel Customer
+138.186.44.0 138.186.47.255 AS263854 RADB JGC Net Informatica LTDA - ME
+138.186.52.0 138.186.55.255 AS263856 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.186.56.0 138.186.59.255 AS264066 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.186.64.0 138.186.67.255 AS28405 RADB Proxy-registered route object
+138.186.72.0 138.186.75.255 AS263853 TC INF Telecom
+138.186.76.0 138.186.79.255 AS263865 BBOI G8 Networks
+138.186.80.0 138.186.83.255 AS262622 NTTCOM Ultrawave Transit Customer
+138.186.88.0 138.186.91.255 AS14709 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.186.92.0 138.186.95.255 AS263124 BBOI G8 Networks
+138.186.100.0 138.186.103.255 AS19332 LEVEL3 New Route for AS19332
+138.186.104.0 138.186.107.255 AS264353 BBOI G8 Networks
+138.186.108.0 138.186.111.255 AS262354 TC Ligue TelecomunicaÃ§Ãµes Ltda
+138.186.116.0 138.186.119.255 AS263862 RADB OptiTel Customers
+138.186.124.0 138.186.127.255 AS263867 NTTCOM Embratel Customer
+138.186.128.0 138.186.131.255 AS263860 NTTCOM Embratel Customer
+138.186.132.0 138.186.135.255 AS53160 RADB AS53160
+138.186.136.0 138.186.139.255 AS27932 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.186.144.0 138.186.147.255 AS262575 RADB OptiTel Customers
+138.186.156.0 138.186.159.255 AS263868 NTTCOM BMFLEX Telecom IPv4 Network
+138.186.164.0 138.186.167.255 AS28283 RADB Prefixo AS263864
+138.186.188.0 138.186.191.255 AS263802 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.186.200.0 138.186.200.255 AS32098 RADB Creatividad De Internet Enlaces
+138.186.201.0 138.186.201.255 AS18734 RADB Route from REDIT
+138.186.202.0 138.186.202.255 AS32098 RADB Xcien
+138.186.203.0 138.186.203.255 AS18734 RADB Route from REDIT
+138.186.208.0 138.186.211.255 AS27932 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.186.216.0 138.186.219.255 AS52003 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS 52003
+138.186.224.0 138.186.227.255 AS28283 RADB Prefixo AS263872
+138.186.228.0 138.186.231.255 AS263870 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.186.240.0 138.186.243.255 AS52937 TC FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE
+138.186.248.0 138.186.251.255 AS27773 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.187.0.0 138.187.223.255 AS3303 RIPE Swisscom Fixnet
+138.188.0.0 138.188.135.255 AS3303 LEVEL3 Proxy-registered route object
+138.188.136.0 138.188.136.255 AS51820 RIPE SBC-NET
+138.188.137.0 138.188.137.255 AS3303 RIPE Swisscom IP-Plus
+138.188.138.0 138.188.138.255 AS51820 RIPE SBC-NET
+138.188.139.0 138.188.255.255 AS3303 RIPE Swisscom IP-Plus
+138.189.0.0 138.189.255.255 AS12511 RIPE CH-POSTNETZ
+138.190.0.0 138.190.255.255 AS3303 RIPE Provider:Swisscom IP-Plus
+138.191.0.0 138.191.255.255 AS12511 RIPE CH-POSTNETZ
+138.192.0.0 138.192.255.255 AS7029 RADB Hamline University
+138.193.0.0 138.193.255.255 AS270 RADB NASA/Yellow Creek Lockheed Building 1509 Communications Room 1509 Paul Edmanson Drive, Iuka MS 38852, USA
+138.194.0.0 138.194.255.255 AS6262 RADB CSIRO, VIC
+138.195.0.0 138.195.255.255 AS2426 RIPE FR-ECP
+138.196.0.0 138.196.255.255 AS8075 ALTDB Microsoft
+138.197.0.0 138.197.15.255 AS393406 RADB DigitalOcean
+138.197.60.0 138.197.63.255 AS393406 RADB DigitalOcean
+138.197.128.0 138.197.143.255 AS394362 RADB DigitalOcean
+138.197.252.0 138.197.255.255 AS62567 RADB DigitalOcean
+138.198.0.0 138.198.100.255 AS4657 REACH REACH  Customer Route 
+138.198.101.0 138.198.101.255 AS51964 REACH REACH  Customer Route 
+138.198.102.0 138.198.251.255 AS4657 RADB Starhub Internet Pte Ltd.
+138.198.252.0 138.198.252.255 AS51964 RADB OBS customer
+138.198.253.0 138.198.255.255 AS4657 RADB Starhub Internet Pte Ltd.
+138.199.0.0 138.199.7.255 AS1841 RIPE CP-NET-LHR-1
+138.199.64.0 138.199.65.255 AS22363 RADB Golden Frog Europe
+138.199.66.0 138.199.69.255 AS24841 RADB Supernews Europe
+138.199.70.0 138.199.78.255 AS22363 RADB Golden Frog Europe
+138.199.79.0 138.199.79.255 AS24841 RADB Supernews Europe
+138.201.0.0 138.201.255.255 AS24940 RIPE HETZNER-RZ-BLK-ERX4
+138.202.0.0 138.202.255.255 AS22700 RADB University of San Francisco
+138.203.0.0 138.203.255.255 AS3304 RIPE ALCANET
+138.204.16.0 138.204.19.255 AS263875 RADB GoTelecom
+138.204.20.0 138.204.23.255 AS263878 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.204.24.0 138.204.27.255 AS14868 ALTDB COPEL Telecomunicacoes S.A. Curitiba - Parana- Brazil +55-41-3230-9257
+138.204.32.0 138.204.35.255 AS263557 BBOI G8 Networks
+138.204.56.0 138.204.59.255 AS263882 TC MTec Telecom LTDA.
+138.204.68.0 138.204.71.255 AS263880 TC WANTEL TECNOLOGIA LTDA. Â­ EPP
+138.204.72.0 138.204.75.255 AS263894 TC RV SUL TELECOM LTDA - ME
+138.204.80.0 138.204.83.255 AS263478 BBOI G8 Networks
+138.204.100.0 138.204.103.255 AS263885 TC Central NET
+138.204.108.0 138.204.111.255 AS263795 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.204.120.0 138.204.123.255 AS263906 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.204.128.0 138.204.131.255 AS263887 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.204.132.0 138.204.135.255 AS263888 NTTCOM Embratel Customer
+138.204.164.0 138.204.167.255 AS263901 TC RR64 SERVICOS ESPECIAIS EM TELECOMUNICACOES LTDA
+138.204.168.0 138.204.171.255 AS36351 REACH REACH  Customer Route 
+138.204.172.0 138.204.175.255 AS263911 BBOI G8 Networks
+138.204.176.0 138.204.179.255 AS52871 NTTCOM Rede Brasileira de Comunicacao Ltda
+138.204.180.0 138.204.183.255 AS262262 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.204.184.0 138.204.187.255 AS263907 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.204.200.0 138.204.203.255 AS263905 RADB GoTelecom
+138.204.212.0 138.204.215.255 AS61890 TC Adaptlink ServiÃ§os de ComunicaÃ§Ã£o MultimÃ­dia Ltda.
+138.204.228.0 138.204.231.255 AS61506 RADB This route object is for a IFX Networks customer route which is being exported under this origin AS 61506
+138.204.232.0 138.204.235.255 AS263917 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.204.240.0 138.204.243.255 AS263913 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.205.0.0 138.205.7.255 AS8928 RIPE Sappi Europe
+138.205.160.0 138.205.175.255 AS8387 RIPE SAPPI Europe
+138.206.0.0 138.206.255.255 AS10100 RADB Prolexic Technologies, Inc.
+138.207.64.0 138.207.127.255 AS12025 ARIN -------------------------------------------------- - i/o Data Centers - 615 North 48th Street - Phoenix, AZ 85008 US - http://www.iodatacenters.com - - Customer Proxy Route --------------------------------------------------
+138.207.128.0 138.207.255.255 AS23100 NTTCOM MetroCast Cablevision / Atlantic Broadband
+138.208.5.0 138.208.5.255 AS26228 NTTCOM ServePath ARIN allocation
+138.210.0.0 138.210.94.15 AS22561 SAVVIS add route
+138.210.94.16 138.210.94.23 AS25898 LEVEL3 EMBARQ DedIP
+138.210.94.24 138.210.103.255 AS22561 SAVVIS adding route
+138.210.104.0 138.210.104.255 AS40655 LEVEL3 EMBARQ DedIP
+138.210.105.0 138.210.115.255 AS22561 SAVVIS adding route
+138.210.116.0 138.210.119.255 AS6367 LEVEL3 KLLN HSD
+138.210.120.0 138.210.255.255 AS22561 SAVVIS add route
+138.211.0.0 138.211.255.255 AS1221 REACH REACH  Customer Route 
+138.212.0.0 138.212.255.255 AS4713 JPIRR ASAHI CHEMICAL INDUSTRY CO., LTD. 2-1, SAMEJIMA, FUJI-CITY, SHIZUOKA-PREF, JAPAN
+138.215.0.0 138.215.0.255 AS1257 RIPE TELE2/ SWIPNET TELE2-TULLDATANET ##################################################### In case of improper use originating from our network, please mail lars.astrom@tullverket.se or <abuse@tele2.com> ####################################################
+138.215.255.0 138.215.255.255 AS1257 RIPE TELE2/ SWIPNET TELE2-TULLDATANET ##################################################### In case of improper use originating from our network, please mail lars.astrom@tullverket.se or <abuse@tele2.com> ####################################################
+138.216.0.0 138.216.255.255 AS1759 RIPE Ministry of the interior Police Department
+138.217.0.0 138.217.255.255 AS1221 REACH REACH  Customer Route 
+138.218.0.0 138.218.127.255 AS808 RADB Government of Ontario
+138.218.128.0 138.218.195.255 AS549 BELL MEGONET
+138.218.196.0 138.218.196.255 AS32364 RADB Proxy for Allstream Customer
+138.218.197.0 138.218.255.255 AS549 BELL MEGONET
+138.219.4.0 138.219.7.255 AS14232 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS14232  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+138.219.24.0 138.219.27.255 AS61701 TC NARCELIO L DE SOUZA - ME
+138.219.28.0 138.219.31.255 AS263938 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.219.32.0 138.219.35.255 AS263927 RADB OptiTel Customers
+138.219.36.0 138.219.39.255 AS11172 RADB auto-generated route object for 138.219.36.0/24
+138.219.44.0 138.219.47.255 AS263939 RADB AS263939
+138.219.48.0 138.219.51.255 AS263933 TC LMD DE OLIVEIRA COM. DE EQUIP. DE INFORMATICA ME
+138.219.52.0 138.219.55.255 AS263924 BBOI G8 Networks
+138.219.64.0 138.219.67.255 AS263651 TC RVNeT - V. Montoro & Cia Ltda
+138.219.72.0 138.219.75.255 AS263821 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.219.84.0 138.219.87.255 AS61666 RADB OptiTel Customers
+138.219.92.0 138.219.95.255 AS28283 RADB Prefixo AS263942
+138.219.120.0 138.219.123.255 AS263821 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.219.128.0 138.219.131.255 AS263934 NTTCOM Embratel Customer
+138.219.132.0 138.219.135.255 AS263929 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.219.136.0 138.219.139.255 AS263931 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.219.140.0 138.219.143.255 AS52233 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.219.148.0 138.219.151.255 AS262817 BBOI G8 Networks
+138.219.156.0 138.219.159.255 AS26617 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.219.164.0 138.219.167.255 AS61639 RADB OptiTel Customers
+138.219.172.0 138.219.175.255 AS26735 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.219.176.0 138.219.179.255 AS263935 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.219.180.0 138.219.183.255 AS263945 TC PROVENET WIRELESS - J ROBERTO CAVALCANTE - ME
+138.219.184.0 138.219.187.255 AS263954 TC cyber control ltda
+138.219.200.0 138.219.203.255 AS263943 TC MALTA E CARVALHO LTDA - EPP
+138.219.204.0 138.219.207.255 AS262649 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.219.240.0 138.219.243.255 AS263073 RADB AS263073
+138.220.0.0 138.220.255.255 AS10497 ARIN Proxy-registered route object - The World Bank Group
+138.221.0.0 138.221.255.255 AS2119 RIPE ABB-SE-NET1
+138.222.0.0 138.222.255.255 AS3320 RIPE Asea Brown Boveri AG, Mannheim
+138.223.0.0 138.223.255.255 AS20868 RIPE ABB-NET4
+138.224.0.0 138.224.255.255 AS12980 RIPE ABB SIAU Ehingen
+138.225.0.0 138.225.63.255 AS1836 RIPE CH-ABB-DC-NET
+138.225.64.0 138.225.67.255 AS263970 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.225.68.0 138.225.255.255 AS1836 RIPE CH-ABB-DC-NET
+138.227.0.0 138.227.255.255 AS2119 RIPE ABBNET
+138.228.31.0 138.228.31.255 AS12302 RIPE Mobifon S.A. Romania
+138.229.0.0 138.229.14.255 AS14297 RADB Prolexic Technologies, Inc.
+138.229.15.0 138.229.15.255 AS53927 ARIN ACI Worldwide, Inc. 6060 Coventry Drive Elkhorn, NE 68022 US
+138.229.16.0 138.229.31.255 AS22923 RADB Proxy-registered route object
+138.229.32.0 138.229.63.255 AS26271 RADB Lexington Ridge Apartments
+138.229.64.0 138.229.75.255 AS19257 RADB arin direct allocation
+138.229.76.0 138.229.76.255 AS9304 NTTCOM Proxy-registered route object
+138.229.77.0 138.229.127.255 AS19257 RADB arin direct allocation
+138.229.128.0 138.229.255.255 AS20115 RADB Charter 20115
+138.230.0.0 138.230.27.255 AS13336 ARIN Westar Energy, Inc. 818 S. Kansas Ave Topeka, KS  66612 U.S.
+138.230.28.0 138.230.28.255 AS22561 SAVVIS add route
+138.230.29.0 138.230.255.255 AS13336 ARIN Westar Energy, Inc. 818 S. Kansas Ave Topeka, KS  66612 U.S.
+138.231.0.0 138.231.255.255 AS2426 RIPE FR-ENS-CACHAN
+138.232.0.0 138.232.255.255 AS1853 RIPE UIBK
+138.233.0.0 138.233.255.255 AS56736 RIPE Vastra Gotalands lans landsting
+138.234.0.0 138.234.255.255 AS22561 SAVVIS add route
+138.235.0.0 138.235.3.255 AS4768 RADB Proxy-registered route object
+138.235.33.0 138.235.33.255 AS4768 RADB Proxy-registered route object
+138.235.34.0 138.235.35.255 AS9788 RADB Proxy-registered route object
+138.235.36.0 138.235.36.255 AS4768 RADB Proxy-registered route object
+138.235.40.0 138.235.43.255 AS9788 RADB Proxy-registered route object
+138.235.44.0 138.235.44.255 AS4768 RADB Proxy-registered route object
+138.235.64.0 138.235.95.255 AS4768 RADB Proxy-registered route object
+138.235.104.0 138.235.119.255 AS4768 RADB Proxy-registered route object
+138.236.0.0 138.236.255.255 AS12042 SAVVIS hickorytech route object
+138.237.0.0 138.237.255.255 AS18791 NTTCOM Texas Christian University 2200 S. University Dr. Fort Worth, TX 76129
+138.239.0.0 138.239.255.255 AS22853 ARIN Emulex-138-239-0-0-16
+138.240.0.0 138.240.255.255 AS270 RADB RUST Corporation 500 Corporate Parkway Birmingham AL 35243, USA
+138.242.96.0 138.242.111.255 AS3549 RADB ERX-NETBLOCK
+138.242.128.0 138.242.159.255 AS22562 ARIN Motorola Internet Block via CSC
+138.242.192.0 138.242.223.255 AS17916 REACH REACH  Customer Route 
+138.243.0.0 138.243.247.255 AS23779 RADB PACNET  proxy-registered route object 
+138.243.248.0 138.243.249.255 AS38629 JPIRR OKN CIDR-block NO.3
+138.243.250.0 138.243.254.255 AS23779 JPIRR N-BONE
+138.243.255.0 138.243.255.255 AS18131 NTTCOM Internet Routing Registry Research
+138.244.0.0 138.246.255.255 AS1275 RIPE LMU-MEDVER
+138.247.0.0 138.247.0.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+138.247.1.0 138.247.255.255 AS7773 NTTCOM Dakota State University 820 North Washington Madison SD 57042-1735, USA
+138.250.0.0 138.251.255.255 AS786 RIPE JANET Aggregated Route JANET UK  Network Operations Centre 100 Gray's Inn Road London WC1X 8AL United Kingdom
+138.253.0.0 138.253.255.255 AS786 RIPE University of Liverpool Computing Services Department Brownlow Hill Liverpool L69 3BX UNITED KINGDOM
+138.255.12.0 138.255.15.255 AS263947 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.255.16.0 138.255.19.255 AS264574 BBOI G8 Networks
+138.255.20.0 138.255.23.255 AS263951 TC M.D DE SOUSA TELECOM - ME
+138.255.28.0 138.255.31.255 AS263952 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.255.40.0 138.255.43.255 AS263956 TC MM SERVICOS DE COMUNICACOES LTDA
+138.255.44.0 138.255.47.255 AS61772 BBOI G8 Networks
+138.255.53.0 138.255.53.255 AS11556 RADB COLUMBUS NETWORKS TRANSIT CUSTOMERS
+138.255.60.0 138.255.63.255 AS40731 NTTCOM Latin IP
+138.255.76.0 138.255.79.255 AS263964 TC Forest comercio de computadores
+138.255.104.0 138.255.107.255 AS263961 RADB AS263961
+138.255.112.0 138.255.115.255 AS263968 BBOI G8 Networks
+138.255.116.0 138.255.116.255 AS28378 RADB Proxy-registered route object
+138.255.118.0 138.255.119.255 AS28378 RADB Proxy-registered route object
+138.255.120.0 138.255.123.255 AS263441 RADB Prefixo AS263441
+138.255.124.0 138.255.127.255 AS263973 RADB Prefix for AS263973
+138.255.128.0 138.255.131.255 AS263972 TC Do Vale ServiÃ§os TÃ©cnicos Ltda
+138.255.136.0 138.255.139.255 AS264574 TC Elite TelecomunicaÃ§oes LTDA ME
+138.255.148.0 138.255.151.255 AS263650 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.255.156.0 138.255.159.255 AS263974 RADB This is a Commcorp Telecom customer proxy route object that was created because no existing route object with the same origin was found. Please contact noc@commcorp.com.br if you have any questions regarding this object.
+138.255.184.0 138.255.187.255 AS263976 RADB OptiTel Customers
+138.255.188.0 138.255.191.255 AS263988 NTTCOM Embratel Customer
+138.255.192.0 138.255.195.255 AS263971 RADB Bloco de IpÂ´s cliente "Netell/Falemais" criado pela equipe Durand do Brazil
+138.255.196.0 138.255.199.255 AS262868 RIPE Rotas ITNET
+138.255.212.0 138.255.215.255 AS263996 BBOI G8 Networks
+138.255.216.0 138.255.219.255 AS263978 NTTCOM Ultrawave Transit Customer
+138.255.224.0 138.255.227.255 AS263989 TC GIGAREDE TECNOLOGIA DA INFORMACAO LTDA - ME
+138.255.228.0 138.255.231.255 AS264512 BBOI G8 Networks
+138.255.244.0 138.255.247.255 AS263980 NTTCOM Embratel Customer
+138.255.248.0 138.255.251.255 AS264605 RADB TELEVIADUCTO, S.R.L.
+138.255.252.0 138.255.255.255 AS264645 RADB Digicel Aruba Block 01

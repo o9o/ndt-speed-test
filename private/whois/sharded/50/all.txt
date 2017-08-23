@@ -1,0 +1,603 @@
+50.0.0.0 50.0.79.255 AS7065 ALTDB Sonic.net
+50.0.80.0 50.0.95.255 AS46375 ALTDB Sonic.net, Inc.
+50.0.96.0 50.0.127.255 AS7065 ALTDB Sonic.net, Inc.
+50.0.128.0 50.0.207.255 AS46375 ALTDB Sonic.net, Inc.
+50.0.208.0 50.0.239.255 AS7065 ALTDB Sonic.net, Inc.
+50.0.240.0 50.1.63.255 AS46375 ALTDB Sonic.net, Inc.
+50.1.64.0 50.1.79.255 AS7065 ALTDB Sonic.net
+50.1.80.0 50.1.127.255 AS46375 ALTDB Sonic.net
+50.1.128.0 50.1.255.255 AS7065 ALTDB Sonic.net
+50.2.0.0 50.2.27.255 AS19181 LEVEL3 Eonix IP Space
+50.2.28.0 50.2.31.255 AS62904 ARIN SHCB-1
+50.2.32.0 50.2.127.255 AS19181 LEVEL3 Eonix IP Space
+50.2.128.0 50.3.255.255 AS62904 ALTDB ServerHub
+50.4.0.0 50.4.17.255 AS12083 RADB WOW!
+50.4.18.0 50.4.18.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.19.0 50.4.20.255 AS12083 RADB WOW!
+50.4.21.0 50.4.22.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.23.0 50.4.25.255 AS12083 RADB WOW!
+50.4.26.0 50.4.27.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.28.0 50.4.29.255 AS12083 RADB WOW!
+50.4.30.0 50.4.33.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.34.0 50.4.34.255 AS12083 RADB WOW!
+50.4.35.0 50.4.49.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.50.0 50.4.50.255 AS12083 RADB WOW!
+50.4.51.0 50.4.55.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.56.0 50.4.57.255 AS12083 RADB WOW!
+50.4.58.0 50.4.59.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.60.0 50.4.60.255 AS12083 RADB WOW!
+50.4.61.0 50.4.83.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.84.0 50.4.91.255 AS12083 RADB WOW!
+50.4.92.0 50.4.95.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.96.0 50.4.99.255 AS12083 RADB WOW!
+50.4.100.0 50.4.119.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.120.0 50.4.123.255 AS12083 RADB WOW!
+50.4.124.0 50.4.125.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.126.0 50.4.147.255 AS12083 RADB WOW!
+50.4.148.0 50.4.159.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.160.0 50.4.176.255 AS12083 RADB WOW!
+50.4.177.0 50.4.181.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.182.0 50.4.191.255 AS12083 RADB WOW!
+50.4.192.0 50.4.207.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.208.0 50.4.223.255 AS12083 RADB WOW!
+50.4.224.0 50.4.228.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.229.0 50.4.229.255 AS12083 RADB WOW!
+50.4.230.0 50.4.232.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.4.233.0 50.4.233.255 AS12083 RADB WOW!
+50.4.234.0 50.4.255.255 AS29895 ARIN WOW! Internet Cable and Phone! 1674 Frontenac Rd Naperville, IL 60563 US
+50.5.0.0 50.5.255.255 AS6181 ALTDB Proxy-registered route object for Cincinnati Bell Telephone 201 E. 4th Street Room 346 Cincinnati, OH 45202
+50.6.0.0 50.6.255.255 AS32392 RADB Ecommerce Inc
+50.7.0.0 50.7.159.255 AS30058 RADB 50.7.0.0/16
+50.7.160.0 50.7.175.255 AS5580 RADB 50.7.160.0/20
+50.7.176.0 50.7.183.255 AS30058 RADB 50.7.0.0/16
+50.7.184.0 50.7.185.255 AS5580 RADB 50.7.184.0/24
+50.7.186.0 50.7.187.255 AS30058 RADB 50.7.0.0/16
+50.7.188.0 50.7.191.255 AS5580 RADB 50.7.188.0/22
+50.7.192.0 50.7.255.255 AS30058 RADB 50.7.0.0/16
+50.8.0.0 50.15.255.255 AS16586 LEVEL3 Clearwire
+50.16.0.0 50.17.255.255 AS14618 RADB Amazon EC2 IAD prefix
+50.18.0.0 50.18.255.255 AS16509 REACH REACH  Customer Route 
+50.19.0.0 50.19.255.255 AS14618 RADB Amazon EC2 IAD prefix
+50.20.0.0 50.21.127.255 AS17184 ARIN Cbeyond Communications - ATL
+50.21.128.0 50.21.143.255 AS11290 SAVVIS Peer1 Route Object
+50.21.144.0 50.21.159.255 AS27338 RADB AS6983 Route Object
+50.21.160.0 50.21.163.255 AS29909 SAVVIS Peer1 Route Object
+50.21.164.0 50.21.165.255 AS53757 RADB UNILINK
+50.21.166.0 50.21.175.255 AS29909 SAVVIS Peer1 Route Object
+50.21.176.0 50.21.191.255 AS8560 ARIN 1&1 Internet Inc. 701 Lee Rd, Suite 300 Chesterbrook, PA 19087 US
+50.21.192.0 50.21.207.255 AS4181 ARIN TDS Baja Broadband
+50.21.208.0 50.21.223.255 AS20334 ARIN Epic Touch Co. 610 S Cosmos Elkhart, KS 67950 US
+50.21.224.0 50.21.239.255 AS6327 RADB Proxy Addition
+50.21.240.0 50.21.255.255 AS1970 RADB Blinn-2
+50.22.0.0 50.22.127.255 AS36351 REACH REACH  Customer Route 
+50.22.128.0 50.22.191.255 AS11172 RADB 50.22.128.0/18
+50.22.192.0 50.22.237.207 AS36351 REACH REACH  Customer Route 
+50.22.237.208 50.22.237.210 AS19905 RADB SP_BEEKSFX
+50.22.237.211 50.23.255.255 AS36351 REACH REACH  Customer Route 
+50.24.0.0 50.27.255.255 AS19108 ARIN SUDDENLINK-COMMUNICATIONS
+50.28.0.0 50.28.95.255 AS32244 RADB Liquidweb Inc
+50.28.96.0 50.28.127.255 AS53824 RADB LiquidWeb Inc West
+50.28.192.0 50.28.215.255 AS33070 RADB Wyless PLC IP space
+50.28.216.0 50.28.235.255 AS12200 RADB Wyless, Inc. IP Space
+50.28.236.0 50.28.255.255 AS21928 RADB T-Mobile USA IP Backbone
+50.29.0.0 50.29.127.255 AS6128 ARIN Optimum Online  Cablevision Systems  111 new south RD Hicksville, NY 11801 US
+50.29.128.0 50.29.255.255 AS3737 ARIN PenTeleData
+50.30.23.0 50.30.23.255 AS46193 LEVEL3 Skywerx-13
+50.30.32.0 50.30.47.255 AS30083 ARIN Hosting Solutions International 710 North Tucker Blvd. Suite 400a Saint Louis, MO 63101
+50.30.64.0 50.30.79.255 AS13694 ALTDB Xecunet, Inc. 5744-R Industry Ln. Frederick, MD 21704
+50.30.80.0 50.30.95.255 AS17293 RADB auto-generated route object for 50.30.80.0/20
+50.30.96.0 50.30.111.255 AS54075 RADB arbucklecomm.com net1
+50.30.112.0 50.30.127.255 AS13781 RADB Proxy fbo Hopkinsville Electric  AS13781 
+50.30.128.0 50.30.138.255 AS46687 SAVVIS PNAP-ACS harron-routes
+50.30.139.0 50.30.139.255 AS22561 SAVVIS add route
+50.30.140.0 50.30.175.127 AS46687 SAVVIS PNAP-ACS harron-routes
+50.30.175.128 50.30.175.255 AS23473 RADB ILURPUI - Pointe at U of I
+50.30.176.0 50.30.183.255 AS46687 SAVVIS PNAP-ACS harron-routes
+50.30.184.0 50.30.184.255 AS22561 SAVVIS add route
+50.30.185.0 50.30.188.255 AS46687 SAVVIS PNAP-ACS harron-routes
+50.30.189.0 50.30.189.255 AS22561 SAVVIS add route
+50.30.190.0 50.30.255.255 AS46687 SAVVIS PNAP-ACS harron-routes
+50.31.0.0 50.31.15.255 AS32748 ALTDB Steadfast Networks
+50.31.16.0 50.31.19.255 AS46811 ALTDB SilverIP
+50.31.20.0 50.31.23.255 AS32748 ALTDB Steadfast Networks
+50.31.24.0 50.31.24.255 AS394651 ALTDB Akuna Capital LLC
+50.31.25.0 50.31.31.255 AS32748 ALTDB Steadfast Networks
+50.31.32.0 50.31.63.255 AS11377 ALTDB Steadfast Networks
+50.31.64.0 50.31.102.255 AS32748 ALTDB Steadfast Networks
+50.31.103.0 50.31.103.255 AS30455 ALTDB Hostvenom
+50.31.104.0 50.31.112.255 AS32748 ALTDB Steadfast Networks
+50.31.113.0 50.31.113.255 AS30455 ALTDB Hostvenom
+50.31.114.0 50.31.127.255 AS32748 ALTDB Steadfast Networks
+50.31.128.0 50.31.162.255 AS23352 ALTDB ServerCentral Network
+50.31.163.0 50.31.163.255 AS10493 ALTDB Proxy Registration for Grand Central Networks, Inc.
+50.31.164.0 50.31.164.255 AS23467 ALTDB Proxy Registration for New Relic
+50.31.165.0 50.31.195.255 AS23352 ALTDB ServerCentral Network
+50.31.196.0 50.31.197.255 AS30081 RADB SAO
+50.31.198.0 50.31.239.255 AS23352 ALTDB ServerCentral Network
+50.31.240.0 50.31.241.255 AS32780 NTTCOM ServerCentral
+50.31.242.0 50.31.243.255 AS32771 ARIN DNSimple
+50.31.244.0 50.31.247.255 AS23352 ALTDB ServerCentral Network
+50.31.248.0 50.31.248.255 AS3731 NTTCOM Server Central Network
+50.31.249.0 50.31.249.255 AS23352 NTTCOM Servercentral
+50.31.250.0 50.31.250.255 AS3731 NTTCOM Server Central Network
+50.31.251.0 50.31.251.255 AS23352 NTTCOM Servercentral
+50.31.252.0 50.31.255.255 AS32780 NTTCOM Servercentral
+50.32.0.0 50.33.1.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.33.2.0 50.33.3.255 AS20300 RADB SDNET on behalf of Woodstock Telephone
+50.33.4.0 50.44.28.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.44.29.0 50.44.29.255 AS54794 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.44.30.0 50.49.253.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.49.254.0 50.49.254.255 AS20359 RADB RR-Preferred Mutual Insurance Company-Binghamton
+50.49.255.0 50.49.255.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.50.0.0 50.50.127.255 AS6181 ALTDB Proxy-registered route object for Cincinnati Bell Telephone 201 E. 4th Street Room 346 Cincinnati, OH 45202
+50.50.128.0 50.54.241.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.54.242.0 50.54.242.255 AS201385 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.54.243.0 50.55.255.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.56.0.0 50.56.127.255 AS19994 RADB Rackspace, 5000 Walzem Road, San Antonio, TX 78218
+50.56.128.0 50.56.227.255 AS33070 SAVVIS PNAP-DAL rackmanaged route
+50.56.228.0 50.56.229.255 AS10532 RADB RR-RC-Rackspace Hosting-San Antonio
+50.56.230.0 50.56.230.255 AS22720 RADB RR-RC-Rackspace Hosting-San Antonio
+50.56.231.0 50.56.255.255 AS33070 SAVVIS PNAP-DAL rackmanaged route
+50.57.0.0 50.57.255.255 AS19994 RADB Rackspace, 5000 Walzem Road, San Antonio, TX 78218
+50.58.4.0 50.58.4.255 AS33066 RADB Proxy-registered route object
+50.58.14.0 50.58.14.255 AS36434 NTTCOM EPCO-NET-01
+50.58.16.0 50.58.17.255 AS46112 SAVVIS PNAP-HOU consolid-route
+50.58.34.0 50.58.34.255 AS19271 ARIN RACOW001
+50.58.66.0 50.58.66.255 AS36754 RADB RR-RC-Confiance IP Solutions, Inc.-Greensboro
+50.58.75.0 50.58.75.255 AS15085 LEVEL3 new route for AS15085
+50.58.97.0 50.58.97.255 AS22518 RADB RR-RC-Pandora Media, Inc-NYCity
+50.58.115.0 50.58.115.255 AS11372 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.58.129.0 50.58.129.255 AS22773 LEVEL3 CHND PHX-DATA-BUSINESS
+50.58.131.0 50.58.131.255 AS22773 LEVEL3 LV CBS TRANSIT
+50.58.142.0 50.58.143.255 AS26421 RADB Ponderosa Cablevision California, USA
+50.58.170.0 50.58.170.255 AS36072 RADB RR-RC-Porter Bancorp Inc.-Insight
+50.58.172.0 50.58.172.255 AS32703 RADB AS20193 maintained by IFN
+50.58.180.0 50.58.180.255 AS7213 RADB Mason Co
+50.58.190.0 50.58.190.255 AS394714 RADB VW-CUST-88537
+50.58.191.0 50.58.191.255 AS54030 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.58.192.0 50.58.192.255 AS393541 RADB NSS Labs  NL-240 
+50.58.197.0 50.58.197.255 AS3900 RADB Data Foundry
+50.58.199.0 50.58.199.255 AS3728 RADB Mission Pharmacal to OnRamp
+50.58.200.0 50.58.200.255 AS63483 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.58.202.0 50.58.202.255 AS22969 LEVEL3 Route for Zayo Group, LLC Org ID 1-14FWK0
+50.58.210.0 50.58.210.255 AS19725 NTTCOM COHPWE-Network-1
+50.58.212.0 50.58.212.255 AS63483 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.58.230.0 50.58.231.255 AS53581 ARIN IF&D DATASUITES, LLC P.O. Box 7378 Winter Haven, FL, 33883-7378 US
+50.58.239.0 50.58.239.255 AS393233 ARIN Aon eSolutions 1130 Powers Ferry Place, SE Marietta, GA 30067 US
+50.58.248.0 50.58.248.255 AS54147 RADB RR-RC-Ultimate Medical Academy LLC-Tampa Bay
+50.58.250.0 50.58.250.255 AS26781 RADB Baptist Health System of Alabama
+50.58.252.0 50.58.252.255 AS26845 ARIN Fleetcor Technologies Operating Company, LLC 5445 Triangle Parkway Suite 500 Norcross, GA 30092 US
+50.59.39.0 50.59.39.255 AS54230 ALTDB Proxy-registered route object for Commercial Communications, Inc. 1225 Walnut Ridge Dr. Hartland, WI 53029
+50.59.43.0 50.59.43.255 AS27195 RADB RR-RC-Cavern Technologies-Kansas City
+50.59.56.0 50.59.56.255 AS8077 ALTDB Proxy-registered route object for Devco Holdings 5726 Dixie Hwy Fairfield, OH 45014
+50.59.65.0 50.59.65.255 AS63483 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.59.73.0 50.59.73.255 AS63483 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.59.80.0 50.59.80.255 AS53759 RADB RR-RC-Visual Net Design LC-San Antonio
+50.59.82.0 50.59.83.255 AS63483 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.59.85.0 50.59.85.255 AS47071 SAVVIS PNAP-HOU
+50.59.92.0 50.59.93.255 AS63483 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.59.102.0 50.59.103.255 AS14058 ARIN PointClick Technologies 5301 Departure Raleigh, NC 27616 US
+50.59.130.0 50.59.130.255 AS25670 RADB RR-RC-thinkCSC-MOH
+50.59.133.0 50.59.133.255 AS7029 RADB Proxy fbo Wasserstrom  AS26709 
+50.59.137.0 50.59.137.255 AS54213 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.59.152.0 50.59.153.255 AS12025 ARIN -------------------------------------------------- - i/o Data Centers - 615 North 48th Street - Phoenix, AZ 85008 US - http://www.iodatacenters.com - - Customer Proxy Route --------------------------------------------------
+50.59.165.0 50.59.165.255 AS22773 LEVEL3 PHX CB TRANSIT
+50.59.180.0 50.59.180.255 AS18888 ALTDB Proxy-registered route object for ZILLOW, INC. 1301 Second Avenue, Floor 31 Seattle, WA 98101
+50.59.213.0 50.59.213.255 AS40464 RADB Eclipse Computer Systems
+50.59.217.0 50.59.217.255 AS18906 RADB RR-RC-Concord Management Ltd-Tampa Bay
+50.59.219.0 50.59.219.255 AS7381 LEVEL3 pre0 block 1
+50.59.226.0 50.59.226.255 AS62510 RADB RR-RC-North East Independent School District-San Antonio
+50.59.230.0 50.59.231.255 AS63483 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.59.232.0 50.59.233.255 AS393693 RADB 50.59.232.0/23
+50.59.236.0 50.59.236.255 AS16839 RADB ServiceNow.com IT
+50.59.239.0 50.59.239.255 AS11915 RADB Route Added by Grande Communications on behalf of Worksoft, Inc.
+50.60.0.0 50.61.150.255 AS25653 RADB 50.60.0.0/16
+50.61.151.0 50.61.151.255 AS22232 SAVVIS PNAP-NYM route-modmission-2
+50.61.152.0 50.61.255.255 AS25653 RADB 50.61.128.0/18
+50.62.0.0 50.63.255.255 AS26496 RADB GoDaddy.com, Inc.
+50.64.0.0 50.72.255.255 AS6327 RADB Shaw Communications Inc
+50.73.0.0 50.73.255.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.74.0.0 50.74.82.255 AS12271 RADB RR-Route
+50.74.83.0 50.74.83.255 AS16770 RADB RR-RC-USPowergen-NY City
+50.74.84.0 50.74.255.255 AS12271 RADB RR-Route
+50.75.0.0 50.75.39.255 AS11351 RADB RR-Route
+50.75.40.0 50.75.40.255 AS53623 RADB RR-RC-Ameridial-Portland
+50.75.41.0 50.75.46.255 AS11351 RADB RR-Route
+50.75.47.0 50.75.47.255 AS63243 RADB RR-RC-Synergent-Portland
+50.75.48.0 50.75.191.255 AS11351 RADB RR-Route
+50.75.192.0 50.75.255.255 AS12271 RADB RR-Route
+50.76.0.0 50.79.255.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.80.0.0 50.81.81.255 AS30036 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.81.82.0 50.81.83.255 AS19905 RADB SP-Mediacom
+50.81.84.0 50.82.247.255 AS30036 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.82.248.0 50.82.248.255 AS19905 RADB SP-Mediacom
+50.82.249.0 50.82.249.255 AS30036 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.82.250.0 50.82.251.255 AS19905 RADB SP-Mediacom
+50.82.252.0 50.83.255.255 AS30036 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.84.0.0 50.84.44.255 AS11427 RADB RR-Route
+50.84.45.0 50.84.45.255 AS14313 RADB RR-RC-CLEARVIEW MANAGEMENT CONSULTANTS-North Texas
+50.84.46.0 50.84.201.255 AS11427 RADB RR-Route
+50.84.202.0 50.84.202.255 AS11888 RADB RR-RC-Television Internacional, S.A. de C.V.-Rio Grande Valley
+50.84.203.0 50.84.235.255 AS11427 RADB RR-Route
+50.84.236.0 50.84.236.255 AS54639 RADB RR-RC-TDIndustries-NTX
+50.84.237.0 50.84.255.255 AS11427 RADB RR-Route
+50.86.0.0 50.86.255.255 AS11272 ARIN Telepak Networks, Inc. 1018 Highland Colony Parkway Ridgeland, MS 39157 US
+50.87.0.0 50.87.255.255 AS46606 RADB Unified Layer
+50.88.0.0 50.90.255.255 AS33363 RADB RR-RC-Bright House-CentralFL
+50.91.0.0 50.91.127.255 AS10796 RADB RR-Route
+50.91.128.0 50.91.255.255 AS20001 RADB RR-Route
+50.92.0.0 50.93.127.255 AS852 RADB NET-TELUS
+50.93.129.0 50.93.130.255 AS12176 RIPE ICAP Services North America, LLC Harborside Financial Center 1100 Plaza Five 12th Floor Jersey City, NJ 07311 US
+50.93.132.0 50.93.132.255 AS12176 RIPE ICAP Services North America, LLC Harborside Financial Center 1100 Plaza Five 12th Floor Jersey City, NJ 07311 US
+50.93.144.0 50.93.159.255 AS22561 SAVVIS add route
+50.93.160.0 50.93.175.255 AS17184 ARIN Cbeyond Communications
+50.93.176.0 50.93.191.255 AS53435 ALTDB Proxy Registered by IRIS Networks for Jackson Energy Authority
+50.93.192.0 50.93.197.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+50.93.198.0 50.93.200.255 AS36351 REACH REACH  Customer Route 
+50.93.201.0 50.93.204.255 AS29761 ARIN Jazz Network Inc. 600 TAMPA OAKS BLVD. TAMPA, FL 33637 US
+50.93.205.0 50.93.205.255 AS53974 ARIN Jazz Network Inc. 600 TAMPA OAKS BLVD. TAMPA, FL 33637 US
+50.93.206.0 50.93.207.255 AS36351 REACH REACH  Customer Route 
+50.93.208.0 50.93.223.255 AS22561 SAVVIS add route
+50.93.224.0 50.93.239.255 AS22773 LEVEL3 KSCY CB TRANSIT
+50.93.240.0 50.93.243.255 AS33693 ALTDB Red Anvil, LLC
+50.93.244.0 50.93.255.255 AS10242 RADB US Internet Route
+50.96.0.0 50.96.189.255 AS7029 RADB WINDSTREAM-AGG
+50.96.190.0 50.96.190.255 AS7381 LEVEL3 sgns block 1
+50.96.191.0 50.96.255.255 AS7029 RADB WINDSTREAM-AGG
+50.97.0.0 50.97.15.255 AS36351 REACH REACH  Customer Route 
+50.97.16.0 50.97.17.255 AS11172 RADB auto-generated route object for 50.97.16.0/23
+50.97.18.0 50.97.119.255 AS36351 REACH REACH  Customer Route 
+50.97.120.0 50.97.127.255 AS11172 RADB auto-generated route object for  50.97.120.0/21
+50.97.128.0 50.97.255.255 AS36351 REACH REACH  Customer Route 
+50.98.0.0 50.99.255.255 AS852 RADB NET-TELUS
+50.100.0.0 50.100.20.255 AS603 BELL Bell NHS - St Laurent
+50.100.21.0 50.100.22.255 AS577 BELL Bell Canada
+50.100.23.0 50.100.23.255 AS603 BELL Bell NHS  AS603 
+50.100.24.0 50.101.255.255 AS577 BELL Bell Canada
+50.102.0.0 50.104.123.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.104.124.0 50.104.124.255 AS26127 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.104.125.0 50.104.167.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.104.168.0 50.104.168.255 AS26127 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.104.169.0 50.111.255.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.112.0.0 50.112.255.255 AS16509 REACH REACH  Customer Route 
+50.113.0.0 50.113.255.255 AS20001 RADB RR-Route
+50.114.0.0 50.114.255.255 AS11798 RADB Ace Data Centers, Inc.
+50.115.0.0 50.115.15.255 AS40824 RADB ColocateUSA Webzilla route
+50.115.16.0 50.115.31.255 AS53861 RADB Kualo-1
+50.115.32.0 50.115.47.255 AS11403 RADB WebNX
+50.115.48.0 50.115.63.255 AS7029 RADB Proxy fbo Bluegrass Cellular  AS11979 
+50.115.64.0 50.115.79.255 AS14265 LEVEL3 TPAC-SNJSCA
+50.115.80.0 50.115.84.255 AS1828 RADB NETBLK-UNITAS-04
+50.115.85.0 50.115.85.255 AS35831 RADB proxy route object for VNETRIX by UNITAS
+50.115.86.0 50.115.87.255 AS1828 RADB NETBLK-UNITAS-04
+50.115.88.0 50.115.88.255 AS35831 RADB proxy route object for VNETRIX by UNITAS
+50.115.89.0 50.115.95.255 AS1828 RADB NETBLK-UNITAS-04
+50.115.96.0 50.115.111.255 AS54045 RADB WTS Main IP
+50.115.112.0 50.115.127.255 AS29854 RADB Hosting Services Inc.
+50.115.144.0 50.115.159.255 AS22773 LEVEL3 KSCY KSCY-DATA-BUSINESS
+50.115.160.0 50.115.169.255 AS29761 RADB PROXY REGISTRATION FOR Virpus Networks Inc
+50.115.170.0 50.115.173.255 AS32875 RADB Virpus Networks
+50.115.174.0 50.115.175.255 AS29761 RADB PROXY REGISTRATION FOR Virpus Networks Inc
+50.115.176.0 50.115.191.255 AS7992 SAVVIS Peer1 Route Object
+50.115.192.0 50.115.207.255 AS54048 RADB CVIN LLC
+50.115.208.0 50.115.211.255 AS12269 RADB auto-generated route object for 50.115.208.0/22
+50.115.212.0 50.115.219.255 AS198908 RADB grpn-eu
+50.115.220.0 50.115.223.255 AS12269 RADB grpn-SAC1
+50.115.224.0 50.115.235.255 AS27257 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1000 N. West St., Suite 1200 Wilmington, DE 19801 United States of America
+50.115.236.0 50.115.239.255 AS20264 RADB Webair Internet Development Inc.
+50.115.240.0 50.115.255.255 AS23404 LEVEL3 Ritter Communications route
+50.116.16.0 50.116.31.255 AS36351 REACH REACH  Customer Route 
+50.116.32.0 50.116.47.255 AS3595 RADB Proxy route for Linode Networks
+50.116.48.0 50.116.63.255 AS8001 RADB Linode
+50.116.64.0 50.116.127.255 AS36351 REACH REACH  Customer Route 
+50.116.128.0 50.116.191.255 AS3663 RADB Nsight WI/MN
+50.116.192.0 50.116.255.255 AS6336 RADB TURN
+50.117.0.0 50.117.4.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+50.117.5.0 50.117.5.255 AS54500 RADB CDN-EGN
+50.117.6.0 50.117.33.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+50.117.34.0 50.117.34.255 AS3731 RADB EGI-SJ
+50.117.35.0 50.117.40.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+50.117.41.0 50.117.41.255 AS3731 RADB EGI-SJ
+50.117.42.0 50.117.43.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+50.117.44.0 50.117.44.255 AS26481 RADB Rebel Hosting
+50.117.45.0 50.117.45.255 AS26642 RADB EGI NY
+50.117.46.0 50.117.47.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+50.117.48.0 50.117.48.255 AS26481 LEVEL3 new prefix for Bandcon
+50.117.49.0 50.117.55.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+50.117.56.0 50.117.56.255 AS54500 RADB CDN-EGN
+50.117.57.0 50.117.58.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+50.117.59.0 50.117.59.255 AS54500 RADB CDN-EGN
+50.117.60.0 50.117.60.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+50.117.61.0 50.117.61.255 AS11346 RADB IPTP-INIT7-3
+50.117.62.0 50.117.71.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+50.117.72.0 50.117.72.255 AS11346 RADB IPTP-INIT7-2
+50.117.73.0 50.117.127.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+50.118.0.0 50.118.127.255 AS32392 RADB Ecommerce Inc
+50.118.128.0 50.118.136.255 AS18779 RADB Energy Group Networks
+50.118.137.0 50.118.137.255 AS54782 RADB GMO CLOUD AMERICA INC.
+50.118.138.0 50.118.142.255 AS18779 RADB Energy Group Networks
+50.118.143.0 50.118.143.255 AS21321 RADB NY-ALEN
+50.118.144.0 50.118.144.255 AS18779 RADB 55 S. Market St. San Jose, CA
+50.118.145.0 50.118.145.255 AS4250 RADB MIA-ALEN2
+50.118.146.0 50.118.160.255 AS18779 RADB 55 S. Market St. San Jose, CA
+50.118.161.0 50.118.161.255 AS53587 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+50.118.162.0 50.118.162.255 AS21321 RADB ALEN-3
+50.118.163.0 50.118.171.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+50.118.172.0 50.118.172.255 AS21321 RADB NY-ALEN
+50.118.173.0 50.118.173.255 AS54500 RADB CDN-EGN
+50.118.174.0 50.118.175.255 AS53587 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+50.118.176.0 50.118.195.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+50.118.196.0 50.118.196.255 AS21321 RADB Proxy Route - Customer
+50.118.197.0 50.118.197.255 AS23352 NTTCOM ServerCentral
+50.118.198.0 50.118.198.255 AS21321 RADB Proxy Route - Customer
+50.118.199.0 50.118.209.255 AS18779 RADB 55 S. Market St. San Jose, CA
+50.118.210.0 50.118.210.255 AS21321 RADB EGN
+50.118.211.0 50.118.212.255 AS18779 RADB 55 S. Market St. San Jose, CA
+50.118.213.0 50.118.213.255 AS21321 RADB Proxy Customer Route
+50.118.214.0 50.118.214.255 AS18779 RADB 55 S. Market St. San Jose, CA
+50.118.215.0 50.118.215.255 AS21321 RADB Proxy Customer Route
+50.118.216.0 50.118.217.255 AS18779 RADB 55 S. Market St. San Jose, CA
+50.118.218.0 50.118.218.255 AS21321 RADB Proxy Customer Route
+50.118.219.0 50.118.255.255 AS18779 RADB 55 S. Market St. San Jose, CA
+50.119.0.0 50.119.255.255 AS11798 RADB Ace Data Centers, Inc.
+50.120.0.0 50.120.169.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.120.170.0 50.120.170.255 AS393542 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.120.171.0 50.121.63.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.121.64.0 50.121.65.255 AS6984 LEVEL3 Route for Verizon Data Org 1-F4QOO
+50.121.66.0 50.121.150.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.121.151.0 50.121.151.255 AS26650 RADB Proxy route for alpha technology on behalf of Lumos networks.
+50.121.152.0 50.124.92.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.124.93.0 50.124.93.255 AS40534 RADB AMERICAN AVK COMPANY swip'd from Frontier Communication
+50.124.94.0 50.127.255.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.128.0.0 50.200.8.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.9.0 50.200.9.255 AS54510 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.10.0 50.200.16.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.17.0 50.200.17.255 AS40485 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.200.18.0 50.200.39.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.40.0 50.200.40.255 AS20008 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.41.0 50.200.57.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.58.0 50.200.58.255 AS26813 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.59.0 50.200.111.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.112.0 50.200.112.255 AS7029 RADB Proxy fbo Goodville Mutual  AS46336 
+50.200.113.0 50.200.121.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.122.0 50.200.122.255 AS13939 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.123.0 50.200.132.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.133.0 50.200.133.255 AS54246 ARIN AFNI
+50.200.134.0 50.200.165.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.166.0 50.200.166.255 AS36171 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.167.0 50.200.168.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.169.0 50.200.169.255 AS32385 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.200.170.0 50.200.196.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.197.0 50.200.197.255 AS11527 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.198.0 50.200.205.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.206.0 50.200.206.255 AS8121 ALTDB Layer42 Customer route
+50.200.207.0 50.200.232.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.200.233.0 50.200.233.255 AS33378 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.200.234.0 50.201.65.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.201.66.0 50.201.66.255 AS46675 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.201.67.0 50.201.73.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.201.74.0 50.201.75.255 AS32778 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.201.76.0 50.201.100.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.201.101.0 50.201.102.255 AS18744 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.201.103.0 50.201.108.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.201.109.0 50.201.109.255 AS7029 RADB Windstream  PaeTec 
+50.201.110.0 50.201.124.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.201.125.0 50.201.125.255 AS17330 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.201.126.0 50.201.182.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.201.183.0 50.201.183.255 AS29873 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.201.184.0 50.201.191.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.201.192.0 50.201.192.255 AS6994 LEVEL3 cus route
+50.201.193.0 50.201.216.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.201.217.0 50.201.217.255 AS54034 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.201.218.0 50.201.240.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.201.241.0 50.201.241.255 AS6576 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.201.242.0 50.201.250.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.201.251.0 50.201.251.255 AS12233 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.201.252.0 50.202.9.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.10.0 50.202.11.255 AS29714 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.12.0 50.202.37.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.38.0 50.202.38.255 AS11713 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.39.0 50.202.39.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.40.0 50.202.40.255 AS20315 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.41.0 50.202.47.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.48.0 50.202.48.255 AS40355 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.49.0 50.202.49.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.50.0 50.202.50.255 AS30373 RADB Efficient Capital Management - proxy registered by Business Only Broadband
+50.202.51.0 50.202.51.255 AS22928 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.52.0 50.202.58.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.59.0 50.202.59.255 AS11056 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.60.0 50.202.73.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.74.0 50.202.74.255 AS40516 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.202.75.0 50.202.84.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.85.0 50.202.85.255 AS62868 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.202.86.0 50.202.94.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.95.0 50.202.95.255 AS13735 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.96.0 50.202.99.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.100.0 50.202.100.255 AS14567 LEVEL3 4637806
+50.202.101.0 50.202.111.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.112.0 50.202.113.255 AS14021 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.202.114.0 50.202.124.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.125.0 50.202.125.255 AS394573 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.126.0 50.202.140.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.141.0 50.202.141.255 AS7029 RADB Proxy fbo Digipress  AS55161 
+50.202.142.0 50.202.152.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.153.0 50.202.153.255 AS53735 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.202.154.0 50.202.163.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.164.0 50.202.164.255 AS25775 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.202.165.0 50.202.171.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.172.0 50.202.172.255 AS40039 RADB NextWeb-r1-scmca-bsr1 Alpha and Omega
+50.202.173.0 50.202.225.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.226.0 50.202.226.255 AS7029 RADB Proxy fbo Craneware Insight  AS19502 
+50.202.227.0 50.202.235.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.236.0 50.202.236.255 AS29834 RADB Ustream Comcast
+50.202.237.0 50.202.238.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.202.239.0 50.202.239.255 AS19144 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.202.240.0 50.202.240.255 AS26966 RADB Spraying Systems Co.
+50.202.241.0 50.203.2.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.3.0 50.203.3.255 AS32285 RADB Henry Ford CC
+50.203.4.0 50.203.14.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.15.0 50.203.15.255 AS33275 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.16.0 50.203.16.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.17.0 50.203.17.255 AS7029 RADB Windstream  PaeTec 
+50.203.18.0 50.203.35.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.36.0 50.203.36.255 AS16539 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.203.37.0 50.203.37.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.38.0 50.203.38.255 AS53454 RADB Full Duplex
+50.203.39.0 50.203.81.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.82.0 50.203.82.255 AS14265 LEVEL3 TPAC-SNJSCA
+50.203.83.0 50.203.136.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.137.0 50.203.137.255 AS46807 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.138.0 50.203.147.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.148.0 50.203.148.255 AS26014 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.203.149.0 50.203.162.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.163.0 50.203.163.255 AS23411 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.164.0 50.203.165.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.166.0 50.203.166.255 AS30373 RADB Proxy registered by BOB Broadband for Lifequotes Inc.
+50.203.167.0 50.203.167.255 AS18663 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.168.0 50.203.177.143 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.177.144 50.203.177.175 AS19247 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.177.176 50.203.196.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.197.0 50.203.197.255 AS3737 ARIN PenTeleData
+50.203.198.0 50.203.207.239 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.207.240 50.203.207.247 AS54391 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.207.248 50.203.225.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.226.0 50.203.226.255 AS36852 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.227.0 50.203.230.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.231.0 50.203.231.255 AS62573 RADB Comcast cable Communications, Inc. 1800 Bishops Gate Blvd Mt laurel, NJ 08054
+50.203.232.0 50.203.248.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.249.0 50.203.249.255 AS7046 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.203.250.0 50.204.11.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.12.0 50.204.12.255 AS14711 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.13.0 50.204.27.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.28.0 50.204.28.255 AS54997 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.204.29.0 50.204.42.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.43.0 50.204.43.255 AS29785 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.44.0 50.204.58.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.59.0 50.204.59.255 AS22561 SAVVIS add route
+50.204.60.0 50.204.86.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.87.0 50.204.87.31 AS11616 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.87.32 50.204.87.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.88.0 50.204.88.255 AS47034 ALTDB Norse Corporation
+50.204.89.0 50.204.96.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.97.0 50.204.97.255 AS17378 SAVVIS PNAP-PHI
+50.204.98.0 50.204.109.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.110.0 50.204.110.255 AS35992 RADB Comcast Cable Communications, Inc.1800 Bishops Gate Blvd Mt Laurel, NJÂ  08054
+50.204.111.0 50.204.113.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.114.0 50.204.114.255 AS33331 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.115.0 50.204.151.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.152.0 50.204.152.255 AS13339 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.153.0 50.204.153.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.154.0 50.204.154.255 AS16898 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJÂ  08054
+50.204.155.0 50.204.155.255 AS23408 RADB Proxy route-object for Trail Blazers, Inc.
+50.204.156.0 50.204.156.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.157.0 50.204.157.255 AS393272 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.158.0 50.204.183.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.184.0 50.204.184.255 AS32913 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.185.0 50.204.193.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.194.0 50.204.194.255 AS26366 LEVEL3 Ticomix Inc
+50.204.195.0 50.204.204.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.205.0 50.204.205.255 AS63422 RADB World Vision Inc. 34834 Weyerhaeuser Way South Federal Way, WA 98063-9716
+50.204.206.0 50.204.230.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.231.0 50.204.231.255 AS55273 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.232.0 50.204.254.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.204.255.0 50.204.255.255 AS62860 RADB Integra Telecom Route Object
+50.205.0.0 50.205.64.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.205.65.0 50.205.65.255 AS33378 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.205.66.0 50.205.87.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.205.88.0 50.205.88.255 AS63006 RADB Integra Telecom Route Object
+50.205.89.0 50.205.112.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.205.113.0 50.205.113.255 AS23399 LEVEL3 Valley Proteins, Inc.
+50.205.114.0 50.205.114.255 AS32688 RADB Prolexic Technologies, Inc.
+50.205.115.0 50.205.128.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.205.129.0 50.205.129.255 AS65431 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.205.130.0 50.205.159.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.205.160.0 50.205.160.255 AS14538 NTTCOM Shentel Communications transit customers
+50.205.161.0 50.205.220.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.205.221.0 50.205.221.255 AS393476 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.205.222.0 50.205.235.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.205.236.0 50.205.236.255 AS15319 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.205.237.0 50.206.19.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.206.20.0 50.206.20.255 AS26554 RADB Route for Active Aero
+50.206.21.0 50.206.23.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.206.24.0 50.206.24.255 AS63057 RADB NET-50-128-0-0-1 Axinn, Veltrop & Harkrider LLP 114 West 47th St New York, NY 10036 US
+50.206.25.0 50.206.51.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.206.52.0 50.206.52.255 AS26419 ARIN BDa Inc
+50.206.53.0 50.206.90.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.206.91.0 50.206.91.255 AS14804 RADB Comcast cable Communications, Inc. 1800 Bishops Gate Blvd Mt laurel, NJ 08054
+50.206.92.0 50.206.106.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.206.107.0 50.206.107.255 AS62867 NTTCOM AldineISD-Comcast-Net
+50.206.108.0 50.206.162.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.206.163.0 50.206.163.255 AS40159 ALTDB Atlantic Metro Communications 325 Hudson St 4th Floor New York, NY 10013 USA
+50.206.164.0 50.206.164.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.206.165.0 50.206.165.255 AS14786 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.206.166.0 50.206.192.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.206.193.0 50.206.193.255 AS16578 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.206.194.0 50.206.222.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.206.223.0 50.206.223.255 AS393505 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.206.224.0 50.207.44.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.207.45.0 50.207.45.255 AS3737 ARIN PenTeleData
+50.207.46.0 50.207.154.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.207.155.0 50.207.155.255 AS63477 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.207.156.0 50.207.222.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.207.223.0 50.207.223.255 AS63302 RADB Proxy fbo MFABOSTON AS63302
+50.207.224.0 50.207.226.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.207.227.0 50.207.227.255 AS63375 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.207.228.0 50.207.238.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.207.239.0 50.207.239.255 AS393843 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.207.240.0 50.224.1.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.224.2.0 50.224.2.255 AS32709 RADB Safehouse data, permitted by Comcast to advertise to us
+50.224.3.0 50.224.6.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.224.7.0 50.224.7.255 AS394557 RADB Roku Inc route object
+50.224.8.0 50.224.12.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.224.13.0 50.224.13.255 AS394547 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.224.14.0 50.224.50.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.224.51.0 50.224.51.255 AS54420 RADB COCC
+50.224.52.0 50.224.61.47 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.224.61.48 50.224.61.63 AS12075 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.224.61.64 50.224.107.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.224.108.0 50.224.108.255 AS53292 RADB Managedway Company
+50.224.109.0 50.232.23.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.24.0 50.232.24.255 AS63206 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.232.25.0 50.232.33.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.34.0 50.232.34.255 AS22561 SAVVIS add route
+50.232.35.0 50.232.45.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.46.0 50.232.47.255 AS54210 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.48.0 50.232.69.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.70.0 50.232.70.255 AS40101 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.232.71.0 50.232.88.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.89.0 50.232.89.255 AS393696 RADB VW-CUST-88150
+50.232.90.0 50.232.101.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.102.0 50.232.102.255 AS27421 RADB Applause
+50.232.103.0 50.232.118.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.119.0 50.232.119.255 AS29880 RADB proxy registration for as29880
+50.232.120.0 50.232.125.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.126.0 50.232.126.255 AS13520 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.232.127.0 50.232.137.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.138.0 50.232.138.255 AS40145 RADB proxy for cust - Builders Insurance Group, Inc.,US
+50.232.139.0 50.232.187.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.188.0 50.232.188.255 AS393863 RADB Frontier Communications  ARIN OrgID: FRTR 
+50.232.189.0 50.232.198.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.199.0 50.232.199.255 AS393887 RADB Integra Telecom Route Object
+50.232.200.0 50.232.200.255 AS26554 RADB Secure-24 Inc - C/O Office Extension
+50.232.201.0 50.232.203.255 AS46746 LEVEL3 Switch Communications Customer Route
+50.232.204.0 50.232.217.15 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.217.16 50.232.217.23 AS393998 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.217.24 50.232.234.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.235.0 50.232.235.255 AS11905 LEVEL3 Route for e-LYNXX
+50.232.236.0 50.232.240.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.232.241.0 50.232.241.255 AS54240 NTTCOM SYNDEO NETWORKS
+50.232.242.0 50.233.62.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.233.63.0 50.233.63.255 AS394208 RADB Proxy fbo Can Capital  AS394208 
+50.233.64.0 50.233.92.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.233.93.0 50.233.93.255 AS394254 RADB Blue Software
+50.233.94.0 50.233.120.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.233.121.0 50.233.121.255 AS18687 LEVEL3 TPAC/R1-The National Food Laboratory
+50.233.122.0 50.234.41.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.234.42.0 50.234.42.255 AS394604 RADB Xaverian Brothers High School
+50.234.43.0 50.234.43.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.234.44.0 50.234.44.255 AS393476 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.234.45.0 50.234.91.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.234.92.0 50.234.92.255 AS394535 RADB Truth Initiative Foundation
+50.234.93.0 50.235.26.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+50.235.27.0 50.235.27.255 AS394627 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+50.235.28.0 50.255.255.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054

@@ -1,0 +1,1799 @@
+68.0.0.0 68.10.7.255 AS22773 LEVEL3 netblock for Eng Lab
+68.10.8.0 68.10.11.255 AS20115 LEVEL3 CHTR-IL-Public
+68.10.12.0 68.15.255.255 AS22773 LEVEL3 Residential HR RDC Block
+68.16.4.0 68.16.4.255 AS6197 LEVEL3 Proxy-registered route object
+68.16.6.0 68.16.7.255 AS8060 LEVEL3 Proxy-registered route object
+68.16.8.0 68.16.15.255 AS6197 LEVEL3 Proxy-registered route object
+68.16.16.0 68.16.17.255 AS6382 LEVEL3 Proxy-registered route object
+68.16.18.0 68.16.23.255 AS8061 LEVEL3 Proxy-registered route object
+68.16.26.0 68.16.27.255 AS6381 LEVEL3 Proxy-registered route object
+68.16.29.0 68.16.29.255 AS6385 LEVEL3 Proxy-registered route object
+68.16.30.0 68.16.30.255 AS6386 LEVEL3 Proxy-registered route object
+68.16.31.0 68.16.31.255 AS6912 SAVVIS PNAP-ACS
+68.16.32.0 68.16.33.255 AS7894 LEVEL3 Proxy-registered route object
+68.16.36.0 68.16.37.255 AS6387 LEVEL3 Proxy-registered route object
+68.16.38.0 68.16.38.255 AS6197 LEVEL3 Proxy-registered route object
+68.16.52.0 68.16.52.255 AS8060 LEVEL3 Proxy-registered route object
+68.16.53.0 68.16.53.255 AS13317 LEVEL3 Proxy-registered route object
+68.16.54.0 68.16.59.255 AS8061 LEVEL3 Proxy-registered route object
+68.16.62.0 68.16.63.255 AS6385 LEVEL3 Proxy-registered route object
+68.16.68.0 68.16.69.255 AS29846 NTTCOM NetComm-BS Block1
+68.16.72.0 68.16.73.255 AS6382 LEVEL3 Proxy-registered route object
+68.16.74.0 68.16.75.255 AS7893 LEVEL3 Proxy-registered route object
+68.16.76.0 68.16.77.255 AS6380 LEVEL3 Proxy-registered route object
+68.16.80.0 68.16.81.255 AS8061 LEVEL3 Proxy-registered route object
+68.16.82.0 68.16.83.255 AS8062 LEVEL3 Proxy-registered route object
+68.16.84.0 68.16.84.255 AS6197 LEVEL3 Proxy-registered route object
+68.16.88.0 68.16.89.255 AS6381 LEVEL3 Proxy-registered route object
+68.16.94.0 68.16.95.255 AS8061 LEVEL3 Proxy-registered route object
+68.16.120.0 68.16.127.255 AS6198 LEVEL3 Proxy-registered route object
+68.16.128.0 68.16.139.255 AS6385 LEVEL3 Proxy-registered route object
+68.16.140.0 68.16.143.255 AS7892 LEVEL3 Proxy-registered route object
+68.16.144.0 68.16.151.255 AS6384 LEVEL3 Proxy-registered route object
+68.16.152.0 68.16.163.255 AS6381 LEVEL3 Proxy-registered route object
+68.16.164.0 68.16.167.255 AS8061 LEVEL3 Proxy-registered route object
+68.16.168.0 68.16.175.255 AS6380 LEVEL3 Proxy-registered route object
+68.16.176.0 68.16.183.255 AS5002 LEVEL3 Proxy-registered route object
+68.16.184.0 68.16.191.255 AS6386 LEVEL3 Proxy-registered route object
+68.16.192.0 68.16.207.255 AS7894 LEVEL3 Proxy-registered route object
+68.16.216.0 68.16.219.255 AS6388 LEVEL3 Proxy-registered route object
+68.16.220.0 68.16.223.255 AS7891 LEVEL3 Proxy-registered route object
+68.17.0.0 68.17.3.255 AS5002 LEVEL3 Proxy-registered route object
+68.17.4.0 68.17.4.255 AS6388 LEVEL3 Proxy-registered route object
+68.17.5.0 68.17.23.255 AS5002 LEVEL3 Proxy-registered route object
+68.17.24.0 68.17.27.255 AS19175 ARIN NetStar Communications
+68.17.28.0 68.17.31.255 AS6385 LEVEL3 Proxy-registered route object
+68.17.32.0 68.17.33.255 AS6386 LEVEL3 Proxy-registered route object
+68.17.34.0 68.17.35.255 AS5002 LEVEL3 Proxy-registered route object
+68.17.36.0 68.17.39.255 AS8061 LEVEL3 Proxy-registered route object
+68.17.40.0 68.17.43.255 AS6388 LEVEL3 Proxy-registered route object
+68.17.44.0 68.17.45.255 AS6387 LEVEL3 Proxy-registered route object
+68.17.46.0 68.17.49.255 AS5002 LEVEL3 Proxy-registered route object
+68.17.50.0 68.17.50.255 AS6385 LEVEL3 Proxy-registered route object
+68.17.51.0 68.17.51.255 AS5002 LEVEL3 Proxy-registered route object
+68.17.52.0 68.17.53.255 AS7891 LEVEL3 Proxy-registered route object
+68.17.54.0 68.17.55.255 AS6386 LEVEL3 Proxy-registered route object
+68.17.56.0 68.17.59.255 AS8061 LEVEL3 Proxy-registered route object
+68.17.60.0 68.17.62.255 AS6912 SAVVIS PNAP-ACS
+68.17.63.0 68.17.63.255 AS5002 LEVEL3 Proxy-registered route object
+68.17.64.0 68.17.67.255 AS19604 LEVEL3 Route Object for IBMGSATL
+68.17.68.0 68.17.71.255 AS5002 LEVEL3 Proxy-registered route object
+68.17.72.0 68.17.72.255 AS11591 SAVVIS PNAP-ACS qts routes
+68.17.73.0 68.17.73.255 AS19604 LEVEL3 Route Object for IBMGSATL
+68.17.74.0 68.17.74.255 AS11591 SAVVIS PNAP-ACS qts routes
+68.17.75.0 68.17.79.255 AS19604 LEVEL3 Route Object for IBMGSATL
+68.17.80.0 68.17.94.255 AS5002 LEVEL3 Proxy-registered route object
+68.17.95.0 68.17.95.255 AS27477 LEVEL3 Route Object for IBMGSMIA
+68.17.96.0 68.17.99.255 AS7893 LEVEL3 Proxy-registered route object
+68.17.100.0 68.17.103.255 AS8060 LEVEL3 Proxy-registered route object
+68.17.104.0 68.17.107.255 AS6380 LEVEL3 Proxy-registered route object
+68.17.108.0 68.17.111.255 AS8062 LEVEL3 Proxy-registered route object
+68.17.112.0 68.17.119.255 AS6382 LEVEL3 Proxy-registered route object
+68.17.120.0 68.17.127.255 AS6384 LEVEL3 Proxy-registered route object
+68.17.128.0 68.17.191.255 AS6388 LEVEL3 Proxy-registered route object
+68.17.192.0 68.17.255.255 AS6381 LEVEL3 Proxy-registered route object
+68.18.0.0 68.18.63.255 AS6380 LEVEL3 Proxy-registered route object
+68.18.64.0 68.18.127.255 AS6386 LEVEL3 Proxy-registered route object
+68.18.128.0 68.18.191.255 AS7891 LEVEL3 Proxy-registered route object
+68.18.192.0 68.18.223.255 AS6383 LEVEL3 Proxy-registered route object
+68.18.244.0 68.18.255.255 AS6380 LEVEL3 Proxy-registered route object
+68.19.128.0 68.19.191.255 AS8061 LEVEL3 Proxy-registered route object
+68.19.192.0 68.19.255.255 AS6382 LEVEL3 Proxy-registered route object
+68.20.0.0 68.21.102.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.21.103.0 68.21.103.255 AS14493 ARIN American Osteopathic Association 142 E. Ontario St Chicago, Illinois 60611 US
+68.21.104.0 68.21.115.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.21.116.0 68.21.116.255 AS26463 LEVEL3 McHenry
+68.21.117.0 68.21.147.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.21.148.0 68.21.151.255 AS27192 SAVVIS PNAP-CHG ussignal route
+68.21.152.0 68.21.205.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.21.206.0 68.21.206.255 AS46776 ARIN Educators Credit Union 1400 N Newman Rd Racine, WI  53406 US
+68.21.207.0 68.21.209.255 AS7132 RADB Milwaukee, WI SBC Internet Services
+68.21.210.0 68.21.211.255 AS53617 RADB Comcast cable Communications, Inc. 1800 Bishops Gate Blvd Mt laurel, NJ 08054
+68.21.212.0 68.21.240.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.21.241.0 68.21.241.255 AS20131 ARIN QuikCAT Technologies 767 Beta Drive Mayfield Village, OH 44143 US
+68.21.242.0 68.22.4.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.22.5.0 68.22.5.255 AS26078 RADB RR-RC-J.R. Thompson Company-Detroit
+68.22.6.0 68.22.39.255 AS7132 RADB Southfield, MI SBC Internet Services
+68.22.40.0 68.22.40.255 AS26547 SAVVIS AMCO cidr block
+68.22.41.0 68.22.87.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.22.88.0 68.22.89.255 AS21770 ALTDB GlobalNet PO Box 406 Philo, OH 43771
+68.22.90.0 68.22.149.255 AS7132 RADB Worthington, OH SBC Internet Services
+68.22.150.0 68.22.151.255 AS22637 LEVEL3 Us Signal / SpeedNet  Chicago, IL
+68.22.152.0 68.22.156.255 AS7132 RADB Kalamazoo, MI SBC Internet Services
+68.22.157.0 68.22.157.255 AS26777 ARIN CBC Companies, Inc. 1691 N.W. Professional Plaza Columbus, Ohio 43220 US
+68.22.158.0 68.22.164.255 AS7132 RADB Worthington, OH SBC Internet Services
+68.22.165.0 68.22.165.255 AS26397 ARIN Upp SBC Space
+68.22.166.0 68.22.186.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.22.187.0 68.22.187.255 AS23028 ALTDB LLNW cust
+68.22.188.0 68.22.251.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.22.252.0 68.22.253.255 AS22637 LEVEL3 Us Signal / SpeedNet Chicago, IL
+68.22.254.0 68.23.17.255 AS7132 RADB Saginaw, MI SBC Internet Services
+68.23.18.0 68.23.18.255 AS7268 ARIN Athenet Data Exchange
+68.23.19.0 68.23.201.255 AS7132 RADB Appleton, WI SBC Internet Services
+68.23.202.0 68.23.203.255 AS26306 ALTDB The Karcher Group BGP
+68.23.204.0 68.23.204.255 AS7132 RADB Akron, OH SBC Internet Services
+68.23.205.0 68.23.205.255 AS35884 RADB RR-RC-SecureData 365-NEO
+68.23.206.0 68.23.255.255 AS7132 RADB Akron, OH SBC Internet Services
+68.24.32.0 68.24.47.255 AS26410 LEVEL3 Point to Point Access.com
+68.32.0.0 68.32.53.255 AS33287 LEVEL3 Proxy-registered route object
+68.32.54.0 68.32.54.255 AS22909 EPOCH DNEO_NNJ_2
+68.32.55.0 68.32.63.255 AS33287 LEVEL3 Proxy-registered route object
+68.32.64.0 68.32.79.255 AS7725 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.32.80.0 68.32.95.255 AS33668 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.32.96.0 68.32.111.255 AS7725 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.32.112.0 68.32.127.255 AS33657 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.32.128.0 68.32.159.255 AS33287 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.32.160.0 68.32.175.255 AS33657 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.32.176.0 68.32.207.255 AS33287 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.32.208.0 68.32.223.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.32.224.0 68.32.239.255 AS33287 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.32.240.0 68.32.255.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.33.0.0 68.34.127.255 AS33657 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.34.128.0 68.34.143.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.34.144.0 68.34.159.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.34.160.0 68.34.191.255 AS33287 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.34.192.0 68.34.223.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.34.224.0 68.34.239.255 AS33657 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.34.240.0 68.34.255.255 AS33287 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.35.0.0 68.35.191.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.35.192.0 68.35.255.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054 US
+68.36.0.0 68.38.223.255 AS33287 LEVEL3 Proxy-registered route object
+68.38.224.0 68.38.224.255 AS3848 GT Proxy-registered route object for GT
+68.38.225.0 68.38.241.255 AS33287 LEVEL3 Proxy-registered route object
+68.38.242.0 68.38.242.255 AS3848 GT Proxy-registered route object for GT
+68.38.243.0 68.39.255.255 AS33287 LEVEL3 Proxy-registered route object
+68.40.0.0 68.41.255.255 AS33668 LEVEL3 Proxy-registered route object
+68.42.0.0 68.42.31.255 AS33287 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.42.32.0 68.42.47.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.42.48.0 68.42.63.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054 US
+68.42.64.0 68.43.255.255 AS33668 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.44.0.0 68.46.191.255 AS33287 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.46.192.0 68.46.207.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.46.208.0 68.46.223.255 AS33491 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.46.224.0 68.46.239.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054 US
+68.46.240.0 68.46.255.255 AS33656 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.47.0.0 68.47.127.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.47.128.0 68.47.143.255 AS33656 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.47.144.0 68.47.159.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.47.160.0 68.47.255.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.48.0.0 68.50.255.255 AS33657 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.51.0.0 68.51.63.255 AS33656 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.51.64.0 68.51.127.255 AS33491 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.51.128.0 68.51.223.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.51.224.0 68.51.255.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.52.0.0 68.53.175.255 AS7725 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.53.176.0 68.53.191.255 AS33491 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.53.192.0 68.54.31.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.54.32.0 68.54.79.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.54.80.0 68.54.95.255 AS33657 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.54.96.0 68.54.111.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.54.112.0 68.54.127.255 AS33491 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.54.128.0 68.54.159.255 AS33287 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.54.160.0 68.54.175.255 AS33657 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.54.176.0 68.54.191.255 AS33287 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.54.192.0 68.54.207.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.54.208.0 68.54.223.255 AS33491 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.54.224.0 68.54.239.255 AS7725 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.54.240.0 68.55.255.255 AS33657 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.56.0.0 68.57.15.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.57.16.0 68.57.31.255 AS33287 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.57.32.0 68.57.191.255 AS21508 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.57.192.0 68.58.159.255 AS33491 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.58.160.0 68.59.47.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.59.48.0 68.59.127.255 AS33666 LEVEL3 Proxy-registered route object
+68.59.128.0 68.60.31.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.60.32.0 68.60.191.255 AS33668 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.60.192.0 68.60.223.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.60.224.0 68.60.255.255 AS33491 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.61.0.0 68.62.111.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.62.112.0 68.62.191.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.62.192.0 68.62.207.255 AS33666 LEVEL3 Proxy-registered route object
+68.62.208.0 68.62.255.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.63.0.0 68.63.79.255 AS33666 LEVEL3 Proxy-registered route object
+68.63.80.0 68.63.95.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.63.96.0 68.63.127.255 AS16748 LEVEL3 Proxy-registered route object
+68.63.128.0 68.63.175.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.63.176.0 68.63.239.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.63.240.0 68.63.255.255 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.64.0.0 68.64.1.255 AS16815 SAVVIS PNAP-SJE EXPERTCITY
+68.64.2.0 68.64.3.255 AS22773 LEVEL3 VS-INTERNAP-ROUTES
+68.64.4.0 68.64.5.255 AS16815 SAVVIS PNAP-ACS
+68.64.6.0 68.64.6.255 AS22773 LEVEL3 VS-INTERNAP-ROUTES
+68.64.7.0 68.64.30.255 AS16815 RADB COL-68.64.0.0/19
+68.64.31.0 68.64.31.255 AS21866 RADB COL-68.64.0.0/19
+68.64.32.0 68.64.47.255 AS17027 ARIN PEAK10
+68.64.48.0 68.64.63.255 AS19528 ARIN NetRiver's IP Block
+68.64.64.0 68.64.95.255 AS46454 RADB Hypermedia Systems
+68.64.96.0 68.64.96.255 AS21904 SAVVIS Power One
+68.64.97.0 68.64.97.255 AS32083 ALTDB OMNISPRING Omnispring, LLC 1711 S. Division Ave. Orlando, FL  32805
+68.64.98.0 68.64.111.255 AS21904 SAVVIS Power One
+68.64.112.0 68.64.127.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.64.128.0 68.64.135.255 AS25973 RADB Mzima-07
+68.64.136.0 68.64.137.255 AS7830 RADB Proxy Route Object for Vivid Hosting by Mzima
+68.64.138.0 68.64.139.255 AS26739 RADB proxy route for SIRIUS by MZIMA
+68.64.140.0 68.64.141.255 AS18549 ARIN MavenWire LLC 983 Old Eagle School Road Ste 615 Wayne, PA 19087 US
+68.64.142.0 68.64.142.255 AS25973 RADB Mzima-07
+68.64.143.0 68.64.143.255 AS36473 RADB BlackMesh Managed Hosting
+68.64.144.0 68.64.146.255 AS25973 RADB Mzima regional network
+68.64.147.0 68.64.147.255 AS21732 LEVEL3 CoLocation
+68.64.148.0 68.64.149.255 AS18725 RADB proxy route for SBC TELECOM by MZIMA
+68.64.150.0 68.64.159.255 AS25973 RADB Mzima-07 netblock
+68.64.160.0 68.64.175.255 AS17139 RADB Corporate Colocation
+68.64.176.0 68.64.176.255 AS48463 RADB Proxy Route for Tradition by Mzima
+68.64.177.0 68.64.177.255 AS13763 RADB proxy route object for POYHOLDINGS by PACKETEXCHANGE
+68.64.178.0 68.64.187.255 AS25973 RADB Mzima-07 netblock
+68.64.188.0 68.64.189.255 AS11798 SAVVIS PNAP-LAX acedc-route
+68.64.190.0 68.64.190.255 AS19222 RADB proxy route for LIGHTCREST by PACKETEXCHANGE
+68.64.191.0 68.64.191.255 AS25973 RADB Mzima-07 netblock
+68.64.192.0 68.64.193.255 AS32654 NTTCOM Towerstream Corp
+68.64.196.0 68.64.198.255 AS32654 NTTCOM Towerstream Corp
+68.64.200.0 68.64.201.255 AS53468 ALTDB Access Media 3  TS-ORD 
+68.64.203.0 68.64.204.255 AS32654 NTTCOM Towerstream Corp
+68.64.206.0 68.64.207.255 AS32654 NTTCOM Towerstream Corp
+68.64.208.0 68.64.223.255 AS6653 LEVEL3 New route for AS6653
+68.64.224.0 68.64.233.255 AS32098 RADB Customer SoutwestWireless
+68.64.234.0 68.64.234.255 AS3043 ARIN Beamspeed-llc-transtelco
+68.64.236.0 68.64.239.255 AS32098 RADB auto-generated route object for 68.64.236.0/24
+68.64.240.0 68.64.255.255 AS21560 SAVVIS PNAP-ACS Netstream
+68.65.8.0 68.65.11.255 AS46911 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+68.65.16.0 68.65.31.255 AS22549 ARIN PBX-Change
+68.65.32.0 68.65.63.255 AS11796 RADB AirstreamComm
+68.65.64.0 68.65.81.255 AS14265 LEVEL3 TPAC-SNJSCA
+68.65.82.0 68.65.82.255 AS18687 LEVEL3 Tpac/IRV
+68.65.83.0 68.65.92.255 AS14265 LEVEL3 TPAC-SNJSCA
+68.65.93.0 68.65.94.255 AS18687 LEVEL3 TPAC/R1-Peet's Coffee
+68.65.95.0 68.65.95.255 AS14265 LEVEL3 TPAC-SNJSCA
+68.65.96.0 68.65.111.255 AS7106 SAVVIS PNAP-CHG
+68.65.112.0 68.65.119.255 AS42 RADB Packet Clearing House
+68.65.120.0 68.65.123.255 AS22612 ARIN Namecheap, Inc. 11400 W. Olympic Blvd. Suite 200 Los Angeles, CA 90064 UNITED STATES
+68.65.124.0 68.65.125.255 AS14877 ARIN Keystone Initiative for Network Based Education and Research-PennREN Suite 101 5775 Allentown Blvd Harrisburg PA 17112 US
+68.65.126.0 68.65.127.255 AS42 RADB Packet Clearing House - DYN-A
+68.65.128.0 68.65.159.255 AS11915 LEVEL3 TWNS-1
+68.65.160.0 68.65.175.255 AS46749 RADB Stanford Internet Services
+68.65.176.0 68.65.191.255 AS14716 ARIN Lighthouse.Net 2972 W. 8th st. Sault Sainte Marie, Michigan 49783 US
+68.65.192.0 68.65.193.255 AS12260 SAVVIS PNAP-CHG giglinx-44
+68.65.194.0 68.65.194.255 AS46873 LEVEL3 Host Color
+68.65.195.0 68.65.255.255 AS12260 SAVVIS PNAP-CHG Giglinx
+68.66.0.0 68.66.15.255 AS17338 RADB Network Integration Services, Inc. 17795 W 106th Street Olathe, KS 66061 USA
+68.66.16.0 68.66.31.255 AS13490 RADB Buckeye CableSystem
+68.66.32.0 68.66.35.255 AS19905 RADB SP_URBANLEND
+68.66.36.0 68.66.37.255 AS46302 ARIN Cinquix Networks
+68.66.38.0 68.66.39.255 AS33452 ARIN Colocation Partners - Customer Route
+68.66.40.0 68.66.43.255 AS19905 RADB SP_URBANLEND
+68.66.44.0 68.66.45.255 AS33452 ARIN Colocation Partners - Customer Route
+68.66.46.0 68.66.46.255 AS46302 ARIN Cinquix Networks
+68.66.47.0 68.66.47.255 AS20027 ARIN Standard Names - Customer Route
+68.66.48.0 68.66.63.255 AS17266 SAVVIS Peer1 Route Object
+68.66.64.0 68.66.64.255 AS30036 SAVVIS PNAP-NYM
+68.66.65.0 68.66.75.255 AS19905 RADB SP-Mediacom
+68.66.76.0 68.66.77.255 AS30036 SAVVIS Mediacom-68-66-76-0-24
+68.66.78.0 68.66.79.255 AS19905 RADB SP-Mediacom
+68.66.96.0 68.66.111.255 AS17253 ARIN TEC of Jackson, Inc. 700 S. West St. Jackson, MS US
+68.66.112.0 68.66.112.255 AS29791 ALTDB Altus proxy-registered route object
+68.66.113.0 68.66.127.255 AS54535 SAVVIS PNAP-LAX ACGI-NETBLK-003
+68.66.128.0 68.66.143.255 AS46657 SAVVIS PNAP-WDC002 bradleycro route
+68.66.144.0 68.66.159.255 AS29870 RADB Proxy route-object for Contact Communications
+68.66.160.0 68.66.175.255 AS13415 RADB proxy route object for First Digital
+68.66.176.0 68.66.191.255 AS31753 SAVVIS PNAP-WDC002 segovia
+68.66.192.0 68.66.255.255 AS55293 LEVEL3 ADDED FOR - AS55293
+68.67.0.0 68.67.15.255 AS11919 NTTCOM Proxy-registered route
+68.67.16.0 68.67.30.255 AS14559 ARIN Ballard Rural Telephone Cooperative PO Box 209 LaCenter, KY  42056-0209
+68.67.31.0 68.67.31.255 AS7843 RADB Proxy-registered route object
+68.67.32.0 68.67.45.255 AS22652 ARIN Fibrenoire Internet Inc.
+68.67.46.0 68.67.48.255 AS40864 ARIN Fibrenoire Internet Inc. - TARG01
+68.67.49.0 68.67.54.255 AS22652 ARIN Fibrenoire Internet Inc.
+68.67.55.0 68.67.55.255 AS40864 ARIN Fibrenoire Internet Inc. - TARG01
+68.67.56.0 68.67.63.255 AS22652 ARIN Fibrenoire Internet Inc.
+68.67.64.0 68.67.79.255 AS19844 RADB GORACK
+68.67.80.0 68.67.87.255 AS32107 RADB Spectrum Networks Proxy Registration
+68.67.88.0 68.67.95.255 AS22759 RADB cable network
+68.67.96.0 68.67.111.255 AS2726 ARIN Webformix via BendTel
+68.67.112.0 68.67.127.255 AS22561 SAVVIS add route
+68.67.128.0 68.67.191.255 AS29990 ALTDB AppNexus - ARIN-LAX1-5
+68.67.192.0 68.67.207.255 AS29812 ALTDB Proxy-registered route object
+68.67.208.0 68.67.223.255 AS32228 SAVVIS PNAP-MIA
+68.67.224.0 68.67.239.255 AS7029 RADB Windstream Aggregate
+68.67.240.0 68.67.255.255 AS22709 LEVEL3 Announced to Level 3 by North State Communications
+68.68.0.0 68.68.15.255 AS11342 RADB Pathway IP Block
+68.68.16.0 68.68.19.255 AS11013 RADB Bluemile ARIN allocation
+68.68.20.0 68.68.20.255 AS32181 RADB Proxy-registered route object
+68.68.21.0 68.68.31.255 AS11013 RADB Bluemile ARIN allocation
+68.68.32.0 68.68.47.255 AS22781 RADB Proxy-registered route object
+68.68.48.0 68.68.63.255 AS27257 RADB Webair Internet Development Inc.
+68.68.64.0 68.68.79.255 AS17310 RADB BVU Authority
+68.68.80.0 68.68.88.255 AS30602 LEVEL3 Education Corporation of America AS30602
+68.68.89.0 68.68.89.255 AS47020 RADB Data Cave maintained by IFN.
+68.68.90.0 68.68.95.255 AS30602 LEVEL3 Education Corporation of America AS30602
+68.68.96.0 68.68.111.255 AS18779 RADB Energy Group Networks 55 S. Market San Jose
+68.68.112.0 68.68.115.255 AS32385 ALTDB IntelePeer Inc.
+68.68.116.0 68.68.125.255 AS21808 ARIN Peerless Network Customer Route 68-68-116-0
+68.68.126.0 68.68.126.255 AS32385 ALTDB IntelePeer Inc.
+68.68.127.0 68.68.127.255 AS21808 ARIN Peerless Network Customer Route 68-68-127-0
+68.68.128.0 68.68.143.255 AS33749 RADB Proxy-registered route object
+68.68.144.0 68.68.159.255 AS22773 LEVEL3 KSCY CB TRANSIT
+68.68.160.0 68.68.164.255 AS22561 SAVVIS add route
+68.68.165.0 68.68.166.255 AS20115 LEVEL3 CHTR-Public
+68.68.167.0 68.68.169.255 AS11427 RADB RR-RC- Floresville Electric Light & Power Systems-Austin
+68.68.170.0 68.68.173.255 AS10796 RADB RR-RC-Willamstown Cable-Insight
+68.68.174.0 68.68.174.255 AS20115 LEVEL3 CHTR-GA-Public
+68.68.175.0 68.68.175.255 AS30602 LEVEL3 Education Corporation of America AS30602
+68.68.176.0 68.68.179.255 AS11351 RADB RR-RC-Princetown Cable Company, Inc.-Albany
+68.68.180.0 68.68.180.255 AS40317 NTTCOM Proxy-registered route for Cumby Telephone
+68.68.181.0 68.68.181.255 AS20115 RADB Benton County Cable
+68.68.182.0 68.68.182.255 AS40317 NTTCOM Proxy-registered route for Cumby Telephone
+68.68.183.0 68.68.183.255 AS40237 ALTDB Proxy Registered by IRIS Networks for United Telephone Company
+68.68.184.0 68.68.187.255 AS19158 RADB USCarrier-BrantleyTel
+68.68.188.0 68.68.190.255 AS30602 LEVEL3 Education Corporation of America AS30602
+68.68.191.0 68.68.191.255 AS7843 RADB Proxy-registered route object
+68.68.192.0 68.68.203.255 AS30221 SAVVIS PNAP-MIA fplfibernet
+68.68.204.0 68.68.205.255 AS55001 RADB T3 Communications, Inc.  T3COM 
+68.68.206.0 68.68.223.255 AS30221 SAVVIS PNAP-MIA fplfibernet
+68.68.224.0 68.68.229.255 AS11847 LEVEL3 BBBR57319::CWIE, LLC
+68.68.230.0 68.68.231.255 AS22270 RADB RR-RC-Bangor Savings Bank-Portland
+68.68.232.0 68.68.239.255 AS11847 LEVEL3 BBBR57319::CWIE, LLC
+68.68.240.0 68.68.255.255 AS10475 LEVEL3 Venturenet Route
+68.69.0.0 68.69.1.255 AS46696 LEVEL3 SIDUS Group
+68.69.2.0 68.69.7.255 AS7843 RADB Proxy-registered route object
+68.69.8.0 68.69.15.255 AS46696 LEVEL3 SIDUS Group
+68.69.16.0 68.69.31.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.69.32.0 68.69.47.255 AS19058 ARIN Illinois Rural Telecommunications Co 2 South Main Street Winchester, IL 62694 US
+68.69.48.0 68.69.53.255 AS26954 ALTDB Proxy object for HWNG customer
+68.69.54.0 68.69.55.255 AS7843 RADB Proxy-registered route object
+68.69.56.0 68.69.63.255 AS26954 ALTDB Proxy object for HWNG customer
+68.69.64.0 68.69.95.255 AS6580 RADB GWTC-NET GWIS Netblock #2 subnet #1
+68.69.96.0 68.69.111.255 AS32986 SAVVIS PNAP-MIA gige-9
+68.69.112.0 68.69.119.255 AS3900 RADB Data Foundry
+68.69.120.0 68.69.127.255 AS33475 RADB Proxy-registered route object
+68.69.128.0 68.69.131.255 AS19752 RADB WIGHTMAN
+68.69.132.0 68.69.132.255 AS29974 ARIN Wightman Telecom 100 Elora Street North Box 70 Clifford, ON N0G-1M0 CA
+68.69.133.0 68.69.143.255 AS19752 RADB WIGHTMAN
+68.69.144.0 68.69.159.255 AS29974 ARIN Wightman Telecom 100 Elora Street North Box 70 Clifford, ON N0G-1M0 CA
+68.69.160.0 68.69.167.255 AS31993 LEVEL3 Xmission-Netblock
+68.69.168.0 68.69.175.255 AS7843 RADB Proxy-registered route object
+68.69.176.0 68.69.191.255 AS35937 ARIN MarquisNet LLC 7185 Pollock Drive Las Vegas, NV 89119 US
+68.69.192.0 68.69.207.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.69.208.0 68.69.223.255 AS803 BELL SASK006
+68.69.224.0 68.69.255.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.70.0.0 68.70.31.255 AS14928 RADB Adams CATV
+68.70.32.0 68.70.47.255 AS22773 LEVEL3 KSCY CB TRANSIT
+68.70.48.0 68.70.55.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.70.56.0 68.70.56.255 AS29940 LEVEL3 Lorretto Management Corporation
+68.70.57.0 68.70.58.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.70.59.0 68.70.59.255 AS10882 RADB RR-RC-Clarity Connect Inc-CentralNY
+68.70.60.0 68.70.63.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.70.64.0 68.70.95.255 AS18712 RADB Consolidated Communications
+68.70.112.0 68.70.127.255 AS36782 RADB Customer route - Keyway
+68.70.128.0 68.70.143.255 AS8134 RADB Baraga Telephone / up.net netblock
+68.70.144.0 68.70.144.255 AS11666 RADB Proxy Route for AS14500
+68.70.145.0 68.70.148.255 AS7992 SAVVIS Peer1 Route Object
+68.70.149.0 68.70.149.255 AS11666 RADB Proxy Route for AS14500
+68.70.150.0 68.70.150.255 AS14500 RADB GBC Internal Use
+68.70.151.0 68.70.151.255 AS7992 SAVVIS Peer1 Route Object
+68.70.152.0 68.70.154.255 AS11666 RADB Proxy Route for AS11666
+68.70.155.0 68.70.156.255 AS14500 RADB GBC KU Hub
+68.70.157.0 68.70.157.255 AS11666 RADB Proxy Route for AS14500
+68.70.158.0 68.70.159.255 AS14500 RADB GBC KU Network
+68.70.160.0 68.70.168.255 AS22458 RADB NetSources Communications
+68.70.169.0 68.70.169.255 AS7843 RADB Proxy-registered route object
+68.70.170.0 68.70.171.255 AS22458 RADB NetSources Communications
+68.70.172.0 68.70.173.255 AS7843 RADB Proxy-registered route object
+68.70.174.0 68.70.175.255 AS22458 RADB NetSources Communications
+68.70.176.0 68.70.191.255 AS16617 RADB RR-RC-Community ISP-Columbus
+68.70.192.0 68.70.207.255 AS54987 LEVEL3 Switch Communications Customer Route
+68.70.208.0 68.70.223.255 AS13904 AltDB LightBound Route Object
+68.70.224.0 68.70.226.255 AS21864 ARIN TDS Bend Broadband customer route for Crestview Cable Communications
+68.70.227.0 68.70.228.255 AS4452 ARIN Route for Crestview Madras Network Space and User Pools
+68.70.229.0 68.70.230.255 AS21864 ARIN TDS Bend Broadband customer route for Crestview Cable Communications
+68.70.231.0 68.70.231.255 AS40317 NTTCOM Proxy-registered route for Cumby Telephone
+68.70.232.0 68.70.236.255 AS14265 LEVEL3 TPAC-SNJSCA
+68.70.237.0 68.70.239.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.70.240.0 68.70.240.255 AS10796 RADB RR-RC-Willamstown Cable-Insight
+68.70.241.0 68.70.241.255 AS14488 RADB RR-RC-City of Williamstown-Louisville
+68.70.242.0 68.70.242.255 AS14265 LEVEL3 TPAC-SNJSCA
+68.70.243.0 68.70.246.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.70.247.0 68.70.251.255 AS62912 RADB RR-RC-Polaris Cable Services-Portland
+68.70.252.0 68.70.254.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.70.255.0 68.70.255.255 AS7029 RADB Proxy fbo Zcorum
+68.71.0.0 68.71.15.255 AS16949 ARIN NRBN AS16949  added by MNT-EDAP 
+68.71.16.0 68.71.16.255 AS25632 ARIN Niagara Falls Bridge Commission
+68.71.17.0 68.71.31.255 AS46195 ARIN Niagara Regional Broadband Networks Limited 8 Henegan Virgil, Ontario Canada
+68.71.32.0 68.71.32.255 AS46874 RADB MEGAVELOCITY-INC
+68.71.33.0 68.71.42.255 AS10929 ALTDB NETEL-ARIN-BLK04
+68.71.43.0 68.71.43.255 AS15152 ALTDB MTO Telecom Proxy Route Teliphone Inc.
+68.71.44.0 68.71.62.255 AS10929 ALTDB NETEL-ARIN-BLK04
+68.71.63.0 68.71.63.255 AS20473 ALTDB Proxy registration for AS53441
+68.71.80.0 68.71.95.255 AS19181 LEVEL3 PeakColo IP Space-2
+68.71.96.0 68.71.106.255 AS14835 ARIN PEAK10
+68.71.107.0 68.71.107.255 AS26415 RADB VeriSign Customer Route
+68.71.108.0 68.71.111.255 AS14835 ARIN PEAK10
+68.71.128.0 68.71.140.255 AS30475 RADB NET-WEHOST-3
+68.71.141.0 68.71.141.255 AS62531 RADB Zerigo DEN
+68.71.142.0 68.71.143.255 AS30475 RADB NET-WEHOST-3
+68.71.144.0 68.71.159.255 AS7843 RADB Proxy-registered route object
+68.71.160.0 68.71.191.255 AS27264 LEVEL3 tkt 3614234
+68.71.192.0 68.71.207.255 AS16941 SAVVIS Savvis Fusepoint
+68.71.208.0 68.71.211.255 AS8137 LEVEL3 Route addition for Disney
+68.71.212.0 68.71.214.255 AS19905 RADB SP-Disney
+68.71.215.0 68.71.215.255 AS8137 LEVEL3 Route addition for Disney
+68.71.216.0 68.71.217.255 AS19905 RADB SP-Disney
+68.71.218.0 68.71.218.255 AS8137 LEVEL3 Switch Communications Customer Route
+68.71.219.0 68.71.223.255 AS19905 RADB SP-Disney
+68.71.224.0 68.71.239.255 AS22925 RADB Proxy-registered route object
+68.71.240.0 68.71.255.255 AS20093 RADB ZeroLag Communications
+68.72.0.0 68.72.69.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.72.70.0 68.72.74.255 AS30373 RADB Proxy registered by BOB Broadband for American Eagle
+68.72.75.0 68.72.75.255 AS27482 RADB Prolexic Technologies, Inc.
+68.72.76.0 68.72.150.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.72.151.0 68.72.151.255 AS26096 LEVEL3 ADDED FOR - AS26096
+68.72.152.0 68.73.73.255 AS7132 RADB Saginaw, MI SBC Internet Services
+68.73.74.0 68.73.74.255 AS26306 ALTDB The Karcher Group BGP
+68.73.75.0 68.73.222.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.73.223.0 68.73.223.255 AS30382 ARIN Dice Corporation Michigan
+68.73.224.0 68.73.241.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.73.242.0 68.73.242.255 AS27562 ARIN Resurrection Health Care 1100 Elmhurst Road Elk Grove Village, Illinois 60007 US
+68.73.243.0 68.74.139.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.74.140.0 68.74.142.255 AS14403 LEVEL3 ADDED FOR - AS14403
+68.74.143.0 68.74.232.255 AS7132 RADB Kalamazoo, MI SBC Internet Services
+68.74.233.0 68.74.233.255 AS16567 LEVEL3 New route for AS16567
+68.74.234.0 68.74.239.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.74.240.0 68.74.240.255 AS32654 ALTDB Towerstream
+68.74.241.0 68.75.135.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.75.136.0 68.75.139.255 AS19235 ARIN Macatawa Area Community Media Center 76 1/2 E. 8th St. Holland, MI 49423
+68.75.140.0 68.75.194.255 AS7132 RADB Kalamazoo, MI SBC Internet Services
+68.75.195.0 68.75.195.255 AS17235 RADB Commercial Timesharing, Inc
+68.75.196.0 68.75.240.255 AS7132 RADB Akron, OH SBC Internet Services
+68.75.241.0 68.75.241.255 AS29755 ARIN Lowis & Gellen 200 W. Adams Street Suite 1900 Chicago IL, 60606 US
+68.75.242.0 68.76.21.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.76.22.0 68.76.22.255 AS29887 ARIN Goodrich Quality Theaters, Inc. 3777 44th St Kentwood, MI   49512 US
+68.76.23.0 68.76.27.255 AS7132 RADB Kalamazoo, MI SBC Internet Services
+68.76.28.0 68.76.29.255 AS30262 ARIN Standard Computer Systems, Inc 678 Front Ave Grand Rapids, MI 49504 US
+68.76.30.0 68.76.151.255 AS7132 RADB Kalamazoo, MI SBC Internet Services
+68.76.152.0 68.76.153.255 AS27216 RADB Route for downstream customer - Air Advantage
+68.76.154.0 68.77.208.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.77.209.0 68.77.209.255 AS30373 RADB Proxy registered by BOB Broadband for American Eagle
+68.77.210.0 68.77.219.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.77.220.0 68.77.223.255 AS26628 ALTDB Adivi Corporation  TS-ORD 
+68.77.224.0 68.77.226.255 AS7132 RADB Peoria, IL SBC Internet Services
+68.77.227.0 68.77.227.255 AS32552 ARIN Alliance Benefit Group of Illinois
+68.77.228.0 68.78.28.255 AS7132 RADB Peoria, IL SBC Internet Services
+68.78.29.0 68.78.29.255 AS30242 RADB Hosting network SBC1 for Samsa, Inc
+68.78.30.0 68.78.198.255 AS7132 RADB Saginaw, MI SBC Internet Services
+68.78.199.0 68.78.199.255 AS22561 SAVVIS add route
+68.78.200.0 68.79.255.255 AS7132 RADB Kalamazoo, MI SBC Internet Services
+68.80.0.0 68.83.191.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.83.192.0 68.83.207.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.83.208.0 68.83.223.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.83.224.0 68.83.255.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.84.0.0 68.84.15.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.84.16.0 68.84.31.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054 US
+68.84.32.0 68.84.79.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.84.80.0 68.84.95.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.84.96.0 68.84.111.255 AS33656 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.84.112.0 68.84.127.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.84.128.0 68.84.143.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.84.144.0 68.84.159.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.84.160.0 68.84.191.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.84.192.0 68.84.207.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.84.208.0 68.84.239.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.84.240.0 68.85.15.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.16.0 68.85.31.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.32.0 68.85.63.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.64.0 68.85.79.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.80.0 68.85.127.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.128.0 68.85.138.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.139.0 68.85.139.255 AS4887 RADB RR-RC-Port of Corpus Christ Authority -Austin
+68.85.140.0 68.85.159.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.160.0 68.85.175.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.176.0 68.85.191.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.192.0 68.85.195.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.196.0 68.85.196.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.197.0 68.85.197.255 AS33664 LEVEL3 Proxy-registered route object
+68.85.198.0 68.85.199.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.200.0 68.85.201.255 AS13367 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.202.0 68.85.202.255 AS33666 LEVEL3 Proxy-registered route object
+68.85.203.0 68.85.203.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.204.0 68.85.204.127 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.204.128 68.85.207.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.208.0 68.85.208.255 AS33491 LEVEL3 Proxy-registered route object
+68.85.209.0 68.85.213.255 AS33657 LEVEL3 Proxy-registered route object
+68.85.214.0 68.85.214.255 AS7016 LEVEL3 Proxy-registered route object
+68.85.215.0 68.85.215.255 AS33657 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.216.0 68.85.217.255 AS33651 LEVEL3 Proxy-registered route object
+68.85.218.0 68.85.218.255 AS33668 LEVEL3 Proxy-registered route object
+68.85.219.0 68.85.223.255 AS33657 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.224.0 68.85.224.127 AS33656 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.224.128 68.85.224.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.225.0 68.85.225.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.226.0 68.85.226.255 AS21508 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.227.0 68.85.227.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.228.0 68.85.231.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.232.0 68.85.233.255 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.234.0 68.85.234.255 AS7016 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.235.0 68.85.235.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.236.0 68.85.237.255 AS33666 LEVEL3 Proxy-registered route object
+68.85.238.0 68.85.239.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.240.0 68.85.241.255 AS33650 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.85.242.0 68.85.243.255 AS33490 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+68.85.244.0 68.85.255.255 AS33662 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.0.0 68.86.1.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.2.0 68.86.7.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.8.0 68.86.8.255 AS33490 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+68.86.9.0 68.86.9.63 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.9.64 68.86.9.127 AS33656 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.9.128 68.86.9.191 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.9.192 68.86.9.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.10.0 68.86.11.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.12.0 68.86.13.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.14.0 68.86.14.255 AS21508 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.15.0 68.86.15.63 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.15.64 68.86.15.127 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.15.128 68.86.15.255 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.16.0 68.86.17.255 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.18.0 68.86.18.191 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.18.192 68.86.18.255 AS33490 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+68.86.19.0 68.86.19.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.20.0 68.86.20.255 AS33650 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.21.0 68.86.21.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.22.0 68.86.23.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.24.0 68.86.24.255 AS21508 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.25.0 68.86.25.191 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.25.192 68.86.25.255 AS33656 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.26.0 68.86.26.127 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.26.128 68.86.27.191 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.27.192 68.86.27.255 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.28.0 68.86.29.255 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.30.0 68.86.32.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.33.0 68.86.33.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.34.0 68.86.34.127 AS33490 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+68.86.34.128 68.86.34.255 AS33651 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.35.0 68.86.36.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.37.0 68.86.37.255 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.38.0 68.86.38.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.39.0 68.86.39.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.40.0 68.86.40.255 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.41.0 68.86.42.127 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.42.128 68.86.42.255 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.43.0 68.86.43.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.44.0 68.86.45.255 AS22258 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054 US
+68.86.46.0 68.86.46.255 AS13367 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.47.0 68.86.47.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.48.0 68.86.49.255 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.50.0 68.86.50.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.51.0 68.86.51.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.52.0 68.86.52.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054 US
+68.86.53.0 68.86.53.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.54.0 68.86.55.255 AS33662 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.56.0 68.86.56.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.57.0 68.86.61.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.62.0 68.86.62.255 AS33651 LEVEL3 Proxy-registered route object
+68.86.63.0 68.86.95.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.96.0 68.86.99.255 AS33650 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.100.0 68.86.102.255 AS7016 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.103.0 68.86.105.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.106.0 68.86.111.255 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.112.0 68.86.113.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.114.0 68.86.119.255 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.120.0 68.86.123.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.124.0 68.86.127.255 AS21508 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.128.0 68.86.137.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.138.0 68.86.139.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.140.0 68.86.141.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.142.0 68.86.143.255 AS33651 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.144.0 68.86.145.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.146.0 68.86.147.255 AS7016 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.148.0 68.86.151.255 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.152.0 68.86.159.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.160.0 68.86.165.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.166.0 68.86.167.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.168.0 68.86.171.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.172.0 68.86.175.255 AS21508 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.176.0 68.86.176.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.177.0 68.86.177.255 AS33650 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.178.0 68.86.178.255 AS33656 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.179.0 68.86.180.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.181.0 68.86.181.255 AS33666 LEVEL3 Proxy-registered route object
+68.86.182.0 68.86.183.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.184.0 68.86.189.255 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.190.0 68.86.195.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.196.0 68.86.198.255 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.199.0 68.86.200.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.201.0 68.86.205.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054 US
+68.86.206.0 68.86.207.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.208.0 68.86.223.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.224.0 68.86.227.255 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.228.0 68.86.229.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.230.0 68.86.231.255 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.232.0 68.86.235.255 AS13367 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.236.0 68.86.239.255 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.240.0 68.86.246.255 AS22258 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054 US
+68.86.247.0 68.86.247.255 AS14668 RADB RR-RC-Susquehanna Communications-Jackson
+68.86.248.0 68.86.249.255 AS33651 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.250.0 68.86.251.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.86.252.0 68.86.255.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.0.0 68.87.0.255 AS33287 LEVEL3 Proxy-registered route object
+68.87.1.0 68.87.1.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.2.0 68.87.2.191 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.2.192 68.87.5.127 AS33287 LEVEL3 Proxy-registered route object
+68.87.5.128 68.87.6.191 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.6.192 68.87.7.127 AS33287 LEVEL3 Proxy-registered route object
+68.87.7.128 68.87.7.255 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.8.0 68.87.8.127 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.8.128 68.87.8.255 AS33287 LEVEL3 Proxy-registered route object
+68.87.9.0 68.87.9.255 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.10.0 68.87.10.127 AS33287 LEVEL3 Proxy-registered route object
+68.87.10.128 68.87.10.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.11.0 68.87.11.255 AS33287 LEVEL3 Proxy-registered route object
+68.87.12.0 68.87.12.127 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.12.128 68.87.13.255 AS33287 LEVEL3 Proxy-registered route object
+68.87.14.0 68.87.14.255 AS13367 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.15.0 68.87.35.255 AS33287 LEVEL3 Proxy-registered route object
+68.87.36.0 68.87.37.255 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.38.0 68.87.38.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.39.0 68.87.39.127 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.39.128 68.87.53.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.54.0 68.87.55.127 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.55.128 68.87.55.255 AS33287 LEVEL3 Proxy-registered route object
+68.87.56.0 68.87.57.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.58.0 68.87.58.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.59.0 68.87.59.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.60.0 68.87.63.255 AS33287 LEVEL3 Proxy-registered route object
+68.87.64.0 68.87.65.255 AS36733 LEVEL3 Proxy-registered route object
+68.87.66.0 68.87.67.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.68.0 68.87.68.255 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.69.0 68.87.69.255 AS33490 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+68.87.70.0 68.87.70.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.71.0 68.87.71.255 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.72.0 68.87.72.255 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.73.0 68.87.73.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.74.0 68.87.74.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.75.0 68.87.75.255 AS7016 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.76.0 68.87.76.255 AS33651 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.77.0 68.87.77.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.78.0 68.87.88.63 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.88.64 68.87.88.127 AS33662 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.88.128 68.87.88.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.89.0 68.87.89.63 AS33662 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.89.64 68.87.89.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.90.0 68.87.90.63 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.90.64 68.87.90.127 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.90.128 68.87.90.191 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.90.192 68.87.90.255 AS33490 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+68.87.91.0 68.87.91.63 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.91.64 68.87.91.127 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.91.128 68.87.91.191 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.91.192 68.87.92.127 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.92.128 68.87.92.191 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.92.192 68.87.92.255 AS33650 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.93.0 68.87.93.63 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.93.64 68.87.93.127 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.93.128 68.87.93.191 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.93.192 68.87.93.255 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.94.0 68.87.94.63 AS33651 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.94.64 68.87.94.127 AS33287 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.94.128 68.87.94.191 AS33651 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.94.192 68.87.94.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.95.0 68.87.95.191 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.95.192 68.87.95.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.96.0 68.87.127.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054 US
+68.87.128.0 68.87.143.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.144.0 68.87.159.255 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.160.0 68.87.160.255 AS33490 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+68.87.161.0 68.87.161.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.162.0 68.87.162.255 AS33666 LEVEL3 Proxy-registered route object
+68.87.163.0 68.87.163.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.164.0 68.87.167.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.168.0 68.87.169.255 AS33657 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.170.0 68.87.172.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.173.0 68.87.173.255 AS7016 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.174.0 68.87.179.255 AS13367 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.180.0 68.87.183.255 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.184.0 68.87.191.255 AS33668 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.192.0 68.87.203.255 AS33651 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.204.0 68.87.211.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.212.0 68.87.213.255 AS33651 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.214.0 68.87.215.255 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.216.0 68.87.219.255 AS33490 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ 08054
+68.87.220.0 68.87.222.191 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.222.192 68.87.222.255 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.223.0 68.87.223.255 AS33656 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.224.0 68.87.225.127 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.225.128 68.87.225.255 AS33656 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.226.0 68.87.227.255 AS33651 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.228.0 68.87.233.255 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.234.0 68.87.234.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.235.0 68.87.235.255 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.236.0 68.87.239.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.240.0 68.87.243.255 AS7015 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.244.0 68.87.244.255 AS7725 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.245.0 68.87.245.127 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.245.128 68.87.246.255 AS33651 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.247.0 68.87.249.63 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.249.64 68.87.249.127 AS33650 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.249.128 68.87.249.191 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.249.192 68.87.249.255 AS13367 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.250.0 68.87.250.255 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.251.0 68.87.252.255 AS33651 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.253.0 68.87.253.255 AS20214 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.87.254.0 68.87.255.255 AS33491 ARIN Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.88.0.0 68.88.47.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.88.48.0 68.88.48.255 AS25823 ARIN RehabCare Group Inc. 7733 Forsyth Blvd. Clayton, Mo 63105 US
+68.88.49.0 68.88.49.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.88.50.0 68.88.51.255 AS19444 LEVEL3 CHTR-MO-Public
+68.88.52.0 68.88.133.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.88.134.0 68.88.135.255 AS14368 NTTCOM Interweb Block 1
+68.88.136.0 68.88.167.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.88.168.0 68.88.170.255 AS20334 ARIN Epic Touch Co. 610 S Cosmos Elkhart, KS 67950 US
+68.88.171.0 68.88.219.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.88.220.0 68.88.220.255 AS31795 ARIN Fresh Express 2370 West Warrior Trail Grand Prairie, TX 75052
+68.88.221.0 68.88.221.255 AS14368 NTTCOM Interweb Block 3
+68.88.222.0 68.88.229.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.88.230.0 68.88.230.255 AS11766 LEVEL3 68.88.230.0/24
+68.88.231.0 68.89.71.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.89.72.0 68.89.72.255 AS25772 ARIN Tom Rowe & Associates 205 S 4th St Harlingen, Tx 78550 US
+68.89.73.0 68.89.91.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.89.92.0 68.89.92.255 AS23079 RADB Arvest Bank Operations Inc. Lowell, Ar. 72745
+68.89.93.0 68.89.137.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.89.138.0 68.89.138.255 AS40615 ARIN University Health System 4502 Medical Drive San Antonio,TX 78229 US
+68.89.139.0 68.90.67.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.90.68.0 68.90.69.255 AS13324 ALTDB EPC, Inc. EPC-CBLK-68-90-68-0-23 3941 Harry S Truman Blvd St Charles, MO 63301 US
+68.90.70.0 68.90.152.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.90.153.0 68.90.153.255 AS22773 LEVEL3 MTC3 CB TRANSIT
+68.90.154.0 68.91.39.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.91.40.0 68.91.40.255 AS18990 LEVEL3 AirBand Communication INC
+68.91.41.0 68.91.159.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.91.160.0 68.91.160.255 AS15194 ARIN TexasBank 2525 Ridgmar Boulevard Fort Worth, Texas 76116-4581
+68.91.161.0 68.91.229.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.91.230.0 68.91.230.255 AS22528 RADB Consolidated Data Services
+68.91.231.0 68.91.249.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.91.250.0 68.91.250.255 AS46572 ARIN Paris Brothers 8800 NE Underground Drive Kansas City, MO. 64161
+68.91.251.0 68.92.183.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.92.184.0 68.92.184.255 AS16682 ARIN Haggar Clothing Co. 11511 Luna Road Dallas, TX 75234 US     =20
+68.92.185.0 68.92.185.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.92.186.0 68.92.186.255 AS31795 ARIN Fresh Express 2370 West Warrior Trail Grand Prairie, TX 75052
+68.92.187.0 68.92.187.255 AS36587 ARIN TANDY BRANDS ACCESSORIES, INC 690 E LAMAR BLVD ARLINGTON, TX 76011 US
+68.92.188.0 68.93.216.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.93.217.0 68.93.217.255 AS54855 RADB Interface Security Systems
+68.93.218.0 68.95.255.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.96.0.0 68.96.95.255 AS22773 LEVEL3 NETBLK-HR-RDC-68-96-0-0
+68.96.96.0 68.96.111.255 AS13432 EPOCH Las Vegas 68.96.96.0/20 IP space
+68.96.112.0 68.96.159.255 AS22773 LEVEL3 TL CBS TRANSIT
+68.96.160.0 68.96.191.255 AS13432 EPOCH Las Vegas 68.96.160.0/19 IP space
+68.96.192.0 68.96.223.255 AS22773 LEVEL3 NETBLK-HR-RDC-68-96-128-0
+68.96.224.0 68.96.255.255 AS13432 EPOCH Las Vegas 68.96.224.0/19 IP space
+68.97.0.0 68.101.79.255 AS22773 LEVEL3 NETBLK-OK-RDC-68-97-0-0
+68.101.80.0 68.101.95.255 AS22318 LEVEL3 Proxy-registered route object
+68.101.96.0 68.108.63.255 AS22773 LEVEL3 NETBLK-OC-ON-HFC-68-101-96-0
+68.108.64.0 68.108.127.255 AS13432 LEVEL3 Proxy-registered route object
+68.108.128.0 68.109.239.255 AS22773 LEVEL3 NETBLK-LV-ON-HFC-68-108-128-0
+68.109.240.0 68.109.240.255 AS22898 LEVEL3 Link Services, LLC
+68.109.241.0 68.109.243.255 AS22773 LEVEL3 OK CBS TRANSIT
+68.109.244.0 68.109.247.255 AS27582 RADB Perimeter Technology Center, Oklahoma City, OK 73112
+68.109.248.0 68.111.0.255 AS22773 LEVEL3 OK CBS TRANSIT
+68.111.1.0 68.111.1.255 AS36201 LEVEL3 Proxy-registered route object
+68.111.2.0 68.111.33.255 AS22773 LEVEL3 ROANOKE CBS TRANSIT
+68.111.34.0 68.111.34.255 AS12210 LEVEL3 Proxy-registered route object
+68.111.35.0 68.111.255.255 AS22773 LEVEL3 SANTA BARBARA CBS TRANSIT
+68.112.0.0 68.112.15.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.112.16.0 68.112.39.255 AS20115 RADB Charter Aggregate
+68.112.40.0 68.112.42.255 AS19444 LEVEL3 Charter Engineering
+68.112.43.0 68.112.85.255 AS20115 RADB St Louis KMA
+68.112.86.0 68.112.86.255 AS11683 LEVEL3 CHTR-CT-Public
+68.112.87.0 68.112.87.255 AS20115 LEVEL3 CHTR-TN-Public
+68.112.88.0 68.112.95.255 AS19115 LEVEL3 Proxy-registered route object
+68.112.96.0 68.112.255.255 AS20115 RADB Charter Aggregate
+68.113.0.0 68.113.60.255 AS22291 ALTDB WA state aggregate
+68.113.61.0 68.113.61.255 AS14388 RADB Bronco Wine Co. Ceres, CA
+68.113.62.0 68.113.63.255 AS22291 NTTCOM North California, SCRM aggregation
+68.113.64.0 68.113.143.255 AS20115 RADB Charter Aggregate
+68.113.144.0 68.113.151.255 AS22291 NTTCOM Residential Cable Aggregates, NorthWest
+68.113.152.0 68.114.127.255 AS20115 LEVEL3 CHTR-TX-Public
+68.114.128.0 68.114.128.255 AS19115 LEVEL3 Proxy-registered route object
+68.114.129.0 68.114.129.255 AS20115 LEVEL3 CHTR-TN-Public
+68.114.130.0 68.114.159.255 AS19115 LEVEL3 Proxy-registered route object
+68.114.160.0 68.114.167.255 AS20115 LEVEL3 CHTR-TN-Public
+68.114.168.0 68.114.175.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.114.176.0 68.114.183.255 AS25956 LEVEL3 68.114.176.0/21
+68.114.184.0 68.114.191.255 AS20115 RADB Charter Aggregate
+68.114.192.0 68.114.207.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.114.208.0 68.115.219.255 AS20115 RADB Charter Aggregate
+68.115.220.0 68.115.220.255 AS7029 RADB Proxy fbo Greer Commission of Public Works  AS30717 
+68.115.221.0 68.115.223.255 AS20115 RADB Charter Aggregate
+68.115.224.0 68.115.224.255 AS65011 LEVEL3 CharterCommunicationsMaintainer
+68.115.225.0 68.115.225.255 AS20115 LEVEL3 CharterCommunicationsMaintainer
+68.115.226.0 68.115.226.255 AS36167 ARIN Netriplex LLC 100 Technology Drive Asheville, NC 28803 US
+68.115.227.0 68.115.255.255 AS20115 LEVEL3 CharterCommunicationsMaintainer
+68.116.0.0 68.116.127.255 AS22291 NTTCOM Residential Cable Aggregates, NorthWest
+68.116.128.0 68.116.223.255 AS20115 RADB Charter Aggregate
+68.116.224.0 68.116.247.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+68.116.248.0 68.117.239.255 AS20115 LEVEL3 CHTR Public-TX-Public
+68.117.240.0 68.117.255.255 AS15087 SAVVIS PNAP-ACS meag - charter routes
+68.118.0.0 68.118.31.255 AS20115 RADB Charter Aggregate
+68.118.32.0 68.118.79.255 AS22291 ALTDB OR state aggregate
+68.118.80.0 68.118.175.255 AS20115 LEVEL3 CHTR-TN-Public
+68.118.176.0 68.118.207.255 AS11683 LEVEL3 CHTR-CT-Public
+68.118.208.0 68.118.223.255 AS22291 ALTDB WA state aggregate
+68.118.224.0 68.118.255.255 AS20115 LEVEL3 Proxy-registered route object
+68.119.0.0 68.119.15.255 AS22291 ALTDB WA state aggregate
+68.119.16.0 68.119.96.255 AS20115 LEVEL3 Proxy-registered route object
+68.119.97.0 68.119.119.255 AS19115 LEVEL3 Proxy-registered route object
+68.119.120.0 68.119.123.255 AS20115 LEVEL3 CHTR-TN-Public
+68.119.124.0 68.119.127.255 AS19115 LEVEL3 Proxy-registered route object
+68.119.128.0 68.119.239.255 AS20115 RADB Charter Aggregate
+68.119.240.0 68.119.255.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.120.0.0 68.120.74.255 AS7132 RADB Sacramento, CA SBC Internet Services
+68.120.75.0 68.120.75.255 AS22773 LEVEL3 OC CBS TRANSIT
+68.120.76.0 68.120.118.255 AS7132 RADB Los Angeles, CA SBC Internet Services
+68.120.119.0 68.120.119.255 AS21948 ARIN McDATA Corporation 4555 Great America Parkway Santa Clara, CA 95054 US
+68.120.120.0 68.120.127.255 AS22126 LEVEL3 Backup for P1 DS-3s
+68.120.128.0 68.127.255.255 AS7132 RADB San Francisco, CA SBC Internet Services
+68.128.0.0 68.128.127.255 AS23148 RADB Verizon Terremark
+68.128.218.0 68.128.219.255 AS1339 ARIN Verizon Internet Services
+68.135.0.0 68.135.255.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+68.140.160.0 68.140.191.255 AS1324 RADB DMA - Seattle
+68.140.238.0 68.140.239.255 AS1325 RADB CASNJ1-VOD
+68.142.0.0 68.142.1.255 AS12180 RADB PNAP-SEA COMPOFFICESOL-ROUTES
+68.142.2.0 68.142.13.255 AS18797 LEVEL3 ROUTE OBJECT
+68.142.14.0 68.142.15.255 AS6598 ARIN Snappy DSL
+68.142.16.0 68.142.20.255 AS18797 LEVEL3 ROUTE OBJECT
+68.142.21.0 68.142.23.255 AS6598 ARIN Snappy DSL
+68.142.24.0 68.142.25.255 AS12180 SAVVIS PNAP-MIA PMAP-MIA COMPOFFICESOL-ROUTES
+68.142.26.0 68.142.27.255 AS6598 ARIN Snappy DSL
+68.142.28.0 68.142.28.255 AS12180 SAVVIS PNAP-MIA COMPOFFICESOL-ROUTE
+68.142.29.0 68.142.30.255 AS18797 LEVEL3 ROUTE OBJECT
+68.142.31.0 68.142.31.255 AS46215 SAVVIS TerraNovaNet
+68.142.32.0 68.142.63.255 AS12282 LEVEL3 Tckt2524180
+68.142.64.0 68.142.94.255 AS22822 ALTDB LLNW
+68.142.95.0 68.142.95.255 AS46894 SAVVIS PNAP-SFO iwin
+68.142.96.0 68.142.108.202 AS22822 ALTDB LLNW
+68.142.108.203 68.142.108.203 AS19905 RADB SP_BEEKSFX
+68.142.108.204 68.142.127.255 AS22822 ALTDB LLNW
+68.142.128.0 68.142.159.255 AS31993 LEVEL3 SingleEdge-Netblock
+68.142.160.0 68.142.175.255 AS23432 RADB RR-RC-Lightspeed Wireless/ TUSCO.NET-Columbus
+68.142.176.0 68.142.191.255 AS19271 ARIN PEAK10
+68.142.192.0 68.142.223.255 AS14780 RADB Yahoo MUD
+68.142.224.0 68.142.239.255 AS26101 RADB BF1 datacenter
+68.142.240.0 68.142.247.255 AS14779 RADB Yahoo RE3
+68.142.248.0 68.142.248.255 AS10310 RADB Yahoo Block
+68.142.249.0 68.142.251.255 AS14776 RADB SCI
+68.142.252.0 68.142.252.255 AS22565 RADB Yahoo-NUQ-streaming-block1
+68.142.253.0 68.142.253.255 AS10310 RADB Yahoo DAX
+68.142.254.0 68.142.255.255 AS7280 RADB Yahoo! Anycast-1 Netblock 2
+68.143.0.0 68.143.239.255 AS7029 RADB Windstream  formerly NuVox 
+68.143.240.0 68.143.240.255 AS10352 LEVEL3 Global Data Systems route 68.143.240.0/24
+68.143.241.0 68.143.255.255 AS7029 RADB Windstream  formerly NuVox 
+68.144.0.0 68.151.255.255 AS6327 RADB NETBLK-BIGPIPE-2 Big Pipe Inc.
+68.152.0.0 68.152.7.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.8.0 68.152.8.255 AS7894 LEVEL3 Proxy-registered route object
+68.152.9.0 68.152.9.255 AS26849 LEVEL3 Proxy-registered route object
+68.152.10.0 68.152.13.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.14.0 68.152.14.255 AS25954 LEVEL3 ICG Transit Customer as25954 Stern Agee and Leach Advertisement Authorized by as25954
+68.152.15.0 68.152.15.255 AS6388 LEVEL3 Proxy-registered route object
+68.152.16.0 68.152.23.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.24.0 68.152.27.255 AS6385 LEVEL3 Proxy-registered route object
+68.152.28.0 68.152.29.255 AS6380 LEVEL3 Proxy-registered route object
+68.152.30.0 68.152.33.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.34.0 68.152.35.255 AS7893 LEVEL3 Proxy-registered route object
+68.152.36.0 68.152.39.255 AS6380 LEVEL3 Proxy-registered route object
+68.152.40.0 68.152.41.255 AS6382 LEVEL3 Proxy-registered route object
+68.152.42.0 68.152.43.255 AS7893 LEVEL3 Proxy-registered route object
+68.152.44.0 68.152.47.255 AS8062 LEVEL3 Proxy-registered route object
+68.152.48.0 68.152.49.255 AS8060 LEVEL3 Proxy-registered route object
+68.152.50.0 68.152.51.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.52.0 68.152.55.255 AS7894 LEVEL3 Proxy-registered route object
+68.152.56.0 68.152.57.255 AS6386 LEVEL3 Proxy-registered route object
+68.152.58.0 68.152.59.255 AS6384 LEVEL3 Proxy-registered route object
+68.152.60.0 68.152.61.255 AS6912 SAVVIS PNAP-ACS
+68.152.62.0 68.152.63.255 AS8103 LEVEL3 Proxy-registered route object
+68.152.64.0 68.152.65.255 AS6381 LEVEL3 Proxy-registered route object
+68.152.66.0 68.152.67.255 AS6382 LEVEL3 Proxy-registered route object
+68.152.68.0 68.152.69.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.70.0 68.152.71.255 AS8061 LEVEL3 Proxy-registered route object
+68.152.72.0 68.152.73.255 AS6386 LEVEL3 Proxy-registered route object
+68.152.74.0 68.152.75.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.76.0 68.152.77.255 AS6383 LEVEL3 Proxy-registered route object
+68.152.78.0 68.152.79.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.80.0 68.152.80.255 AS6912 SAVVIS PNAP-ACS
+68.152.81.0 68.152.81.255 AS6381 LEVEL3 Proxy-registered route object
+68.152.82.0 68.152.91.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.92.0 68.152.93.255 AS7892 LEVEL3 Proxy-registered route object
+68.152.94.0 68.152.95.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.96.0 68.152.111.255 AS22773 LEVEL3 NO CBS TRANSIT
+68.152.112.0 68.152.127.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.128.0 68.152.147.255 AS6197 LEVEL3 Proxy-registered route object
+68.152.148.0 68.152.148.255 AS7891 LEVEL3 Proxy-registered route object
+68.152.149.0 68.152.149.255 AS6197 LEVEL3 Proxy-registered route object
+68.152.150.0 68.152.151.255 AS6382 LEVEL3 Proxy-registered route object
+68.152.152.0 68.152.155.255 AS6197 LEVEL3 Proxy-registered route object
+68.152.156.0 68.152.158.255 AS7891 LEVEL3 Proxy-registered route object
+68.152.159.0 68.152.159.255 AS6197 LEVEL3 Proxy-registered route object
+68.152.160.0 68.152.160.255 AS7894 LEVEL3 Proxy-registered route object
+68.152.161.0 68.152.179.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.180.0 68.152.181.255 AS6381 LEVEL3 Proxy-registered route object
+68.152.182.0 68.152.182.255 AS8062 LEVEL3 Proxy-registered route object
+68.152.183.0 68.152.183.255 AS7894 LEVEL3 Proxy-registered route object
+68.152.184.0 68.152.184.255 AS6385 LEVEL3 Proxy-registered route object
+68.152.185.0 68.152.185.255 AS7893 LEVEL3 Proxy-registered route object
+68.152.186.0 68.152.186.255 AS8062 LEVEL3 Proxy-registered route object
+68.152.187.0 68.152.187.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.188.0 68.152.188.255 AS6382 LEVEL3 Proxy-registered route object
+68.152.189.0 68.152.189.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.190.0 68.152.191.255 AS8062 LEVEL3 Proxy-registered route object
+68.152.192.0 68.152.193.255 AS7891 LEVEL3 Proxy-registered route object
+68.152.194.0 68.152.194.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.195.0 68.152.195.255 AS7891 LEVEL3 Proxy-registered route object
+68.152.196.0 68.152.199.255 AS6385 LEVEL3 Proxy-registered route object
+68.152.200.0 68.152.203.255 AS6383 LEVEL3 Proxy-registered route object
+68.152.204.0 68.152.208.255 AS6382 LEVEL3 Proxy-registered route object
+68.152.209.0 68.152.211.255 AS7892 LEVEL3 Proxy-registered route object
+68.152.212.0 68.152.215.255 AS7893 LEVEL3 Proxy-registered route object
+68.152.216.0 68.152.218.255 AS6389 LEVEL3 Proxy-registered route object
+68.152.219.0 68.152.219.255 AS6380 LEVEL3 Proxy-registered route object
+68.152.220.0 68.152.223.255 AS8061 LEVEL3 Proxy-registered route object
+68.152.224.0 68.152.229.255 AS6388 LEVEL3 Proxy-registered route object
+68.152.230.0 68.152.234.255 AS7894 LEVEL3 Proxy-registered route object
+68.152.235.0 68.152.235.255 AS6388 LEVEL3 Proxy-registered route object
+68.152.236.0 68.152.240.255 AS6386 LEVEL3 Proxy-registered route object
+68.152.241.0 68.152.243.255 AS6384 LEVEL3 Proxy-registered route object
+68.152.244.0 68.152.245.255 AS5002 LEVEL3 Proxy-registered route object
+68.152.246.0 68.152.247.255 AS8060 LEVEL3 Proxy-registered route object
+68.152.248.0 68.152.249.255 AS6387 LEVEL3 Proxy-registered route object
+68.152.250.0 68.152.251.255 AS6388 LEVEL3 Proxy-registered route object
+68.152.252.0 68.152.252.255 AS6381 LEVEL3 Proxy-registered route object
+68.152.253.0 68.152.253.255 AS8061 LEVEL3 Proxy-registered route object
+68.152.254.0 68.152.255.255 AS6388 LEVEL3 Proxy-registered route object
+68.153.0.0 68.153.0.255 AS6197 LEVEL3 Proxy-registered route object
+68.153.1.0 68.153.15.255 AS6389 LEVEL3 Proxy-registered route object
+68.153.16.0 68.153.19.255 AS6382 LEVEL3 Proxy-registered route object
+68.153.20.0 68.153.20.255 AS54697 RADB EverBank Financial Corp
+68.153.21.0 68.153.21.255 AS6381 LEVEL3 Proxy-registered route object
+68.153.22.0 68.153.23.255 AS6389 LEVEL3 Proxy-registered route object
+68.153.24.0 68.153.24.255 AS6912 SAVVIS PNAP-ACS
+68.153.25.0 68.153.25.255 AS6389 LEVEL3 Proxy-registered route object
+68.153.26.0 68.153.27.255 AS6380 LEVEL3 Proxy-registered route object
+68.153.28.0 68.153.29.255 AS6389 LEVEL3 Proxy-registered route object
+68.153.30.0 68.153.31.255 AS7894 LEVEL3 Proxy-registered route object
+68.153.32.0 68.153.35.255 AS6389 LEVEL3 Proxy-registered route object
+68.153.36.0 68.153.39.255 AS6385 LEVEL3 Proxy-registered route object
+68.153.40.0 68.153.41.255 AS7891 LEVEL3 Proxy-registered route object
+68.153.42.0 68.153.42.255 AS6389 LEVEL3 Proxy-registered route object
+68.153.43.0 68.153.43.255 AS5002 LEVEL3 Proxy-registered route object
+68.153.44.0 68.153.45.255 AS6389 LEVEL3 Proxy-registered route object
+68.153.46.0 68.153.47.255 AS6387 LEVEL3 Proxy-registered route object
+68.153.48.0 68.153.51.255 AS6382 LEVEL3 Proxy-registered route object
+68.153.52.0 68.153.55.255 AS6384 LEVEL3 Proxy-registered route object
+68.153.56.0 68.153.59.255 AS7893 LEVEL3 Proxy-registered route object
+68.153.60.0 68.153.63.255 AS303866 RADB Prolexic Technologies, Inc.
+68.153.64.0 68.153.67.255 AS6389 LEVEL3 Proxy-registered route object
+68.153.68.0 68.153.71.255 AS8061 LEVEL3 Proxy-registered route object
+68.153.72.0 68.153.75.255 AS6386 LEVEL3 Proxy-registered route object
+68.153.76.0 68.153.83.255 AS6389 LEVEL3 Proxy-registered route object
+68.153.84.0 68.153.87.255 AS6383 LEVEL3 Proxy-registered route object
+68.153.88.0 68.153.91.255 AS6381 LEVEL3 Proxy-registered route object
+68.153.92.0 68.153.99.255 AS6389 LEVEL3 Proxy-registered route object
+68.153.100.0 68.153.102.255 AS6383 LEVEL3 Proxy-registered route object
+68.153.103.0 68.153.103.255 AS36829 LEVEL3 Proxy-registered route object
+68.153.104.0 68.153.107.255 AS6382 LEVEL3 Proxy-registered route object
+68.153.108.0 68.153.111.255 AS6389 LEVEL3 Proxy-registered route object
+68.153.112.0 68.153.127.255 AS8061 LEVEL3 Proxy-registered route object
+68.153.128.0 68.153.159.255 AS6389 LEVEL3 Proxy-registered route object
+68.153.160.0 68.153.191.255 AS6198 LEVEL3 Proxy-registered route object
+68.153.192.0 68.153.223.255 AS6389 LEVEL3 Proxy-registered route object
+68.153.224.0 68.153.231.255 AS6381 LEVEL3 Proxy-registered route object
+68.153.232.0 68.153.235.255 AS7893 LEVEL3 Proxy-registered route object
+68.153.236.0 68.153.239.255 AS8061 LEVEL3 Proxy-registered route object
+68.153.240.0 68.153.247.255 AS7891 LEVEL3 Proxy-registered route object
+68.153.248.0 68.153.255.255 AS6386 LEVEL3 Proxy-registered route object
+68.154.0.0 68.154.63.255 AS6389 LEVEL3 Proxy-registered route object
+68.154.64.0 68.154.95.255 AS6197 LEVEL3 Proxy-registered route object
+68.154.96.0 68.154.127.255 AS6389 LEVEL3 Proxy-registered route object
+68.154.128.0 68.154.159.255 AS7894 LEVEL3 Proxy-registered route object
+68.154.160.0 68.154.191.255 AS6382 LEVEL3 Proxy-registered route object
+68.154.192.0 68.154.255.255 AS6381 LEVEL3 Proxy-registered route object
+68.155.0.0 68.155.31.255 AS7892 LEVEL3 Proxy-registered route object
+68.155.32.0 68.155.47.255 AS7893 LEVEL3 Proxy-registered route object
+68.155.48.0 68.155.63.255 AS7891 LEVEL3 Proxy-registered route object
+68.155.64.0 68.155.103.255 AS7893 LEVEL3 Proxy-registered route object
+68.155.104.0 68.155.111.255 AS6389 LEVEL3 Proxy-registered route object
+68.155.112.0 68.155.127.255 AS7893 LEVEL3 Proxy-registered route object
+68.155.128.0 68.155.191.255 AS6389 LEVEL3 Proxy-registered route object
+68.155.192.0 68.155.223.255 AS6386 LEVEL3 Proxy-registered route object
+68.155.224.0 68.155.255.255 AS7891 LEVEL3 Proxy-registered route object
+68.156.0.0 68.156.15.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.16.0 68.156.19.255 AS8061 LEVEL3 Proxy-registered route object
+68.156.20.0 68.156.23.255 AS7892 LEVEL3 Proxy-registered route object
+68.156.24.0 68.156.31.255 AS22561 SAVVIS add route
+68.156.32.0 68.156.47.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.48.0 68.156.51.255 AS6383 LEVEL3 Proxy-registered route object
+68.156.52.0 68.156.53.255 AS5002 LEVEL3 Proxy-registered route object
+68.156.54.0 68.156.55.255 AS6386 LEVEL3 Proxy-registered route object
+68.156.56.0 68.156.56.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.57.0 68.156.57.255 AS7893 LEVEL3 Proxy-registered route object
+68.156.58.0 68.156.59.255 AS6386 LEVEL3 Proxy-registered route object
+68.156.60.0 68.156.63.255 AS6381 LEVEL3 Proxy-registered route object
+68.156.64.0 68.156.67.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.68.0 68.156.71.255 AS6382 LEVEL3 Proxy-registered route object
+68.156.72.0 68.156.79.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.80.0 68.156.81.255 AS7891 LEVEL3 Proxy-registered route object
+68.156.82.0 68.156.83.255 AS6381 LEVEL3 Proxy-registered route object
+68.156.84.0 68.156.86.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.87.0 68.156.87.255 AS7893 LEVEL3 Proxy-registered route object
+68.156.88.0 68.156.89.255 AS6380 LEVEL3 Proxy-registered route object
+68.156.90.0 68.156.91.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.92.0 68.156.93.255 AS8062 LEVEL3 Proxy-registered route object
+68.156.94.0 68.156.105.255 AS7894 LEVEL3 Proxy-registered route object
+68.156.106.0 68.156.107.255 AS6380 LEVEL3 Proxy-registered route object
+68.156.108.0 68.156.121.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.122.0 68.156.123.255 AS7894 LEVEL3 Proxy-registered route object
+68.156.124.0 68.156.124.255 AS7893 LEVEL3 Proxy-registered route object
+68.156.125.0 68.156.125.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.126.0 68.156.129.255 AS6386 LEVEL3 Proxy-registered route object
+68.156.130.0 68.156.139.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.140.0 68.156.141.255 AS8061 LEVEL3 Proxy-registered route object
+68.156.142.0 68.156.143.255 AS6385 LEVEL3 Proxy-registered route object
+68.156.144.0 68.156.145.255 AS8060 LEVEL3 Proxy-registered route object
+68.156.146.0 68.156.146.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.147.0 68.156.147.255 AS6388 LEVEL3 Proxy-registered route object
+68.156.148.0 68.156.149.255 AS6386 LEVEL3 Proxy-registered route object
+68.156.150.0 68.156.151.255 AS6197 LEVEL3 Proxy-registered route object
+68.156.152.0 68.156.155.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.156.0 68.156.156.255 AS8061 LEVEL3 Proxy-registered route object
+68.156.157.0 68.156.157.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.158.0 68.156.158.255 AS26918 LEVEL3 Proxy-registered route object
+68.156.159.0 68.156.159.255 AS29766 LEVEL3 Proxy-registered route object
+68.156.160.0 68.156.163.255 AS7892 LEVEL3 Proxy-registered route object
+68.156.164.0 68.156.165.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.166.0 68.156.167.255 AS5002 LEVEL3 Proxy-registered route object
+68.156.168.0 68.156.169.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.170.0 68.156.170.255 AS7893 LEVEL3 Proxy-registered route object
+68.156.171.0 68.156.173.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.174.0 68.156.175.255 AS8061 LEVEL3 Proxy-registered route object
+68.156.176.0 68.156.179.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.180.0 68.156.181.255 AS7892 LEVEL3 Proxy-registered route object
+68.156.182.0 68.156.182.255 AS40128 RADB registered by 26479 on behalf of 40128
+68.156.183.0 68.156.183.255 AS7892 LEVEL3 Proxy-registered route object
+68.156.184.0 68.156.187.255 AS6389 LEVEL3 Proxy-registered route object
+68.156.188.0 68.156.191.255 AS6386 LEVEL3 Proxy-registered route object
+68.156.192.0 68.156.255.255 AS6389 LEVEL3 Proxy-registered route object
+68.157.0.0 68.157.63.255 AS6380 LEVEL3 Proxy-registered route object
+68.157.64.0 68.157.71.255 AS8061 LEVEL3 Proxy-registered route object
+68.157.72.0 68.157.79.255 AS8060 LEVEL3 Proxy-registered route object
+68.157.80.0 68.157.95.255 AS6389 LEVEL3 Proxy-registered route object
+68.157.96.0 68.157.127.255 AS6198 LEVEL3 Proxy-registered route object
+68.157.128.0 68.157.191.255 AS6389 LEVEL3 Proxy-registered route object
+68.157.192.0 68.157.199.255 AS7892 LEVEL3 Proxy-registered route object
+68.157.200.0 68.157.207.255 AS6385 LEVEL3 Proxy-registered route object
+68.157.208.0 68.157.223.255 AS6382 LEVEL3 Proxy-registered route object
+68.157.224.0 68.157.231.255 AS6388 LEVEL3 Proxy-registered route object
+68.157.232.0 68.157.239.255 AS6383 LEVEL3 Proxy-registered route object
+68.157.240.0 68.157.247.255 AS6384 LEVEL3 Proxy-registered route object
+68.157.248.0 68.157.255.255 AS8062 LEVEL3 Proxy-registered route object
+68.158.0.0 68.159.15.255 AS6389 LEVEL3 Proxy-registered route object
+68.159.16.0 68.159.31.255 AS7893 LEVEL3 Proxy-registered route object
+68.159.32.0 68.159.63.255 AS7894 LEVEL3 Proxy-registered route object
+68.159.64.0 68.159.127.255 AS8060 LEVEL3 Proxy-registered route object
+68.159.128.0 68.159.191.255 AS6388 LEVEL3 Proxy-registered route object
+68.159.192.0 68.159.223.255 AS6385 LEVEL3 Proxy-registered route object
+68.159.224.0 68.159.247.255 AS6389 LEVEL3 Proxy-registered route object
+68.159.248.0 68.159.251.255 AS6385 LEVEL3 Proxy-registered route object
+68.159.252.0 68.159.255.255 AS6389 LEVEL3 Proxy-registered route object
+68.160.68.0 68.160.68.255 AS20442 RADB Yale-New Haven Health Services Greenwich Hospital 789 Howard Avenue New Haven, CT 065111
+68.160.75.0 68.160.75.255 AS25947 RADB AS25947 proxy-registered route by Cogent
+68.163.114.0 68.163.114.255 AS19281 RADB DMC Worldwide - AS19281  added by MAINT-AS6517 
+68.163.115.0 68.163.115.255 AS29716 RADB OAPIVZ 2440 Research Blvd Rockville, MD 20850
+68.164.0.0 68.164.15.255 AS18566 LEVEL3 CHCGILGM CHI.Pool
+68.164.16.0 68.164.17.255 AS4565 EPOCH Megapath Inc
+68.164.18.0 68.164.31.255 AS18566 LEVEL3 DLLATX37 DFW.Pool
+68.164.32.0 68.164.39.255 AS4565 EPOCH Megapath Inc
+68.164.40.0 68.164.45.255 AS18566 LEVEL3 STTNWAHO SEA.Pool
+68.164.46.0 68.164.47.255 AS4565 EPOCH Megapath Inc
+68.164.48.0 68.164.63.255 AS18566 LEVEL3 LSANCA54 LAX.Pool
+68.164.64.0 68.164.73.255 AS4565 EPOCH Megapath Inc
+68.164.74.0 68.164.75.255 AS18566 LEVEL3 SFLDMIDN DET.Pool
+68.164.76.0 68.164.77.255 AS4565 EPOCH Megapath Inc
+68.164.78.0 68.164.111.255 AS18566 LEVEL3 MIATFLAD MIA.Pool
+68.164.112.0 68.164.121.255 AS4565 EPOCH Megapath Inc
+68.164.122.0 68.164.127.255 AS18566 LEVEL3 HSTQTX02 HOU.Pool
+68.164.128.0 68.164.151.255 AS4565 EPOCH Megapath Inc
+68.164.152.0 68.164.159.255 AS22199 SAVVIS PNAP-CHG GOBEAM ROUTE
+68.164.160.0 68.164.175.255 AS18566 LEVEL3 CHCGILGM CHI.Pool
+68.164.176.0 68.164.177.255 AS4565 EPOCH Megapath Inc
+68.164.178.0 68.164.191.255 AS18566 LEVEL3 SFLDMIDN DET.Pool
+68.164.192.0 68.164.207.255 AS4565 EPOCH Megapath Inc
+68.164.208.0 68.164.209.255 AS18566 LEVEL3 MIATFLAD MIA.Pool
+68.164.210.0 68.164.211.255 AS4565 EPOCH Megapath Inc
+68.164.212.0 68.164.217.255 AS18566 LEVEL3 ATLNGAHP ATL.Pool
+68.164.218.0 68.164.219.255 AS4565 EPOCH Megapath Inc
+68.164.220.0 68.164.221.255 AS18566 LEVEL3 SFLDMIDN DET.Pool
+68.164.222.0 68.164.223.255 AS4565 EPOCH Megapath Inc
+68.164.224.0 68.164.231.255 AS18566 LEVEL3 CHCGILGM CHI.Pool
+68.164.232.0 68.164.247.255 AS4565 EPOCH Megapath Inc
+68.164.248.0 68.164.255.255 AS18566 EPOCH Covad Announcing to Megapath Prefixes
+68.165.0.0 68.165.7.255 AS4565 EPOCH Megapath Inc
+68.165.8.0 68.165.15.255 AS18566 LEVEL3 LSANCAGB EoC RD3
+68.165.16.0 68.165.25.255 AS4565 EPOCH Megapath Inc
+68.165.26.0 68.165.31.255 AS18566 LEVEL3 STTNWAHO SEA.Pool
+68.165.32.0 68.165.39.255 AS4565 EPOCH Megapath Inc
+68.165.40.0 68.165.49.255 AS18566 LEVEL3 LSANCAGB EoC RD3
+68.165.50.0 68.165.53.255 AS4565 EPOCH Megapath Inc
+68.165.54.0 68.165.79.255 AS18566 LEVEL3 SFLDMIDN DET.Pool
+68.165.80.0 68.165.81.255 AS4565 EPOCH Megapath Inc
+68.165.82.0 68.165.87.255 AS18566 LEVEL3 DLLATX37 DFW.Pool
+68.165.88.0 68.165.95.255 AS4565 EPOCH Megapath Inc
+68.165.96.0 68.165.103.255 AS18566 LEVEL3 DNVTCO56 DEN.Pool
+68.165.104.0 68.165.111.255 AS4565 EPOCH Megapath Inc
+68.165.112.0 68.165.117.255 AS18566 LEVEL3 DNVTCO56 DEN.Pool
+68.165.118.0 68.165.119.255 AS4565 EPOCH Megapath Inc
+68.165.120.0 68.165.135.255 AS18566 EPOCH Covad Announcing to Megapath Prefixes
+68.165.136.0 68.165.143.255 AS4565 EPOCH Megapath Inc
+68.165.144.0 68.165.147.255 AS18566 LEVEL3 MIATFLAD MIA.Pool
+68.165.148.0 68.165.151.255 AS4565 EPOCH Megapath Inc
+68.165.152.0 68.165.167.255 AS18566 LEVEL3 CHCGILGM CHI.Pool
+68.165.168.0 68.165.183.255 AS4565 EPOCH Megapath Inc
+68.165.184.0 68.165.191.255 AS18566 LEVEL3 CHCGILGM CHI.Pool
+68.165.192.0 68.165.193.255 AS4565 EPOCH Megapath Inc
+68.165.194.0 68.165.215.255 AS18566 LEVEL3 MIATFLAD MIA.Pool
+68.165.216.0 68.165.225.255 AS4565 EPOCH Megapath Inc
+68.165.226.0 68.165.229.255 AS18566 LEVEL3 DLLATX37 DFW.Pool
+68.165.230.0 68.165.239.255 AS4565 EPOCH Megapath Inc
+68.165.240.0 68.165.247.255 AS18566 EPOCH Covad Announcing to Megapath Prefixes
+68.165.248.0 68.166.1.255 AS4565 EPOCH Megapath Inc
+68.166.2.0 68.166.9.255 AS18566 LEVEL3 SFLDMIDN DET.Pool
+68.166.10.0 68.166.11.255 AS4565 EPOCH Megapath Inc
+68.166.12.0 68.166.31.255 AS18566 LEVEL3 SFLDMIDN DET.Pool
+68.166.32.0 68.166.39.255 AS4565 EPOCH Megapath Inc
+68.166.40.0 68.166.47.255 AS18566 EPOCH Covad Announcing to Megapath Prefixes
+68.166.48.0 68.166.51.255 AS4565 EPOCH Megapath Inc
+68.166.52.0 68.166.55.255 AS18566 LEVEL3 DNVTCO56 DEN.Pool
+68.166.56.0 68.166.63.255 AS4565 EPOCH Megapath Inc
+68.166.64.0 68.166.71.255 AS18566 LEVEL3 LSANCAGB EoC RD3
+68.166.72.0 68.166.79.255 AS4565 EPOCH Megapath Inc
+68.166.80.0 68.166.95.255 AS18566 LEVEL3 CHCGILGM CHI.Pool
+68.166.96.0 68.166.103.255 AS4565 EPOCH Megapath Inc
+68.166.104.0 68.166.111.255 AS18566 EPOCH Covad Announcing to Megapath Prefixes
+68.166.112.0 68.166.115.255 AS4565 EPOCH Megapath Inc
+68.166.116.0 68.166.119.255 AS18566 LEVEL3 MIATFLAD MIA.Pool
+68.166.120.0 68.166.143.255 AS4565 EPOCH Megapath Inc
+68.166.144.0 68.166.175.255 AS18566 EPOCH Covad Announcing to Megapath Prefixes
+68.166.176.0 68.166.177.255 AS4565 EPOCH Megapath Inc
+68.166.178.0 68.166.183.255 AS18566 LEVEL3 DNVTCO56 DEN.Pool
+68.166.184.0 68.166.199.255 AS4565 EPOCH Megapath Inc
+68.166.200.0 68.166.205.255 AS18566 LEVEL3 DLLATX37 DFW.Pool
+68.166.206.0 68.166.209.255 AS4565 EPOCH Megapath Inc
+68.166.210.0 68.166.211.255 AS18566 LEVEL3 DNVTCO56 DEN.Pool
+68.166.212.0 68.166.213.255 AS4565 EPOCH Megapath Inc
+68.166.214.0 68.166.215.255 AS18566 LEVEL3 STTNWAHO SEA.Pool
+68.166.216.0 68.166.231.255 AS4565 EPOCH Megapath Inc
+68.166.232.0 68.166.241.255 AS18566 LEVEL3 LSANCAGB EoC RD3
+68.166.242.0 68.166.243.255 AS4565 EPOCH Megapath Inc
+68.166.244.0 68.166.245.255 AS18566 LEVEL3 DNVTCO56 DEN.Pool
+68.166.246.0 68.166.247.255 AS4565 EPOCH Megapath Inc
+68.166.248.0 68.166.255.255 AS18566 LEVEL3 CHCGILGM CHI.Pool
+68.167.0.0 68.167.7.255 AS4565 EPOCH Megapath Inc
+68.167.8.0 68.167.9.255 AS18566 LEVEL3 SFLDMIDN DET.Pool
+68.167.10.0 68.167.23.255 AS4565 EPOCH Megapath Inc
+68.167.24.0 68.167.31.255 AS18566 EPOCH Covad Announcing to Megapath Prefixes
+68.167.32.0 68.167.35.255 AS4565 EPOCH Megapath Inc
+68.167.36.0 68.167.39.255 AS18566 LEVEL3 PHLAPAFG PHL.Pool
+68.167.40.0 68.167.47.255 AS4565 EPOCH Megapath Inc
+68.167.48.0 68.167.55.255 AS18566 EPOCH Covad Announcing to Megapath Prefixes
+68.167.56.0 68.167.57.255 AS4565 EPOCH Megapath Inc
+68.167.58.0 68.167.59.255 AS18566 LEVEL3 MIATFLAD MIA.Pool
+68.167.60.0 68.167.61.255 AS4565 EPOCH Megapath Inc
+68.167.62.0 68.167.63.255 AS18566 LEVEL3 DLLATX37 DFW.Pool
+68.167.64.0 68.167.87.255 AS4565 EPOCH Megapath Inc
+68.167.88.0 68.167.95.255 AS18566 LEVEL3 CHCGILGM CHI.Pool
+68.167.96.0 68.167.103.255 AS4565 EPOCH Megapath Inc
+68.167.104.0 68.167.111.255 AS18566 EPOCH Covad Announcing to Megapath Prefixes
+68.167.112.0 68.167.119.255 AS4565 EPOCH Megapath Inc
+68.167.120.0 68.167.123.255 AS18566 LEVEL3 SFLDMIDN DET.Pool
+68.167.124.0 68.167.143.255 AS4565 EPOCH Megapath Inc
+68.167.144.0 68.167.151.255 AS18566 EPOCH Covad Announcing to Megapath Prefixes
+68.167.152.0 68.167.159.255 AS4565 EPOCH Megapath Inc
+68.167.160.0 68.167.167.255 AS18566 EPOCH Covad Announcing to Megapath Prefixes
+68.167.168.0 68.167.183.255 AS4565 EPOCH Megapath Inc
+68.167.184.0 68.167.185.255 AS18566 LEVEL3 SFLDMIDN DET.Pool
+68.167.186.0 68.167.187.255 AS4565 EPOCH Megapath Inc
+68.167.188.0 68.167.215.255 AS18566 LEVEL3 DNVTCO56 DEN.Pool
+68.167.216.0 68.167.227.255 AS4565 EPOCH Megapath Inc
+68.167.228.0 68.167.229.255 AS18566 LEVEL3 DNVTCO56 DEN.Pool
+68.167.230.0 68.167.247.255 AS4565 EPOCH Megapath Inc
+68.167.248.0 68.167.255.255 AS18566 LEVEL3 STTNWAHO SEA.Pool
+68.168.0.0 68.168.15.255 AS22438 RADB For Downstream Clear Rate
+68.168.16.0 68.168.23.255 AS33333 RADB BGP redundancy
+68.168.24.0 68.168.24.255 AS17048 RADB tiscali test
+68.168.25.0 68.168.31.255 AS33333 RADB BGP redundancy
+68.168.32.0 68.168.41.255 AS26163 RADB Datagram Route
+68.168.42.0 68.168.42.255 AS19905 RADB SP-Birchbox
+68.168.43.0 68.168.49.255 AS26163 RADB Datagram Route
+68.168.50.0 68.168.50.255 AS19189 RADB Datran Media
+68.168.51.0 68.168.61.255 AS26163 RADB Datagram Route
+68.168.62.0 68.168.63.255 AS46898 RADB Tacomm Route
+68.168.64.0 68.168.79.255 AS19548 LEVEL3 Proxy-registered route object
+68.168.80.0 68.168.94.255 AS17378 RADB 
+68.168.95.0 68.168.95.255 AS53291 LEVEL3 WSFS Multihoming Block
+68.168.96.0 68.168.107.255 AS10316 ARIN Codero 8735 Rosehill Road, Suite 400 Lenexa, KS 66215 US
+68.168.108.0 68.168.108.255 AS18501 NTTCOM Codero DFW
+68.168.109.0 68.168.110.255 AS29944 RADB APH, Inc. dba Codero
+68.168.111.0 68.168.111.255 AS10316 ARIN Codero 8735 Rosehill Road, Suite 400 Lenexa, KS 66215 US
+68.168.112.0 68.168.127.255 AS36666 RADB GloboTech Network
+68.168.128.0 68.168.143.255 AS53612 RADB Proxy route for Carat Networks by Ubiquity Server Solutions
+68.168.144.0 68.168.159.255 AS21560 SAVVIS PNAP-ACS Netstream
+68.168.160.0 68.168.191.255 AS10242 LEVEL3 US Internet
+68.168.192.0 68.168.207.255 AS40317 NTTCOM Peoples Communications
+68.168.208.0 68.168.209.255 AS19318 RADB proxy route by NJIIX
+68.168.210.0 68.168.210.255 AS36614 RADB Proxy by NJIIX.net
+68.168.211.0 68.168.223.255 AS19318 RADB proxy route by NJIIX
+68.168.224.0 68.168.239.255 AS13576 RADB SDNET on behalf of CRST
+68.168.240.0 68.168.255.255 AS33561 LEVEL3 Bresnan Route for Green House Data, Inc.
+68.169.0.0 68.169.15.255 AS22903 RADB Edgewebhosting.net
+68.169.29.0 68.169.29.255 AS7843 RADB Proxy-registered route object
+68.169.32.0 68.169.33.255 AS36351 SAVVIS PNAP-LAX softlayerexempt
+68.169.34.0 68.169.34.255 AS22773 LEVEL3 AS-INTERNAP-ROUTES
+68.169.35.0 68.169.37.255 AS36351 SAVVIS PNAP-LAX softlayerexempt
+68.169.38.0 68.169.47.255 AS29854 RADB WestHost
+68.169.48.0 68.169.59.255 AS20141 LEVEL3 ITC Deltacom
+68.169.60.0 68.169.63.255 AS53907 RADB QTS Customer Proxy Registered
+68.169.64.0 68.169.111.255 AS23393 RADB ISPrime, Inc. 300 Boulevard East Suite 100 Weehawken, NJ 07086-6702 USA
+68.169.112.0 68.169.127.255 AS32976 RADB RR-RC-Data Recovery Services-Columbus
+68.169.128.0 68.169.191.255 AS26827 LEVEL3 New route for EPB
+68.169.192.0 68.169.192.255 AS40584 RADB Proxy object for Enova Online Services, Inc.
+68.169.193.0 68.169.207.255 AS17223 SAVVIS Latisys Chicago
+68.169.224.0 68.169.237.255 AS30230 RADB RR-RC-Greenfield Communications-Los Angeles
+68.169.238.0 68.169.239.255 AS14217 RADB RR-RC-Dataframe Logistics-Los Angeles
+68.169.240.0 68.169.255.255 AS7029 RADB Windstream  PaeTec 
+68.170.0.0 68.170.0.255 AS17054 RADB Sbarro
+68.170.1.0 68.170.15.255 AS1413 ARIN Sbarro, Inc. 401 Broadhollow Road Melville, NY 11747 US
+68.170.16.0 68.170.31.255 AS19210 RADB Terremark-Proxy for Synchronoss Technologies Inc
+68.170.32.0 68.170.63.255 AS10835 SAVVIS PNAP-SEF visionarycomm routes
+68.170.64.0 68.170.79.255 AS23316 LEVEL3 Switch Communications Customer Route
+68.170.80.0 68.170.95.255 AS12177 LEVEL3 BGP-Filter-Update
+68.170.96.0 68.170.111.255 AS40128 RADB Morristown Utility Systems
+68.170.128.0 68.170.143.255 AS12251 ARIN Invision.com, Inc. 47 Mall Drive Commack, NY 11725 US
+68.170.144.0 68.170.159.255 AS4906 ARIN FDS-NET-68-170-144-0-1
+68.170.160.0 68.170.175.255 AS31851 ARIN Seguai 255 Executive Drive, Suite 101 Plainview, NY 11803 US
+68.170.176.0 68.170.191.255 AS7065 RADB CZIO dsl
+68.170.208.0 68.170.223.255 AS20185 LEVEL3 new route for NorthEast Texas Broadband LLC
+68.170.224.0 68.170.239.255 AS23404 LEVEL3 Route for Ritter
+68.170.240.0 68.170.255.255 AS26744 BBOI Planters Rural Telephone Cooperative
+68.171.0.0 68.171.2.255 AS22958 RADB FIDELITY-005
+68.171.3.0 68.171.3.255 AS26722 RADB RR-RC-Main Sequence Technology, Inc.-NEO
+68.171.4.0 68.171.15.255 AS22958 RADB FIDELITY-005
+68.171.16.0 68.171.31.255 AS31932 LEVEL3 KCNap-Netblock
+68.171.32.0 68.171.63.255 AS11343 SAVVIS DataCenter101
+68.171.64.0 68.171.79.255 AS11601 RADB Picanoc
+68.171.80.0 68.171.80.255 AS22773 LEVEL3 KS CBS TRANSIT
+68.171.81.0 68.171.82.255 AS7029 RADB Proxy fbo Windstream Customer  AS46986 
+68.171.83.0 68.171.83.255 AS23404 LEVEL3 Ritter Communications route
+68.171.84.0 68.171.84.255 AS7029 RADB Proxy fbo Windstream Customer  AS46986 
+68.171.85.0 68.171.85.255 AS23404 LEVEL3 Ritter Communications route
+68.171.86.0 68.171.86.255 AS7029 RADB Proxy fbo Windstream Customer  AS46986 
+68.171.87.0 68.171.87.255 AS23404 LEVEL3 Ritter Communications route
+68.171.88.0 68.171.88.255 AS7029 RADB Proxy fbo Windstream Customer  AS46986 
+68.171.89.0 68.171.89.255 AS23404 LEVEL3 Ritter Communications route
+68.171.90.0 68.171.90.255 AS7029 RADB Proxy fbo Windstream Customer  AS46986 
+68.171.91.0 68.171.91.255 AS23404 LEVEL3 Ritter Communications route
+68.171.92.0 68.171.95.255 AS7029 RADB Proxy fbo Windstream Customer  AS46986 
+68.171.96.0 68.171.111.255 AS22773 LEVEL3 PH CBS TRANSIT
+68.171.112.0 68.171.127.255 AS62943 ARIN Grand River Mutual Telephone Corporation 1001 Kentucky St Princeton, MO 64673 US
+68.171.128.0 68.171.134.255 AS17113 RADB IMAGEWORKS
+68.171.135.0 68.171.135.255 AS33574 RADB Access Northeast Inc/TierPoint LLC
+68.171.136.0 68.171.143.255 AS17113 SAVVIS PNAP-BSN
+68.171.144.0 68.171.150.255 AS25687 SAVVIS PNAP-BSN commrail
+68.171.151.0 68.171.152.255 AS17113 RADB TRUORB2-MAR
+68.171.153.0 68.171.159.255 AS25687 SAVVIS PNAP-BSN commrail
+68.171.160.0 68.171.175.255 AS20141 LEVEL3 ITC Deltacom
+68.171.176.0 68.171.191.255 AS22773 LEVEL3 KSCY CB TRANSIT
+68.171.192.0 68.171.207.255 AS11343 SAVVIS DataCenter101
+68.171.208.0 68.171.223.255 AS36444 LEVEL3 ADDED FOR - AS36444
+68.171.224.0 68.171.255.255 AS18705 RADB BLACKBERRY
+68.172.0.0 68.172.31.255 AS13343 RADB RR-Route
+68.172.32.0 68.172.191.255 AS11351 RADB RR-Route
+68.172.192.0 68.172.207.255 AS8052 RADB RR-Route
+68.172.208.0 68.172.229.26 AS12271 RADB RR-Route
+68.172.229.27 68.172.229.27 AS19905 RADB SP_BEEKSFX
+68.172.229.28 68.174.43.255 AS12271 RADB RR-Route
+68.174.44.0 68.174.63.255 AS11351 RADB RR-Route
+68.174.64.0 68.174.239.255 AS12271 RADB RR-Route
+68.174.240.0 68.175.15.255 AS11351 RADB RR-Route
+68.175.16.0 68.175.127.255 AS12271 RADB RR-Route
+68.175.128.0 68.175.255.255 AS11351 RADB RR-Route
+68.176.0.0 68.176.255.255 AS209 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+68.177.0.0 68.177.51.255 AS32170 RADB Proxy-registered route object
+68.177.52.0 68.177.52.255 AS26415 ARIN VeriSign Customer Route
+68.177.53.0 68.177.53.255 AS7029 RADB Windstream  PaeTec 
+68.177.54.0 68.177.55.255 AS22773 LEVEL3 SD CBS TRANSIT
+68.177.56.0 68.177.79.255 AS32170 RADB Proxy-registered route object
+68.177.80.0 68.177.80.255 AS7029 RADB Windstream  PaeTec 
+68.177.81.0 68.177.87.255 AS32170 RADB Proxy-registered route object
+68.177.88.0 68.177.88.255 AS19264 ARIN ESEDONA-1
+68.177.89.0 68.177.115.255 AS32170 RADB Proxy-registered route object
+68.177.116.0 68.177.119.255 AS7029 RADB Windstream  PaeTec 
+68.177.120.0 68.177.172.255 AS32170 RADB Proxy-registered route object
+68.177.173.0 68.177.173.255 AS14617 LEVEL3 CharterCommunicationsMaintainer
+68.177.174.0 68.177.255.255 AS32170 RADB Proxy-registered route object
+68.178.0.0 68.178.127.255 AS7385 RADB Integra Telecom Route Object
+68.178.128.0 68.178.255.255 AS26496 LEVEL3 GoDaddy.com, Inc.
+68.179.0.0 68.179.31.255 AS20161 BELL NetBlock-TeraGo
+68.179.32.0 68.179.33.255 AS22766 GT Proxy-registered route object for GT
+68.179.34.0 68.179.47.255 AS20161 BELL TeraGo - GTA
+68.179.48.0 68.179.48.255 AS40050 RADB Proxy-Registered Route Oobject on Behalf of Canadian Freightways
+68.179.49.0 68.179.59.255 AS20161 LEVEL3 Proxy-registered route object
+68.179.60.0 68.179.60.255 AS19053 GT Proxy-registered route object for GT
+68.179.61.0 68.179.62.255 AS20161 RADB TeraGo Networks - Winnipeg
+68.179.63.0 68.179.63.255 AS46300 RADB Net Block - High Speed Mole Inc
+68.179.64.0 68.179.95.255 AS20161 GT Proxy-registered route object for GT
+68.179.96.0 68.179.96.255 AS40949 RADB network-68.179.96.0/24 proxy registered onwend by ASN 20161 avertised by ASN 40949
+68.179.97.0 68.179.99.255 AS20161 BELL TeraGo - GTA
+68.179.100.0 68.179.100.255 AS16570 RADB NET-68-179-100-0-24-YYZ1
+68.179.101.0 68.179.127.255 AS20161 BELL TeraGo - GTA
+68.179.128.0 68.179.191.255 AS12083 RADB WOW!
+68.179.192.0 68.179.223.255 AS10430 RADB WA-K20-BLK7 Washington State K-20 Telecommunications Network c/o University of Washington Networks and Distributed Computing 4545 15th Avenue NE Seattle WA 98105-4527 USA
+68.179.240.0 68.179.255.255 AS22561 SAVVIS adding route
+68.180.0.0 68.180.127.255 AS46687 SAVVIS PNAP-ACS harron-routes
+68.180.128.0 68.180.128.255 AS36088 LEVEL3 Proxy-registered route object
+68.180.129.0 68.180.129.255 AS7280 RADB Yahoo! Anycast-0 Netblock
+68.180.130.0 68.180.131.255 AS10880 RADB Yahoo! Anycast-2 Netblock 2
+68.180.132.0 68.180.132.255 AS14776 RADB Yahoo S1S Streaming Center
+68.180.133.0 68.180.133.255 AS10880 RADB Yahoo! Anycast-1 Netblock 2
+68.180.134.0 68.180.134.255 AS14776 RADB Yahoo S1S Streaming Center
+68.180.135.0 68.180.135.255 AS36088 RADB A2S datacenter
+68.180.136.0 68.180.139.255 AS14781 RADB DIB datacenter
+68.180.140.0 68.180.151.255 AS36752 RADB Yahoo SP2
+68.180.152.0 68.180.159.255 AS14778 RADB Yahoo AC2 space
+68.180.160.0 68.180.160.255 AS10310 RADB Yahoo Backbone
+68.180.161.0 68.180.191.255 AS14777 RADB Yahoo SK1 space
+68.180.192.0 68.180.223.255 AS36752 RADB Yahoo SP1 space
+68.180.224.0 68.180.239.255 AS36647 RADB CC1 Yahoo
+68.180.240.0 68.180.255.255 AS14196 RADB CC1 expansion block
+68.181.0.0 68.181.255.255 AS226 NTTCOM USCNET2
+68.182.0.0 68.182.255.255 AS14663 RADB CLNT
+68.183.0.0 68.183.255.255 AS19817 RADB DSLExtreme Network 10
+68.184.0.0 68.184.15.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.184.16.0 68.184.159.255 AS20115 RADB Charter Aggregate
+68.184.160.0 68.184.167.255 AS19115 LEVEL3 Proxy-registered route object
+68.184.168.0 68.184.171.255 AS20115 LEVEL3 CHTR-TN-Public
+68.184.172.0 68.184.175.255 AS19115 LEVEL3 Proxy-registered route object
+68.184.176.0 68.184.191.255 AS20115 RADB Charter Aggregate
+68.184.192.0 68.184.255.255 AS19444 LEVEL3 Charter Engineering
+68.185.0.0 68.185.26.255 AS22291 ALTDB OR state aggregate
+68.185.27.0 68.185.27.255 AS32511 ALTDB ASANTE
+68.185.28.0 68.185.95.255 AS22291 ALTDB OR state aggregate
+68.185.96.0 68.185.207.255 AS20115 LEVEL3 CHTR-VT-Public
+68.185.208.0 68.185.223.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.185.224.0 68.185.255.255 AS20115 LEVEL3 Proxy-registered route object
+68.186.0.0 68.186.127.255 AS22291 ALTDB OR state aggregate
+68.186.128.0 68.186.150.255 AS19115 LEVEL3 Proxy-registered route object
+68.186.151.0 68.186.159.255 AS20115 LEVEL3 CHTR-TN-Public
+68.186.160.0 68.186.175.255 AS1944 LEVEL3 CHTR-MO-Public
+68.186.176.0 68.186.255.255 AS20115 RADB Charter Aggregate
+68.187.0.0 68.187.15.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.187.16.0 68.187.22.255 AS19115 LEVEL3 Proxy-registered route object
+68.187.23.0 68.187.23.255 AS14057 LEVEL3 Proxy-registered route object
+68.187.24.0 68.187.31.255 AS25956 LEVEL3 68.187.24.0/21
+68.187.32.0 68.187.139.255 AS20115 RADB Charter Aggregate
+68.187.140.0 68.187.143.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.187.144.0 68.187.239.255 AS20115 LEVEL3 Proxy-registered route object
+68.187.240.0 68.187.255.255 AS1944 LEVEL3 CHTR-MO-Public
+68.188.0.0 68.188.56.255 AS19444 LEVEL3 Charter Engineering
+68.188.57.0 68.188.57.255 AS6428 SAVVIS CDM
+68.188.58.0 68.188.78.255 AS19444 LEVEL3 Cba route object for Charter communication
+68.188.79.0 68.188.79.255 AS20115 RADB St Louis KMA
+68.188.80.0 68.188.87.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.188.88.0 68.188.88.255 AS20115 RADB St Louis KMA
+68.188.89.0 68.188.123.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.188.124.0 68.188.124.255 AS20115 RADB St Louis KMA
+68.188.125.0 68.188.126.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.188.127.0 68.188.255.255 AS20115 LEVEL3 Proxy-registered route object
+68.189.0.0 68.189.15.255 AS22291 ALTDB CA state aggregate
+68.189.16.0 68.189.16.255 AS55002 RADB firemountain proxy route object
+68.189.17.0 68.189.23.255 AS22291 ALTDB CA state aggregate
+68.189.24.0 68.189.24.255 AS18651 RADB EMANUEL MEDICAL CENTER
+68.189.25.0 68.189.114.255 AS22291 ALTDB CA state aggregate
+68.189.115.0 68.189.115.255 AS18687 LEVEL3 Tpac/SJ
+68.189.116.0 68.189.143.255 AS22291 ALTDB CA state aggregate
+68.189.144.0 68.189.191.255 AS20115 LEVEL3 CharterCommunicationsMaintainer
+68.189.192.0 68.189.207.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.189.208.0 68.190.35.255 AS20115 RADB Charter Aggregate
+68.190.36.0 68.190.37.255 AS19115 LEVEL3 Proxy-registered route object
+68.190.38.0 68.190.175.255 AS20115 LEVEL3 CHTR-TN-Public
+68.190.176.0 68.190.255.255 AS22291 LEVEL3 Reno, NV
+68.191.0.0 68.191.31.255 AS20115 LEVEL3 CharterCommunicationsMaintainer
+68.191.32.0 68.191.63.255 AS11683 LEVEL3 CHTR-CT-Public
+68.191.64.0 68.191.191.255 AS20115 LEVEL3 CharterCommunicationsMaintainer
+68.191.192.0 68.191.195.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.191.196.0 68.191.196.255 AS20115 LEVEL3 Proxy-registered route object
+68.191.197.0 68.191.205.255 AS19444 LEVEL3 Creata route object for Charter communication
+68.191.206.0 68.191.228.255 AS20115 RADB St Louis KMA
+68.191.229.0 68.191.229.255 AS19115 LEVEL3 Proxy-registered route object
+68.191.230.0 68.191.230.255 AS20115 LEVEL3 CHTR-TN-Public
+68.191.231.0 68.191.235.255 AS19115 LEVEL3 Proxy-registered route object
+68.191.236.0 68.191.255.255 AS20115 LEVEL3 CHTR-TN-Public
+68.192.0.0 68.199.255.255 AS6128 ARIN CSC Holdings, Inc  Optimum Online  1111 Stewart Avenue Bethpage, NY 11714-3533 NJ Specific Route
+68.200.0.0 68.200.255.255 AS10994 RADB RR-Route
+68.201.0.0 68.201.255.255 AS11427 RADB RR-Route
+68.202.0.0 68.202.255.255 AS13343 RADB RR-Route
+68.203.0.0 68.203.255.255 AS11427 RADB RR-Route
+68.204.0.0 68.204.63.255 AS10994 RADB RR-Route
+68.204.64.0 68.204.255.255 AS13343 RADB RR-Route
+68.205.0.0 68.205.31.255 AS10994 RADB RR-Route
+68.205.32.0 68.205.255.255 AS13343 RADB RR-Route
+68.206.0.0 68.207.79.255 AS11427 RADB RR-Route
+68.207.80.0 68.207.95.255 AS10994 RADB RR-Route
+68.207.96.0 68.207.127.255 AS11427 RADB RR-Route
+68.207.128.0 68.207.255.255 AS10994 RADB RR-Route
+68.208.0.0 68.208.7.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.8.0 68.208.8.255 AS26415 ARIN VeriSign Customer Route
+68.208.9.0 68.208.13.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.14.0 68.208.14.255 AS6197 LEVEL3 Proxy-registered route object
+68.208.15.0 68.208.31.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.32.0 68.208.35.255 AS6381 LEVEL3 Proxy-registered route object
+68.208.36.0 68.208.37.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.38.0 68.208.38.255 AS6384 LEVEL3 Proxy-registered route object
+68.208.39.0 68.208.39.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.40.0 68.208.43.255 AS6382 LEVEL3 Proxy-registered route object
+68.208.44.0 68.208.47.255 AS6387 LEVEL3 Proxy-registered route object
+68.208.48.0 68.208.51.255 AS8061 LEVEL3 Proxy-registered route object
+68.208.52.0 68.208.55.255 AS7891 LEVEL3 Proxy-registered route object
+68.208.56.0 68.208.59.255 AS6388 LEVEL3 Proxy-registered route object
+68.208.60.0 68.208.63.255 AS6387 LEVEL3 Proxy-registered route object
+68.208.64.0 68.208.65.255 AS7894 LEVEL3 Proxy-registered route object
+68.208.66.0 68.208.71.255 AS6385 LEVEL3 Proxy-registered route object
+68.208.72.0 68.208.79.255 AS6384 LEVEL3 Proxy-registered route object
+68.208.80.0 68.208.81.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.82.0 68.208.83.255 AS6382 LEVEL3 Proxy-registered route object
+68.208.84.0 68.208.90.255 AS6380 LEVEL3 Proxy-registered route object
+68.208.91.0 68.208.91.255 AS6912 SAVVIS PNAP-ACS
+68.208.92.0 68.208.95.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.96.0 68.208.99.255 AS8062 LEVEL3 Proxy-registered route object
+68.208.100.0 68.208.101.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.102.0 68.208.103.255 AS6386 LEVEL3 Proxy-registered route object
+68.208.104.0 68.208.113.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.114.0 68.208.115.255 AS7891 LEVEL3 Proxy-registered route object
+68.208.116.0 68.208.119.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.120.0 68.208.126.255 AS6197 LEVEL3 Proxy-registered route object
+68.208.127.0 68.208.127.255 AS11096 RADB FLR: County of Palm Beach
+68.208.128.0 68.208.139.255 AS6381 LEVEL3 Proxy-registered route object
+68.208.140.0 68.208.143.255 AS10661 SAVVIS AUGLINK-NEWCWNET-01
+68.208.144.0 68.208.147.255 AS6197 LEVEL3 Proxy-registered route object
+68.208.148.0 68.208.149.255 AS8060 LEVEL3 Proxy-registered route object
+68.208.150.0 68.208.151.255 AS8061 LEVEL3 Proxy-registered route object
+68.208.152.0 68.208.153.255 AS7893 LEVEL3 Proxy-registered route object
+68.208.154.0 68.208.159.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.160.0 68.208.161.255 AS7893 LEVEL3 Proxy-registered route object
+68.208.162.0 68.208.163.255 AS7894 LEVEL3 Proxy-registered route object
+68.208.164.0 68.208.167.255 AS6382 LEVEL3 Proxy-registered route object
+68.208.168.0 68.208.175.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.176.0 68.208.180.255 AS6386 LEVEL3 Proxy-registered route object
+68.208.181.0 68.208.181.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.182.0 68.208.183.255 AS8061 LEVEL3 Proxy-registered route object
+68.208.184.0 68.208.191.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.192.0 68.208.193.255 AS6381 LEVEL3 Proxy-registered route object
+68.208.194.0 68.208.195.255 AS6197 LEVEL3 Proxy-registered route object
+68.208.196.0 68.208.199.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.200.0 68.208.201.255 AS8061 LEVEL3 Proxy-registered route object
+68.208.202.0 68.208.202.255 AS6383 LEVEL3 Proxy-registered route object
+68.208.203.0 68.208.203.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.204.0 68.208.205.255 AS6386 LEVEL3 Proxy-registered route object
+68.208.206.0 68.208.207.255 AS6385 LEVEL3 Proxy-registered route object
+68.208.208.0 68.208.215.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.216.0 68.208.219.255 AS8061 LEVEL3 Proxy-registered route object
+68.208.220.0 68.208.222.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.223.0 68.208.223.255 AS6386 LEVEL3 Proxy-registered route object
+68.208.224.0 68.208.224.255 AS6197 LEVEL3 Proxy-registered route object
+68.208.225.0 68.208.227.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.228.0 68.208.229.255 AS6386 LEVEL3 Proxy-registered route object
+68.208.230.0 68.208.231.255 AS6380 LEVEL3 Proxy-registered route object
+68.208.232.0 68.208.232.255 AS6388 LEVEL3 Proxy-registered route object
+68.208.233.0 68.208.233.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.234.0 68.208.235.255 AS7893 LEVEL3 Proxy-registered route object
+68.208.236.0 68.208.237.255 AS6387 LEVEL3 Proxy-registered route object
+68.208.238.0 68.208.239.255 AS7894 LEVEL3 Proxy-registered route object
+68.208.240.0 68.208.241.255 AS6381 LEVEL3 Proxy-registered route object
+68.208.242.0 68.208.243.255 AS7894 LEVEL3 Proxy-registered route object
+68.208.244.0 68.208.247.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.248.0 68.208.248.255 AS6386 LEVEL3 Proxy-registered route object
+68.208.249.0 68.208.251.255 AS6389 LEVEL3 Proxy-registered route object
+68.208.252.0 68.208.253.255 AS8062 LEVEL3 Proxy-registered route object
+68.208.254.0 68.208.255.255 AS6384 LEVEL3 Proxy-registered route object
+68.209.0.0 68.209.79.255 AS6389 LEVEL3 Proxy-registered route object
+68.209.80.0 68.209.87.255 AS6388 LEVEL3 Proxy-registered route object
+68.209.88.0 68.209.95.255 AS8060 LEVEL3 Proxy-registered route object
+68.209.96.0 68.209.121.255 AS6389 LEVEL3 Proxy-registered route object
+68.209.122.0 68.209.123.255 AS6197 LEVEL3 Proxy-registered route object
+68.209.124.0 68.209.127.255 AS6389 LEVEL3 Proxy-registered route object
+68.209.128.0 68.209.135.255 AS6381 LEVEL3 Proxy-registered route object
+68.209.136.0 68.209.137.255 AS7894 LEVEL3 Proxy-registered route object
+68.209.138.0 68.209.139.255 AS6389 LEVEL3 Proxy-registered route object
+68.209.140.0 68.209.143.255 AS7894 LEVEL3 Proxy-registered route object
+68.209.144.0 68.209.151.255 AS6385 LEVEL3 Proxy-registered route object
+68.209.152.0 68.209.159.255 AS7893 LEVEL3 Proxy-registered route object
+68.209.160.0 68.209.163.255 AS6384 LEVEL3 Proxy-registered route object
+68.209.164.0 68.209.171.255 AS6386 LEVEL3 Proxy-registered route object
+68.209.172.0 68.209.179.255 AS7891 LEVEL3 Proxy-registered route object
+68.209.180.0 68.209.187.255 AS6380 LEVEL3 Proxy-registered route object
+68.209.188.0 68.209.195.255 AS8062 LEVEL3 Proxy-registered route object
+68.209.196.0 68.209.201.255 AS6388 LEVEL3 Proxy-registered route object
+68.209.202.0 68.209.203.255 AS6389 LEVEL3 Proxy-registered route object
+68.209.204.0 68.209.207.255 AS5002 LEVEL3 Proxy-registered route object
+68.209.208.0 68.209.211.255 AS6389 LEVEL3 Proxy-registered route object
+68.209.212.0 68.209.215.255 AS8060 LEVEL3 Proxy-registered route object
+68.209.216.0 68.209.219.255 AS6382 LEVEL3 Proxy-registered route object
+68.209.220.0 68.209.223.255 AS8061 LEVEL3 Proxy-registered route object
+68.209.224.0 68.209.227.255 AS6383 LEVEL3 Proxy-registered route object
+68.209.228.0 68.209.231.255 AS8063 LEVEL3 Proxy-registered route object
+68.209.232.0 68.209.235.255 AS7892 LEVEL3 Proxy-registered route object
+68.209.236.0 68.209.255.255 AS6389 LEVEL3 Proxy-registered route object
+68.210.0.0 68.210.63.255 AS6380 LEVEL3 Proxy-registered route object
+68.210.64.0 68.210.127.255 AS6384 LEVEL3 Proxy-registered route object
+68.210.128.0 68.210.191.255 AS6386 LEVEL3 Proxy-registered route object
+68.210.192.0 68.210.223.255 AS7891 LEVEL3 Proxy-registered route object
+68.210.224.0 68.210.239.255 AS6389 LEVEL3 Proxy-registered route object
+68.210.240.0 68.210.247.255 AS7894 LEVEL3 Proxy-registered route object
+68.210.248.0 68.210.255.255 AS7891 LEVEL3 Proxy-registered route object
+68.211.0.0 68.211.255.255 AS6389 LEVEL3 Proxy-registered route object
+68.212.0.0 68.212.31.255 AS8062 LEVEL3 Proxy-registered route object
+68.212.32.0 68.212.63.255 AS7893 LEVEL3 Proxy-registered route object
+68.212.64.0 68.212.71.255 AS6389 LEVEL3 Proxy-registered route object
+68.212.72.0 68.212.79.255 AS7894 LEVEL3 Proxy-registered route object
+68.212.80.0 68.212.127.255 AS6385 LEVEL3 Proxy-registered route object
+68.212.128.0 68.212.191.255 AS6389 LEVEL3 Proxy-registered route object
+68.212.192.0 68.212.223.255 AS6388 LEVEL3 Proxy-registered route object
+68.212.224.0 68.212.255.255 AS6387 LEVEL3 Proxy-registered route object
+68.213.0.0 68.213.39.255 AS6389 LEVEL3 Proxy-registered route object
+68.213.40.0 68.213.55.255 AS7891 LEVEL3 Proxy-registered route object
+68.213.56.0 68.213.63.255 AS6383 LEVEL3 Proxy-registered route object
+68.213.64.0 68.213.79.255 AS6381 LEVEL3 Proxy-registered route object
+68.213.80.0 68.213.87.255 AS6386 LEVEL3 Proxy-registered route object
+68.213.88.0 68.213.95.255 AS6388 LEVEL3 Proxy-registered route object
+68.213.96.0 68.213.103.255 AS8061 LEVEL3 Proxy-registered route object
+68.213.104.0 68.213.111.255 AS6384 LEVEL3 Proxy-registered route object
+68.213.112.0 68.213.119.255 AS6389 LEVEL3 Proxy-registered route object
+68.213.120.0 68.213.127.255 AS7894 LEVEL3 Proxy-registered route object
+68.213.128.0 68.213.143.255 AS6380 LEVEL3 Proxy-registered route object
+68.213.144.0 68.213.151.255 AS5002 LEVEL3 Proxy-registered route object
+68.213.152.0 68.213.175.255 AS7893 LEVEL3 Proxy-registered route object
+68.213.176.0 68.213.183.255 AS6385 LEVEL3 Proxy-registered route object
+68.213.184.0 68.213.187.255 AS8062 LEVEL3 Proxy-registered route object
+68.213.188.0 68.213.191.255 AS8063 LEVEL3 Proxy-registered route object
+68.213.192.0 68.214.63.255 AS6389 LEVEL3 Proxy-registered route object
+68.214.64.0 68.214.95.255 AS6381 LEVEL3 Proxy-registered route object
+68.214.96.0 68.214.127.255 AS6380 LEVEL3 Proxy-registered route object
+68.214.128.0 68.214.159.255 AS6197 LEVEL3 Proxy-registered route object
+68.214.160.0 68.214.175.255 AS6389 LEVEL3 Proxy-registered route object
+68.214.176.0 68.214.191.255 AS5002 LEVEL3 Proxy-registered route object
+68.214.192.0 68.214.207.255 AS6381 LEVEL3 Proxy-registered route object
+68.214.208.0 68.214.223.255 AS6387 LEVEL3 Proxy-registered route object
+68.214.224.0 68.214.231.255 AS6389 LEVEL3 Proxy-registered route object
+68.214.232.0 68.214.247.255 AS5002 LEVEL3 Proxy-registered route object
+68.214.248.0 68.214.253.255 AS6389 LEVEL3 Proxy-registered route object
+68.214.254.0 68.214.254.255 AS5002 LEVEL3 Proxy-registered route object
+68.214.255.0 68.216.0.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.1.0 68.216.1.255 AS11712 SAVVIS BellSouth Information Systems
+68.216.2.0 68.216.31.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.32.0 68.216.32.255 AS32760 LEVEL3 Customer Route
+68.216.33.0 68.216.47.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.48.0 68.216.49.255 AS8061 LEVEL3 Proxy-registered route object
+68.216.50.0 68.216.50.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.51.0 68.216.51.255 AS8061 LEVEL3 Proxy-registered route object
+68.216.52.0 68.216.59.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.60.0 68.216.63.255 AS6197 LEVEL3 Proxy-registered route object
+68.216.64.0 68.216.65.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.66.0 68.216.67.255 AS7892 LEVEL3 Proxy-registered route object
+68.216.68.0 68.216.71.255 AS6388 LEVEL3 Proxy-registered route object
+68.216.72.0 68.216.75.255 AS6382 LEVEL3 Proxy-registered route object
+68.216.76.0 68.216.79.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.80.0 68.216.83.255 AS8062 LEVEL3 Proxy-registered route object
+68.216.84.0 68.216.87.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.88.0 68.216.89.255 AS6386 LEVEL3 Proxy-registered route object
+68.216.90.0 68.216.91.255 AS46153 ARIN METRO004
+68.216.92.0 68.216.95.255 AS6386 LEVEL3 Proxy-registered route object
+68.216.96.0 68.216.103.255 AS7893 LEVEL3 Proxy-registered route object
+68.216.104.0 68.216.107.255 AS8060 LEVEL3 Proxy-registered route object
+68.216.108.0 68.216.115.255 AS7894 LEVEL3 Proxy-registered route object
+68.216.116.0 68.216.118.255 AS6385 LEVEL3 Proxy-registered route object
+68.216.119.0 68.216.119.255 AS31833 LEVEL3 Proxy-registered route object
+68.216.120.0 68.216.123.255 AS6380 LEVEL3 Proxy-registered route object
+68.216.124.0 68.216.125.255 AS6383 LEVEL3 Proxy-registered route object
+68.216.126.0 68.216.127.255 AS6382 LEVEL3 Proxy-registered route object
+68.216.128.0 68.216.133.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.134.0 68.216.134.255 AS19685 LEVEL3 Prefix Add
+68.216.135.0 68.216.135.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.136.0 68.216.139.255 AS6381 LEVEL3 Proxy-registered route object
+68.216.140.0 68.216.143.255 AS6384 LEVEL3 Proxy-registered route object
+68.216.144.0 68.216.145.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.146.0 68.216.147.255 AS7893 LEVEL3 Proxy-registered route object
+68.216.148.0 68.216.149.255 AS7892 LEVEL3 Proxy-registered route object
+68.216.150.0 68.216.151.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.152.0 68.216.155.255 AS8061 LEVEL3 Proxy-registered route object
+68.216.156.0 68.216.157.255 AS6385 LEVEL3 Proxy-registered route object
+68.216.158.0 68.216.158.255 AS6388 LEVEL3 Proxy-registered route object
+68.216.159.0 68.216.159.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.160.0 68.216.160.255 AS7381 LEVEL3 inls block 1
+68.216.161.0 68.216.162.255 AS23509 LEVEL3 Proxy-registered route object
+68.216.163.0 68.216.167.255 AS6383 LEVEL3 Proxy-registered route object
+68.216.168.0 68.216.171.255 AS7893 LEVEL3 Proxy-registered route object
+68.216.172.0 68.216.175.255 AS7891 LEVEL3 Proxy-registered route object
+68.216.176.0 68.216.191.255 AS23081 LEVEL3 TelCove BGP Customer netblock
+68.216.192.0 68.216.195.255 AS6380 LEVEL3 Proxy-registered route object
+68.216.196.0 68.216.199.255 AS6388 LEVEL3 Proxy-registered route object
+68.216.200.0 68.216.203.255 AS8061 LEVEL3 Proxy-registered route object
+68.216.204.0 68.216.207.255 AS6382 LEVEL3 Proxy-registered route object
+68.216.208.0 68.216.211.255 AS6385 LEVEL3 Proxy-registered route object
+68.216.212.0 68.216.213.255 AS6197 LEVEL3 Proxy-registered route object
+68.216.214.0 68.216.215.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.216.0 68.216.217.255 AS8060 LEVEL3 Proxy-registered route object
+68.216.218.0 68.216.219.255 AS5002 LEVEL3 Proxy-registered route object
+68.216.220.0 68.216.223.255 AS7893 LEVEL3 Proxy-registered route object
+68.216.224.0 68.216.237.255 AS6389 LEVEL3 Proxy-registered route object
+68.216.238.0 68.216.239.255 AS6386 LEVEL3 Proxy-registered route object
+68.216.240.0 68.217.127.255 AS6389 LEVEL3 Proxy-registered route object
+68.217.128.0 68.217.191.255 AS6386 LEVEL3 Proxy-registered route object
+68.217.192.0 68.217.223.255 AS6197 LEVEL3 Proxy-registered route object
+68.217.224.0 68.218.127.255 AS6389 LEVEL3 Proxy-registered route object
+68.218.128.0 68.218.255.255 AS6381 LEVEL3 Proxy-registered route object
+68.219.0.0 68.219.255.255 AS6389 LEVEL3 Proxy-registered route object
+68.220.0.0 68.220.63.255 AS6197 LEVEL3 Proxy-registered route object
+68.220.64.0 68.220.127.255 AS6389 LEVEL3 Proxy-registered route object
+68.220.128.0 68.220.159.255 AS6380 LEVEL3 Proxy-registered route object
+68.220.160.0 68.220.191.255 AS8062 LEVEL3 Proxy-registered route object
+68.220.192.0 68.220.255.255 AS6388 LEVEL3 Proxy-registered route object
+68.221.0.0 68.221.127.255 AS5002 LEVEL3 Proxy-registered route object
+68.221.128.0 68.221.159.255 AS6383 LEVEL3 Proxy-registered route object
+68.221.160.0 68.221.191.255 AS8062 LEVEL3 Proxy-registered route object
+68.221.192.0 68.221.223.255 AS8063 LEVEL3 Proxy-registered route object
+68.221.224.0 68.221.255.255 AS7891 LEVEL3 Proxy-registered route object
+68.222.0.0 68.222.63.255 AS6385 LEVEL3 Proxy-registered route object
+68.222.64.0 68.222.127.255 AS8061 LEVEL3 Proxy-registered route object
+68.222.128.0 68.222.191.255 AS6384 LEVEL3 Proxy-registered route object
+68.222.192.0 68.222.203.255 AS6389 LEVEL3 Proxy-registered route object
+68.222.204.0 68.222.207.255 AS6386 LEVEL3 Proxy-registered route object
+68.222.208.0 68.222.215.255 AS6388 LEVEL3 Proxy-registered route object
+68.222.216.0 68.222.219.255 AS6380 LEVEL3 Proxy-registered route object
+68.222.220.0 68.222.223.255 AS8062 LEVEL3 Proxy-registered route object
+68.222.224.0 68.222.231.255 AS6386 LEVEL3 Proxy-registered route object
+68.222.232.0 68.222.239.255 AS7894 LEVEL3 Proxy-registered route object
+68.222.240.0 68.222.247.255 AS6389 LEVEL3 Proxy-registered route object
+68.222.248.0 68.222.255.255 AS6386 LEVEL3 Proxy-registered route object
+68.223.0.0 68.223.255.255 AS6389 LEVEL3 Proxy-registered route object
+68.224.0.0 68.224.163.255 AS22773 LEVEL3 NETBLK-LV-ON-HFC-68-224-0-0
+68.224.164.0 68.224.167.255 AS13980 ARIN Twotrees Technologies, LLC 7701 E. Kellog Drive, Suite 610 Wichita, Kansas 67207-1705 US
+68.224.168.0 68.225.22.255 AS22773 LEVEL3 NETBLK-SD-ON-HFC-68-224-168-0
+68.225.23.0 68.225.23.255 AS32351 SAVVIS PNAP-OCY hamptonpro
+68.225.24.0 68.225.152.255 AS22773 LEVEL3 OC CBS TRANSIT
+68.225.153.0 68.225.158.255 AS14710 LEVEL3 NETBLK-KS-OFF-HFC-CBS-68-225-152-0
+68.225.159.0 68.231.255.255 AS22773 LEVEL3 Proxy-registered route object
+68.232.0.0 68.232.31.255 AS1970 RADB TAMU-Commerce
+68.232.32.0 68.232.47.255 AS15133 RADB EdgeCast Networks, Inc.
+68.232.48.0 68.232.63.255 AS22773 LEVEL3 KS CBS TRANSIT
+68.232.64.0 68.232.95.255 AS32580 RADB YAK-ISP1
+68.232.96.0 68.232.111.255 AS53473 ARIN Channel Clarity Holdings, LLC
+68.232.112.0 68.232.127.255 AS7843 RADB Proxy-registered route object
+68.232.128.0 68.232.131.255 AS30214 SAVVIS PNAP-SJE
+68.232.132.0 68.232.133.255 AS30238 ARIN Cisco Systems Ironport Division 950 Elm Avenue San Bruno, California 94066 US
+68.232.134.0 68.232.135.255 AS22773 LEVEL3 LASV CB TRANSIT
+68.232.136.0 68.232.139.255 AS7843 RADB Proxy-registered route object
+68.232.140.0 68.232.142.255 AS16417 SAVVIS PNAP-SFO gspeed-32
+68.232.143.0 68.232.143.255 AS7843 RADB Proxy-registered route object
+68.232.144.0 68.232.144.255 AS16417 SAVVIS PNAP-SJE 2490384
+68.232.145.0 68.232.152.255 AS30238 BBOI Ironport Systems, Inc.
+68.232.153.0 68.232.153.255 AS16417 SAVVIS PNAP-SJE 2490384
+68.232.154.0 68.232.159.255 AS30238 BBOI Ironport Systems, Inc.
+68.232.160.0 68.232.177.255 AS20473 ALTDB auto-generated route object for 68.232.160.0/24
+68.232.178.0 68.232.179.255 AS7843 RADB Proxy-registered route object
+68.232.180.0 68.232.191.255 AS20473 ALTDB auto-generated route object for 68.232.180.0/24
+68.232.192.0 68.232.207.255 AS22606 RADB ExactTarget
+68.232.208.0 68.232.223.255 AS46094 NTTCOM Lee College
+68.232.224.0 68.232.255.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.233.0.0 68.233.31.255 AS26689 RADB Integra Telecom Route Object
+68.233.32.0 68.233.47.255 AS12260 SAVVIS PNAP-CHG Giglinx
+68.233.48.0 68.233.50.255 AS7843 RADB Proxy-registered route object
+68.233.51.0 68.233.51.255 AS22709 LEVEL3 Announced to Level 3 by North State Communications
+68.233.52.0 68.233.63.255 AS7843 RADB Proxy-registered route object
+68.233.64.0 68.233.65.255 AS10913 SAVVIS PNAP-WDC002 Taleo
+68.233.66.0 68.233.67.255 AS7160 RADB Oracle Cloud DC6
+68.233.68.0 68.233.71.255 AS19905 RADB SP-ORACLE
+68.233.72.0 68.233.73.255 AS19024 SAVVIS PNAP-CHG taleo-25
+68.233.74.0 68.233.74.255 AS7160 RADB Oracle Cloud CH3
+68.233.75.0 68.233.79.255 AS19905 RADB SP-ORACLE
+68.233.80.0 68.233.83.255 AS5769 RADB Taleo
+68.233.84.0 68.233.87.255 AS792 LEVEL3 Oracle
+68.233.88.0 68.233.127.255 AS7843 RADB Proxy-registered route object
+68.233.128.0 68.233.129.255 AS6327 RADB Proxy-registered route object
+68.233.130.0 68.233.130.255 AS22773 LEVEL3 MTC1 CB TRANSIT
+68.233.131.0 68.233.139.255 AS6327 RADB Proxy-registered route object
+68.233.140.0 68.233.143.255 AS22773 LEVEL3 MTC1 CB TRANSIT
+68.233.144.0 68.233.159.255 AS16934 RADB Proxy route object for Zayo customer, Visionary communications
+68.233.160.0 68.233.175.255 AS27382 SAVVIS PNAP-BSN
+68.233.176.0 68.233.177.255 AS46367 RADB Proxy-registered route object
+68.233.178.0 68.233.190.255 AS18616 ARIN Natural Wireless, LLC. 23A Poplar Street East Rutherford, NJ US
+68.233.191.0 68.233.191.255 AS7922 RADB Comcast Cable Communications, Inc. 1800 Bishops Gate Blvd Mt Laurel, NJ  08054
+68.233.192.0 68.233.223.255 AS14265 LEVEL3 TPAC-SNJSCA
+68.233.224.0 68.233.255.255 AS29802 RADB Hivelocity Ventures Corp
+68.234.0.0 68.234.31.255 AS40430 ARIN colo4jax LLC 421 W. Church St. Jacksonville FL 32202 US
+68.234.32.0 68.234.33.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.234.34.0 68.234.36.255 AS26801 RADB RR-BC-Zito Media-Backbone
+68.234.37.0 68.234.38.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.234.39.0 68.234.39.255 AS7029 RADB Proxy fbo Windstream Customer  AS46881 
+68.234.40.0 68.234.63.255 AS20001 RADB RR-RC-Adelphia-Orange
+68.234.64.0 68.234.79.255 AS11796 RADB Cheqtel
+68.234.80.0 68.234.83.255 AS46902 RADB Integra Telecom Route Object
+68.234.84.0 68.234.89.255 AS7843 RADB Proxy-registered route object
+68.234.90.0 68.234.90.255 AS46902 RADB Integra Telecom Route Object
+68.234.91.0 68.234.95.255 AS7843 RADB Proxy-registered route object
+68.234.96.0 68.234.127.255 AS22773 LEVEL3 KSCY CB TRANSIT
+68.234.128.0 68.234.255.255 AS46687 SAVVIS PNAP-ACS harron-routes
+68.235.0.0 68.235.15.255 AS7843 RADB Proxy-registered route object
+68.235.16.0 68.235.31.255 AS29705 RADB Motive Inc.
+68.235.32.0 68.235.63.255 AS11878 RADB 68.235.32.0/19
+68.235.64.0 68.235.127.255 AS7843 RADB Proxy-registered route object
+68.235.128.0 68.235.159.255 AS22773 LEVEL3 OK CBS TRANSIT
+68.235.160.0 68.235.175.255 AS18859 RADB RR-RC-Guadalupe Valley Electric Coop-Austin
+68.235.176.0 68.235.191.255 AS5690 RADB Vianet Internet Solutions -subroute
+68.235.192.0 68.235.222.255 AS19749 LEVEL3 GNC route
+68.235.223.0 68.235.223.255 AS7381 LEVEL3 gnig block 1
+68.235.224.0 68.235.237.255 AS14615 RADB Comporium Communications
+68.235.238.0 68.235.239.255 AS7843 RADB Proxy-registered route object
+68.235.240.0 68.235.255.255 AS14615 RADB Comporium Communications
+68.236.86.0 68.236.86.255 AS32862 NTTCOM Towerstream Corp. 55 Hammarlund Way., Tech Plaza 2 Middletown, RI 02842
+68.236.224.0 68.236.224.255 AS23011 RADB Advanced Digital Internet.Inc./NetLine Service Inc.
+68.237.168.0 68.237.175.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+68.238.144.0 68.238.159.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+68.238.168.0 68.238.175.255 AS5650 RADB Frontier Communications  ARIN OrgID: FRTR 
+68.248.0.0 68.248.95.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.248.96.0 68.248.96.255 AS26628 ALTDB Adivi Corporation  TS-ORD 
+68.248.97.0 68.248.117.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.248.118.0 68.248.118.255 AS26096 LEVEL3 ADDED FOR - AS26096
+68.248.119.0 68.248.150.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.248.151.0 68.248.151.255 AS32268 ARIN Artisan Partners
+68.248.152.0 68.249.191.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.249.192.0 68.249.199.255 AS13475 ARIN SBC-UTI IP Space
+68.249.200.0 68.249.213.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.249.214.0 68.249.214.255 AS31989 ARIN 290 E. Helen Rd. Palatine IL, 60067
+68.249.215.0 68.250.21.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.250.22.0 68.250.22.255 AS36723 ARIN Waukesha County - WCC 515 W Moreland Blvd Waukesha  WI 53188 US
+68.250.23.0 68.250.68.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.250.69.0 68.250.69.255 AS14794 NTTCOM AirLiance Materials, LLC P.O. Box 661008 Chicago, IL 60666-1008
+68.250.70.0 68.250.72.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.250.73.0 68.250.73.255 AS46286 ARIN Cook County Government 118 North Clark, suite 702 Chicago, Il 60602 US
+68.250.74.0 68.250.74.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.250.75.0 68.250.75.255 AS33228 ARIN ICH in Chicago
+68.250.76.0 68.250.78.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.250.79.0 68.250.79.255 AS7029 RADB Windstream  PaeTec 
+68.250.80.0 68.250.139.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.250.140.0 68.250.140.255 AS31952 RADB Calamos Investments  SBC Network 
+68.250.141.0 68.250.141.255 AS21900 ARIN Law Bulletin Publishing Company 415 North State Street Chicago, IL 60610 US     =20
+68.250.142.0 68.250.179.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.250.180.0 68.250.180.255 AS32734 ARIN 2Checkout.com
+68.250.181.0 68.250.229.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.250.230.0 68.250.231.255 AS27216 ARIN Air Advantage
+68.250.232.0 68.250.235.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.250.236.0 68.250.236.255 AS14403 LEVEL3 ADDED FOR - AS14403
+68.250.237.0 68.250.237.255 AS27216 ARIN Air Advantage
+68.250.238.0 68.251.193.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.251.194.0 68.251.195.255 AS26554 RADB Route for Downstream Customer Your Internet
+68.251.196.0 68.251.203.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.251.204.0 68.251.204.255 AS32625 ARIN TDS Telecom route object for Offsite
+68.251.205.0 68.252.29.255 AS7132 RADB Chicago, IL SBC Internet Services
+68.252.30.0 68.252.31.255 AS19444 LEVEL3 RS-CHTR-CNTL
+68.252.32.0 68.252.105.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.252.106.0 68.252.106.127 AS35961 RADB American Imaging Management - SDC 540 Lake Cook Road Deerfield, IL 60015
+68.252.106.128 68.252.155.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.252.156.0 68.252.159.255 AS30373 RADB Proxy registered by BOB Broadband for American Eagle
+68.252.160.0 68.253.114.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.253.115.0 68.253.115.255 AS26096 LEVEL3 ADDED FOR - AS26096
+68.253.116.0 68.254.15.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.254.16.0 68.254.19.255 AS20115 RADB CB customer Endless Journey AS25773
+68.254.20.0 68.254.105.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.254.106.0 68.254.107.255 AS27192 SAVVIS PNAP-CHG ussignal route
+68.254.108.0 68.254.123.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.254.124.0 68.254.127.255 AS27192 SAVVIS PNAP-CHG ussignal route
+68.254.128.0 68.254.131.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.254.132.0 68.254.132.255 AS16986 ARIN LAKELAND REGIONAL 1234 Napier Avenue St Joseph, MI 49085 US
+68.254.133.0 68.254.134.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.254.135.0 68.254.135.255 AS13457 ARIN Wolverine Power Supply 10125 W. Watergate Rd Cadillac, MI 49601 US
+68.254.136.0 68.255.127.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.255.128.0 68.255.128.255 AS30373 RADB La Rabida Children's Hospital - proxy registered by Business Only Broadband
+68.255.129.0 68.255.201.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.255.202.0 68.255.202.255 AS16998 SAVVIS PNAP-CHG ussignal
+68.255.203.0 68.255.219.255 AS7132 RADB ARIN Allocation SBC Internet Services
+68.255.220.0 68.255.220.255 AS36528 ARIN SRAM Corporation 1333 N. Kingsbury, 4th Floor Chicago, Illinois 60622 US     =20

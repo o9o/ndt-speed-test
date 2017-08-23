@@ -1,0 +1,355 @@
+197.0.0.0 197.0.255.255 AS2609 RIPE organisation : Topnet contact name: Ahmed Kooli phone: +216 71 780 900 e-mail: Ahmed@topnet.tn website: http://topnet.tn
+197.1.0.0 197.1.255.255 AS5438 RIPE organisation : Topnet contact name: Ahmed Kooli phone: +216 71 780 900 e-mail: Ahmed@topnet.tn website: http://topnet.tn
+197.2.0.0 197.2.255.255 AS2609 RIPE organisation : Topnet contact name: Ahmed Kooli phone: +216 71 780 900 e-mail: Ahmed@topnet.tn website: http://topnet.tn
+197.3.0.0 197.3.1.255 AS37705 RIPE TOPNET-ROUTE
+197.3.2.0 197.3.3.255 AS5438 RIPE ATI
+197.3.4.0 197.3.7.255 AS37705 RIPE TOPNET-ROUTE
+197.3.8.0 197.3.191.255 AS5438 RIPE ATI
+197.3.192.0 197.3.255.255 AS37705 RIPE TOPNET-ROUTE
+197.4.0.0 197.11.255.255 AS2609 RIPE ATI
+197.12.0.0 197.12.255.255 AS37703 RIPE ATLAX-net-01
+197.13.0.0 197.13.255.255 AS37504 RIPE EO-DATACENTER route
+197.14.0.0 197.14.0.255 AS2609 RIPE ATI
+197.14.1.0 197.14.2.255 AS37693 RIPE OOREDOO-route
+197.14.3.0 197.14.7.255 AS2609 RIPE ATI
+197.14.8.0 197.14.55.255 AS37693 RIPE OOREDOO-route
+197.14.56.0 197.15.255.255 AS2609 RIPE ATI
+197.16.0.0 197.21.255.255 AS37693 RIPE ooredooTN route
+197.22.0.0 197.22.255.255 AS2609 RIPE OOREDOO
+197.23.0.0 197.24.255.255 AS37693 RIPE ooredooTN route
+197.25.0.0 197.25.127.255 AS37492 RIPE Orange Tunisie
+197.25.128.0 197.25.255.255 AS2609 RIPE Agence Tunisienne Internet
+197.26.0.0 197.26.31.255 AS37492 RIPE Orange Tunisie
+197.26.32.0 197.26.191.255 AS2609 RIPE Agence Tunisienne Internet
+197.26.192.0 197.27.127.255 AS37492 RIPE Orange Tunisie
+197.27.128.0 197.27.255.255 AS2609 RIPE Agence Tunisienne Internet
+197.28.0.0 197.31.0.255 AS37492 RIPE Orange Tunisie
+197.31.1.0 197.31.63.255 AS2609 RIPE Agence Tunisienne Internet
+197.31.64.0 197.31.255.255 AS37492 RIPE Orange Tunisie
+197.32.0.0 197.63.255.255 AS8452 RIPE Telecom-Egypt-Data
+197.64.0.0 197.79.255.255 AS16637 RADB MTN Business
+197.80.0.0 197.95.255.255 AS10474 RADB MWeb South Africa
+197.96.0.0 197.96.150.191 AS3741 RADB Internet Solutions  Pty  Ltd  South Africa 
+197.96.150.192 197.96.150.255 AS12008 RADB Internet Solutions
+197.96.151.0 197.100.2.255 AS3741 RADB Internet Solutions  Pty  Ltd  South Africa 
+197.100.3.0 197.100.3.255 AS19905 RADB AC_ISSA
+197.100.4.0 197.103.255.255 AS3741 RADB Internet Solutions  Pty  Ltd  South Africa 
+197.104.0.0 197.111.255.255 AS37168 RIPE Cell-C  Pty  Ltd
+197.112.0.0 197.119.255.255 AS33774 RIPE Algerie Telecom FAWRI par djaweb
+197.120.0.0 197.127.255.255 AS36992 RIPE Etisalat-Misr 2G/3G Subscribers
+197.132.0.0 197.135.255.255 AS36935 RIPE Vodafone Egypt
+197.136.0.0 197.139.255.255 AS36914 RADB Wananchi via EMIX
+197.148.0.0 197.148.63.255 AS36907 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS36907  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+197.148.64.0 197.148.71.255 AS37497 RIPE NETWORK-PLATFORMS
+197.148.72.0 197.148.79.255 AS37524 RIPE AFRICELL GAMBIA
+197.148.80.0 197.148.87.255 AS37506 RADB Zinox Telecommunications Limited
+197.148.88.0 197.148.91.255 AS198381 RIPE Yahclick-Angola-SisTec-Madrid
+197.148.92.0 197.148.95.255 AS198394 RIPE Yahclick-Angola-SisTec-Athens
+197.148.96.0 197.148.127.255 AS24691 RADB TOGO Teleocm
+197.148.128.0 197.148.191.255 AS37303 RIPE New Ip range for Airtel MG
+197.148.192.0 197.148.223.255 AS37471 RIPE SKYNET-CI-v4-I
+197.148.224.0 197.148.255.255 AS36961 RIPE BBH 197 block shared
+197.149.0.0 197.149.63.255 AS37054 RIPE TGN 197.149.0.0/24
+197.149.64.0 197.149.118.255 AS35074 RIPE route object cobranet
+197.149.120.0 197.149.125.255 AS37480 RIPE 
+197.149.127.0 197.149.127.255 AS35074 RIPE route object cobranet
+197.149.128.0 197.149.131.255 AS37462 RIPE Prestabist1
+197.149.132.0 197.149.135.255 AS37465 RIPE VALUE-PLUS NIGERIA
+197.149.136.0 197.149.139.255 AS16637 RADB MTN Business
+197.149.140.0 197.149.143.255 AS37469 RIPE africell route object-197.149.140.0/24
+197.149.144.0 197.149.147.255 AS5713 NTTCOM Proxy-registered route object
+197.149.148.0 197.149.151.255 AS37468 RIPE IPV4 range Angola Cables
+197.149.152.0 197.149.155.255 AS37502 RIPE Malawi Net Limited
+197.149.156.0 197.149.159.255 AS37509 RADB Multinet-MZ c/o Internet Solutions  Pty  Ltd  South Africa 
+197.149.160.0 197.149.163.255 AS37438 NTTCOM Proxy-registered route object
+197.149.164.0 197.149.167.255 AS37506 RIPE Zinox Technologies
+197.149.168.0 197.149.171.255 AS37512 RIPE IPX_IPv4_RANGE
+197.149.172.0 197.149.175.255 AS37530 RIPE Altivex - Appchat
+197.149.176.0 197.149.179.255 AS33765 RIPE EGAV-AS-BLOCK
+197.149.184.0 197.149.187.255 AS37453 RADB Proxy-registered route object
+197.149.188.0 197.149.191.255 AS37282 RADB Prefix for Proclaim360
+197.150.0.0 197.151.255.255 AS37069 RIPE Mobinil IP address
+197.152.0.0 197.152.255.255 AS37133 RIPE Route to Airtel Tanzania
+197.153.0.0 197.153.255.255 AS36925 RIPE Meditelecom LIR
+197.155.0.0 197.155.31.255 AS29606 RIPE Borwood via AS29606
+197.155.32.0 197.155.47.255 AS3741 RADB Lasernet c/o Internet Solutions  Pty  Ltd
+197.155.48.0 197.155.48.255 AS37484 RADB Lasernet
+197.155.49.0 197.155.63.255 AS3741 RADB Lasernet c/o Internet Solutions  Pty  Ltd
+197.155.64.0 197.155.67.255 AS30844 RIPE Proxy registered route object
+197.155.68.0 197.155.95.255 AS33770 RADB Proxy-registered route object
+197.155.96.0 197.155.127.255 AS37357 NTTCOM Proxy-registered route object
+197.155.192.0 197.155.207.255 AS33567 NTTCOM Proxy-registered route object
+197.155.208.0 197.155.223.255 AS197426 RADB AfriNIC - www.afrinic.net
+197.155.224.0 197.155.239.255 AS30844 ripe Liquid-ZW Address Space
+197.155.240.0 197.155.243.255 AS204211 RIPE 
+197.155.248.0 197.155.249.255 AS37479 NTTCOM Proxy-registered route object
+197.155.250.0 197.155.250.255 AS6421 RADB Proxy route object registered by AS2764
+197.155.251.0 197.155.255.255 AS37479 RIPE Connection Telecom range
+197.156.0.0 197.156.63.255 AS30844 RIPE Proxy registered route object
+197.156.64.0 197.156.123.255 AS24757 RIPE Ethio Telecom
+197.156.124.0 197.156.124.255 AS37273 RADB BCS via EMIX
+197.156.125.0 197.156.127.255 AS24757 RADB Proxy-registered route object
+197.156.128.0 197.156.133.255 AS12455 RIPE TKL
+197.156.134.0 197.156.135.255 AS47589 SAVVIS KTL via EMIX
+197.156.136.0 197.156.143.255 AS12455 RIPE TKL
+197.156.144.0 197.156.191.255 AS47589 SAVVIS KTL via EMIX
+197.156.240.0 197.156.255.255 AS30988 RIPE Route for Internet Solutions
+197.157.0.0 197.157.63.255 AS36991 RADB KTL Via EMIX
+197.157.64.0 197.157.95.255 AS37271 RADB Workonline Communications  Pty  Ltd
+197.157.96.0 197.157.127.255 AS36958 RADB DU via EMIX
+197.157.128.0 197.157.129.255 AS37619 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37619  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+197.157.130.0 197.157.133.255 AS327707 RADB JTL via EMIX
+197.157.134.0 197.157.134.255 AS37619 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37619  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+197.157.135.0 197.157.135.255 AS327707 RADB JTL via EMIX
+197.157.136.0 197.157.154.255 AS37619 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37619  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+197.157.155.0 197.157.155.255 AS327707 RADB JTL via EMIX
+197.157.156.0 197.157.191.255 AS37619 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37619  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+197.157.192.0 197.157.193.255 AS37429 RIPE 197.157.192.0/24
+197.157.194.0 197.157.195.255 AS16637 RADB MTN Business
+197.157.196.0 197.157.199.255 AS37432 RIPE ITELNET
+197.157.200.0 197.157.203.255 AS37434 RADB Proxy-registered route object
+197.157.208.0 197.157.211.255 AS37447 SAVVIS BATELCO via EMIX
+197.157.216.0 197.157.219.255 AS37433 RIPE KKON TECHNOLOGIES LTD
+197.157.220.0 197.157.223.255 AS37439 RIPE supernet-2 Subnet-1
+197.157.224.0 197.157.227.255 AS12491 RADB Proxy-registered route object
+197.157.228.0 197.157.231.255 AS15808 RIPE Rasmilink 2nd Subnet
+197.157.232.0 197.157.235.255 AS37449 RIPE Limeline SL
+197.157.236.0 197.157.239.255 AS37464 RIPE VSLTZ Network
+197.157.242.0 197.157.243.255 AS37055 NTTCOM Proxy-registered route object
+197.157.244.0 197.157.247.255 AS37473 RIPE Telesom
+197.157.252.0 197.157.253.255 AS44356 RADB epsilontel via EMIX
+197.158.0.0 197.158.63.255 AS30619 RIPE TDM Afrinic prefix
+197.158.64.0 197.158.127.255 AS21042 RIPE GULFSAT-NET2
+197.158.192.0 197.158.255.255 AS37343 RIPE Airtel Seychelles
+197.159.0.0 197.159.31.255 AS15964 RIPE CAMEROON TELECOMMUNICATIONS CAMTEL Cidr Block New additional IPv4 allocation from AfriNIC
+197.159.32.0 197.159.63.255 AS37413 RIPE Hymax Talking Solutions
+197.159.64.0 197.159.79.255 AS37018 RIPE Galaxy Backbone
+197.159.96.0 197.159.111.255 AS16637 RADB MTN Business
+197.159.112.0 197.159.127.255 AS37423 RIPE ADN IP Block
+197.159.128.0 197.159.138.255 AS37012 RADB Comsys Ghana Ltd
+197.159.140.0 197.159.140.255 AS12491 RADB Proxy-registered route object
+197.159.142.0 197.159.142.255 AS12491 RADB Proxy-registered route object
+197.159.144.0 197.159.159.255 AS37037 RIPE Orange Madagascar 197.159.144.0/21
+197.159.160.0 197.159.191.255 AS8657 RIPE Companhia  Santomense  de  Telecomunicacoes  announced by CPRMNET 
+197.159.192.0 197.159.223.255 AS37381 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37381  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetwork.com if you have any questions regarding this object.
+197.159.224.0 197.159.255.255 AS37401 RIPE Foris Telecom Cameroon
+197.160.0.0 197.167.255.255 AS24863 RIPE LINKdotNET
+197.168.0.0 197.175.255.255 AS37168 RIPE Cell-C  Pty  Ltd
+197.176.0.0 197.183.255.255 AS33771 SAVVIS SAFARICOM via EMIX
+197.184.0.0 197.185.255.255 AS33762 RIPE Wireless Business Solutions  Pty  Ltd iBurst Johannesburg South Africa
+197.186.0.0 197.187.255.255 AS37133 RIPE Route to Airtel TZ
+197.188.0.0 197.188.255.255 AS20459 RIPE Telecom Namibia 9,Luderitz Street Windhoek Namibia
+197.189.0.0 197.189.63.255 AS203872 RIPE LLC Com-Tat
+197.189.128.0 197.189.191.255 AS37057 RADB Proxy-registered route object
+197.189.192.0 197.189.192.255 AS37153 RIPE HETZNER-JHB-BLK
+197.189.193.0 197.189.199.255 AS36351 REACH REACH  Customer Route 
+197.189.200.0 197.189.200.255 AS37153 RIPE HETZNER-JHB-BLK
+197.189.201.0 197.189.204.255 AS36351 REACH REACH  Customer Route 
+197.189.205.0 197.189.205.255 AS37153 RIPE HETZNER-JHB-BLK
+197.189.206.0 197.189.209.255 AS36351 REACH REACH  Customer Route 
+197.189.210.0 197.189.210.255 AS37153 RIPE HETZNER-JHB-BLK
+197.189.211.0 197.189.223.255 AS36351 REACH REACH  Customer Route 
+197.189.224.0 197.189.239.255 AS37153 RIPE HETZNER-JHB-BLK
+197.189.240.0 197.189.255.255 AS36351 REACH REACH  Customer Route 
+197.190.0.0 197.191.255.255 AS37140 RADB Proxy-registered route object
+197.192.0.0 197.199.255.255 AS36992 RIPE Etisalat-Misr 2G/3G Subscribers
+197.200.0.0 197.207.255.255 AS36947 RIPE route 4 from djaweb de AS fawri
+197.208.0.0 197.209.255.255 AS36998 RADB Zain via EMIX
+197.210.0.0 197.210.255.255 AS29465 RADB MTN Nigeria
+197.211.0.0 197.211.14.255 AS37027 SAVVIS Wananchi via EMIX
+197.211.15.0 197.211.15.255 AS198394 RIPE Yahclick-Tanzania-SimbaNet-Athens
+197.211.16.0 197.211.16.255 AS37027 SAVVIS Wananchi via EMIX
+197.211.17.0 197.211.17.255 AS198247 RADB DIC via EMIX
+197.211.18.0 197.211.31.255 AS37027 RADB WANANCHI via EMIX
+197.211.32.0 197.211.63.255 AS37148 RIPE Globacom Limited, Lagos
+197.211.64.0 197.211.95.255 AS29918 NTTCOM Proxy-registered route object
+197.211.96.0 197.211.127.255 AS37187 RIPE Skyband Corporation Ltd
+197.211.128.0 197.211.191.255 AS22750 RIPE BCSnet26
+197.211.192.0 197.211.255.255 AS30844 RIPE Proxy registered route object
+197.212.0.0 197.213.255.255 AS37287 RIPE Airtel Zambia
+197.214.0.0 197.214.63.255 AS37531 RIPE Airtel Niger
+197.214.64.0 197.214.79.255 AS37529 RIPE GITGE_IPv4_RANGE
+197.214.96.0 197.214.100.255 AS198504 RIPE Yahclick-Nigeria-Hyperia-Lux
+197.214.101.0 197.214.103.255 AS198394 RIPE Yahclick-Nigeria-Hyperia-Athens
+197.214.112.0 197.214.119.255 AS37276 RADB VO Connect   Pty  Ltd
+197.214.120.0 197.214.127.255 AS37306 RIPE Aptics, 162 Samora Machel Ave, Harare, Zimbabwe
+197.214.128.0 197.214.255.255 AS37550 RIPE CongoB Airtel?PointeNoire
+197.215.0.0 197.215.127.255 AS37164 RIPE Airtel SL  Ltd
+197.215.128.0 197.215.159.255 AS10753 LEVEL3 Libyan International Telecom
+197.215.192.0 197.215.207.255 AS37037 RIPE Orange Madagascar 197.215.192.0/21
+197.215.208.0 197.215.215.255 AS37276 RADB VOffice Solutions
+197.215.216.0 197.215.219.255 AS37580 RADB Proxy-registered route object
+197.215.220.0 197.215.220.255 AS327870 RADB JTL via EMIX
+197.215.224.0 197.215.224.255 AS37595 NTTCOM Proxy-registered route object
+197.215.227.0 197.215.227.255 AS37595 NTTCOM Proxy-registered route object
+197.215.228.0 197.215.228.255 AS36916 RIPE Seekrypt PTY Ltd
+197.215.229.0 197.215.230.255 AS37595 RIPE Seecrypt Pty Ltd
+197.215.232.0 197.215.239.255 AS37595 NTTCOM Proxy-registered route object
+197.215.240.0 197.215.255.255 AS327692 RADB Zantel via EMIX
+197.216.0.0 197.217.255.255 AS11259 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS11259  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+197.218.0.0 197.219.255.255 AS37342 RIPE MOVITEL,SA - Mozambique
+197.220.0.0 197.220.31.255 AS36959 RADB Proxy-registered route object
+197.220.64.0 197.220.95.255 AS60725 SAVVIS TRANSWORLD via EMIX
+197.220.96.0 197.220.104.255 AS37027 SAVVIS Wananchi via EMIX
+197.220.105.0 197.220.105.255 AS198247 RIPE Yah-Service-Kenya
+197.220.106.0 197.220.109.255 AS37027 SAVVIS Wananchi via EMIX
+197.220.110.0 197.220.111.255 AS62023 RIPE announced for SimbaNET
+197.220.112.0 197.220.118.255 AS37027 SAVVIS Wananchi via EMIX
+197.220.119.0 197.220.119.255 AS45572 SAVVIS Mobily via EMIX
+197.220.120.0 197.220.120.255 AS38176 RADB Asia Broadcast Satellite
+197.220.121.0 197.220.121.255 AS45572 SAVVIS Mobily via EMIX
+197.220.122.0 197.220.122.255 AS198394 RIPE Yahclick-Kenya-SimbaNet-Athens
+197.220.123.0 197.220.127.255 AS37027 SAVVIS Wananchi via EMIX
+197.220.128.0 197.220.159.255 AS37331 NTTCOM Proxy-registered route object
+197.220.160.0 197.220.191.255 AS37341 RIPE Glo Mobile Ghana
+197.220.192.0 197.220.255.255 AS37214 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37214  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+197.221.0.0 197.221.19.255 AS37153 RIPE HETZNER-CPT-BLK
+197.221.20.0 197.221.25.255 AS29606 RIPE Borwood via AS29606
+197.221.26.0 197.221.63.255 AS37153 RIPE HETZNER-CPT-BLK
+197.221.64.0 197.221.95.255 AS30988 RADB Internet Solutions  Ghana 
+197.221.96.0 197.221.127.255 AS37334 RADB Proxy-registered route object
+197.221.128.0 197.221.159.255 AS37273 SAVVIS BCS via EMIX
+197.221.160.0 197.221.191.255 AS37357 NTTCOM Proxy-registered route object
+197.221.192.0 197.221.223.255 AS36930 RADB Zantel via EMIX
+197.221.224.0 197.221.255.255 AS37204 RIPE TelOne Zimbabwe Pvt Ltd
+197.222.0.0 197.223.255.255 AS37069 RIPE Mobinil IP address
+197.224.0.0 197.227.255.255 AS23889 RIPE telecomplus
+197.228.0.0 197.229.255.255 AS37251 NTTCOM Proxy-registered route object
+197.230.0.0 197.230.255.255 AS36925 RIPE Meditelecom LIR
+197.231.0.0 197.231.31.255 AS8657 RIPE Chinguitel SA  announced by CPRMNET 
+197.231.32.0 197.231.63.255 AS37057 RIPE Vodacom Lesotho
+197.231.128.0 197.231.135.255 AS37503 RIPE Unique Solutions Ltd - Second Subnet
+197.231.144.0 197.231.151.255 AS37172 RIPE Mitsol  Pty Ltd. 
+197.231.152.0 197.231.159.255 AS37557 RIPE Generic Route
+197.231.160.0 197.231.167.255 AS25818 NTTCOM CMC Network
+197.231.168.0 197.231.175.255 AS37055 NTTCOM Proxy-registered route object
+197.231.176.0 197.231.183.255 AS37305 RIPE FON-BLOCK2
+197.231.184.0 197.231.187.255 AS45572 SAVVIS BATELCO via EMIX
+197.231.188.0 197.231.191.255 AS37455 RIPE Bharat-Telecom-Ltd
+197.231.192.0 197.231.195.255 AS37604 RADB ZebraNet IP Prefix
+197.231.196.0 197.231.199.255 AS37549 RIPE Business-Services
+197.231.200.0 197.231.203.255 AS37563 RIPE somtel
+197.231.212.0 197.231.215.255 AS37554 RIPE Maintaner
+197.231.216.0 197.231.219.255 AS37556 RIPE CILIX SOFTWARE
+197.231.220.0 197.231.223.255 AS37560 RIPE Cyberdyne S.A.
+197.231.224.0 197.231.227.255 AS8657 RIPE TLC, SA  announced by CPRMNET 
+197.231.228.0 197.231.231.255 AS37566 RIPE ICONA-LBY
+197.231.232.0 197.231.235.255 AS37564 RIPE WIRUlink
+197.231.236.0 197.231.239.255 AS16637 RADB MTN Business
+197.231.244.0 197.231.247.255 AS37569 RIPE ROKE Telkom Zambia Plot No. 4372 Sekou Toure Road Off Jacaranda Lusaka, Zambia Phone: +260965391554
+197.231.248.0 197.231.251.255 AS37586 RIPE Onatel-Block
+197.231.252.0 197.231.255.255 AS37571 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+197.232.0.0 197.232.253.255 AS36866 SAVVIS JTL via EMIX
+197.232.254.0 197.232.254.255 AS37571 ARIN Black Lotus Communications PROXY REGISTRATION FOR DOWNSTREAM CUSTOMER 1 Sansome St., Suite 1500 San Francisco, CA 94104 United States of America
+197.232.255.0 197.232.255.255 AS36866 SAVVIS JTL via EMIX
+197.233.0.0 197.233.255.255 AS36999 RIPE TN Mobile Telecom Namibia 9, Luderitz str Windhoek Namibia
+197.234.0.0 197.234.15.255 AS36902 RIPE Intelvision Ltd Seychelles
+197.234.16.0 197.234.31.255 AS37239 RADB ICTGlobe Management  Pty  Ltd
+197.234.32.0 197.234.33.255 AS16637 RADB MTN Business
+197.234.34.0 197.234.39.255 AS37308 RADB Additional Coollink IP address
+197.234.40.0 197.234.47.255 AS198504 RIPE YahClick-Nigeria-Coollink-Lux
+197.234.48.0 197.234.52.255 AS37308 RADB Coollink IP block
+197.234.53.0 197.234.54.255 AS198504 RIPE Yahclick-Nigeria-Cool-link-lux
+197.234.55.0 197.234.58.255 AS37308 RIPE steam_network_coollink
+197.234.64.0 197.234.127.255 AS33763 RIPE ITN Block4
+197.234.128.0 197.234.191.255 AS37315 RIPE CipherWave
+197.234.192.0 197.234.199.255 AS37358 RIPE BitCo - KZN
+197.234.200.0 197.234.207.255 AS29606 RIPE Borwood via AS29606
+197.234.208.0 197.234.215.255 AS37537 RADB Bytes Botswana
+197.234.216.0 197.234.223.255 AS16637 RADB MTN Business
+197.234.224.0 197.234.225.255 AS198394 RIPE Yahclick-Kenya-Raha-Athens
+197.234.232.0 197.234.235.255 AS37546 RIPE SUB1-RANGE-1
+197.234.236.0 197.234.238.255 AS37354 RIPE SSW 197.234.236.0/24
+197.234.239.0 197.234.239.255 AS37273 SAVVIS BCS via EMIX
+197.234.240.0 197.234.243.255 AS13335 ARIN CloudFlare, Inc. 665 3rd Street Suite 207 San Francisco, California 94107 US
+197.234.244.0 197.234.247.255 AS37619 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37619  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+197.234.248.0 197.234.251.255 AS37572 RIPE Al-Andalus
+197.235.0.0 197.235.255.255 AS37223 RIPE Vodacom Mozambique
+197.236.0.0 197.236.255.255 AS5713 NTTCOM Proxy-registered route object
+197.237.0.0 197.237.255.255 AS15399 SAVVIS WANANCHI via EMIX
+197.238.0.0 197.238.223.255 AS13618 LEVEL3 Creating Route For Carolina Internet
+197.238.224.0 197.238.227.255 AS35916 RADB Customer route - LOA provided
+197.238.228.0 197.238.255.255 AS13618 LEVEL3 Creating Route For Carolina Internet
+197.239.0.0 197.239.63.255 AS37273 SAVVIS BCS via EMIX
+197.239.64.0 197.239.66.255 AS37577 RIPE IT HUB AIRTEL-BF
+197.239.68.0 197.239.79.255 AS29571 RADB Proxy-registered route object
+197.239.80.0 197.239.127.255 AS37577 RIPE Gi POOL_03 AIRTEL-BF
+197.239.128.0 197.239.191.255 AS2018 ALTDB UCT Block Maintained by TENET
+197.239.192.0 197.239.199.255 AS39356 RIPE Imarasat Limited
+197.239.200.0 197.239.231.255 AS6421 RADB Proxy route object registered by AS2764
+197.239.240.0 197.239.255.255 AS6421 RADB Proxy route object registered by AS2764
+197.240.16.0 197.240.47.255 AS197890 RIPE 197.240.16.0/20
+197.241.0.0 197.241.127.255 AS30990 RIPE DJIBTEL
+197.241.128.0 197.241.255.255 AS37081 RIPE Movicel Telecomunicacoes S.A
+197.242.0.0 197.242.31.255 AS12491 RADB Proxy-registered route object
+197.242.32.0 197.242.63.255 AS6453 RADB TCL route object
+197.242.64.0 197.242.83.255 AS37153 RIPE HETZNER-JHB-BLK
+197.242.84.0 197.242.87.255 AS24940 RIPE Hetz-ZA-Managed-Servers-in-DE
+197.242.88.0 197.242.91.255 AS37153 RIPE HETZNER-JHB-BLK
+197.242.92.0 197.242.95.255 AS36351 REACH REACH  Customer Route 
+197.242.96.0 197.242.119.255 AS37340 RIPE Spectranet Route Object
+197.242.120.0 197.242.121.255 AS16637 RADB MTN Business
+197.242.122.0 197.242.125.255 AS37340 RIPE Spectranet Route Object
+197.242.126.0 197.242.127.255 AS16637 RADB MTN Business
+197.242.144.0 197.242.159.255 AS16637 RADB MTN Business
+197.242.184.0 197.242.187.255 AS37455 RIPE MT_ABS
+197.242.188.0 197.242.189.255 AS45572 SAVVIS BATELCO via EMIX
+197.242.190.0 197.242.190.255 AS37455 RADB Proxy Advertisement for Bharat Telecom
+197.242.191.0 197.242.191.255 AS45572 SAVVIS BATELCO via EMIX
+197.242.192.0 197.242.199.255 AS37454 SAVVIS ZANTEL via EMIX
+197.242.200.0 197.242.207.255 AS37353 RIPE MacroLAN Prefix 2
+197.242.208.0 197.242.223.255 AS37367 RIPE Imarasat
+197.242.224.0 197.242.239.255 AS37471 RIPE SKYNET-CI-v4-II
+197.242.240.0 197.242.243.255 AS37308 RIPE Steam Network Coolink
+197.242.244.0 197.242.246.255 AS198504 RIPE YahClick-Nigeria-Coollink-Lux
+197.242.247.0 197.242.247.255 AS198394 RIPE Yahclick-Nigeria-Cool-Link-Athens
+197.242.248.0 197.242.253.255 AS198504 RIPE Yahclick-Nigeria-Cool-link-lux
+197.242.254.0 197.242.255.255 AS198394 RIPE Yahclick-Nigeria-Cool-Link-Athens
+197.243.0.0 197.243.47.255 AS37228 SAVVIS JTL via EMIX
+197.243.48.0 197.243.48.255 AS327789 RADB JTL via EMIX
+197.243.49.0 197.243.63.255 AS37619 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37619  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+197.243.64.0 197.243.117.255 AS37228 SAVVIS JTL via EMIX
+197.243.118.0 197.243.119.255 AS37619 SAVVIS JTL via EMIX
+197.243.120.0 197.243.120.255 AS37228 SAVVIS JTL via EMIX
+197.243.121.0 197.243.122.255 AS37619 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37619  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+197.243.123.0 197.243.127.255 AS37228 SAVVIS JTL via EMIX
+197.243.128.0 197.243.255.255 AS37009 RADB MTC Netman customer IP pool
+197.244.32.0 197.244.47.255 AS197890 RIPE 197.244.32.0/20
+197.244.128.0 197.244.143.255 AS197890 RIPE 197.244.128.0/20
+197.245.0.0 197.245.255.255 AS11845 RADB Vox Telecom 1 Scott Street, Rutherford Estate, Block B Waverley, JHB, South Africa
+197.246.0.0 197.246.255.255 AS20928 RIPE NOOR More Specific RO
+197.247.0.0 197.247.31.255 AS37228 RIPE BSC First /19
+197.247.32.0 197.247.255.255 AS36925 RIPE Meditel
+197.248.0.0 197.248.255.255 AS37061 RIPE Safaricom Enterprise
+197.249.0.0 197.249.255.255 AS25139 RIPE TVCabo Mozambique Maputo Mozambique
+197.250.0.0 197.250.255.255 AS36908 RADB Proxy-registered route object
+197.251.0.0 197.251.127.255 AS37197 SAVVIS CANAR via EMIX
+197.251.128.0 197.251.255.255 AS29614 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS29614  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+197.252.0.0 197.252.255.255 AS15706 Ripe Sudan Telecom. Co. Ltd
+197.253.0.0 197.253.63.255 AS37282 RIPE Mainone Cable Company
+197.253.64.0 197.253.127.255 AS37313 RIPE Gov. of Ghana Network  eGhana 
+197.253.128.0 197.253.255.255 AS36925 RIPE Meditelcom LIR and ISP
+197.254.0.0 197.254.127.255 AS15808 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS15808  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+197.254.128.0 197.254.191.255 AS37057 RADB Proxy-registered route object
+197.254.192.0 197.254.192.255 AS33788 RADB CANAR
+197.254.193.0 197.254.193.255 AS22822 REACH REACH  Customer Route 
+197.254.194.0 197.254.223.255 AS33788 SAVVIS CANAR via EMIX
+197.254.224.0 197.254.224.255 AS36972 RADB MTN SD via Canar
+197.254.225.0 197.254.227.255 AS33788 SAVVIS CANAR via EMIX
+197.254.228.0 197.254.228.255 AS36998 RADB Zain Via Canar
+197.254.229.0 197.254.229.255 AS37211 SAVVIS CANAR via EMIX
+197.254.230.0 197.254.255.255 AS33788 SAVVIS CANAR via EMIX
+197.255.0.0 197.255.63.255 AS35074 RIPE Route Object
+197.255.64.0 197.255.127.255 AS37074 RIPE University of Ghana IP Block
+197.255.128.0 197.255.143.255 AS8657 RIPE CVMultimedia  announced by CPRMNET 
+197.255.144.0 197.255.151.255 AS15022 RADB Adept Internet  Stellenbosch 
+197.255.152.0 197.255.159.255 AS37497 RADB Adept Internet  Stellenbosch 
+197.255.160.0 197.255.175.255 AS37340 RIPE Spectranet Route Object
+197.255.176.0 197.255.191.255 AS37322 SAVVIS Batelco via EMIX
+197.255.208.0 197.255.223.255 AS37200 RADB This is a DiViNetworks customer route-object which is being exported under this origin AS37200  origin AS . This route object was created because no existing route object with the same origin was found. Please contact support@divinetworks.com if you have any questions regarding this object.
+197.255.224.0 197.255.239.255 AS36939 RIPE Comores Telecom
+197.255.240.0 197.255.243.255 AS37542 RIPE iclix
+197.255.244.0 197.255.247.255 AS37445 RADB Etranzact International Plc
+197.255.252.0 197.255.253.255 AS16637 RADB MTN Business
+197.255.254.0 197.255.254.255 AS44356 RADB epsilontel via EMIX
+197.255.255.0 197.255.255.255 AS37521 RIPE Route for NOVA ISN

@@ -1,0 +1,182 @@
+32.0.0.0 32.42.127.255 AS2686 RADB Proxy-registered route object
+32.42.128.0 32.42.143.255 AS2687 RADB AT&T
+32.42.144.0 32.42.159.255 AS5107 RADB ATT-GIDC-HONGKONG2
+32.42.160.0 32.42.167.255 AS7294 RADB ATT-GIDC-HONGKONG3
+32.42.168.0 32.42.175.255 AS3422 RADB ATT-GIDC-TOKYO3
+32.42.176.0 32.42.183.255 AS10770 RADB AT&T IDC Sydney
+32.42.184.0 32.58.255.255 AS2686 RADB Proxy-registered route object
+32.59.0.0 32.59.31.255 AS2688 NTTCOM Embratel Customer
+32.59.32.0 32.59.47.255 AS2686 RADB Proxy-registered route object
+32.59.48.0 32.59.51.255 AS2688 RADB Proxy-registered route object
+32.59.52.0 32.59.63.255 AS2686 RADB Proxy-registered route object
+32.59.64.0 32.59.79.255 AS28513 RADB ARGENTINA
+32.59.80.0 32.59.143.255 AS2686 RADB Proxy-registered route object
+32.59.144.0 32.59.159.255 AS2688 RADB Proxy-registered route object
+32.59.160.0 32.59.255.255 AS2686 RADB Proxy-registered route object
+32.60.0.0 32.60.4.255 AS1221 REACH REACH  Customer Route 
+32.60.5.0 32.60.7.255 AS19486 RADB To allow peers filtering on AS to accept this prefix AU
+32.60.8.0 32.60.20.255 AS1221 REACH REACH  Customer Route 
+32.60.21.0 32.60.23.255 AS19485 RADB To allow peers filtering on AS to accept this prefix JP
+32.60.24.0 32.60.48.255 AS1221 REACH REACH  Customer Route 
+32.60.49.0 32.60.49.255 AS2687 RADB Proxy-registered route object
+32.60.50.0 32.60.63.255 AS1221 REACH REACH  Customer Route 
+32.60.64.0 32.60.111.255 AS2685 GT Proxy-registered route object for GT
+32.60.112.0 32.65.223.255 AS2686 RADB Proxy-registered route object
+32.65.224.0 32.65.225.255 AS8030 RADB To allow peers filtering on AS to accept this prefix GB
+32.65.226.0 32.65.227.255 AS2686 RADB Proxy-registered route object
+32.65.228.0 32.65.231.255 AS8030 RADB To allow peers filtering on AS to accept this prefix NL
+32.65.232.0 32.94.94.255 AS2686 RADB Proxy-registered route object
+32.94.95.0 32.94.95.255 AS2688 NTTCOM Embratel Customer
+32.94.96.0 32.94.111.255 AS2686 RADB Proxy-registered route object
+32.94.112.0 32.94.127.255 AS2688 RADB Proxy-registered route object
+32.94.128.0 32.94.246.255 AS2686 RADB Proxy-registered route object
+32.94.247.0 32.94.247.255 AS2688 RADB Proxy-registered route object
+32.94.248.0 32.94.249.255 AS2686 RADB Proxy-registered route object
+32.94.250.0 32.94.251.255 AS2688 NTTCOM Embratel Customer
+32.94.252.0 32.94.252.255 AS2686 RADB Proxy-registered route object
+32.94.253.0 32.94.253.255 AS2688 NTTCOM Embratel Customer
+32.94.254.0 32.95.73.255 AS2686 RADB Proxy-registered route object
+32.95.74.0 32.95.74.255 AS3300 REACH REACH  Customer Route 
+32.95.75.0 32.96.42.255 AS2686 RADB Proxy-registered route object
+32.96.43.0 32.96.43.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+32.96.44.0 32.96.85.255 AS2686 RADB Proxy-registered route object
+32.96.86.0 32.96.86.255 AS12180 SAVVIS PNAP-MIA NCCI, Inc. Routes
+32.96.87.0 32.96.110.255 AS2686 RADB Proxy-registered route object
+32.96.111.0 32.96.111.255 AS19093 LEVEL3 IBM Schaumburg USF
+32.96.112.0 32.96.203.255 AS2686 RADB Proxy-registered route object
+32.96.204.0 32.96.204.255 AS2688 NTTCOM Embratel Customer
+32.96.205.0 32.96.217.255 AS2686 RADB Proxy-registered route object
+32.96.218.0 32.96.219.255 AS2688 SAVVIS Metrored and Customers Proxy registered route
+32.96.220.0 32.96.220.255 AS2686 RADB Proxy-registered route object
+32.96.221.0 32.96.221.255 AS2688 SAVVIS Metrored and Customers Proxy registered route
+32.96.222.0 32.96.223.255 AS2686 RADB Proxy-registered route object
+32.96.224.0 32.96.255.255 AS2685 GT Proxy-registered route object for GT
+32.97.0.0 32.97.16.255 AS2686 RADB Proxy-registered route object
+32.97.17.0 32.97.17.255 AS14904 LEVEL3 Proxy-registered route object
+32.97.18.0 32.97.34.255 AS2686 RADB Proxy-registered route object
+32.97.35.0 32.97.35.255 AS2688 NTTCOM Embratel Customer
+32.97.36.0 32.97.79.255 AS2686 RADB Proxy-registered route object
+32.97.80.0 32.97.87.255 AS19152 BELL IBM
+32.97.88.0 32.97.109.255 AS2686 RADB Proxy-registered route object
+32.97.110.0 32.97.110.255 AS3908 RADB Qwest Communications 950 17th Street Suite 1900 Denver, CO 80202
+32.97.111.0 32.97.135.255 AS2686 RADB Proxy-registered route object
+32.97.136.0 32.97.136.255 AS14904 LEVEL3 Proxy-registered route object
+32.97.137.0 32.97.151.255 AS2686 RADB Proxy-registered route object
+32.97.152.0 32.97.152.255 AS12180 SAVVIS PNAP-MIA NCCI, Inc. Routes
+32.97.153.0 32.97.154.255 AS2686 RADB Proxy-registered route object
+32.97.155.0 32.97.155.255 AS14904 LEVEL3 Proxy-registered route object
+32.97.156.0 32.97.158.255 AS2686 RADB Proxy-registered route object
+32.97.159.0 32.97.159.255 AS12180 SAVVIS PNAP-MIA NCCI, Inc. Routes
+32.97.160.0 32.97.166.255 AS2686 RADB Proxy-registered route object
+32.97.167.0 32.97.170.255 AS19093 LEVEL3 IBM Schaumburg USF
+32.97.171.0 32.97.181.255 AS2686 RADB Proxy-registered route object
+32.97.182.0 32.97.183.255 AS14912 LEVEL3 Proxy-registered route object
+32.97.184.0 32.97.184.255 AS2686 RADB Proxy-registered route object
+32.97.185.0 32.97.185.255 AS14912 LEVEL3 Proxy-registered route object
+32.97.186.0 32.97.197.255 AS2686 RADB Proxy-registered route object
+32.97.198.0 32.97.198.255 AS14904 LEVEL3 Proxy-registered route object
+32.97.199.0 32.97.201.255 AS2686 RADB Proxy-registered route object
+32.97.202.0 32.97.202.255 AS2688 NTTCOM Embratel Customer
+32.97.203.0 32.97.217.255 AS2686 RADB Proxy-registered route object
+32.97.218.0 32.97.218.255 AS2688 SAVVIS Metrored and Customers Proxy registered route
+32.97.219.0 32.97.224.255 AS2686 RADB Proxy-registered route object
+32.97.225.0 32.97.225.255 AS19093 LEVEL3 IBM Schaumburg USF
+32.97.226.0 32.97.239.255 AS2686 RADB Proxy-registered route object
+32.97.240.0 32.97.242.255 AS19093 LEVEL3 IBM Schaumburg USF
+32.97.243.0 32.97.251.255 AS2686 RADB Proxy-registered route object
+32.97.252.0 32.97.255.255 AS19093 LEVEL3 IBM Schaumburg USF
+32.98.0.0 32.99.255.255 AS2686 RADB Proxy-registered route object
+32.100.0.0 32.100.0.255 AS2688 NTTCOM Embratel Customer
+32.100.1.0 32.101.102.255 AS2686 RADB Proxy-registered route object
+32.101.103.0 32.101.103.255 AS2688 SAVVIS Metrored and Customers Proxy registered route
+32.101.104.0 32.101.133.255 AS2686 RADB Proxy-registered route object
+32.101.134.0 32.101.134.255 AS2688 SAVVIS Metrored and Customers Proxy registered route
+32.101.135.0 32.101.135.255 AS2685 GT Proxy-registered route object for GT
+32.101.136.0 32.101.185.255 AS2686 RADB Proxy-registered route object
+32.101.186.0 32.101.186.255 AS2688 NTTCOM Embratel Customer
+32.101.187.0 32.101.187.255 AS2686 RADB Proxy-registered route object
+32.101.188.0 32.101.193.255 AS2688 NTTCOM Embratel Customer
+32.101.194.0 32.101.213.255 AS2686 RADB Proxy-registered route object
+32.101.214.0 32.101.217.255 AS2688 NTTCOM Embratel Customer
+32.101.218.0 32.102.99.255 AS2686 RADB Proxy-registered route object
+32.102.100.0 32.102.101.255 AS2688 NTTCOM Embratel Customer
+32.102.102.0 32.102.102.255 AS2686 RADB Proxy-registered route object
+32.102.103.0 32.102.103.255 AS2688 NTTCOM Embratel Customer
+32.102.104.0 32.102.133.255 AS2686 RADB Proxy-registered route object
+32.102.134.0 32.102.141.255 AS2685 GT Proxy-registered route object for GT
+32.102.142.0 32.104.4.255 AS2686 RADB Proxy-registered route object
+32.104.5.0 32.104.5.255 AS2688 NTTCOM Embratel Customer
+32.104.6.0 32.104.12.255 AS2686 RADB Proxy-registered route object
+32.104.13.0 32.104.13.255 AS2688 NTTCOM Embratel Customer
+32.104.14.0 32.104.15.255 AS2686 RADB Proxy-registered route object
+32.104.16.0 32.104.17.255 AS28513 RADB ARGENTINA
+32.104.18.0 32.104.18.255 AS2688 NTTCOM Embratel Customer
+32.104.19.0 32.104.64.255 AS2686 RADB Proxy-registered route object
+32.104.65.0 32.104.65.255 AS28513 RADB ARGENTINA
+32.104.66.0 32.104.66.255 AS2686 RADB Proxy-registered route object
+32.104.67.0 32.104.69.255 AS2688 NTTCOM Embratel Customer
+32.104.70.0 32.104.71.255 AS2686 RADB Proxy-registered route object
+32.104.72.0 32.104.74.255 AS2688 NTTCOM Embratel Customer
+32.104.75.0 32.104.77.255 AS2686 RADB Proxy-registered route object
+32.104.78.0 32.104.78.255 AS2688 NTTCOM Embratel Customer
+32.104.79.0 32.104.80.255 AS2686 RADB Proxy-registered route object
+32.104.81.0 32.104.84.255 AS2688 SAVVIS Metrored and Customers Proxy registered route
+32.104.85.0 32.104.86.255 AS2686 RADB Proxy-registered route object
+32.104.87.0 32.104.87.255 AS2688 NTTCOM Embratel Customer
+32.104.88.0 32.105.0.255 AS2686 RADB Proxy-registered route object
+32.105.1.0 32.105.10.255 AS2688 NTTCOM Embratel Customer
+32.105.11.0 32.105.43.255 AS2686 RADB Proxy-registered route object
+32.105.44.0 32.105.47.255 AS2688 RADB Proxy-registered route object
+32.105.48.0 32.105.56.255 AS2686 RADB Proxy-registered route object
+32.105.57.0 32.105.57.255 AS2688 SAVVIS Metrored and Customers Proxy registered route
+32.105.58.0 32.105.62.255 AS2686 RADB Proxy-registered route object
+32.105.63.0 32.105.63.255 AS28513 RADB ARGENTINA
+32.105.64.0 32.107.13.255 AS2686 RADB Proxy-registered route object
+32.107.14.0 32.107.14.255 AS1221 REACH REACH  Customer Route 
+32.107.15.0 32.107.53.255 AS2686 RADB Proxy-registered route object
+32.107.54.0 32.107.54.255 AS2687 RADB AT&T Global Network Services
+32.107.55.0 32.107.62.255 AS2686 RADB Proxy-registered route object
+32.107.63.0 32.107.63.255 AS2685 GT Proxy-registered route object for GT
+32.107.64.0 32.107.105.255 AS2686 RADB Proxy-registered route object
+32.107.106.0 32.107.106.255 AS2687 RADB AT&T Australia Ltd
+32.107.107.0 32.112.43.255 AS2686 RADB Proxy-registered route object
+32.112.44.0 32.112.45.255 AS4466 RIPE AT&T iDNS EMEA 1 For routing issues: noc@intl.att.com
+32.112.46.0 32.113.255.255 AS2686 RADB Proxy-registered route object
+32.114.0.0 32.114.21.255 AS1221 REACH REACH  Customer Route 
+32.114.22.0 32.114.23.255 AS4466 RIPE AT&T iDNS AP 1 For routing issues: noc@intl.att.com
+32.114.24.0 32.114.255.255 AS1221 REACH REACH  Customer Route 
+32.115.0.0 32.115.7.255 AS2686 RADB Proxy-registered route object
+32.115.8.0 32.115.8.255 AS28513 RADB ARGENTINA
+32.115.9.0 32.115.63.255 AS2686 RADB Proxy-registered route object
+32.115.64.0 32.115.127.255 AS2685 GT Proxy-registered route object for GT
+32.115.128.0 32.118.39.255 AS2686 RADB Proxy-registered route object
+32.118.40.0 32.118.47.255 AS2687 RADB VSNL Route Object
+32.118.48.0 32.127.255.255 AS2686 RADB Proxy-registered route object
+32.128.0.0 32.179.255.255 AS20057 LEVEL3 An AT&T Mobility Network
+32.180.0.0 32.207.255.255 AS2686 RADB Proxy-registered route object
+32.208.0.0 32.223.255.255 AS46690 RADB Frontier Communications  ARIN OrgID: FRTR 
+32.224.0.0 32.227.18.255 AS2686 RADB Proxy-registered route object
+32.227.19.0 32.227.20.255 AS2688 NTTCOM Embratel Customer
+32.227.21.0 32.227.22.255 AS2686 RADB Proxy-registered route object
+32.227.23.0 32.227.23.255 AS2688 NTTCOM Embratel Customer
+32.227.24.0 32.227.25.255 AS2686 RADB Proxy-registered route object
+32.227.26.0 32.227.27.255 AS2688 NTTCOM Embratel Customer
+32.227.28.0 32.230.255.255 AS2686 RADB Proxy-registered route object
+32.231.0.0 32.231.0.255 AS2688 NTTCOM Embratel Customer
+32.231.1.0 32.231.1.255 AS2686 RADB Proxy-registered route object
+32.231.2.0 32.231.16.255 AS2688 NTTCOM Embratel Customer
+32.231.17.0 32.231.17.255 AS2686 RADB Proxy-registered route object
+32.231.18.0 32.231.20.255 AS2688 NTTCOM Embratel Customer
+32.231.21.0 32.231.43.255 AS2686 RADB Proxy-registered route object
+32.231.44.0 32.231.47.255 AS2688 RADB Proxy-registered route object
+32.231.48.0 32.231.62.255 AS2686 RADB Proxy-registered route object
+32.231.63.0 32.231.63.255 AS28513 RADB ARGENTINA
+32.231.64.0 32.231.64.255 AS2686 RADB Proxy-registered route object
+32.231.65.0 32.231.68.255 AS2688 SAVVIS Metrored and Customers Proxy registered route
+32.231.69.0 32.231.237.255 AS2686 RADB Proxy-registered route object
+32.231.238.0 32.231.238.255 AS2688 SAVVIS Metrored and Customers Proxy registered route
+32.231.239.0 32.231.249.255 AS2686 RADB Proxy-registered route object
+32.231.250.0 32.231.254.255 AS2688 NTTCOM Embratel Customer
+32.231.255.0 32.248.250.255 AS2686 RADB Proxy-registered route object
+32.248.251.0 32.248.251.255 AS278 RADB Proxy-registered route object
+32.248.252.0 32.255.255.255 AS2686 RADB Proxy-registered route object
